@@ -670,6 +670,9 @@ function generateSummary() {
   text += '\n';
 
   openModal('📋 '+formatDateCN(currentDate)+' 汇总报告', text);
+  // 自动复制到剪贴板并提示导出成功
+  copySummary();
+  showToast('✔ 汇总已导出到剪贴板，可直接粘贴发送');
 }
 
 function openModal(title, content) {
