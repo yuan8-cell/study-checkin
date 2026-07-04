@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>学习打卡</title>
+<style>
+:root{--primary:#1677FF;--primary-dark:#0958D9;--primary-light:#E6F0FF;--success:#00B96B;--success-light:#F6FFED;--warning:#FA8C16;--warning-light:#FFF7E6;--danger:#FF4D4F;--danger-light:#FFF1F0;--bg:#F5F7FA;--card:#FFF;--text:#1A1A1A;--sub:#666;--muted:#999;--border:#E8E8E8;--border-light:#F0F0F0;--radius:12px;--shadow:0 2px 12px rgba(0,0,0,.06)}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased;min-height:100vh}
+.header{background:linear-gradient(135deg,#1677FF,#4096FF);color:#FFF;padding:14px 16px 10px;position:sticky;top:0;z-index:100;box-shadow:0 2px 8px rgba(22,119,255,.2)}
+.header-title{font-size:18px;font-weight:700;margin-bottom:10px}
+.role-switch{display:flex;gap:4px;background:rgba(255,255,255,.2);border-radius:8px;padding:3px;width:fit-content}
+.role-btn{padding:6px 14px;border-radius:6px;font-size:13px;font-weight:500;cursor:pointer;border:none;background:transparent;color:rgba(255,255,255,.8);transition:all .2s}
+.role-btn.active{background:#FFF;color:var(--primary);font-weight:600}
+.date-bar{display:flex;align-items:center;gap:10px;background:var(--card);border-radius:var(--radius);padding:10px 16px;margin:12px;box-shadow:var(--shadow)}
+.date-nav{width:34px;height:34px;border-radius:50%;border:none;background:var(--primary-light);color:var(--primary);font-size:20px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:transform .1s}
+.date-nav:active{transform:scale(.9)}
+.date-display{text-align:center;flex:1}
+.date-display .date-main{font-size:16px;font-weight:600}
+.date-display .date-sub{font-size:12px;color:var(--muted)}
+.container{padding:0 12px 100px;max-width:720px;margin:0 auto}
+.name-bar,.teacher-bar{display:flex;align-items:center;gap:10px;background:var(--card);border-radius:var(--radius);padding:10px 16px;margin:12px;box-shadow:var(--shadow)}
+.name-bar .name-label,.teacher-bar .teacher-label{font-size:14px;color:var(--sub);white-space:nowrap}
+.name-bar input,.teacher-bar input{flex:1;border:1.5px solid var(--border);border-radius:8px;padding:8px 12px;font-size:15px;background:var(--bg);color:var(--text);outline:none;transition:border-color .2s}
+.name-bar input:focus,.teacher-bar input:focus{border-color:var(--primary);background:#FFF}
+.session-block{background:var(--card);border-radius:var(--radius);margin:12px;box-shadow:var(--shadow);overflow:hidden}
+.session-header{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid var(--border-light)}
+.session-header-left{display:flex;align-items:center;gap:10px}
+.session-icon{width:36px;height:36px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px}
+.session-icon.morning{background:linear-gradient(135deg,#FFF7E6,#FFE7BA)}
+.session-icon.afternoon{background:linear-gradient(135deg,#FFF1F0,#FFCCC7)}
+.session-icon.evening{background:linear-gradient(135deg,#F0F5FF,#D6E4FF)}
+.session-title{font-size:16px;font-weight:600}
+.add-btn{padding:5px 14px;border:1.5px solid var(--primary);border-radius:6px;background:var(--primary-light);color:var(--primary-dark);font-size:13px;font-weight:600;cursor:pointer;transition:all .2s}
+.add-btn:active{transform:scale(.96)}
+.project-item{background:var(--bg);margin:12px;border-radius:10px;padding:14px;border:1.5px solid var(--border-light)}
+.project-item:not(:first-child){margin-top:8px}
+.project-item-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.project-num{font-size:14px;font-weight:700;color:var(--primary)}
+.del-btn{font-size:13px;cursor:pointer;opacity:.5;background:none;border:none;color:var(--danger);padding:2px 6px;transition:opacity .15s}
+.del-btn:hover{opacity:1}
+.time-row{display:flex;align-items:center;gap:8px;background:#FFF;border-radius:8px;padding:8px 12px;margin-bottom:12px}
+.time-row .tl{font-size:13px;color:var(--sub);white-space:nowrap;font-weight:500}
+.time-row input[type=time]{border:1.5px solid var(--border);border-radius:6px;padding:5px 8px;font-size:14px;color:var(--text);background:#FFF;flex:1;min-width:0;outline:none}
+.time-row input[type=time]:focus{border-color:var(--primary)}
+.time-arrow{color:var(--muted);font-size:13px}
+.time-dur{font-size:13px;color:var(--primary);font-weight:600;white-space:nowrap;min-width:55px;text-align:right}
+.form-field{margin-bottom:12px}
+.form-field:last-child{margin-bottom:0}
+.field-label{font-size:13px;font-weight:600;color:var(--sub);margin-bottom:5px;display:flex;align-items:center;gap:4px}
+.field-label .req{color:var(--danger);font-size:11px}
+textarea{width:100%;border:1.5px solid var(--border);border-radius:8px;padding:8px 12px;font-size:14px;color:var(--text);background:var(--bg);resize:vertical;min-height:65px;line-height:1.5;font-family:inherit;outline:none;transition:border-color .2s}
+textarea:focus{border-color:var(--primary);background:#FFF}
+.subjects{display:flex;flex-wrap:wrap;gap:7px}
+.sub-tag{padding:5px 13px;border:1.5px solid var(--border);border-radius:20px;background:var(--bg);font-size:13px;color:var(--sub);cursor:pointer;transition:all .2s;user-select:none}
+.sub-tag.active{border-color:var(--primary);background:var(--primary-light);color:var(--primary-dark);font-weight:600}
+.sub-tag:active{transform:scale(.95)}
+.ratings{display:flex;gap:10px}
+.rating-btn{flex:1;padding:12px 6px;border:1.5px solid var(--border);border-radius:14px;background:var(--card);font-size:14px;color:var(--sub);cursor:pointer;transition:all .25s;text-align:center;font-weight:500;display:flex;flex-direction:column;align-items:center;gap:4px;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+.rating-btn:hover{border-color:var(--primary-light);background:var(--bg)}
+.rating-btn.active{border-color:var(--primary);background:linear-gradient(135deg,#16A4FF,#40C6FF);color:#FFF;font-weight:600;box-shadow:0 6px 20px rgba(22,119,255,.35);transform:translateY(-2px)}
+.rating-btn:active{transform:scale(.92) translateY(0);box-shadow:0 2px 8px rgba(22,119,255,.2);background:linear-gradient(135deg,#0D5BB5,#1A7FE0)}
+.rating-btn .rating-icon{font-size:22px;line-height:1}
+.empty-msg{text-align:center;padding:28px;color:var(--muted);font-size:14px}
+.bottom-bar{position:fixed;bottom:0;left:0;right:0;background:#FFF;border-top:1px solid var(--border-light);padding:10px 16px;display:none;gap:10px;z-index:100;box-shadow:0 -2px 12px rgba(0,0,0,.06);max-width:720px;margin:0 auto}
+#bottomBar .btn{flex:1;height:44px;border-radius:10px;border:none;font-size:14px;font-weight:600;cursor:pointer;transition:all .15s;display:flex;align-items:center;justify-content:center;gap:6px}
+.btn:active{transform:scale(.97)}
+.btn-outline{background:var(--bg);color:var(--text);border:1.5px solid var(--border)}
+.btn-primary{background:var(--primary);color:#FFF}
+.btn-primary:disabled{background:#CCC;color:#FFF;cursor:not-allowed}
+.btn-success{background:var(--success);color:#FFF}
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:200;display:none;align-items:flex-end;justify-content:center}
+.modal-overlay.show{display:flex}
+.modal{background:#FFF;border-radius:20px 20px 0 0;width:100%;max-width:720px;max-height:85vh;display:flex;flex-direction:column;animation:slideUp .3s ease}
+@keyframes slideUp{from{transform:translateY(100%)}to{transform:translateY(0)}}
+.modal-header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--border-light)}
+.modal-title{font-size:18px;font-weight:700}
+.modal-close{width:32px;height:32px;border-radius:50%;border:none;background:var(--bg);color:var(--muted);font-size:18px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.modal-body{flex:1;overflow-y:auto;padding:16px 20px}
+.preview{background:var(--bg);border-radius:var(--radius);padding:14px;font-size:14px;line-height:1.8;color:var(--text);white-space:pre-wrap;word-break:break-all;border:1px solid var(--border-light);font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif}
+.modal-footer{padding:12px 20px;border-top:1px solid var(--border-light);display:flex;gap:10px}
+.modal-footer .btn{flex:1;height:44px;border-radius:10px;border:none;font-size:14px;font-weight:600;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:6px}
+.modal-footer .btn:active{transform:scale(.97)}
+.toast{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,.75);color:#FFF;padding:12px 24px;border-radius:10px;font-size:15px;z-index:300;opacity:0;transition:opacity .25s;pointer-events:none;white-space:nowrap}
+.toast.show{opacity:1}
+.stat-bar{display:flex;gap:10px;margin:12px}
+.stat-chip{flex:1;background:var(--card);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow);text-align:center}
+.stat-val{font-size:24px;font-weight:700;color:var(--primary)}
+.stat-val.green{color:var(--success)}
+.stat-lbl{font-size:12px;color:var(--muted);margin-top:3px}
+.member-list{display:flex;flex-direction:column;gap:10px;margin:12px}
+.member-card{background:var(--card);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow)}
+.member-card.done{border:2px solid var(--success)}
+.member-card.partial{border:2px solid var(--warning)}
+.member-card.empty{border:2px solid var(--border-light)}
+.member-top{display:flex;align-items:center;justify-content:space-between}
+.member-name{font-size:16px;font-weight:700}
+.badge{padding:2px 10px;border-radius:12px;font-size:12px;font-weight:600}
+.badge.done,.badge.complete{background:var(--success-light);color:var(--success)}
+.badge.partial{background:var(--warning-light);color:var(--warning)}
+.badge.empty{background:var(--danger-light);color:var(--danger)}
+.member-detail{margin-top:10px;padding-top:10px;border-top:1px solid var(--border-light)}
+.detail-session{background:var(--bg);border-radius:8px;padding:10px 12px;margin-bottom:8px}
+.detail-session-title{font-size:13px;font-weight:600;color:var(--primary);margin-bottom:4px}
+.detail-row{font-size:13px;color:var(--sub);line-height:1.6;margin-bottom:2px}
+.detail-row span{color:var(--text)}
+.history-list{display:flex;flex-direction:column;gap:10px;margin:12px}
+.history-item{background:var(--card);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow);cursor:pointer;transition:all .15s}
+.history-item:active{transform:scale(.98)}
+.history-top{display:flex;align-items:center;justify-content:space-between}
+.history-date{font-size:16px;font-weight:700}
+.history-sessions{display:flex;gap:6px;margin-top:6px}
+.history-dot{width:10px;height:10px;border-radius:50%;background:var(--border)}
+.history-dot.active{background:var(--success)}
+.history-summary{font-size:13px;color:var(--sub);margin-top:6px;line-height:1.5;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.empty-state{text-align:center;padding:60px 20px;color:var(--muted)}
+.empty-state .empty-icon{font-size:48px;margin-bottom:12px}
+.empty-state .empty-text{font-size:15px}
+.data-actions{display:flex;gap:8px;margin:12px}
+.data-btn{flex:1;padding:10px;border:1.5px solid var(--border);border-radius:8px;background:var(--card);font-size:13px;color:var(--sub);cursor:pointer;display:flex;align-items:center;justify-content:center;gap:6px;box-shadow:var(--shadow);transition:all .2s}
+.data-btn:active{transform:scale(.97)}
+.data-btn.import{border-color:var(--primary);color:var(--primary)}
+@media(max-width:480px){.header-title{font-size:16px}.role-btn{padding:5px 10px;font-size:12px}}</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-title">&#128218; 学习打卡</div>
+  <div class="role-switch">
+    <button class="role-btn active" id="roleParent" onclick="switchRole('parent')">&#128104;&#8205;&#128109;&#128100; 家长填报</button>
+    <button class="role-btn" id="roleLeader" onclick="switchRole('leader')">&#128105;&#8205;&#127891; 组长汇总</button>
+  </div>
+</div>
+<div class="date-bar">
+  <button class="date-nav" onclick="changeDate(-1)">&lsaquo;</button>
+  <div class="date-display">
+    <div class="date-main" id="dateMain"></div>
+    <div class="date-sub" id="dateSub"></div>
+  </div>
+  <button class="date-nav" onclick="changeDate(1)">&rsaquo;</button>
+</div>
+<div class="container" id="mainContainer"></div>
+<div class="bottom-bar" id="bottomBar"></div>
+<div class="modal-overlay" id="summaryModal">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="modal-title" id="modalTitle">&#128220; 汇总报告</div>
+      <button class="modal-close" onclick="closeModal()">&#10005;</button>
+    </div>
+    <div class="modal-body"><pre class="preview" id="summaryPreview"></pre></div>
+    <div class="modal-footer">
+      <button class="btn btn-outline" onclick="copySummary()">&#128203; 复制全文</button>
+      <button class="btn btn-primary" onclick="sendToTeacher()">&#128225; 转发班主任</button>
+    </div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+<input type="file" id="importInput" accept=".json" style="display:none" onchange="handleImport(event)">
+<script>
+// ==== Constants =====
+// 科目：语文、数学、英语、科学、文综
+var SUBJECTS = ['语文','数学','英语','科学','文综'];
+var SESSIONS = [
+  {key:'morning',label:'上午',icon:'🌅'},
+  {key:'afternoon',label:'下午',icon:'☀️'},
+  {key:'evening',label:'晚上',icon:'🌙'}
+];
+var RATINGS = [
+  {value:'great', label:'很好', icon:'🌟'},
+  {value:'good',  label:'还行', icon:'👍'},
+  {value:'normal',label:'一般', icon:'📖'}
+];
+var RATING_MAP = {great:'很好',good:'还行',normal:'一般'};
+
+// ===== State =====
+var currentRole = 'parent';
+var currentTab = 'checkin';
+var currentDate = formatDate(new Date());
+var formData = null;
+
+// ===== Utils =====
+function formatDate(d) {
+  var y = d.getFullYear();
+  var m = String(d.getMonth() + 1).padStart(2,'0');
+  var day = String(d.getDate()).padStart(2,'0');
+  return y + '-' + m + '-' + day;
+}
+function formatDateCN(d) {
+  var parts = d.split('-');
+  return parseInt(parts[1],10) + '月' + parseInt(parts[2],10) + '日';
+}
+function calcMins(s,e) {
+  if (!s || !e) return 0;
+  var ps = s.split(':'), pe = e.split(':');
+  return (parseInt(pe[0],10)*60+parseInt(pe[1],10))-(parseInt(ps[0],10)*60+parseInt(ps[1],10));
+}
+function calcDuration(s,e) {
+  var m = calcMins(s,e);
+  if (m <= 0) return '';
+  var h = Math.floor(m/60), min = m%60;
+  return (h>0?h+'小时':'')+(min>0?min+'分':'');
+}
+function showToast(msg) {
+  var t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  setTimeout(function(){t.classList.remove('show');},2200);
+}
+function esc(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ===== Data Storage =====
+function getStorageKey(date) { return 'studyCheckin_'+date; }
+function getGroupKey(date,name) { return 'group_'+date+'_'+name; }
+function createEmpty(date) {
+  var data = {date:date,studentName:'',sessions:{}};
+  SESSIONS.forEach(function(s){ data.sessions[s.key]=[]; });
+  return data;
+}
+function loadData(date) {
+  var raw = localStorage.getItem(getStorageKey(date));
+  if (raw) { try { var d=JSON.parse(raw);
+    SESSIONS.forEach(function(s){ if(!d.sessions[s.key]||!Array.isArray(d.sessions[s.key])) d.sessions[s.key]=[]; });
+    return d;
+  } catch(e){} }
+  return createEmpty(date);
+}
+function saveData() {
+  var name = localStorage.getItem('studentName')||'';
+  formData.studentName = name;
+  localStorage.setItem(getStorageKey(currentDate), JSON.stringify(formData));
+}
+function updateGroupIndex(date,studentName) {
+  var raw = localStorage.getItem('groupIndex');
+  var idx = raw?JSON.parse(raw):[];
+  var exists = false;
+  for(var i=0;i<idx.length;i++) if(idx[i].date===date&&idx[i].studentName===studentName){exists=true; break;}
+  if(!exists){ idx.push({date:date,studentName:studentName}); localStorage.setItem('groupIndex',JSON.stringify(idx)); }
+}
+function getGroupSubmissions(date) {
+  var results = [], raw = localStorage.getItem('groupIndex');
+  if(!raw) return results;
+  var idx = JSON.parse(raw);
+  for(var i=0;i<idx.length;i++){
+    if(idx[i].date===date){
+      var dataRaw = localStorage.getItem(getGroupKey(idx[i].date,idx[i].studentName));
+      if(dataRaw) results.push(JSON.parse(dataRaw));
+    }
+  }
+  return results;
+}// ===== Role & Navigation =====
+function switchRole(role) {
+  currentRole = role;
+  document.getElementById('roleParent').classList.toggle('active',role==='parent');
+  document.getElementById('roleLeader').classList.toggle('active',role==='leader');
+  currentTab = (role==='parent')?'checkin':'collect';
+  renderCurrentPage();
+}
+function renderCurrentPage() {
+  if(currentRole==='parent'){
+    if(currentTab==='checkin') renderCheckinPage();
+    else renderHistoryPage();
+  } else {
+    if(currentTab==='collect') renderCollectPage();
+    else renderCollectHistoryPage();
+  }
+}
+function changeDate(delta) {
+  var d = new Date(currentDate);
+  d.setDate(d.getDate()+delta);
+  currentDate = formatDate(d);
+  updateDateDisplay();
+  renderCurrentPage();
+}
+function updateDateDisplay() {
+  document.getElementById('dateMain').textContent = formatDateCN(currentDate);
+  document.getElementById('dateSub').textContent = currentDate;
+}
+
+// ===== Helpers =====
+function isProjectFilled(p) {
+  return !!(p.plan||p.completion||p.notes||p.startTime||p.endTime||(p.subjects&&p.subjects.length>0)||p.rating);
+}
+function countFilledSession(sessions) {
+  var cnt = 0;
+  sessions.forEach(function(p){ if(isProjectFilled(p)) cnt++; });
+  return cnt;
+}
+function sessionBadgeClass(sessions) {
+  var n = countFilledSession(sessions);
+  if(n===0) return 'empty';
+  var totalFilled = SESSIONS.reduce(function(a,s){ return a+countFilledSession(formData.sessions[s.key]||[]); },0);
+  if(totalFilled>=3) return 'complete';
+  return 'partial';
+}// ===== Parent: Checkin Page =====
+function renderCheckinPage() {
+  formData = loadData(currentDate);
+  var bb = document.getElementById('bottomBar');
+  var container = document.getElementById('mainContainer');
+  var html = '';
+  html += '<div class="name-bar"><span class="name-label">👤 学生</span>';
+  html += '<input type="text" placeholder="请输入姓名" value="'+esc(formData.studentName||localStorage.getItem('studentName')||'')+'" oninput="onStudentName(this.value)"></div>';
+
+  SESSIONS.forEach(function(s){
+    var items = formData.sessions[s.key]||[];
+    html += '<div class="session-block"><div class="session-header"><div class="session-header-left"><div class="session-icon '+s.key+'">'+s.icon+'</div><div class="session-title">'+s.label+'</div></div><button class="add-btn" onclick="addProject(\''+s.key+'\')">➕ 添加项目</button></div>';
+    if(items.length===0){
+      html += '<div class="empty-msg">暂无项目，点击「➕ 添加项目」开始填报</div>';
+    } else {
+      items.forEach(function(item, idx){
+        html += renderProjectItem(s.key, idx, item);
+      });
+    }
+    html += '</div>';
+  });
+
+  container.innerHTML = html;
+
+  var totalFilled = SESSIONS.reduce(function(a,s){ return a+countFilledSession(formData.sessions[s.key]||[]); },0);
+  bb.innerHTML = '<button class="btn btn-outline" onclick="saveDraft()">💾 保存草稿</button>' +
+    '<button class="btn btn-success"'+(totalFilled>0?'':' disabled')+' onclick="submitCheckin()">✔ 提交打卡</button>';
+  bb.style.display = 'flex';
+}
+
+function renderProjectItem(sessionKey, idx, item) {
+  var dur = calcDuration(item.startTime, item.endTime);
+  var canDelete = (formData.sessions[sessionKey]||[]).length > 1;
+  var html = '<div class="project-item" id="proj_'+sessionKey+'_'+idx+'">';
+  html += '<div class="project-item-header"><span class="project-num">#'+(idx+1)+'</span>';
+  if(canDelete) html += '<button class="del-btn" onclick="removeProject(\''+sessionKey+'\','+idx+')">🗑 删除</button>';
+  html += '</div>';
+  html += '<div class="time-row"><span class="tl">⏰</span>';
+  html += '<input type="time" value="'+(item.startTime||'')+'" onchange="updateProject(\''+sessionKey+'\','+idx+',\'startTime\',this.value)">';
+  html += '<span class="time-arrow">→</span>';
+  html += '<input type="time" value="'+(item.endTime||'')+'" onchange="updateProject(\''+sessionKey+'\','+idx+',\'endTime\',this.value)">';
+  html += '<span class="time-dur" id="dur_'+sessionKey+'_'+idx+'">'+(dur||'未填时间')+'</span></div>';
+  html += '<div class="form-field"><div class="field-label">📝 学习计划 <span class="req">*</span></div>';
+  html += '<textarea placeholder="如：完成数学第3章习题集…" onchange="updateProject(\''+sessionKey+'\','+idx+',\'plan\',this.value)">'+esc(item.plan||'')+'</textarea></div>';
+  html += '<div class="form-field"><div class="field-label">📚 涉及科目</div><div class="subjects">';
+  SUBJECTS.forEach(function(sub){
+    var active = item.subjects&&item.subjects.indexOf(sub)>=0;
+    html += '<span class="sub-tag'+(active?' active':'')+'" onclick="toggleSubject(\''+sessionKey+'\','+idx+',\''+sub+'\')">'+sub+'</span>';
+  });
+  html += '</div></div>';
+  html += '<div class="form-field"><div class="field-label">✅ 完成情况</div>';
+  html += '<textarea placeholder="如：完成80%…" onchange="updateProject(\''+sessionKey+'\','+idx+',\'completion\',this.value)">'+esc(item.completion||'')+'</textarea></div>';
+  html += '<div class="form-field"><div class="field-label">💡 学习效果</div><div class="ratings">';
+  RATINGS.forEach(function(r){
+    html += '<button class="rating-btn'+(item.rating===r.value?' active':'')+'" onclick="updateProject(\''+sessionKey+'\','+idx+',\'rating\',\''+r.value+'\')">';
+    html += '<span class="rating-icon">'+r.icon+'</span>';
+    html += '<span>'+r.label+'</span>';
+    html += '</button>';
+  });
+  html += '</div></div>';
+  html += '<div class="form-field"><div class="field-label">💬 备注</div>';
+  html += '<textarea placeholder="遇到的问题或心得…" onchange="updateProject(\''+sessionKey+'\','+idx+',\'notes\',this.value)">'+esc(item.notes||'')+'</textarea></div>';
+  html += '</div>';
+  return html;
+}
+
+function addProject(sessionKey) {
+  if(!formData.sessions[sessionKey]) formData.sessions[sessionKey]=[];
+  formData.sessions[sessionKey].push({startTime:'',endTime:'',plan:'',subjects:[],completion:'',rating:'',notes:''});
+  saveData(); renderCheckinPage();
+}
+function removeProject(sessionKey, idx) {
+  formData.sessions[sessionKey].splice(idx,1);
+  saveData(); renderCheckinPage();
+}
+function updateProject(sessionKey, idx, field, value) {
+  var items = formData.sessions[sessionKey];
+  if(!items||!items[idx]) return;
+  items[idx][field]=value;
+  saveData();
+  if(field==='startTime'||field==='endTime'){
+    var el = document.getElementById('dur_'+sessionKey+'_'+idx);
+    if(el) el.textContent = calcDuration(items[idx].startTime, items[idx].endTime)||'未填时间';
+  }
+}
+function toggleSubject(sessionKey, idx, sub) {
+  var item = formData.sessions[sessionKey][idx];
+  if(!item.subjects) item.subjects=[];
+  var i=item.subjects.indexOf(sub);
+  if(i>=0) item.subjects.splice(i,1); else item.subjects.push(sub);
+  saveData();
+  var tags = document.querySelectorAll('#proj_'+sessionKey+'_'+idx+' .sub-tag');
+  tags.forEach(function(t){ if(t.textContent===sub) t.classList.toggle('active',item.subjects.indexOf(sub)>=0); });
+}
+function onStudentName(val) { localStorage.setItem('studentName',val); }
+function saveDraft() { saveData(); showToast('✔ 草稿已保存'); }
+function submitCheckin() {
+  var name = localStorage.getItem('studentName')||'';
+  if(!name||!name.trim()){showToast('⚠ 请先填写学生姓名');return;}
+  var totalFilled = SESSIONS.reduce(function(a,s){ return a+countFilledSession(formData.sessions[s.key]||[]); },0);
+  if(totalFilled===0){showToast('⚠ 请至少填写一个时间段');return;}
+  saveData();
+  localStorage.setItem(getGroupKey(currentDate,name), JSON.stringify(formData));
+  updateGroupIndex(currentDate, name);
+  showToast('✔ 打卡已提交到群共享！');
+  renderCheckinPage();
+}// ===== Parent: History Page =====
+function renderHistoryPage() {
+  renderHeader();
+  var bb = document.getElementById('bottomBar');
+  bb.style.display = 'none';
+  var container = document.getElementById('mainContainer');
+  var html = '';
+  html += '<div class="data-actions">';
+  html += '<button class="data-btn import" onclick="document.getElementById(\'importInput\').click()">📥 导入数据</button>';
+  html += '<button class="data-btn" onclick="exportMyData()">📤 导出数据</button></div>';
+  
+  var dates = [];
+  for(var k in localStorage){ var m=k.match(/^studyCheckin_(\\d{4}-\\d{2}-\\d{2})$/); if(m&&dates.indexOf(m[1])<0) dates.push(m[1]); }
+  dates.sort().reverse();
+  
+  if(dates.length===0){
+    html += '<div class="empty-state"><div class="empty-icon">📅</div><div class="empty-text">暂无历史记录</div></div>';
+  } else {
+    html += '<div class="history-list">';
+    dates.forEach(function(d){
+      var raw = localStorage.getItem('studyCheckin_'+d);
+      var data = raw?JSON.parse(raw):null;
+      var fc = SESSIONS.reduce(function(a,s){ return a+countFilledSession((data&&data.sessions[s.key])||[]); },0);
+      var cls = fc===0?'empty':fc>=3?'complete':'partial';
+      var label = fc===0?'未打卡':fc>=3?'✔ 全部完成':fc+'/3 时段';
+      var summary = '';
+      if(data){
+        SESSIONS.forEach(function(s){
+          var items = data.sessions[s.key]||[];
+          items.forEach(function(item){
+            if(item.plan) summary += '['+s.label+']'+item.plan.substring(0,30)+' | ';
+          });
+        });
+      }
+      html += '<div class="history-item" onclick="viewHistory(\''+d+'\')">';
+      html += '<div class="history-top"><div class="history-date">'+formatDateCN(d)+'</div><span class="badge '+cls+'">'+label+'</span></div>';
+      if(fc>0){
+        html += '<div class="history-sessions">';
+        SESSIONS.forEach(function(s){
+          var has = (data&&data.sessions[s.key]&&countFilledSession(data.sessions[s.key])>0);
+          html += '<span class="history-dot'+(has?' active':'')+'"></span>';
+        });
+        html += '</div>';
+      }
+      if(summary) html += '<div class="history-summary">'+esc(summary.substring(0,80))+'</div>';
+      html += '</div>';
+    });
+    html += '</div>';
+  }
+  container.innerHTML = html;
+}
+
+function viewHistory(date) {
+  var raw = localStorage.getItem('studyCheckin_'+date);
+  var data = raw?JSON.parse(raw):null;
+  if(!data) return;
+  var text = '📅 ' + formatDateCN(date) + ' (' + date + ')\n';
+  text += '👤 ' + data.studentName + '\n\n';
+  SESSIONS.forEach(function(s){
+    var items = data.sessions[s.key]||[];
+    var filled = items.filter(isProjectFilled).length;
+    text += s.icon + ' ' + s.label + ' (' + filled + ' 个项目):\n';
+    items.forEach(function(item, idx){
+      if(!isProjectFilled(item)) return;
+      text += '  #' + (idx+1) + ' ';
+      if(item.startTime||item.endTime) text += calcDuration(item.startTime,item.endTime)+' ';
+      if(item.plan) text += '📝 '+item.plan.substring(0,40)+'\n     ';
+      if(item.subjects&&item.subjects.length>0) text += '📚 '+item.subjects.join('、')+' ';
+      if(item.rating) text += '💡 '+RATING_MAP[item.rating]+' ';
+      text += '\n';
+    });
+    text += '\n';
+  });
+  openModal(date+' 历史记录', text);
+}
+
+function exportMyData() {
+  var allData = {};
+  for(var k in localStorage){
+    var m = k.match(/^studyCheckin_(\\d{4}-\\d{2}-\\d{2})$/);
+    if(m){ allData[m[1]] = JSON.parse(localStorage.getItem(k)); }
+  }
+  var blob = new Blob([JSON.stringify(allData,null,2)],{type:'application/json'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement('a');
+  a.href = url; a.download = 'study_checkin_export.json'; a.click();
+  URL.revokeObjectURL(url);
+  showToast('✔ 数据已导出');
+}
+
+function handleImport(event) {
+  var file = event.target.files[0];
+  if(!file) return;
+  var reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      var data = JSON.parse(e.target.result);
+      for(var d in data){ localStorage.setItem('studyCheckin_'+d, JSON.stringify(data[d])); }
+      showToast('✔ 导入'+Object.keys(data).length+'天数据');
+      renderHistoryPage();
+    } catch(err){ showToast('⚠ 导入失败：文件格式错误'); }
+  };
+  reader.readAsText(file);
+  event.target.value = '';
+}// ===== Leader: Collect Page =====
+function renderCollectPage() {
+  renderHeader();
+  var bb = document.getElementById('bottomBar');
+  bb.style.display = 'none';
+  var container = document.getElementById('mainContainer');
+  var submissions = getGroupSubmissions(currentDate);
+  
+  var html = '';
+  // Stats
+  var totalStudents = submissions.length;
+  var totalSessions = 0, totalProjects = 0;
+  submissions.forEach(function(data){
+    SESSIONS.forEach(function(s){
+      var items = data.sessions[s.key]||[];
+      items.forEach(function(p){
+        if(isProjectFilled(p)) totalProjects++;
+      });
+      if(countFilledSession(items)>0) totalSessions++;
+    });
+  });
+  html += '<div class="stat-bar">';
+  html += '<div class="stat-chip"><div class="stat-val">'+totalStudents+'</div><div class="stat-lbl">已提交</div></div>';
+  html += '<div class="stat-chip"><div class="stat-val green">'+totalSessions+'</div><div class="stat-lbl">时段数</div></div>';
+  html += '<div class="stat-chip"><div class="stat-val">'+totalProjects+'</div><div class="stat-lbl">项目数</div></div></div>';
+
+  html += '<div class="data-actions">';
+  html += '<button class="data-btn import" onclick="document.getElementById(\'importInput\').click()">📥 导入数据</button>';
+  html += '<button class="data-btn" onclick="exportGroupData()">📤 导出汇总</button></div>';
+  html += '<div class="teacher-bar"><span class="teacher-label">👩‍🏫 班主任</span><input type="text" id="teacherInput" placeholder="输入班主任姓名" value="'+(localStorage.getItem('teacherName')||'')+'" oninput="localStorage.setItem(\'teacherName\',this.value)"></div>';
+
+  if(submissions.length===0){
+    html += '<div class="empty-state"><div class="empty-icon">📭</div><div class="empty-text">今日暂无家长提交打卡记录</div></div>';
+  } else {
+    html += '<div class="member-list">';
+    submissions.forEach(function(data, mi){
+      var fc = SESSIONS.reduce(function(a,s){ return a+countFilledSession(data.sessions[s.key]||[]); },0);
+      var cls = fc===0?'empty':fc>=3?'done':'partial';
+      var label = fc===0?'未打卡':fc>=3?'全部完成':'部分完成';
+      html += '<div class="member-card '+cls+'" id="member_'+mi+'">';
+      html += '<div class="member-top"><div class="member-name">👤 '+esc(data.studentName||'未知')+'</div><span class="badge '+cls+'">'+label+'</span></div>';
+      html += '<div class="member-detail">';
+      SESSIONS.forEach(function(s){
+        var items = data.sessions[s.key]||[];
+        var si = countFilledSession(items);
+        if(si===0) return;
+        html += '<div class="detail-session">';
+        html += '<div class="detail-session-title">'+s.icon+' '+s.label+' ('+si+'/'+items.length+'项)</div>';
+        items.forEach(function(item, idx){
+          if(!isProjectFilled(item)) return;
+          html += '<div class="detail-row">';
+          html += '#'+(idx+1)+' ';
+          if(item.startTime||item.endTime) html += calcDuration(item.startTime,item.endTime)+' ';
+          html += '<span>📝 '+esc(item.plan||'-')+'</span> ';
+          if(item.subjects&&item.subjects.length>0) html += '<span>📚 '+esc(item.subjects.join('、'))+'</span> ';
+          if(item.completion) html += '<span>✅ '+esc(item.completion)+'</span> ';
+          if(item.rating) html += '<span>💡 '+RATING_MAP[item.rating]+'</span>';
+          html += '</div>';
+        });
+        html += '</div>';
+      });
+      html += '</div></div>';
+    });
+    html += '</div>';
+  }
+
+  container.innerHTML = html;
+
+  if(submissions.length>0){
+    bb.innerHTML = '<button class="btn btn-primary" onclick="generateSummary()">📋 一键汇总</button>';
+    bb.style.display = 'flex';
+  }
+}
+
+function exportGroupData() {
+  var date = currentDate;
+  var submissions = getGroupSubmissions(date);
+  if(submissions.length===0){ showToast('⚠ 今日暂无数据可导出'); return; }
+  var blob = new Blob([JSON.stringify({date:date, submissions:submissions},null,2)],{type:'application/json'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement('a'); a.href=url; a.download='group_summary_'+date+'.json'; a.click();
+  URL.revokeObjectURL(url);
+  showToast('✔ 汇总已导出');
+}
+
+// ===== Summary & Modal =====
+function generateSummary() {
+  var submissions = getGroupSubmissions(currentDate);
+  if(submissions.length===0){ showToast('⚠ 暂无数据可汇总'); return; }
+  var teacher = localStorage.getItem('teacherName')||'';
+  var text = '';
+  text += '═══════════════════════════\n';
+  text += '  📚 ' + formatDateCN(currentDate) + ' 学习打卡汇总\n';
+  text += '═══════════════════════════\n\n';
+  
+  var totalStudents = submissions.length;
+  var totalSessions = 0, totalProjects = 0;
+  
+  submissions.forEach(function(data, idx){
+    var fc = SESSIONS.reduce(function(a,s){ return a+countFilledSession(data.sessions[s.key]||[]); },0);
+    text += '【' + (idx+1) + '】👤 ' + esc(data.studentName||'未知') + '\n';
+    text += '  时段完成: ';
+    SESSIONS.forEach(function(s){
+      var si = countFilledSession(data.sessions[s.key]||[]);
+      text += s.icon+'='+si+' ';
+      if(si>0) totalSessions++;
+    });
+    text += '\n';
+    SESSIONS.forEach(function(s){
+      var items = data.sessions[s.key]||[];
+      var si = countFilledSession(items);
+      if(si===0) return;
+      text += '  ' + s.icon + ' ' + s.label + ':\n';
+      items.forEach(function(item, iidx){
+        if(!isProjectFilled(item)) return;
+        text += '    #'+(iidx+1)+' ';
+        if(item.startTime||item.endTime) text += calcDuration(item.startTime,item.endTime)+' ';
+        text += '\n';
+        if(item.plan) text += '    📝 '+esc(item.plan)+'\n';
+        if(item.subjects&&item.subjects.length>0) text += '    📚 '+esc(item.subjects.join('、'))+'\n';
+        if(item.completion) text += '    ✅ '+esc(item.completion)+'\n';
+        if(item.rating) text += '    💡 效果：'+RATING_MAP[item.rating]+'\n';
+        if(item.notes) text += '    💬 '+esc(item.notes)+'\n';
+        totalProjects++;
+      });
+    });
+    text += '\n';
+  });
+
+  text += '═══════════════════════════\n';
+  text += '  📊 汇总统计\n';
+  text += '═══════════════════════════\n';
+  text += '  提交人数: '+totalStudents+'人\n';
+  text += '  有效时段: '+totalSessions+'个\n';
+  text += '  学习项目: '+totalProjects+'项\n';
+  if(teacher) text += '\n  请 '+esc(teacher)+' 老师查阅\n';
+  text += '\n';
+
+  openModal('📋 '+formatDateCN(currentDate)+' 汇总报告', text);
+}
+
+function openModal(title, content) {
+  document.getElementById('modalTitle').textContent = title;
+  document.getElementById('summaryPreview').textContent = content;
+  document.getElementById('summaryModal').classList.add('show');
+}
+function closeModal() {
+  document.getElementById('summaryModal').classList.remove('show');
+}
+function copySummary() {
+  var text = document.getElementById('summaryPreview').textContent;
+  if(navigator.clipboard&&navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(function(){ showToast('✔ 已复制到剪贴板'); closeModal(); });
+  } else {
+    var ta = document.createElement('textarea'); ta.value=text; document.body.appendChild(ta);
+    ta.select(); document.execCommand('copy'); document.body.removeChild(ta);
+    showToast('✔ 已复制到剪贴板'); closeModal();
+  }
+}
+function sendToTeacher() {
+  var teacher = localStorage.getItem('teacherName')||'';
+  var text = document.getElementById('summaryPreview').textContent;
+  if(typeof dingtalk!=='undefined'&&dingtalk&&dingtalk.biz&&dingtalk.biz.chat){
+    dingtalk.biz.chat.pickConversation({corpId:'', conversationType:1, onSuccess:function(){}});
+    showToast('请选择与班主任的会话发送');
+  } else {
+    copySummary();
+    if(teacher) showToast('已复制，请粘贴发送给 '+teacher+' 老师');
+    else showToast('已复制，请粘贴发送给班主任');
+  }
+}
+
+// ===== Leader: History =====
+function renderCollectHistoryPage() {
+  renderHeader();
+  var bb = document.getElementById('bottomBar');
+  bb.style.display = 'none';
+  var container = document.getElementById('mainContainer');
+  var html = '';
+  
+  var dateSet = {};
+  var raw = localStorage.getItem('groupIndex');
+  if(raw){
+    var idx = JSON.parse(raw);
+    idx.forEach(function(item){ dateSet[item.date]=true; });
+  }
+  var dates = Object.keys(dateSet).sort().reverse();
+  
+  html += '<div class="data-actions">';
+  html += '<button class="data-btn import" onclick="document.getElementById(\'importInput\').click()">📥 导入数据</button>';
+  html += '<button class="data-btn" onclick="exportGroupData()">📤 导出汇总</button></div>';
+
+  if(dates.length===0){
+    html += '<div class="empty-state"><div class="empty-icon">📅</div><div class="empty-text">暂无历史汇总记录</div></div>';
+  } else {
+    html += '<div class="history-list">';
+    dates.forEach(function(d){
+      var subs = getGroupSubmissions(d);
+      var total = subs.length;
+      var label = total===0?'无数据':total+'人已提交';
+      var cls = total===0?'empty':total>=3?'complete':'partial';
+      html += '<div class="history-item" onclick="navigateToDate(\''+d+'\')">';
+      html += '<div class="history-top"><div class="history-date">'+formatDateCN(d)+'</div><span class="badge '+cls+'">'+label+'</span></div>';
+      html += '<div class="history-summary">共'+total+'位同学提交了今日打卡</div>';
+      html += '</div>';
+    });
+    html += '</div>';
+  }
+  container.innerHTML = html;
+}
+
+function navigateToDate(d) {
+  currentDate = d;
+  currentTab = 'collect';
+  switchRole('leader');
+}
+
+// ===== Header (shared) =====
+function renderHeader() {
+  // already rendered via initial HTML; just update date
+  updateDateDisplay();
+}</script>
+</body>
+</html>
