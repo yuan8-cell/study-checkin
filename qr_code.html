@@ -13,7 +13,7 @@
   h1{font-size:20px;font-weight:700;margin-bottom:8px}
   .subtitle{font-size:14px;color:var(--sub);margin-bottom:24px;line-height:1.6}
   .qr-wrap{background:#FFF;border:2px solid var(--border);border-radius:16px;padding:20px;display:inline-block;margin-bottom:20px}
-  .qr-wrap canvas{border-radius:8px}
+  .qr-wrap img{border-radius:8px;max-width:100%;height:auto;display:block}
   .tips{background:var(--bg);border-radius:10px;padding:14px 16px;font-size:13px;color:var(--sub);line-height:1.7;text-align:left}
   .tips strong{color:var(--text);display:block;margin-bottom:4px}
   .url{font-size:12px;color:var(--muted);margin-top:16px;word-break:break-all;font-family:monospace}
@@ -25,7 +25,10 @@
     <div class="icon">&#128218;</div>
     <h1>学习打卡手机填报</h1>
     <div class="subtitle">扫描二维码，在手机上直接打开填报页面</div>
-    <div class="qr-wrap" id="qrContainer"></div>
+    <div class="qr-wrap" id="qrContainer">
+      <img id="qrImg" alt="二维码加载中" style="display:none;">
+      <div id="qrFallback" style="color:#999;font-size:13px;">二维码加载中...</div>
+    </div>
     <div class="tips">
       <strong>使用说明</strong>
       1. 用钉钉/微信/浏览器扫描上方二维码<br>
@@ -39,24 +42,28 @@
   <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
   <script>
     (function(){
-      // 生成一个本地HTTP地址，指向当前目录的 daily_checkin.html
-      // 实际使用时，请将此文件部署到任意Web服务器后，将下方URL替换为实际访问地址
-      var base = 'https://yuan8-cell.github.io/study-checkin/daily_checkin.html';
-      var url = base;
+      var url = 'https://yuan8-cell.github.io/study-checkin/daily_checkin.html';
       document.getElementById('urlDisplay').textContent = url;
-
       var container = document.getElementById('qrContainer');
-      QRCode.toCanvas(document.createElement('canvas'), url, {
-        width: 260,
-        margin: 1,
-        color: { dark: '#1677FF', light: '#FFFFFF' }
-      }, function(error, canvas){
-        if(error){ container.innerHTML = '<div style="color:#999;font-size:13px;">二维码生成失败，请刷新重试</div>'; return; }
-        canvas.style.maxWidth = '100%';
-        canvas.style.height = 'auto';
-        container.innerHTML = '';
-        container.appendChild(canvas);
-      });
+      var fallback = document.getElementById('qrFallback');
+      var qrImg = document.getElementById('qrImg');
+
+      if(typeof QRCode !== 'undefined'){
+        QRCode.toCanvas(document.createElement('canvas'), url, {
+          width: 260, margin: 1, color: { dark: '#1677FF', light: '#FFFFFF' }
+        }, function(error, canvas){
+          if(error){
+            fallback.innerHTML = '<div style="color:#999;font-size:13px;">二维码生成失败，请刷新重试</div>';
+            return;
+          }
+          canvas.style.maxWidth = '100%';
+          canvas.style.height = 'auto';
+          fallback.style.display = 'none';
+          container.insertBefore(canvas, container.firstChild);
+        });
+      } else {
+        fallback.innerHTML = '<div style="color:#999;font-size:13px;">二维码库加载失败，请检查网络后刷新</div>';
+      }
     })();
   </script>
 </body>
