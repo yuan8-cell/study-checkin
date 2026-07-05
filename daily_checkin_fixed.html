@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>学习打卡·组长汇总</title>
+<style>
+:root{--primary:#1677FF;--primary-light:#E6F0FF;--primary-dark:#0958D9;--success:#00B96B;--success-light:#F6FFED;--warning:#FA8C16;--warning-light:#FFF7E6;--danger:#FF4D4F;--danger-light:#FFF1F0;--bg:#F5F7FA;--card-bg:#FFFFFF;--text:#1A1A1A;--text-secondary:#666666;--text-tertiary:#999999;--border:#E8E8E8;--border-light:#F0F0F0;--radius:12px;--radius-sm:8px;--shadow:0 2px 12px rgba(0,0,0,0.06)}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased;min-height:100vh}
+.header{background:linear-gradient(135deg,var(--primary) 0%,#4096FF 100%);color:#fff;padding:16px 20px 12px;position:sticky;top:0;z-index:100;box-shadow:0 2px 8px rgba(22,119,255,0.2)}
+.header-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+.header-title{font-size:20px;font-weight:700;display:flex;align-items:center;gap:8px}
+.role-switch{display:flex;gap:4px;background:rgba(255,255,255,0.2);border-radius:8px;padding:3px}
+.role-btn{padding:6px 14px;border-radius:6px;font-size:13px;font-weight:500;cursor:pointer;border:none;background:transparent;color:rgba(255,255,255,0.7);transition:all 0.2s}
+.role-btn.active{background:#fff;color:var(--primary);font-weight:600}
+.role-btn:active{transform:scale(0.95)}
+.header-date{padding:6px 12px;background:rgba(255,255,255,0.15);border-radius:8px;font-size:13px;cursor:pointer;border:none;color:#fff;margin-bottom:10px;width:100%;text-align:center}
+.header-date::-webkit-calendar-picker-indicator{filter:invert(1);opacity:0.7}
+.header-tabs{display:flex;gap:4px}
+.header-tab{flex:1;padding:7px 0;border-radius:8px;font-size:13px;cursor:pointer;border:none;background:rgba(255,255,255,0.15);color:rgba(255,255,255,0.7);transition:all 0.2s;font-weight:500}
+.header-tab.active{background:#fff;color:var(--primary);font-weight:600}
+.header-tab:active{transform:scale(0.97)}
+.container{padding:16px;padding-bottom:80px}
+.card{background:var(--card-bg);border-radius:var(--radius);padding:16px;margin-bottom:12px;box-shadow:var(--shadow);border:1px solid var(--border-light)}
+.card-title{font-size:16px;font-weight:600;color:var(--text);margin-bottom:12px;display:flex;align-items:center;gap:8px}
+.card-subtitle{font-size:12px;color:var(--text-tertiary);margin-top:2px;font-weight:400}
+.form-group{margin-bottom:14px}
+.form-label{font-size:13px;color:var(--text-secondary);margin-bottom:6px;font-weight:500;display:flex;align-items:center;gap:6px}
+.form-input{width:100%;padding:10px 12px;border:1.5px solid var(--border);border-radius:var(--radius-sm);font-size:14px;background:var(--bg);color:var(--text);outline:none;transition:border-color 0.2s}
+.form-input:focus{border-color:var(--primary);background:#fff}
+.form-input::placeholder{color:var(--text-tertiary)}
+.time-range{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.time-range .form-input{flex:1;min-width:0}
+.time-sep{color:var(--text-tertiary);font-size:13px;flex-shrink:0}
+.time-display{font-size:12px;color:var(--primary);background:var(--primary-light);padding:3px 8px;border-radius:4px;flex-shrink:0}
+.subject-tags{display:flex;flex-wrap:wrap;gap:6px}
+.subject-tag{padding:5px 12px;border-radius:20px;font-size:13px;cursor:pointer;border:1.5px solid var(--border);background:var(--bg);color:var(--text-secondary);transition:all 0.2s;font-weight:500}
+.subject-tag.active{border-color:var(--primary);background:var(--primary-light);color:var(--primary-dark);font-weight:600}
+.subject-tag:active{transform:scale(0.95)}
+.form-textarea{width:100%;padding:10px 12px;border:1.5px solid var(--border);border-radius:var(--radius-sm);font-size:14px;background:var(--bg);color:var(--text);outline:none;resize:vertical;min-height:72px;font-family:inherit;line-height:1.6;transition:border-color 0.2s}
+.form-textarea:focus{border-color:var(--primary);background:#fff}
+.form-textarea::placeholder{color:var(--text-tertiary)}
+.rating-group{display:flex;gap:8px}
+.rating-btn{flex:1;padding:8px 4px;border:1.5px solid var(--border);border-radius:var(--radius-sm);background:var(--bg);font-size:13px;color:var(--text-secondary);cursor:pointer;transition:all 0.2s;text-align:center;font-weight:500}
+.rating-btn.active{border-color:var(--primary);background:var(--primary-light);color:var(--primary-dark);font-weight:600}
+.rating-btn:active{transform:scale(0.96)}
+.bottom-bar{position:fixed;bottom:0;left:0;right:0;background:#fff;padding:12px 16px;padding-bottom:max(12px,env(safe-area-inset-bottom));box-shadow:0 -2px 12px rgba(0,0,0,0.08);display:flex;gap:10px;z-index:100}
+.btn{flex:1;padding:13px 16px;border-radius:var(--radius-sm);font-size:15px;font-weight:600;cursor:pointer;border:none;transition:all 0.2s}
+.btn:active{transform:scale(0.97)}
+.btn-primary{background:var(--primary);color:#fff}
+.btn-primary:active{background:var(--primary-dark)}
+.btn-outline{border:1.5px solid var(--primary);color:var(--primary);background:transparent}
+.btn-danger{border:1.5px solid var(--danger);color:var(--danger);background:transparent}
+.btn-danger:active{background:var(--danger-light)}
+.btn-collect{background:var(--success);color:#fff;flex:2}
+.btn-collect:active{background:#009A5C}
+.btn:disabled{opacity:0.5;cursor:not-allowed}
+.stat-bar{display:flex;gap:8px;margin-bottom:16px}
+.stat-chip{flex:1;padding:10px 8px;background:var(--bg);border-radius:var(--radius-sm);text-align:center;border:1px solid var(--border-light)}
+.stat-chip .stat-val{font-size:20px;font-weight:700;color:var(--primary)}
+.stat-chip .stat-val.green{color:var(--success)}
+.stat-chip .stat-label{font-size:11px;color:var(--text-tertiary);margin-top:2px}
+.member-card{background:var(--card-bg);border-radius:var(--radius);margin-bottom:10px;box-shadow:var(--shadow);border:1px solid var(--border-light);overflow:hidden}
+.member-header{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;cursor:pointer;transition:background 0.2s}
+.member-header:hover{background:var(--bg)}
+.member-name{font-size:15px;font-weight:600;color:var(--text)}
+.member-badge{padding:3px 10px;border-radius:12px;font-size:12px;font-weight:500}
+.member-badge.empty{background:var(--border-light);color:var(--text-tertiary)}
+.member-badge.partial{background:var(--warning-light);color:#D46B00}
+.member-badge.complete{background:var(--success-light);color:#006D3C}
+.member-sessions{display:flex;gap:4px;margin-top:4px}
+.member-session-dot{width:8px;height:8px;border-radius:50%;background:var(--border)}
+.member-session-dot.active{background:var(--primary)}
+.member-summary{font-size:12px;color:var(--text-tertiary);margin-top:6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.member-detail{padding:0 14px 12px;display:none;border-top:1px solid var(--border-light);margin-top:0;padding-top:10px}
+.member-card.expanded .member-detail{display:block}
+.detail-session{background:var(--bg);border-radius:var(--radius-sm);padding:10px 12px;margin-bottom:8px}
+.detail-session:last-child{margin-bottom:0}
+.detail-session-title{font-size:13px;font-weight:600;color:var(--primary);margin-bottom:6px;display:flex;align-items:center;gap:6px}
+.detail-session-row{font-size:13px;color:var(--text-secondary);margin-top:3px;padding-left:4px;line-height:1.5}
+.detail-session-row strong{color:var(--text)}
+.empty-state{text-align:center;padding:48px 20px}
+.empty-icon{font-size:48px;margin-bottom:12px;opacity:0.5}
+.empty-text{font-size:14px;color:var(--text-tertiary);line-height:1.6}
+.data-actions{display:flex;gap:10px;margin-bottom:14px}
+.data-btn{flex:1;padding:10px;background:var(--card-bg);border:1.5px solid var(--border);border-radius:var(--radius-sm);font-size:13px;cursor:pointer;color:var(--text-secondary);transition:all 0.2s;font-weight:500;display:flex;align-items:center;justify-content:center;gap:6px}
+.data-btn:active{background:var(--bg);transform:scale(0.97)}
+.data-btn.import-btn{border-color:var(--primary);color:var(--primary)}
+.history-list{}
+.history-item{background:var(--card-bg);border-radius:var(--radius);padding:14px;margin-bottom:10px;cursor:pointer;box-shadow:var(--shadow);border:1px solid var(--border-light);transition:all 0.2s}
+.history-item:active{transform:scale(0.98)}
+.history-date{font-size:15px;font-weight:600;color:var(--text)}
+.history-badge{padding:3px 10px;border-radius:12px;font-size:12px;font-weight:500;display:inline-block}
+.history-badge.empty{background:var(--border-light);color:var(--text-tertiary)}
+.history-badge.partial{background:var(--warning-light);color:#D46B00}
+.history-badge.complete{background:var(--success-light);color:#006D3C}
+.history-sessions{display:flex;gap:4px;margin-top:6px}
+.history-session-dot{width:8px;height:8px;border-radius:50%;background:var(--border)}
+.history-session-dot.active{background:var(--primary)}
+.history-summary{font-size:12px;color:var(--text-tertiary);margin-top:6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:200;display:none;align-items:center;justify-content:center;padding:20px}
+.modal-overlay.show{display:flex}
+.modal{background:#fff;border-radius:var(--radius);width:100%;max-width:480px;max-height:80vh;display:flex;flex-direction:column}
+.modal-header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--border)}
+.modal-title{font-size:16px;font-weight:600;color:var(--text)}
+.modal-close{background:none;border:none;font-size:20px;cursor:pointer;color:var(--text-tertiary);padding:0;line-height:1}
+.modal-body{flex:1;overflow-y:auto;padding:16px 20px}
+.modal-footer{padding:12px 20px;border-top:1px solid var(--border);display:flex;gap:10px}
+.preview-text{background:var(--bg);border-radius:var(--radius-sm);padding:12px;font-size:13px;line-height:1.8;color:var(--text-secondary);white-space:pre-wrap;max-height:400px;overflow-y:auto;font-family:"Courier New",monospace;border:1px solid var(--border-light)}
+.toast{position:fixed;top:80px;left:50%;transform:translateX(-50%);background:rgba(0,0,0,0.8);color:#fff;padding:10px 20px;border-radius:24px;font-size:14px;z-index:300;opacity:0;transition:opacity 0.3s;pointer-events:none;white-space:nowrap}
+.toast.show{opacity:1}
+/* multi-project styles */
+.session-block{margin-bottom:20px;background:var(--bg);border-radius:var(--radius);padding:14px;border:1.5px solid var(--border-light)}
+.session-block-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.session-block-title{font-size:15px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:6px}
+.session-block-title .session-icon{font-size:18px}
+.add-item-btn{padding:5px 12px;background:var(--primary);color:#fff;border-radius:16px;font-size:12px;font-weight:600;cursor:pointer;border:none;transition:all 0.2s;display:flex;align-items:center;gap:4px}
+.add-item-btn:active{transform:scale(0.95);background:var(--primary-dark)}
+.project-item{background:#fff;border-radius:var(--radius-sm);padding:12px;margin-bottom:10px;border:1.5px solid var(--border)}
+.project-item:last-child{margin-bottom:0}
+.project-item-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;padding-bottom:8px;border-bottom:1px dashed var(--border-light)}
+.project-item-num{font-size:12px;font-weight:600;color:var(--text-tertiary);background:var(--bg);padding:2px 8px;border-radius:4px}
+.project-item-delete{background:none;border:none;color:var(--danger);font-size:12px;cursor:pointer;padding:4px 8px;border-radius:4px;opacity:0.7;transition:all 0.2s}
+.project-item-delete:hover{opacity:1;background:var(--danger-light)}
+.field-row{display:flex;gap:10px;margin-bottom:10px}
+.field-row .form-field{flex:1}
+.form-field{margin-bottom:10px}
+.field-label{font-size:12px;color:var(--text-secondary);margin-bottom:5px;font-weight:500;display:flex;align-items:center;gap:4px}
+.field-textarea{width:100%;padding:8px 10px;border:1.5px solid var(--border);border-radius:var(--radius-sm);font-size:13px;background:var(--bg);color:var(--text);outline:none;resize:vertical;min-height:60px;font-family:inherit;line-height:1.6;transition:border-color 0.2s}
+.field-textarea:focus{border-color:var(--primary);background:#fff}
+.field-textarea::placeholder{color:var(--text-tertiary)}
+.time-input-group{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.time-label{font-size:12px;color:var(--text-secondary);font-weight:500;flex-shrink:0}
+.time-input-group input[type="time"]{padding:7px 8px;border:1.5px solid var(--border);border-radius:var(--radius-sm);font-size:13px;background:var(--bg);color:var(--text);outline:none;width:120px}
+.time-input-group input[type="time"]:focus{border-color:var(--primary)}
+.time-arrow{color:var(--text-tertiary);font-size:12px;flex-shrink:0}
+.time-duration{font-size:11px;color:var(--primary);background:var(--primary-light);padding:2px 8px;border-radius:4px}
+.required{color:var(--danger)}
+.collect-stat-bar{display:flex;gap:6px;margin-bottom:14px;background:var(--card-bg);border-radius:var(--radius-sm);padding:10px 12px;box-shadow:var(--shadow)}
+.collect-stat-chip{flex:1;text-align:center}
+.collect-stat-val{font-size:18px;font-weight:700;color:var(--primary)}
+.collect-stat-val.green{color:var(--success)}
+.collect-stat-label{font-size:10px;color:var(--text-tertiary);margin-top:1px}
+.collect-member-list{}
+.detail-project-item{background:var(--bg);border-radius:var(--radius-sm);padding:10px 12px;margin-bottom:8px}
+.detail-project-item:last-child{margin-bottom:0}
+.detail-project-title{font-size:13px;font-weight:600;color:var(--text);margin-bottom:4px;display:flex;align-items:center;gap:6px}
+.detail-project-num{font-size:11px;background:var(--primary-light);color:var(--primary-dark);padding:1px 6px;border-radius:4px;font-weight:600}
+.detail-project-time{font-size:12px;color:var(--primary);margin-bottom:4px}
+@media(max-width:480px){.container{padding:12px}.header-title{font-size:18px}.rating-btn{font-size:12px}.role-btn{padding:6px 10px;font-size:12px}.header-tab{padding:6px 10px;font-size:13px}.collect-stat-val{font-size:16px}.field-row{flex-direction:column}.time-input-group input[type="time"]{width:100px}}
+</style>
+</head>
+<body>
+<!-- 告知页面 -->
+<div class="modal-overlay" id="noticeModal">
+  <div class="notice-modal">
+    <div class="notice-header">
+      <div class="notice-icon">📢</div>
+      <div class="notice-title">温馨提醒</div>
+      <div class="notice-subtitle">暑期学习打卡活动说明</div>
+    </div>
+    <div class="notice-body">
+      <p>各位家长朋友们：</p>
+      <p>转眼孩子即将步入毕业班，学习节奏会大幅收紧，不少家长都希望利用暑假帮孩子提前调整状态。经组内家长自发沟通，我们计划开展暑期每日学习打卡活动。活动纯家长自愿组织，和学校无任何关联，大家可自主选择是否参与。</p>
+      <div class="notice-highlight">为维护群内学习氛围，<strong>若无特殊事由，连续五天未打卡将视作自动退出</strong>。</div>
+      <p class="notice-footer-text">前路漫漫亦灿灿，愿孩子们趁着暑期蓄力沉淀，从容迎接毕业班紧张的学习节奏！愿我们彼此陪伴督促，孩子们自律向上，满载收获奔赴新征程！</p>
+    </div>
+    <div class="notice-footer">
+      <button class="btn btn-primary btn-large" onclick="acknowledgeNotice()">我已知晓，自愿参与</button>
+    </div>
+  </div>
+</div>
+<style>
+.notice-modal{border-radius:20px;max-height:90vh;width:100%;max-width:600px;margin:0 auto;background:#FFF;overflow:hidden;box-shadow:0 8px 40px rgba(0,0,0,.15);animation:noticeSlideUp .4s cubic-bezier(0.34,1.56,0.64,1)}
+@keyframes noticeSlideUp{from{transform:translateY(40px);opacity:0}to{transform:translateY(0);opacity:1}}
+.notice-header{position:relative;padding:32px 24px 20px;text-align:center;background:linear-gradient(145deg,#FF9A56,#FFB88C,#FFD1A3);overflow:hidden}
+.notice-header::before{content:'';position:absolute;top:-60%;left:-20%;width:140%;height:140%;background:radial-gradient(circle,rgba(255,255,255,.12) 0%,transparent 70%);pointer-events:none}
+.notice-icon{font-size:44px;margin-bottom:10px;position:relative;display:inline-block;animation:noticeBounce 1s ease infinite}
+@keyframes noticeBounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.notice-title{font-size:22px;font-weight:700;color:#fff;position:relative;letter-spacing:2px;text-shadow:0 2px 4px rgba(180,80,20,.2)}
+.notice-subtitle{font-size:13px;color:rgba(255,255,255,.8);margin-top:4px;position:relative;font-weight:400}
+.notice-body{padding:24px 24px 16px;max-height:55vh;overflow-y:auto;font-size:14.5px;line-height:2;color:var(--text);background:#FFF}
+.notice-body p{margin-bottom:14px;text-align:justify;text-indent:2em}
+.notice-body p:last-child{margin-bottom:0}
+.notice-body .notice-highlight{background:#FFF8F0;padding:12px 16px;border-radius:10px;margin:16px 0;border-left:3px solid #FF9A56;text-indent:0}
+.notice-body .notice-highlight strong{color:#C45C00}
+.notice-footer-text{color:#333;font-weight:400;margin-top:18px;padding-top:14px;border-top:1.5px dashed #FFD4B8;line-height:2;font-size:14px;background:#FFFAF5;padding:16px 18px;border-radius:12px;margin-bottom:0}
+.notice-footer-text br{margin-bottom:4px}
+.notice-footer{padding:12px 24px 28px;background:#FFFAF5;text-align:center}
+.btn-large{height:52px;font-size:16px;border-radius:26px;width:100%;max-width:320px;font-weight:700;letter-spacing:1px;background:linear-gradient(145deg,#FF9A56,#FF7E32);box-shadow:0 4px 16px rgba(255,130,50,.35);transition:all .2s}
+.btn-large:hover{background:linear-gradient(145deg,#FFA868,#FF8A44)}
+.btn-large:active{transform:scale(.96);box-shadow:0 2px 8px rgba(255,130,50,.25)}
+.modal-overlay.show{display:flex;align-items:center;justify-content:center;padding:20px}
+</style>
+<div class="header">
+<div class="header-top"><div class="header-title">📚 学习打卡</div><div class="role-switch"><button class="role-btn active" id="roleParent" onclick="switchRole('parent')">家长</button><button class="role-btn" id="roleLeader" onclick="switchRole('leader')">组长</button><button class="role-btn" id="roleTeacher" onclick="switchRole('teacher')">组内看板</button></div></div>
+<input type="date" class="header-date" id="datePicker" onchange="onDateChange(this.value)">
+<div class="header-tabs" id="headerTabs"><button class="header-tab active" id="tabCheckin" onclick="switchTab('checkin')">📝 打卡</button><button class="header-tab" id="tabHistory" onclick="switchTab('history')">📋 历史</button></div>
+</div>
+<div class="container" id="mainContainer"></div>
+<div class="bottom-bar" id="bottomBar" style="display:none"></div>
+<input type="file" id="importInput" accept=".json" style="display:none" onchange="handleImport(event)">
+<div class="toast" id="toast"></div>
+<div class="modal-overlay" id="summaryModal">
+<div class="modal">
+<div class="modal-header"><div class="modal-title" id="modalTitle">汇总</div><button class="modal-close" onclick="closeModal()">✕</button></div>
+<div class="modal-body"><pre class="preview-text" id="summaryPreview"></pre></div>
+<div class="modal-footer"><button class="btn btn-outline" onclick="copySummary()">📋 复制</button><button class="btn btn-primary" onclick="sendToTeacher()">🚀 转发班主任</button></div>
+</div>
+</div>
+<script>
+var currentRole='parent';
+var currentTab='checkin';
+var currentDate=new Date().toISOString().slice(0,10);
+var SUBJECTS=['语文','数学','英语','科学','文综'];
+var SESSIONS=[{key:'morning',label:'上午',icon:'🌅'},{key:'afternoon',label:'下午',icon:'☀️'},{key:'evening',label:'晚上',icon:'🌙'}];
+var RATINGS=[{value:'great',label:'很好'},{value:'good',label:'还行'},{value:'normal',label:'一般'}];
+var RATING_MAP={great:'很好',good:'还行',normal:'一般'};
+
+function showToast(msg){var t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(function(){t.classList.remove('show');},2500);}
+function checkNotice(){var ack=localStorage.getItem('noticeAcknowledged_v3');if(!ack){document.getElementById('noticeModal').classList.add('show');}}
+function acknowledgeNotice(){localStorage.setItem('noticeAcknowledged_v3','1');document.getElementById('noticeModal').classList.remove('show');}
+window.addEventListener('DOMContentLoaded',checkNotice);
+function escapeHtml(s){if(!s)return'';return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function formatDateCN(d){var parts=d.split('-');return parseInt(parts[1])+'月'+parseInt(parts[2])+'日';}
+function calcMins(s,e){if(!s||!e)return 0;var ps=s.split(':'),pe=e.split(':');return( parseInt(pe[0])*60+parseInt(pe[1]) )-( parseInt(ps[0])*60+parseInt(ps[1]) );}
+function calcDuration(s,e){var m=calcMins(s,e);if(m<=0)return'';var h=Math.floor(m/60),min=m%60;return(h>0?(h+'h'):'')+(min>0?min+'m':'');}
+
+function switchRole(role){
+  currentRole=role;
+  document.getElementById('roleParent').classList.toggle('active',role==='parent');
+  document.getElementById('roleLeader').classList.toggle('active',role==='leader');
+  document.getElementById('roleTeacher').classList.toggle('active',role==='teacher');
+  var tabs=document.getElementById('headerTabs');
+  if(role==='parent'){
+    tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📝 打卡</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📋 我的历史</button>';
+  }else if(role==='leader'){
+    tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📥 汇总</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📊 历史汇总</button>';
+  }else{
+    tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📚 组内看板</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📋 导入组长</button>';
+  }
+  currentTab='checkin';
+  renderCurrentPage();
+}
+function switchTab(tab){currentTab=tab;document.getElementById('tabCheckin').classList.toggle('active',tab==='checkin');document.getElementById('tabHistory').classList.toggle('active',tab==='history');renderCurrentPage();}
+function onDateChange(d){currentDate=d;renderCurrentPage();}
+function renderCurrentPage(){
+  if(currentRole==='parent'){
+    if(currentTab==='checkin')renderCheckinPage();
+    else renderHistoryPage();
+  }else if(currentRole==='leader'){
+    if(currentTab==='checkin')renderCollectPage();
+    else renderCollectHistoryPage();
+  }else{
+    if(currentTab==='checkin')renderTeacherPage();
+    else renderTeacherImportPage();
+  }
+}
+
+function createEmptyProject(){return{startTime:'',endTime:'',plan:'',completion:'',subjects:[],rating:'',notes:''};}
+function createEmptyForm(date){return{date:date,studentName:localStorage.getItem('studentName')||'',sessions:{morning:[],afternoon:[],evening:[]},submitted:false,submittedAt:null};}
+
+function isProjectFilled(p){return!!(p.plan||p.completion||p.notes||p.startTime||p.endTime||(p.subjects&&p.subjects.length>0)||p.rating);}
+function isSessionFilled(arr){return arr&&arr.some(isProjectFilled);}
+
+// Part 2: renderCheckinPage + addProject + removeProject + updateProject
+function renderCheckinPage(){
+  var container=document.getElementById('mainContainer');
+  var data=loadData(currentDate);
+  var nameVal=data.studentName||'';
+  var html='<div class="card">';
+  html+='<div class="card-title">👤 学生姓名</div>';
+  html+='<div class="form-group"><input class="form-input" id="studentNameInput" value="'+escapeHtml(nameVal)+'" placeholder="请输入学生姓名" oninput="updateStudentName(this.value)"></div>';
+  html+='</div>';
+  SESSIONS.forEach(function(s){
+    var items=data.sessions[s.key]||[];
+    html+='<div class="session-block">';
+    html+='<div class="session-block-header">';
+    html+='<div class="session-block-title"><span class="session-icon">'+s.icon+'</span>'+s.label+'</div>';
+    html+='<button class="add-item-btn" onclick="addProject(\''+s.key+'\')">➕ 添加项目</button>';
+    html+='</div>';
+    if(items.length===0){
+      html+='<div style="text-align:center;padding:16px 0;color:var(--text-tertiary);font-size:13px">暂无项目，点击上方「添加项目」开始打卡</div>';
+    }else{
+      items.forEach(function(item,idx){
+        var dur=calcDuration(item.startTime,item.endTime);
+        html+='<div class="project-item" id="proj_'+s.key+'_'+idx+'">';
+        html+='<div class="project-item-header">';
+        html+='<span class="project-item-num">项目 '+(idx+1)+'</span>';
+        if(items.length>1)html+='<button class="project-item-delete" onclick="removeProject(\''+s.key+'\','+idx+')">🗑 删除</button>';
+        html+='</div>';
+        html+='<div class="time-input-group">';
+        html+='<span class="time-label">⏰</span>';
+        html+='<input type="time" value="'+(item.startTime||'')+'" onchange="updateProject(\''+s.key+'\','+idx+',\'startTime\',this.value)">';
+        html+='<span class="time-arrow">→</span>';
+        html+='<input type="time" value="'+(item.endTime||'')+'" onchange="updateProject(\''+s.key+'\','+idx+',\'endTime\',this.value)">';
+        html+='<span class="time-duration">'+(dur||'未填时间')+'</span>';
+        html+='</div>';
+        html+='<div class="form-field"><div class="field-label">📝 学习计划 <span class="required">*</span></div>';
+        html+='<textarea class="field-textarea" placeholder="如：完成数学第3章习题集" onchange="updateProject(\''+s.key+'\','+idx+',\'plan\',this.value)">'+escapeHtml(item.plan)+'</textarea></div>';
+        html+='<div class="form-field"><div class="field-label">📚 涉及科目</div>';
+        html+='<div class="subject-tags">'+SUBJECTS.map(function(sub){return'<span class="subject-tag '+(item.subjects.indexOf(sub)>=0?'active':'')+'" onclick="toggleSubject(\''+s.key+'\','+idx+',\' '+sub+'\')">'+sub+'</span>';}).join('')+'</div></div>';
+        html+='<div class="form-field"><div class="field-label">✅ 完成情况</div>';
+        html+='<textarea class="field-textarea" placeholder="如：完成80%，第5题有难度" onchange="updateProject(\''+s.key+'\','+idx+',\'completion\',this.value)">'+escapeHtml(item.completion)+'</textarea></div>';
+        html+='<div class="form-field"><div class="field-label">💡 学习效果</div>';
+        html+='<div class="rating-group">'+RATINGS.map(function(r){return'<button class="rating-btn '+(item.rating===r.value?'active':'')+'" onclick="updateProject(\''+s.key+'\','+idx+',\'rating\',\''+r.value+'\')">'+r.label+'</button>';}).join('')+'</div></div>';
+        html+='<div class="form-field"><div class="field-label">💬 备注（可选）</div>';
+        html+='<textarea class="field-textarea" placeholder="遇到的问题或心得…" onchange="updateProject(\''+s.key+'\','+idx+',\'notes\',this.value)">'+escapeHtml(item.notes)+'</textarea></div>';
+        html+='</div>';
+      });
+    }
+    html+='</div>';
+  });
+  html+='<div style="height:20px"></div>';
+  container.innerHTML=html;
+  var bb=document.getElementById('bottomBar');
+  var filled=SESSIONS.some(function(s){return isSessionFilled(data.sessions[s.key]);});
+  if(data.submitted){
+    bb.innerHTML='<button class="btn btn-outline" onclick="unsaveCheckin()">📝 继续编辑</button><button class="btn btn-primary" disabled>✓ 已提交打卡</button>';
+  }else{
+    bb.innerHTML='<button class="btn btn-outline" onclick="saveCheckin()">💾 保存草稿</button><button class="btn btn-primary" '+(filled?'':'disabled')+' onclick="submitCheckin()">📤 提交打卡</button>';
+  }
+  bb.style.display='flex';
+}
+
+function addProject(sessionKey){
+  var data=loadData(currentDate);
+  if(!data.sessions[sessionKey])data.sessions[sessionKey]=[];
+  data.sessions[sessionKey].push(createEmptyProject());
+  saveToStorage(data);
+  renderCheckinPage();
+}
+function removeProject(sessionKey,idx){
+  var data=loadData(currentDate);
+  if(data.sessions[sessionKey])data.sessions[sessionKey].splice(idx,1);
+  saveToStorage(data);
+  renderCheckinPage();
+}
+function updateProject(sessionKey,idx,field,value){
+  var data=loadData(currentDate);
+  if(!data.sessions[sessionKey]||!data.sessions[sessionKey][idx])return;
+  if(field==='subjects'){return;}
+  data.sessions[sessionKey][idx][field]=value;
+  saveToStorage(data);
+  // Update just the time display without full re-render
+  if(field==='startTime'||field==='endTime'){
+    var dur=calcDuration(
+      data.sessions[sessionKey][idx].startTime,
+      data.sessions[sessionKey][idx].endTime
+    );
+    var durEl=document.getElementById('proj_'+sessionKey+'_'+idx);
+    if(durEl){
+      var durationSpan=durEl.querySelector('.time-duration');
+      if(durationSpan)durationSpan.textContent=dur||'未填时间';
+    }
+  }
+}
+function toggleSubject(sessionKey,idx,sub){
+  var data=loadData(currentDate);
+  if(!data.sessions[sessionKey]||!data.sessions[sessionKey][idx])return;
+  var arr=data.sessions[sessionKey][idx].subjects||[];
+  var i=arr.indexOf(sub);
+  if(i>=0)arr.splice(i,1);else arr.push(sub);
+  data.sessions[sessionKey][idx].subjects=arr;
+  saveToStorage(data);
+  // Toggle tag class
+  var durEl=document.getElementById('proj_'+sessionKey+'_'+idx);
+  if(durEl){
+    var tags=durEl.querySelectorAll('.subject-tag');
+    tags.forEach(function(t){
+      if(t.textContent.trim()===sub)t.classList.toggle('active',arr.indexOf(sub)>=0);
+    });
+  }
+}
+function updateStudentName(name){
+  var data=loadData(currentDate);
+  data.studentName=name;
+  saveToStorage(data);
+}
+function saveToStorage(data){
+  var d=data.date||currentDate;
+  localStorage.setItem('studyCheckin_'+d,JSON.stringify(data));
+  localStorage.setItem('studyCheckin_'+d+'_'+data.studentName,JSON.stringify(data));
+}
+function loadData(d){
+  var raw=localStorage.getItem('studyCheckin_'+d);
+  if(raw){try{return JSON.parse(raw);}catch(e){}}
+  return createEmptyForm(d);
+}
+function saveCheckin(){
+  var data=loadData(currentDate);
+  data.submitted=false;
+  saveToStorage(data);
+  showToast('💾 草稿已保存');
+}
+const CLOUD_BASE = {
+  submitCheckin: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/submitCheckIn',
+  getLeaderData: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/getLeaderData',
+  getTeacherDashboard: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/getTeacherDashboo'
+};
+function callCloudAPI(url, payload){
+  return fetch(url, {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify(payload)
+  }).then(function(r){return r.json();});
+}
+function submitCheckin(){
+  var data=loadData(currentDate);
+  if(!data.studentName.trim()){showToast('⚠️ 请先填写学生姓名');return;}
+  data.submitted=true;
+  data.submittedAt=new Date().toISOString();
+  saveToStorage(data);
+  localStorage.setItem('groupCheckin_'+data.date+'_'+data.studentName,JSON.stringify(data));
+  updateGroupIndex(data.date,data.studentName);
+  // 提交到云端
+  callCloudAPI(CLOUD_BASE.submitCheckin, {
+    date: currentDate,
+    name: data.studentName,
+    plan: data.plan || '',
+    effect: data.effect || '',
+    group: data.group || '默认组',
+    role: 'parent',
+    raw: JSON.stringify(data)
+  }).then(function(res){
+    if(res&&res.code===0){showToast('✅ 打卡已同步到云端');}
+    else{showToast('⚠️ 本地已提交，云端同步失败');}
+  }).catch(function(){showToast('⚠️ 本地已提交，云端同步失败');});
+  showToast('✅ 打卡已提交！');
+  renderCheckinPage();
+}
+function unsaveCheckin(){
+  var data=loadData(currentDate);
+  data.submitted=false;
+  data.submittedAt=null;
+  saveToStorage(data);
+  renderCheckinPage();
+}
+</script>
+
+<script>
+// Part 3: generateSummary + modal + copy/send
+function generateSummary(){
+  var submissions=getGroupSubmissions(currentDate);
+  if(submissions.length===0){showToast('⚠️ 当前日期还没有任何打卡记录');return;}
+  var teacherName=localStorage.getItem('teacherName')||'';
+  var totalStudents=submissions.length;
+  var completeCount=0,totalMins=0;
+  submissions.forEach(function(sub){
+    var hasMorning=isSessionFilled(sub.sessions.morning);
+    var hasAfternoon=isSessionFilled(sub.sessions.afternoon);
+    var hasEvening=isSessionFilled(sub.sessions.evening);
+    if(hasMorning&&hasAfternoon&&hasEvening)completeCount++;
+    SESSIONS.forEach(function(s){
+      var arr=sub.sessions[s.key]||[];
+      arr.forEach(function(item){
+        if(item.startTime&&item.endTime)totalMins+=calcMins(item.startTime,item.endTime);
+      });
+    });
+  });
+  var totalH=Math.floor(totalMins/60),totalM=totalMins%60;
+  var lines=[];
+  lines.push('📚 '+currentDate+' '+formatDateCN(currentDate)+' 学习打卡汇总');
+  lines.push('━'.repeat(28));
+  lines.push('提交人数：'+totalStudents+'人  |  全天完成：'+completeCount+'人  |  总学习时长：'+(totalH>0?totalH+'h':'')+totalM+'m');
+  lines.push('');
+  submissions.sort(function(a,b){return(a.studentName||'').localeCompare(b.studentName||'');});
+  submissions.forEach(function(sub,i){
+    var hasMorning=isSessionFilled(sub.sessions.morning);
+    var hasAfternoon=isSessionFilled(sub.sessions.afternoon);
+    var hasEvening=isSessionFilled(sub.sessions.evening);
+    var fc=0;if(hasMorning)fc++;if(hasAfternoon)fc++;if(hasEvening)fc++;
+    lines.push('【'+(i+1)+'】'+sub.studentName+'（'+fc+'/3 时段）');
+    SESSIONS.forEach(function(s){
+      var arr=sub.sessions[s.key]||[];
+      if(arr.length===0)return;
+      lines.push('  '+s.icon+' '+s.label+'（'+arr.length+'个项目）');
+      arr.forEach(function(item,pIdx){
+        var subjStr=item.subjects&&item.subjects.length>0?' ['+item.subjects.join('/')+']':'';
+        var durStr=item.startTime&&item.endTime?'（'+calcDuration(item.startTime,item.endTime)+'）':'';
+        lines.push('    '+(pIdx+1)+'.'+subjStr+durStr);
+        if(item.plan)lines.push('       计划：'+item.plan);
+        if(item.completion)lines.push('       完成：'+item.completion);
+        var ratingStr=item.rating?RATING_MAP[item.rating]:'';
+        if(ratingStr)lines.push('       效果：'+ratingStr);
+        if(item.notes)lines.push('       备注：'+item.notes);
+      });
+    });
+    lines.push('');
+  });
+  if(teacherName)lines.push('━'.repeat(28));
+  if(teacherName)lines.push('请'+teacherName+'老师查阅，谢谢！');
+  var text=lines.join('\n');
+  document.getElementById('summaryPreview').textContent=text;
+  document.getElementById('modalTitle').textContent='📋 '+formatDateCN(currentDate)+' 打卡汇总（'+totalStudents+'人）';
+  document.getElementById('summaryModal').classList.add('show');
+  window._currentSummaryText=text;
+}
+function closeModal(){document.getElementById('summaryModal').classList.remove('show');}
+function copySummary(){if(!window._currentSummaryText){showToast('⚠️ 无内容可复制');return;}navigator.clipboard.writeText(window._currentSummaryText).then(function(){showToast('✅ 已复制到剪贴板！');closeModal();}).catch(function(){var ta=document.createElement('textarea');ta.value=window._currentSummaryText;document.body.appendChild(ta);ta.select();document.execCommand('copy');document.body.removeChild(ta);showToast('✅ 已复制到剪贴板！');closeModal();});}
+function sendToTeacher(){
+  if(!window._currentSummaryText){showToast('⚠️ 无内容可发送');return;}
+  var teacherName=localStorage.getItem('teacherName')||'';
+  var msg=window._currentSummaryText;
+  if(typeof dingtalk!=='undefined'&&dingtalk&&dingtalk.biz&&dingtalk.biz.chat){
+    try{dingtalk.biz.chat.pickConversation({corpId:'',onSuccess:function(r){dingtalk.biz.chat.sendTextMessage({conversationId:r.conversationId,text:msg,onSuccess:function(){showToast('✅ 发送成功！');closeModal();},onFail:function(){copyFallback();}});},onFail:function(){copyFallback();}});}catch(e){copyFallback();}
+  }else{
+    copyFallback();
+  }
+}
+function copyFallback(){
+  navigator.clipboard.writeText(window._currentSummaryText).then(function(){
+    showToast('📋 已复制，粘贴发送给班主任即可');
+    closeModal();
+  }).catch(function(){
+    var ta=document.createElement('textarea');ta.value=window._currentSummaryText;document.body.appendChild(ta);ta.select();document.execCommand('copy');document.body.removeChild(ta);
+    showToast('📋 已复制，粘贴发送给班主任即可');
+    closeModal();
+  });
+}
+
+// Part 3: History pages + collect helpers + import/export
+function renderHistoryPage(){
+  var container=document.getElementById('mainContainer');
+  var html='';
+  html+='<div class="data-actions"><button class="data-btn import-btn" onclick="document.getElementById(\'importInput\').click()">📥 导入数据</button><button class="data-btn" onclick="exportMyData()">📤 导出我的数据</button></div>';
+  var dates=[];
+  for(var i=0;i<localStorage.length;i++){
+    var k=localStorage.key(i);
+    if(k&&k.indexOf('studyCheckin_')===0&&!k.includes('_')||(k.match(/studyCheckin_(\d{4}-\d{2}-\d{2})$/))){
+      var m=k.match(/^studyCheckin_(\d{4}-\d{2}-\d{2})$/);
+      if(m)dates.push(m[1]);
+    }
+  }
+  dates.sort().reverse();
+  if(dates.length===0){
+    html+='<div class="empty-state"><div class="empty-icon">📅</div><div class="empty-text">暂无历史记录</div></div>';
+  }else{
+    html+='<div class="history-list">';
+    dates.forEach(function(d){
+      var data=loadData(d);
+      var morningCount=(data.sessions.morning||[]).length;
+      var afternoonCount=(data.sessions.afternoon||[]).length;
+      var eveningCount=(data.sessions.evening||[]).length;
+      var totalFilled=0;
+      [data.sessions.morning,data.sessions.afternoon,data.sessions.evening].forEach(function(arr){
+        if(arr&&arr.some(isProjectFilled))totalFilled++;
+      });
+      var bc='empty',bt='未打卡';
+      if(totalFilled===3){bc='complete';bt='✓ 全部完成';}else if(totalFilled>0){bc='partial';bt=totalFilled+'/3 时段';}
+      var summary='';
+      SESSIONS.forEach(function(s){
+        var arr=data.sessions[s.key]||[];
+        if(arr.length>0){
+          var filled=arr.filter(isProjectFilled);
+          if(filled.length>0){
+            var subjs=filled.map(function(p){return p.subjects&&p.subjects.length>0?p.subjects[0]:'';}).filter(Boolean).join('/');
+            summary+=s.label+arr.length+'项'+(subjs?'['+subjs+']':'')+'；';
+          }
+        }
+      });
+      if(!summary)summary='暂无内容';
+      html+='<div class="history-item" onclick="loadHistoryDate(\''+d+'\')">';
+      html+='<div style="display:flex;align-items:center;justify-content:space-between">';
+      html+='<div class="history-date">'+formatDateCN(d)+'</div>';
+      html+='<div class="history-badge '+bc+'">'+bt+'</div>';
+      html+='</div>';
+      html+='<div class="history-sessions">'+SESSIONS.map(function(s){var arr=data.sessions[s.key]||[];return'<div class="history-session-dot '+(arr.some(isProjectFilled)?'active':'')+'" title="'+s.label+'"></div>';}).join('')+'</div>';
+      html+='<div class="history-summary">'+escapeHtml(summary)+'</div>';
+      html+='</div>';
+    });
+    html+='</div>';
+  }
+  container.innerHTML=html;
+  document.getElementById('bottomBar').style.display='none';
+}
+function loadHistoryDate(d){currentDate=d;currentTab='checkin';renderCheckinPage();}
+function renderCollectHistoryPage(){
+  var container=document.getElementById('mainContainer');
+  var html='<div class="data-actions"><button class="data-btn import-btn" onclick="document.getElementById(\'importInput\').click()">📥 导入家长打卡</button><button class="data-btn" onclick="exportGroupData()">📤 导出汇总数据</button></div>';
+  var dates=[];
+  var raw=localStorage.getItem('groupCheckinIndex');
+  if(raw){try{var idx=JSON.parse(raw);idx.forEach(function(item){if(dates.indexOf(item.date)<0)dates.push(item.date);});}catch(e){}}
+  dates.sort().reverse();
+  if(dates.length===0){
+    html+='<div class="empty-state"><div class="empty-icon">📊</div><div class="empty-text">暂无汇总记录<br>家长提交打卡后才会出现</div></div>';
+  }else{
+    html+='<div class="history-list">';
+    dates.forEach(function(d){
+      var subs=getGroupSubmissions(d);
+      var fc=0;
+      subs.forEach(function(sub){
+        var hasMorning=isSessionFilled(sub.sessions.morning);
+        var hasAfternoon=isSessionFilled(sub.sessions.afternoon);
+        var hasEvening=isSessionFilled(sub.sessions.evening);
+        if(hasMorning&&hasAfternoon&&hasEvening)fc++;
+      });
+      var bc=subs.length===0?'empty':(fc===subs.length&&subs.length>0?'complete':'partial');
+      var bt=subs.length===0?'无人打卡':(fc===subs.length&&subs.length>0?'✓ 全部完成':'部分完成');
+      html+='<div class="history-item" onclick="loadCollectHistory(\''+d+'\')">';
+      html+='<div style="display:flex;align-items:center;justify-content:space-between">';
+      html+='<div class="history-date">'+formatDateCN(d)+'</div>';
+      html+='<div class="history-badge '+bc+'">'+subs.length+'人提交 · '+bt+'</div>';
+      html+='</div>';
+      var names=subs.map(function(s){return s.studentName||'未命名';}).join('、');
+      html+='<div class="history-summary">'+escapeHtml(names||'暂无')+'</div>';
+      html+='</div>';
+    });
+    html+='</div>';
+  }
+  container.innerHTML=html;
+  document.getElementById('bottomBar').style.display='none';
+}
+function loadCollectHistory(d){currentDate=d;currentTab='collect';renderCollectPage();}
+function exportGroupData(){
+  var submissions=getGroupSubmissions(currentDate);
+  if(submissions.length===0){showToast('⚠️ 没有数据可导出');return;}
+  var blob=new Blob([JSON.stringify(submissions, null, 2)],{type:'application/json'});
+  var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='打卡汇总_'+currentDate+'.json';a.click();
+  showToast('✅ 已导出 JSON 文件');
+}
+function exportMyData(){
+  var dates=[];
+  for(var i=0;i<localStorage.length;i++){
+    var k=localStorage.key(i);
+    if(k&&k.match(/^studyCheckin_\d{4}-\d{2}-\d{2}$/)){
+      dates.push(k.replace('studyCheckin_',''));
+    }
+  }
+  dates.sort();
+  var all=dates.map(function(d){return loadData(d);});
+  if(all.length===0){showToast('⚠️ 没有数据可导出');return;}
+  var blob=new Blob([JSON.stringify(all, null, 2)],{type:'application/json'});
+  var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='我的打卡记录.json';a.click();
+  showToast('✅ 已导出 JSON 文件');
+}
+function handleImport(event){
+  var file=event.target.files[0];
+  if(!file)return;
+  var reader=new FileReader();
+  reader.onload=function(e){
+    try{
+      var data=JSON.parse(e.target.result);
+      if(Array.isArray(data)){
+        var imported=0;
+        data.forEach(function(item){
+          if(item.date&&item.studentName){
+            localStorage.setItem('studyCheckin_'+item.date,JSON.stringify(item));
+            localStorage.setItem('studyCheckin_'+item.date+'_'+item.studentName,JSON.stringify(item));
+            updateGroupIndex(item.date,item.studentName);
+            imported++;
+          }
+        });
+        showToast('✅ 成功导入 '+imported+' 条打卡记录');
+      }else if(data.date&&data.studentName){
+        localStorage.setItem('studyCheckin_'+data.date,JSON.stringify(data));
+        localStorage.setItem('studyCheckin_'+data.date+'_'+data.studentName,JSON.stringify(data));
+        updateGroupIndex(data.date,data.studentName);
+        showToast('✅ 成功导入 '+data.studentName+' 的打卡');
+      }else if(data.submissions&&Array.isArray(data.submissions)){
+        data.submissions.forEach(function(item){
+          if(item.date&&item.studentName){
+            localStorage.setItem('studyCheckin_'+item.date,JSON.stringify(item));
+            localStorage.setItem('studyCheckin_'+item.date+'_'+item.studentName,JSON.stringify(item));
+            updateGroupIndex(item.date,item.studentName);
+          }
+        });
+        showToast('✅ 成功导入 '+data.submissions.length+' 份组长汇总');
+      }else{
+        showToast('⚠️ 文件格式不正确');
+      }
+      renderCurrentPage();
+    }catch(err){showToast('⚠️ 解析文件失败：'+err.message);}
+    event.target.value='';
+  };
+  reader.readAsText(file);
+}
+document.getElementById('summaryModal').addEventListener('click',function(e){if(e.target===this)closeModal();});
+
+// Part 4: renderCollectPage + group helpers
+function getGroupSubmissions(date){
+  var items=[];
+  var raw=localStorage.getItem('groupCheckinIndex');
+  if(!raw)return items;
+  try{
+    var idx=JSON.parse(raw);
+    idx.forEach(function(entry){
+      if(entry.date===date){
+        var key='groupCheckin_'+date+'_'+entry.studentName;
+        var raw=localStorage.getItem(key);
+        if(raw){try{var d=JSON.parse(raw);if(d.sessions&&isSessionFilled(d.sessions.morning||[])||isSessionFilled(d.sessions.afternoon||[])||isSessionFilled(d.sessions.evening||[]))items.push(d);}catch(e){}}
+      }
+    });
+  }catch(e){}
+  return items;
+}
+function updateGroupIndex(date,name){
+  var raw=localStorage.getItem('groupCheckinIndex');
+  var idx=[];
+  if(raw){try{idx=JSON.parse(raw);}catch(e){idx=[];}}
+  var exists=idx.some(function(item){return item.date===date&&item.studentName===name;});
+  if(!exists){idx.push({date:date,studentName:name});}
+  localStorage.setItem('groupCheckinIndex',JSON.stringify(idx));
+}
+function renderCollectPage(){
+  var container=document.getElementById('mainContainer');
+  var submissions=getGroupSubmissions(currentDate);
+  var html='';
+  html+='<div class="collect-stat-bar">';
+  html+='<div class="collect-stat-chip"><div class="collect-stat-val">'+submissions.length+'</div><div class="collect-stat-label">已提交</div></div>';
+  var completeCount=0,totalProjects=0;
+  submissions.forEach(function(sub){
+    var hasMorning=isSessionFilled(sub.sessions.morning||[]);
+    var hasAfternoon=isSessionFilled(sub.sessions.afternoon||[]);
+    var hasEvening=isSessionFilled(sub.sessions.evening||[]);
+    if(hasMorning&&hasAfternoon&&hasEvening)completeCount++;
+    SESSIONS.forEach(function(s){totalProjects+=(sub.sessions[s.key]||[]).length;});
+  });
+  html+='<div class="collect-stat-chip"><div class="collect-stat-val green">'+completeCount+'</div><div class="collect-stat-label">全时段</div></div>';
+  html+='<div class="collect-stat-chip"><div class="collect-stat-val">'+totalProjects+'</div><div class="collect-stat-label">总项目</div></div>';
+  html+='</div>';
+  if(submissions.length===0){
+    html+='<div class="empty-state"><div class="empty-icon">📥</div><div class="empty-text">暂无打卡记录<br>等待家长提交…</div></div>';
+  }else{
+    html+='<div class="collect-member-list">';
+    submissions.forEach(function(sub){
+      var name=sub.studentName||'未命名';
+      var submittedAt=sub.submittedAt?new Date(sub.submittedAt).toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit'}):'';
+      var morningCount=(sub.sessions.morning||[]).filter(isProjectFilled).length;
+      var afternoonCount=(sub.sessions.afternoon||[]).filter(isProjectFilled).length;
+      var eveningCount=(sub.sessions.evening||[]).filter(isProjectFilled).length;
+      var bc='empty',bt='未完成';
+      if(morningCount>0&&afternoonCount>0&&eveningCount>0){bc='complete';bt='✓ 全部完成';}else if(morningCount>0||afternoonCount>0||eveningCount>0){bc='partial';bt='进行中';}
+      html+='<div class="member-card">';
+      html+='<div class="member-header" onclick="this.parentElement.classList.toggle(\'expanded\')">';
+      html+='<div><div class="member-name">'+escapeHtml(name)+'</div>';
+      html+='<div class="member-sessions">';
+      html+='<span style="font-size:12px;color:var(--text-tertiary);margin-right:6px">🌅'+morningCount+' ☀️'+afternoonCount+' 🌙'+eveningCount+'</span>';
+      if(submittedAt)html+='<span style="font-size:11px;color:var(--text-tertiary)">'+submittedAt+'</span>';
+      html+='</div></div>';
+      html+='<div class="member-badge '+bc+'">'+bt+'</div>';
+      html+='</div>';
+      html+='<div class="member-detail">';
+      SESSIONS.forEach(function(s){
+        var arr=sub.sessions[s.key]||[];
+        if(arr.length===0)return;
+        html+='<div class="detail-session">';
+        html+='<div class="detail-session-title">'+s.icon+' '+s.label+'（'+arr.length+'个项目）</div>';
+        arr.forEach(function(item,pIdx){
+          html+='<div class="detail-project-item">';
+          html+='<div class="detail-project-title"><span class="detail-project-num">#'+(pIdx+1)+'</span>';
+          if(item.subjects&&item.subjects.length>0)html+='<span style="font-size:12px;color:var(--text-secondary)">'+item.subjects.join('、')+'</span>';
+          html+='</div>';
+          if(item.startTime||item.endTime){
+            html+='<div class="detail-project-time">⏰ '+item.startTime+' → '+item.endTime+'（'+calcDuration(item.startTime,item.endTime)+'）</div>';
+          }
+          if(item.plan)html+='<div class="detail-session-row">📝 '+escapeHtml(item.plan)+'</div>';
+          if(item.completion)html+='<div class="detail-session-row">✅ '+escapeHtml(item.completion)+'</div>';
+          if(item.rating)html+='<div class="detail-session-row">💡 效果：'+RATING_MAP[item.rating]+'</div>';
+          if(item.notes)html+='<div class="detail-session-row">💬 '+escapeHtml(item.notes)+'</div>';
+          html+='</div>';
+        });
+        html+='</div>';
+      });
+      html+='</div>';
+      html+='</div>';
+    });
+    html+='</div>';
+  }
+  container.innerHTML=html;
+  var bb=document.getElementById('bottomBar');
+  if(submissions.length>0){
+    bb.innerHTML='<button class="btn btn-collect" onclick="generateSummary()">📋 一键汇总</button>';
+  }else{
+    bb.innerHTML='';
+  }
+  bb.style.display=submissions.length>0?'flex':'none';
+}
+function renderTeacherPage(){
+  var container=document.getElementById('mainContainer');
+  var html='';
+  html+='<div class="card">';
+  html+='<div class="card-title">📚 组内学习看板</div>';
+  html+='<div class="form-group"><label class="field-label">班主任姓名（用于署名）</label>';
+  html+='<input class="form-input" id="teacherNameInput" placeholder="请输入您的姓名" oninput="localStorage.setItem(\'teacherName\',this.value)"></div>';
+  html+='<div class="form-group" style="margin-top:12px"><label class="field-label">选择日期查看全班打卡</label>';
+  html+='<input type="date" class="form-input" id="teacherDatePicker" value="'+currentDate+'" onchange="renderTeacherBoard(this.value)"></div>';
+  html+='</div>';
+  html+='<div id="teacherBoard" style="margin-top:16px"></div>';
+  container.innerHTML=html;
+  renderTeacherBoard(currentDate);
+}
+function renderTeacherBoard(date){
+  var board=document.getElementById('teacherBoard');
+  if(!board)return;
+  var all=[];
+  for(var i=0;i<localStorage.length;i++){
+    var k=localStorage.key(i);
+    if(k&&k.match(/^studyCheckin_\d{4}-\d{2}-\d{2}$/)){
+      var raw=localStorage.getItem(k);
+      if(raw){try{var d=JSON.parse(raw);if(d.date===date&&isSessionFilled(d.sessions.morning||[])||isSessionFilled(d.sessions.afternoon||[])||isSessionFilled(d.sessions.evening||[]))all.push(d);}catch(e){}}
+    }
+  }
+  all.sort(function(a,b){return(a.studentName||'').localeCompare(b.studentName||'');});
+  if(all.length===0){
+    board.innerHTML='<div class="empty-state"><div class="empty-icon">📊</div><div class="empty-text">该日期暂无打卡数据<br>请先导入组长汇总数据</div></div>';
+    return;
+  }
+  var html='<div class="collect-stat-bar">';
+  html+='<div class="collect-stat-chip"><div class="collect-stat-val">'+all.length+'</div><div class="collect-stat-label">已打卡</div></div>';
+  var complete=0;
+  all.forEach(function(s){var m=isSessionFilled(s.sessions.morning||[]),a=isSessionFilled(s.sessions.afternoon||[]),e=isSessionFilled(s.sessions.evening||[]);if(m&&a&&e)complete++;});
+  html+='<div class="collect-stat-chip"><div class="collect-stat-val green">'+complete+'</div><div class="collect-stat-label">全天完成</div></div>';
+  html+='</div>';
+  html+='<div class="collect-member-list">';
+  all.forEach(function(sub){
+    var name=sub.studentName||'未命名';
+    var morningCount=(sub.sessions.morning||[]).filter(isProjectFilled).length;
+    var afternoonCount=(sub.sessions.afternoon||[]).filter(isProjectFilled).length;
+    var eveningCount=(sub.sessions.evening||[]).filter(isProjectFilled).length;
+    var bc='empty',bt='未完成';
+    if(morningCount>0&&afternoonCount>0&&eveningCount>0){bc='complete';bt='✓ 全天完成';}else if(morningCount>0||afternoonCount>0||eveningCount>0){bc='partial';bt='进行中';}
+    html+='<div class="member-card">';
+    html+='<div class="member-header" onclick="this.parentElement.classList.toggle(\'expanded\')">';
+    html+='<div><div class="member-name">'+escapeHtml(name)+'</div>';
+    html+='<div class="member-sessions"><span style="font-size:12px;color:var(--text-tertiary);margin-right:6px">🌅'+morningCount+' ☀️'+afternoonCount+' 🌙'+eveningCount+'</span></div></div>';
+    html+='<div class="member-badge '+bc+'">'+bt+'</div></div>';
+    html+='<div class="member-detail">';
+    SESSIONS.forEach(function(s){
+      var arr=sub.sessions[s.key]||[];
+      if(arr.length===0)return;
+      html+='<div class="detail-session">';
+      html+='<div class="detail-session-title">'+s.icon+' '+s.label+'（'+arr.length+'个项目）</div>';
+      arr.forEach(function(item,pIdx){
+        html+='<div class="detail-project-item">';
+        html+='<div class="detail-project-title"><span class="detail-project-num">#'+(pIdx+1)+'</span>';
+        if(item.subjects&&item.subjects.length>0)html+='<span style="font-size:12px;color:var(--text-secondary)">'+item.subjects.join('、')+'</span>';
+        html+='</div>';
+        if(item.startTime||item.endTime)html+='<div class="detail-project-time">⏰ '+item.startTime+' → '+item.endTime+'（'+calcDuration(item.startTime,item.endTime)+'）</div>';
+        if(item.plan)html+='<div class="detail-session-row">📝 '+escapeHtml(item.plan)+'</div>';
+        if(item.completion)html+='<div class="detail-session-row">✅ '+escapeHtml(item.completion)+'</div>';
+        if(item.rating)html+='<div class="detail-session-row">💡 效果：'+RATING_MAP[item.rating]+'</div>';
+        html+='</div>';
+      });
+      html+='</div>';
+    });
+    html+='</div></div>';
+  });
+  html+='</div>';
+  board.innerHTML=html;
+}
+function renderTeacherImportPage(){
+  var container=document.getElementById('mainContainer');
+  var html='<div class="card">';
+  html+='<div class="card-title">📥 导入组长汇总</div>';
+  html+='<div class="empty-state"><div class="empty-icon">📥</div>';
+  html+='<div class="empty-text">点击下方按钮，选择组长导出的汇总JSON文件<br>可同时选择多个文件批量导入</div></div>';
+  html+='<div class="data-actions" style="margin-top:16px"><button class="data-btn import-btn" onclick="document.getElementById(\'teacherImportInput\').click()">📥 选择汇总文件</button></div>';
+  html+='</div>';
+  container.innerHTML=html;
+}
+function initTeacherImport(){
+  var input=document.getElementById('teacherImportInput');
+  if(!input){
+    input=document.createElement('input');
+    input.type='file';input.id='teacherImportInput';input.accept='.json';input.style.display='none';
+    input.onchange=function(e){handleTeacherImport(e);};
+    document.body.appendChild(input);
+  }
+}
+function handleTeacherImport(event){
+  var files=event.target.files;
+  if(!files||files.length===0)return;
+  var total=0;
+  Array.prototype.forEach.call(files,function(file){
+    var reader=new FileReader();
+    reader.onload=function(e){
+      try{
+        var data=JSON.parse(e.target.result);
+        var count=0;
+        var list=data.submissions&&Array.isArray(data.submissions)?data.submissions:(Array.isArray(data)?data:[data]);
+        list.forEach(function(item){
+          if(item.date&&item.studentName){
+            localStorage.setItem('studyCheckin_'+item.date,JSON.stringify(item));
+            localStorage.setItem('studyCheckin_'+item.date+'_'+item.studentName,JSON.stringify(item));
+            count++;
+          }
+        });
+        total+=count;
+        showToast('✅ 已导入 '+file.name+' 共 '+count+' 条');
+      }catch(err){showToast('⚠️ '+file.name+' 导入失败');}
+    };
+    reader.readAsText(file);
+  });
+  setTimeout(function(){
+    showToast('🎉 共导入 '+total+' 条打卡记录，请前往「全班看板」查看');
+    if(currentRole==='teacher'&&currentTab==='history'){switchTab('checkin');}
+  },500);
+}
+window.teacherImportReady=false;
+var _origRenderCurrentPage=renderCurrentPage;
+renderCurrentPage=function(){
+  if(currentRole==='teacher'&&currentTab==='history'){
+    initTeacherImport();
+    renderTeacherImportPage();
+    return;
+  }
+  _origRenderCurrentPage();
+};
+
+</script>
+</body>
+</html>

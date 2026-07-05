@@ -160,6 +160,47 @@ textarea:focus{border-color:var(--primary);background:#FFF}
 </div>
 <div class="toast" id="toast"></div>
 <input type="file" id="importInput" accept=".json,.txt" style="display:none" onchange="handleImport(event)">
+<!-- 告知页面 -->
+<div class="modal-overlay" id="noticeModal">
+  <div class="modal notice-modal">
+    <div class="notice-header">
+      <div class="notice-icon">📢</div>
+      <div class="notice-title">温馨提醒</div>
+      <div class="notice-subtitle">暑期学习打卡活动说明</div>
+    </div>
+    <div class="notice-body">
+      <p>各位家长朋友们：</p>
+      <p>转眼孩子即将步入毕业班，学习节奏会大幅收紧，不少家长都希望利用暑假帮孩子提前调整状态。经组内家长自发沟通，我们计划开展暑期每日学习打卡活动。活动纯家长自愿组织，和学校无任何关联，大家可自主选择是否参与。</p>
+      <div class="notice-highlight">为维护群内学习氛围，<strong>若无特殊事由，连续五天未打卡将视作自动退出</strong>。</div>
+      <p class="notice-footer-text">前路漫漫亦灿灿，愿孩子们趁着暑期蓄力沉淀，从容迎接毕业班紧张的学习节奏！愿我们彼此陪伴督促，孩子们自律向上，满载收获奔赴新征程！</p>
+    </div>
+    <div class="notice-footer">
+      <button class="btn btn-primary btn-large" onclick="acknowledgeNotice()">我已知晓，自愿参与</button>
+    </div>
+  </div>
+</div>
+<style>
+.notice-modal{border-radius:20px;max-height:90vh;width:100%;max-width:600px;margin:0 auto;background:#FFF;overflow:hidden;box-shadow:0 8px 40px rgba(0,0,0,.15);animation:noticeSlideUp .4s cubic-bezier(0.34,1.56,0.64,1)}
+@keyframes noticeSlideUp{from{transform:translateY(40px);opacity:0}to{transform:translateY(0);opacity:1}}
+.notice-header{position:relative;padding:32px 24px 20px;text-align:center;background:linear-gradient(145deg,#FF9A56,#FFB88C,#FFD1A3);overflow:hidden}
+.notice-header::before{content:'';position:absolute;top:-60%;left:-20%;width:140%;height:140%;background:radial-gradient(circle,rgba(255,255,255,.12) 0%,transparent 70%);pointer-events:none}
+.notice-icon{font-size:44px;margin-bottom:10px;position:relative;display:inline-block;animation:noticeBounce 1s ease infinite}
+@keyframes noticeBounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.notice-title{font-size:22px;font-weight:700;color:#fff;position:relative;letter-spacing:2px;text-shadow:0 2px 4px rgba(180,80,20,.2)}
+.notice-subtitle{font-size:13px;color:rgba(255,255,255,.8);margin-top:4px;position:relative;font-weight:400}
+.notice-body{padding:24px 24px 16px;max-height:55vh;overflow-y:auto;font-size:14.5px;line-height:2;color:var(--text);background:#FFF}
+.notice-body p{margin-bottom:14px;text-align:justify;text-indent:2em}
+.notice-body p:last-child{margin-bottom:0}
+.notice-body .notice-highlight{background:#FFF8F0;padding:12px 16px;border-radius:10px;margin:16px 0;border-left:3px solid #FF9A56;text-indent:0}
+.notice-body .notice-highlight strong{color:#C45C00}
+.notice-footer-text{color:#333;font-weight:400;margin-top:18px;padding-top:14px;border-top:1.5px dashed #FFD4B8;line-height:2;font-size:14px;background:#FFFAF5;padding:16px 18px;border-radius:12px;margin-bottom:0}
+.notice-footer-text br{margin-bottom:4px}
+.notice-footer{padding:12px 24px 28px;background:#FFFAF5;text-align:center}
+.btn-large{height:52px;font-size:16px;border-radius:26px;width:100%;max-width:320px;font-weight:700;letter-spacing:1px;background:linear-gradient(145deg,#FF9A56,#FF7E32);box-shadow:0 4px 16px rgba(255,130,50,.35);transition:all .2s}
+.btn-large:hover{background:linear-gradient(145deg,#FFA868,#FF8A44)}
+.btn-large:active{transform:scale(.96);box-shadow:0 2px 8px rgba(255,130,50,.25)}
+.modal-overlay.show{display:flex;align-items:center;justify-content:center;padding:20px}
+</style>
 <script>
 // ==== Constants =====
 // 科目：语文、数学、英语、科学、文综
@@ -181,6 +222,19 @@ var currentRole = 'parent';
 var currentTab = 'checkin';
 var currentDate = formatDate(new Date());
 var formData = null;
+
+// ===== 告知页面 =====
+function checkNotice() {
+  var acknowledged = localStorage.getItem('noticeAcknowledged_v2');
+  if (!acknowledged) {
+    document.getElementById('noticeModal').classList.add('show');
+  }
+}
+function acknowledgeNotice() {
+  localStorage.setItem('noticeAcknowledged_v2', '1');
+  document.getElementById('noticeModal').classList.remove('show');
+}
+window.addEventListener('DOMContentLoaded', checkNotice);
 
 // ===== Utils =====
 function formatDate(d) {
@@ -593,10 +647,48 @@ function renderCollectPage() {
   }
 }
 
+const CLOUD_BASE = {
+  submitCheckin: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/submitCheckIn',
+  getLeaderData: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/getLeaderData',
+  getTeacherDashboard: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/getTeacherDashboo'
+};
+function callCloudAPI(url, payload){
+  return fetch(url, {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify(payload)
+  }).then(function(r){return r.json();});
+}
+
 function exportGroupData() {
   var date = currentDate;
   var submissions = getGroupSubmissions(date);
   if(submissions.length===0){ showToast('⚠ 今日暂无数据可导出'); return; }
+
+  // 批量上传到云端
+  var records = submissions.map(function(sub){
+    return {
+      date: date,
+      name: sub.studentName || '未知',
+      plan: (sub.sessions && sub.sessions.morning && sub.sessions.morning[0] && sub.sessions.morning[0].plan) || '',
+      effect: (sub.sessions && sub.sessions.morning && sub.sessions.morning[0] && sub.sessions.morning[0].rating) || '',
+      group: sub.group || '默认组',
+      role: 'leader',
+      raw: JSON.stringify(sub)
+    };
+  });
+
+  showToast('⏳ 正在同步到云端...');
+  Promise.all(records.slice(0, 20).map(function(rec){
+    return callCloudAPI(CLOUD_BASE.submitCheckin, rec);
+  })).then(function(results){
+    var success = results.filter(function(r){ return r && r.code === 0; }).length;
+    showToast('✅ 云端同步完成：' + success + '/' + records.length + ' 条');
+  }).catch(function(){
+    showToast('⚠️ 云端同步失败，已导出本地文件');
+  });
+
+  // 继续原有导出逻辑
   var jsonText = JSON.stringify({date:date, submissions:submissions},null,2);
   var isDingtalk = (typeof dingtalk!=='undefined' && dingtalk && dingtalk.biz);
   if(isDingtalk || !window.Blob || !URL.createObjectURL){
