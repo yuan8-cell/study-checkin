@@ -194,7 +194,7 @@ html,body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",
 .modal-overlay.show{display:flex;align-items:center;justify-content:center;padding:20px}
 </style>
 <div class="header">
-<div class="header-top"><div class="header-title">📚 学习打卡</div><div class="role-switch"><button class="role-btn active" id="roleParent" onclick="switchRole('parent')">家长</button><button class="role-btn" id="roleLeader" onclick="switchRole('leader')">组长</button></div></div>
+<div class="header-top"><div class="header-title">📚 学习打卡</div><div class="role-switch"><button class="role-btn active" id="roleParent" onclick="switchRole('parent')">家长</button><button class="role-btn" id="roleLeader" onclick="switchRole('leader')">组长</button><button class="role-btn" id="roleTeacher" onclick="switchRole('teacher')">老师</button></div></div>
 <input type="date" class="header-date" id="datePicker" onchange="onDateChange(this.value)">
 <div class="header-tabs" id="headerTabs"><button class="header-tab active" id="tabCheckin" onclick="switchTab('checkin')">📝 打卡</button><button class="header-tab" id="tabHistory" onclick="switchTab('history')">📋 历史</button></div>
 </div>
@@ -231,25 +231,32 @@ function switchRole(role){
   currentRole=role;
   document.getElementById('roleParent').classList.toggle('active',role==='parent');
   document.getElementById('roleLeader').classList.toggle('active',role==='leader');
-  if(role==='parent'){
-    document.getElementById('tabCheckin').textContent='📝 打卡';
-    document.getElementById('tabHistory').textContent='📋 我的历史';
-  }else{
-    document.getElementById('tabCheckin').textContent='📥 汇总';
-    document.getElementById('tabHistory').textContent='📊 历史汇总';
-  }
+  document.getElementById('roleTeacher').classList.toggle('active',role==='teacher');
   var tabs=document.getElementById('headerTabs');
   if(role==='parent'){
     tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📝 打卡</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📋 我的历史</button>';
-  }else{
+  }else if(role==='leader'){
     tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📥 汇总</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📊 历史汇总</button>';
+  }else{
+    tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📚 全班看板</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📋 导入组长</button>';
   }
   currentTab='checkin';
   renderCurrentPage();
 }
 function switchTab(tab){currentTab=tab;document.getElementById('tabCheckin').classList.toggle('active',tab==='checkin');document.getElementById('tabHistory').classList.toggle('active',tab==='history');renderCurrentPage();}
 function onDateChange(d){currentDate=d;renderCurrentPage();}
-function renderCurrentPage(){if(currentRole==='parent'){if(currentTab==='checkin')renderCheckinPage();else renderHistoryPage();}else{if(currentTab==='checkin')renderCollectPage();else renderCollectHistoryPage();}}
+function renderCurrentPage(){
+  if(currentRole==='parent'){
+    if(currentTab==='checkin')renderCheckinPage();
+    else renderHistoryPage();
+  }else if(currentRole==='leader'){
+    if(currentTab==='checkin')renderCollectPage();
+    else renderCollectHistoryPage();
+  }else{
+    if(currentTab==='checkin')renderTeacherPage();
+    else renderTeacherImportPage();
+  }
+}
 
 function createEmptyProject(){return{startTime:'',endTime:'',plan:'',completion:'',subjects:[],rating:'',notes:''};}
 function createEmptyForm(date){return{date:date,studentName:localStorage.getItem('studentName')||'',sessions:{morning:[],afternoon:[],evening:[]},submitted:false,submittedAt:null};}
@@ -626,6 +633,15 @@ function handleImport(event){
         localStorage.setItem('studyCheckin_'+data.date+'_'+data.studentName,JSON.stringify(data));
         updateGroupIndex(data.date,data.studentName);
         showToast('✅ 成功导入 '+data.studentName+' 的打卡');
+      }else if(data.submissions&&Array.isArray(data.submissions)){
+        data.submissions.forEach(function(item){
+          if(item.date&&item.studentName){
+            localStorage.setItem('studyCheckin_'+item.date,JSON.stringify(item));
+            localStorage.setItem('studyCheckin_'+item.date+'_'+item.studentName,JSON.stringify(item));
+            updateGroupIndex(item.date,item.studentName);
+          }
+        });
+        showToast('✅ 成功导入 '+data.submissions.length+' 份组长汇总');
       }else{
         showToast('⚠️ 文件格式不正确');
       }
@@ -736,6 +752,137 @@ function renderCollectPage(){
   }
   bb.style.display=submissions.length>0?'flex':'none';
 }
+function renderTeacherPage(){
+  var container=document.getElementById('mainContainer');
+  var html='';
+  html+='<div class="card">';
+  html+='<div class="card-title">📚 全班学习看板</div>';
+  html+='<div class="form-group"><label class="field-label">班主任姓名（用于署名）</label>';
+  html+='<input class="form-input" id="teacherNameInput" placeholder="请输入您的姓名" oninput="localStorage.setItem(\'teacherName\',this.value)"></div>';
+  html+='<div class="form-group" style="margin-top:12px"><label class="field-label">选择日期查看全班打卡</label>';
+  html+='<input type="date" class="form-input" id="teacherDatePicker" value="'+currentDate+'" onchange="renderTeacherBoard(this.value)"></div>';
+  html+='</div>';
+  html+='<div id="teacherBoard" style="margin-top:16px"></div>';
+  container.innerHTML=html;
+  renderTeacherBoard(currentDate);
+}
+function renderTeacherBoard(date){
+  var board=document.getElementById('teacherBoard');
+  if(!board)return;
+  var all=[];
+  for(var i=0;i<localStorage.length;i++){
+    var k=localStorage.key(i);
+    if(k&&k.match(/^studyCheckin_\d{4}-\d{2}-\d{2}$/)){
+      var raw=localStorage.getItem(k);
+      if(raw){try{var d=JSON.parse(raw);if(d.date===date&&isSessionFilled(d.sessions.morning||[])||isSessionFilled(d.sessions.afternoon||[])||isSessionFilled(d.sessions.evening||[]))all.push(d);}catch(e){}}
+    }
+  }
+  all.sort(function(a,b){return(a.studentName||'').localeCompare(b.studentName||'');});
+  if(all.length===0){
+    board.innerHTML='<div class="empty-state"><div class="empty-icon">📊</div><div class="empty-text">该日期暂无打卡数据<br>请先导入组长汇总数据</div></div>';
+    return;
+  }
+  var html='<div class="collect-stat-bar">';
+  html+='<div class="collect-stat-chip"><div class="collect-stat-val">'+all.length+'</div><div class="collect-stat-label">已打卡</div></div>';
+  var complete=0;
+  all.forEach(function(s){var m=isSessionFilled(s.sessions.morning||[]),a=isSessionFilled(s.sessions.afternoon||[]),e=isSessionFilled(s.sessions.evening||[]);if(m&&a&&e)complete++;});
+  html+='<div class="collect-stat-chip"><div class="collect-stat-val green">'+complete+'</div><div class="collect-stat-label">全天完成</div></div>';
+  html+='</div>';
+  html+='<div class="collect-member-list">';
+  all.forEach(function(sub){
+    var name=sub.studentName||'未命名';
+    var morningCount=(sub.sessions.morning||[]).filter(isProjectFilled).length;
+    var afternoonCount=(sub.sessions.afternoon||[]).filter(isProjectFilled).length;
+    var eveningCount=(sub.sessions.evening||[]).filter(isProjectFilled).length;
+    var bc='empty',bt='未完成';
+    if(morningCount>0&&afternoonCount>0&&eveningCount>0){bc='complete';bt='✓ 全天完成';}else if(morningCount>0||afternoonCount>0||eveningCount>0){bc='partial';bt='进行中';}
+    html+='<div class="member-card">';
+    html+='<div class="member-header" onclick="this.parentElement.classList.toggle(\'expanded\')">';
+    html+='<div><div class="member-name">'+escapeHtml(name)+'</div>';
+    html+='<div class="member-sessions"><span style="font-size:12px;color:var(--text-tertiary);margin-right:6px">🌅'+morningCount+' ☀️'+afternoonCount+' 🌙'+eveningCount+'</span></div></div>';
+    html+='<div class="member-badge '+bc+'">'+bt+'</div></div>';
+    html+='<div class="member-detail">';
+    SESSIONS.forEach(function(s){
+      var arr=sub.sessions[s.key]||[];
+      if(arr.length===0)return;
+      html+='<div class="detail-session">';
+      html+='<div class="detail-session-title">'+s.icon+' '+s.label+'（'+arr.length+'个项目）</div>';
+      arr.forEach(function(item,pIdx){
+        html+='<div class="detail-project-item">';
+        html+='<div class="detail-project-title"><span class="detail-project-num">#'+(pIdx+1)+'</span>';
+        if(item.subjects&&item.subjects.length>0)html+='<span style="font-size:12px;color:var(--text-secondary)">'+item.subjects.join('、')+'</span>';
+        html+='</div>';
+        if(item.startTime||item.endTime)html+='<div class="detail-project-time">⏰ '+item.startTime+' → '+item.endTime+'（'+calcDuration(item.startTime,item.endTime)+'）</div>';
+        if(item.plan)html+='<div class="detail-session-row">📝 '+escapeHtml(item.plan)+'</div>';
+        if(item.completion)html+='<div class="detail-session-row">✅ '+escapeHtml(item.completion)+'</div>';
+        if(item.rating)html+='<div class="detail-session-row">💡 效果：'+RATING_MAP[item.rating]+'</div>';
+        html+='</div>';
+      });
+      html+='</div>';
+    });
+    html+='</div></div>';
+  });
+  html+='</div>';
+  board.innerHTML=html;
+}
+function renderTeacherImportPage(){
+  var container=document.getElementById('mainContainer');
+  var html='<div class="card">';
+  html+='<div class="card-title">📥 导入组长汇总数据</div>';
+  html+='<div class="empty-state"><div class="empty-icon">📥</div>';
+  html+='<div class="empty-text">点击下方按钮，选择组长导出的汇总JSON文件<br>可同时选择多个文件批量导入</div></div>';
+  html+='<div class="data-actions" style="margin-top:16px"><button class="data-btn import-btn" onclick="document.getElementById(\'teacherImportInput\').click()">📥 选择汇总文件</button></div>';
+  html+='</div>';
+  container.innerHTML=html;
+}
+function initTeacherImport(){
+  var input=document.getElementById('teacherImportInput');
+  if(!input){
+    input=document.createElement('input');
+    input.type='file';input.id='teacherImportInput';input.accept='.json';input.style.display='none';
+    input.onchange=function(e){handleTeacherImport(e);};
+    document.body.appendChild(input);
+  }
+}
+function handleTeacherImport(event){
+  var files=event.target.files;
+  if(!files||files.length===0)return;
+  var total=0;
+  Array.prototype.forEach.call(files,function(file){
+    var reader=new FileReader();
+    reader.onload=function(e){
+      try{
+        var data=JSON.parse(e.target.result);
+        var count=0;
+        var list=data.submissions&&Array.isArray(data.submissions)?data.submissions:(Array.isArray(data)?data:[data]);
+        list.forEach(function(item){
+          if(item.date&&item.studentName){
+            localStorage.setItem('studyCheckin_'+item.date,JSON.stringify(item));
+            localStorage.setItem('studyCheckin_'+item.date+'_'+item.studentName,JSON.stringify(item));
+            count++;
+          }
+        });
+        total+=count;
+        showToast('✅ 已导入 '+file.name+' 共 '+count+' 条');
+      }catch(err){showToast('⚠️ '+file.name+' 导入失败');}
+    };
+    reader.readAsText(file);
+  });
+  setTimeout(function(){
+    showToast('🎉 共导入 '+total+' 条打卡记录，请前往「全班看板」查看');
+    if(currentRole==='teacher'&&currentTab==='history'){switchTab('checkin');}
+  },500);
+}
+window.teacherImportReady=false;
+var _origRenderCurrentPage=renderCurrentPage;
+renderCurrentPage=function(){
+  if(currentRole==='teacher'&&currentTab==='history'){
+    initTeacherImport();
+    renderTeacherImportPage();
+    return;
+  }
+  _origRenderCurrentPage();
+};
 
 </script>
 </body>

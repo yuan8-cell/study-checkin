@@ -51,7 +51,7 @@
     <!-- 在线修改URL -->
     <div class="url-edit">
       <label class="url-label">填报链接（修改后二维码会自动更新）：</label>
-      <input type="text" id="urlInput" class="url-input" value="https://yuan8-cell.github.io/study-checkin/daily_checkin.html" placeholder="请输入打卡页面链接">
+      <input type="text" id="urlInput" class="url-input" value="https://yuan8-cell.github.io/study-checkin/daily_checkin_fixed.html" placeholder="请输入打卡页面链接">
       <button class="btn-refresh" onclick="refreshQR()">刷新二维码</button>
     </div>
 
@@ -68,7 +68,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
   <script>
-    var currentUrl = 'https://yuan8-cell.github.io/study-checkin/daily_checkin.html';
+    var currentUrl = 'https://yuan8-cell.github.io/study-checkin/daily_checkin_fixed.html';
 
     function renderQR(url){
       var container = document.getElementById('qrContainer');
