@@ -1,0 +1,138 @@
+=== Day 62 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. intelligence /ɪnˈtelɪdʒəns/ (n.)
+  2. interest /ˈɪntrest/ (n.)
+  3. invite /ɪnˈvaɪt/ (v.)
+  4. island /ˈaɪlənd/ (n.)
+  5. item /ˈaɪtəm/ (n.)
+  6. jason /ˈdʒeɪsən/
+  7. jennifer /ˈdʒenifə/
+  8. joke /dʒəʊk/ (n.)
+  9. jones /dʒəunz/
+ 10. journey /ˈdʒɜːni/ (n.)
+ 11. joy /dʒɔɪ/ (n.)
+ 12. julie /ˈdʒuːli/
+ 13. keep on doing sth
+ 14. kitchen /ˈkɪtʃɪn/ (n.)
+ 15. land /lænd/ (n.)
+ 16. landscape /ˈlændskeɪp/ (n.)
+ 17. law /lɔː/ (n.)
+ 18. lawyer /ˈlɔːjə(r)/ (n.)
+ 19. lazy /ˈleɪzi/ (adj.)
+ 20. least /liːst/ (adv.)
+ 21. length /leŋθ/ (n.)
+ 22. less /les/ (adj.)
+
+【Review (Day 47,55,58,60,61)】
+  1. sight /saɪt/ (n.)
+  2. silly /ˈsɪli/ (adj.)
+  3. sir /sɜː(r)/ (n.)
+  4. sit-up /ˈsɪtʌp/ (n.)
+  5. size /saɪz/ (n.)
+  6. skate /skeɪt/ (v.)
+  7. skateboard /ˈskeɪtbɔːd/ (n.)
+  8. skateboarding /ˈskeɪtbɔːdɪŋ/ (n.)
+  9. skill /skɪl/ (n.)
+ 10. sleepy /ˈsliːpi/ (adj.)
+ 11. smile /smaɪl/ (v.)
+ 12. snack /snæk/ (n.)
+ 13. snake /sneɪk/ (n.)
+ 14. snow /snəʊ/ (v.)
+ 15. soft /sɒft/ (adj.)
+ 16. soft drink
+ 17. some day
+ 18. somebody /ˈsʌmbədi/ (pron.)
+ 19. someone /ˈsʌmwʌn/ (pron.)
+ 20. sometime /ˈsʌmtaɪm/ (adv.)
+ 21. soup /suːp/ (n.)
+ 22. south /saʊθ/ (n.)
+ 23. be yourself
+ 24. bedroom /ˈbedruːm/ (n.)
+ 25. bee /biː/ (n.)
+ 26. believe /bɪˈliːv/ (v.)
+ 27. benefit /ˈbenɪfɪt/ (v.)
+ 28. beside /bɪˈsaɪd/ (prep.)
+ 29. besides /bɪˈsaɪdz/ (prep.)
+ 30. billy /ˈbɪli/
+ 31. biscuit /ˈbɪskɪt/ (n.)
+ 32. block /blɒk/ (n.)
+ 33. boil /bɔɪl/ (v.)
+ 34. bored /bɔːd/ (adj.)
+ 35. born /bɔːn/ (v.)
+ 36. borrow /ˈbɒrəʊ/ (v.)
+ 37. bowl /bəʊl/ (n.)
+ 38. breath /breθ/ (n.)
+ 39. bridge /brɪdʒ/ (n.)
+ 40. budget /ˈbʌdʒɪt/ (n.)
+ 41. businessman /ˈbɪznəsmæn/ (n.)
+ 42. butter /ˈbʌtə(r)/ (n.)
+ 43. butterfly /ˈbʌtəflaɪ/ (n.)
+ 44. by accident
+ 45. designer /dɪˈzaɪnə(r)/ (n.)
+ 46. detail /ˈdiːteɪl/ (n.)
+ 47. diana /daɪˈænə/
+ 48. difference /ˈdɪfrəns/ (n.)
+ 49. difficulty /ˈdɪfɪkəlti/ (n.)
+ 50. director /dəˈrektə(r); daɪˈrektə(r)/ (n.)
+ 51. disappear /ˌdɪsəˈpɪə(r)/ (v.)
+ 52. disappointed /ˌdɪsəˈpɔɪntɪd/ (adj.)
+ 53. disaster /dɪˈzɑːstə(r)/ (n.)
+ 54. draw to a close
+ 55. drop sb a line
+ 56. during /ˈdjʊərɪŋ/ (prep.)
+ 57. earth /ɜːθ/ (n.)
+ 58. easily /ˈiːzəli/ (adv.)
+ 59. ecosystem /ˈiːkəʊsɪstəm/ (n.)
+ 60. education /ˌedʒuˈkeɪʃn/ (n.)
+ 61. edward /ˈedwəd/
+ 62. emotional intelligence
+ 63. engineer /ˌendʒɪˈnɪə(r)/ (n.)
+ 64. especially /ɪˈspeʃəli/ (adv.)
+ 65. event /ɪˈvent/ (n.)
+ 66. exchange /ɪksˈtʃeɪndʒ/ (v.)
+ 67. friendship /ˈfrendʃɪp/ (n.)
+ 68. frog /frɒɡ/ (n.)
+ 69. futurist /ˈfjuːtʃərɪst/ (n.)
+ 70. game /ɡeɪm/ (n.)
+ 71. german /ˈdʒɜːmən/ (n.)
+ 72. get together
+ 73. ginkgo /ˈɡɪŋkəʊ/ (n.)
+ 74. give sb a lift
+ 75. glue /ɡluː/ (n.)
+ 76. go boating
+ 77. go shopping
+ 78. goodness /ˈɡʊdnəs/ (n.)
+ 79. grape /ɡreɪp/ (n.)
+ 80. guest /gest/ (n.)
+ 81. guide /ɡaɪd/ (n.)
+ 82. hang up
+ 83. happiness /ˈhæpinəs/ (n.)
+ 84. hard-working /ˌhɑːd ˈwɜːkɪŋ/ (adj.)
+ 85. harry /ˈhæri/
+ 86. have sth in common
+ 87. health /helθ/ (n.)
+ 88. healthily /ˈhelθɪli/ (adv.)
+ 89. heat /hiːt/ (v.)
+ 90. helpful /ˈhelpfl/ (adj.)
+ 91. honest /ˈɒnɪst/ (adj.)
+ 92. honey /ˈhʌni/ (n.)
+ 93. honeycomb /ˈhʌnikəʊm/ (n.)
+ 94. honour /ˈɒnə(r)/
+ 95. host /həʊst/ (n.)
+ 96. hostess /ˈhəʊstəs/ (n.)
+ 97. hotel /həʊˈtel/ (n.)
+ 98. human /ˈhjuːmən/ (n.)
+ 99. humour /ˈhjuːmə(r)/
+100. hunt /hʌnt/ (n.)
+101. imagine /ɪˈmædʒɪn/ (v.)
+102. importance /ɪmˈpɔːtns/ (n.)
+103. impossible /ɪmˈpɒsəbl/ (adj.)
+104. in fact
+105. in order to
+106. in person
+107. in the sun
+108. industry /ˈɪndəstri/ (n.)
+109. influence /ˈɪnfluəns/ (v.)
+110. ingredient /ɪnˈɡriːdiənt/ (n.)

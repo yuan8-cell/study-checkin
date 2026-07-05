@@ -1,0 +1,137 @@
+=== Day 89 Answer Key ===
+
+【New Words】
+  1. purpose /ˈpɜːpəs/ [n.] — 目的；意图
+  2. push /pʊʃ/ [v.] — 鞭策；推 n. 推
+  3. quick /kwɪk/ [adj.] — 快的；迅速的   adv. 迅速地 ；快速地
+  4. rainstorm /ˈreɪnstɔːm/ [n.] — 暴风雨
+  5. rather /ˈrɑːðə(r)/ [adv.] — 相当；更准确地说
+  6. reader /ˈriːdə(r)/ [n.] — 读者；简易读物
+  7. receive /rɪˈsiːv/ [v.] — 收到
+  8. recently /ˈriːsntli/ [adv.] — 最近；不久前
+  9. recommend /ˌrekəˈmend/ [v.] — 推荐；建议
+ 10. recommendation /ˌrekəmenˈdeɪʃn/ [n.] — 推荐；提议
+ 11. reduce /rɪˈdjuːs/ [v.] — 减少
+ 12. reef /riːf/ [n.] — 礁；礁脉
+ 13. referee /ˌrefəˈriː/ [n.] — 裁判
+ 14. refuse /reˈfjuːz/ [v.] — 拒绝；退却
+ 15. relative /ˈrelətɪv/ [n.] — 亲戚；亲属
+ 16. relaxed /rɪˈlækst/ [adj.] — 放松的；镇定的
+ 17. repeat /rɪˈpiːt/ [v.] — 重复
+ 18. report /rɪˈpɔːt/ [n.] — & v. 报道；汇报
+ 19. rescue /ˈreskjuː/ [n.] — & v. 救援；营救
+ 20. return /rɪˈtɜːn/ [n.] — & v. 回来；归还
+ 21. review /rɪˈvjuː/ [v.] — 复习；回顾；复查   n. 回顾；审查
+ 22. risk /rɪsk/ [v.] — 使……冒风险（或面临 危险）  n. 危险；风险
+
+【Review】
+  1. alarm /əˈlɑːm/ [n.] — 警报（器）；惊恐 alarm clock 闹钟
+  2. alien /ˈeɪliən/ [n.] — 外星人
+  3. alive /əˈlaɪv/ [adj.] — 活着；在世；有活力 all of a sudden 突然；猛地
+  4. all smiles — 笑容满面
+  5. allen /ˈælən/ — 艾伦
+  6. allergic /əˈlɜːdʒɪk/ [adj.] — 过敏的
+  7. allow /əˈlaʊ/ [v.] — 使……成为可能；允许
+  8. ambition /æmˈbɪʃn/ [n.] — 追求的目标； 野心；雄心
+  9. american /əˈmerɪkən/ [adj.] — 美国的； 美洲的 n. 美国人；美洲人
+ 10. angel /ˈeɪndʒl/ — Falls 安赫尔瀑布
+ 11. anger /ˈæŋɡə(r)/ [n.] — 怒火
+ 12. anybody /ˈenibɒdi/ [pron.] — 任何人
+ 13. argentina /ˌɑːdʒənˈtiːnə/ — 阿根廷
+ 14. army /ˈɑːmi/ [n.] — 军队
+ 15. as a result — 因此
+ 16. as soon as — 一……就……
+ 17. as well — 也；又
+ 18. asian /ˈeɪʒn; ˈeɪʃn/ [adj.] — 亚洲的  n. 亚洲人
+ 19. at all costs — 不惜任何代价
+ 20. attack /əˈtæk/ [v.] — & n. 攻击；进攻
+ 21. attract /əˈtrækt/ [v.] — 吸引；招引
+ 22. au revoir — 再见（法语）
+ 23. harm /hɑːm/ [n.] — & v. 伤害；损害
+ 24. harmful /ˈhɑːmfl/ [adj.] — 有害的
+ 25. headache /ˈhedeɪk/ [n.] — 头痛
+ 26. hear from — 得到……消息
+ 27. hear of — 听说；得知
+ 28. heartbeat /ˈhɑːtbiːt/ [n.] — 心跳（声）
+ 29. heatwave /ˈhiːtweɪv/ [n.] — 热浪
+ 30. help out — 分担工作；帮忙做
+ 31. hero /ˈhɪərəʊ/ [n.] — (pl. heroes) 英雄； 男主角；偶像
+ 32. hidden /ˈhɪdn/ [adj.] — 隐藏的； 秘密的
+ 33. historical /hɪˈstɒrɪkl/ [adj.] — 历史的； 有关历史的
+ 34. hit /hɪt/ [v.] — (hit, hit) 碰撞；击；打   n. 打；击；击中
+ 35. hug /hʌɡ/ [v.] — & n. 拥抱
+ 36. hurt /hɜːt/ [v.] — （hurt, hurt） （使）疼痛   adj. 受伤的
+ 37. hurtful /ˈhɜːtfl/ [adj.] — 伤感情的
+ 38. ice-skate /ˈaɪsskeɪt/ [v.] — 滑冰；溜冰
+ 39. idiom /ˈɪdiəm/ [n.] — 习语；成语
+ 40. ill /ɪl/ [adj.] — 生病的
+ 41. illness /ˈɪlnəs/ [n.] — 疾病
+ 42. importantly /ɪmˈpɔːtntli/ [adv.] — 重要地
+ 43. improper /ɪmˈprɒpə(r)/ [adj.] — 不合适的 in future  今后； 从今以后
+ 44. in future — 今后； 从今以后
+ 45. look on the bright side — 从好的方面想；
+ 46. lost /lɒst/ [adj.] — 迷路的；丢失的； 失去的
+ 47. luca /ˈluːkə/ — 卢卡
+ 48. luckily /ˈlʌkɪli/ [adv.] — 幸运地
+ 49. mad /mæd/ [adj.] — 很生气；疯狂的
+ 50. madam /ˈmædəm/ [n.] — （正式、礼貌的 称呼）女士；夫人
+ 51. main /meɪn/ [adj.] — 主要的
+ 52. make a difference — 有作用；有影响 visitor /ˈvɪzɪtə(r)/ n. 参观者；来访者 elderly /ˈeldəli/ adj. 年纪较大的；
+ 53. make preparations — 作准备
+ 54. manner /ˈmænə(r)/ [n.] — 方式； (pl. manners) 礼仪
+ 55. manpower /ˈmænpaʊə(r)/ [n.] — 劳动力；人力
+ 56. marie /məˈriː/ — 玛丽
+ 57. married /ˈmærid/ [adj.] — 已婚的； 婚姻的 merci 谢谢（法语）
+ 58. marry /ˈmæri/ [v.] — 结婚； 娶； 嫁
+ 59. mask /mɑːsk/ [n.] — 口罩
+ 60. maya /ˈmaɪə/ — 马娅
+ 61. measure /ˈmeʒə(r)/ [v.] — 测量； 量度为  n. 措施；度量单位
+ 62. measurement /ˈmeʒəmənt/ [n.] — 数量； 测量
+ 63. medicine /ˈmedsn/ [n.] — 药；医学
+ 64. merci — 谢谢（法语）
+ 65. mexico /ˈmeksɪkəʊ/ — 墨西哥
+ 66. mile /maɪl/ [n.] — 英里
+ 67. on top of the world — 欢天喜地
+ 68. once in a while — 偶尔；间或
+ 69. onto /ˈɒntu;ˈɒntə/ [prep.] — 向；朝
+ 70. ordinary /ˈɔːdnri/ [adj.] — 平凡的；普通的
+ 71. ourselves /ˌaʊəˈselvz; ɑːˈselvz/ [pron.] — 我们自己
+ 72. out of breath — 上气不接下气
+ 73. outing /ˈaʊtɪŋ/ [n.] — 出外游玩；远足
+ 74. owner /ˈəʊnə(r)/ [n.] — 主人；物主
+ 75. pain /peɪn/ [n.] — 疼痛；痛苦
+ 76. painful /ˈpeɪnfl/ [adj.] — 令人痛苦的 ; （身体部位）疼痛的
+ 77. palm /pɑːm/ [n.] — 手掌
+ 78. panic /ˈpænɪk/ [n.] — 惊恐；恐慌
+ 79. paris /ˈpærɪs/ — 巴黎（法国首都）
+ 80. pass away — 去世（委婉说法）
+ 81. patient /ˈpeɪʃnt/ [n.] — 病人 adj. 有耐心的
+ 82. peru /pəˈruː/ — 秘鲁
+ 83. philippines /ˈfɪlɪpiːnz/ — 菲律宾
+ 84. photograph /ˈfəʊtəɡrɑːf/ [v.] — 拍照；照相   n. 照片；相片
+ 85. phuket /ˌpuːˈket/ — 普吉岛
+ 86. physics /ˈfɪzɪks/ [n.] — 物理；物理学
+ 87. pill /pɪl/ [n.] — 药丸；药片
+ 88. plane /pleɪn/ [n.] — 飞机
+ 89. player /ˈpleɪə(r)/ [n.] — 运动员；选手
+ 90. plenty /ˈplenti/ [pron.] — 充足；丰富；大量 plenty of 充足；大量
+ 91. pocket /ˈpɒkɪt/ [n.] — 口袋
+ 92. pocket money — 零花钱
+ 93. poem /ˈpəʊɪm/ [n.] — 诗
+ 94. police /pəˈliːs/ [n.] — 警察部门；警方
+ 95. pool /puːl/ [n.] — 池塘；水坑
+ 96. postcard /ˈpəʊstkɑːd/ [n.] — 明信片
+ 97. power /ˈpaʊə(r)/ [n.] — 电力供应；能量； 力量
+ 98. practical /ˈpræktɪkl/ [adj.] — 实用的； 实际的
+ 99. preparation /ˌprepəˈreɪʃn/ [n.] — 准备（工作）；预备
+100. present /ˈpreznt/ [n.] — 礼物
+101. press /pres/ [v.] — 压；按
+102. pressure /ˈpreʃə(r)/ [n.] — 压力
+103. primary /ˈpraɪməri/ [adj.] — 小学教育的； 首要的
+104. proper /ˈprɒpə(r)/ [adj.] — 恰当的；正确的 sit up 坐直
+105. proud of — 为……感到骄傲
+106. prove /pruːv/ [v.] — (proved, proved或
+107. provide /prəˈvaɪd/ [v.] — 提供；给予
+108. pulitzer /ˈpʊlɪtsə(r)/ — Prize 普利策奖
+109. pull together — 齐心协力；通力合作 solution /səˈluːʃn/ n. 解决办法；解决 though /ðəʊ/ conj. 虽然；尽管
+110. punish /ˈpʌnɪʃ/ [v.] — 惩罚；处罚

@@ -1,0 +1,137 @@
+=== Day 33 Answer Key ===
+
+【New Words】
+  1. car /kɑː(r)/ [n.] — 小汽车
+  2. care /keə(r)/ [n.] — 照顾；护理  v. 关心；在乎
+  3. carry /ˈkæri/ [v.] — 拿；提
+  4. cause /kɔːz/ [v.] — 造成；导致
+  5. central /ˈsentrəl/ [adj.] — 中心的；中央的
+  6. certainly /ˈsɜːtnli/ [adv.] — 肯定；当然
+  7. chip /tʃɪp/ [n.] — 炸薯条
+  8. choice /tʃɔɪs/ [n.] — 选择
+  9. cinema /ˈsɪnəmə/ [n.] — 电影院
+ 10. city /ˈsɪti/ [n.] — 城市
+ 11. close /kləʊs/ [adv.] — 紧挨着；靠近   adj. 亲密的；接近的
+ 12. clothes /kləʊðz/ [n.] — 衣服
+ 13. cloud /klaʊd/ [n.] — 云；云彩
+ 14. cloudy /ˈklaʊdi/ [adj.] — 多云的；阴天的
+ 15. coffee /ˈkɒfi/ [n.] — 咖啡
+ 16. cold /kəʊld/ [adj.] — 寒冷的
+ 17. colourful /ˈkʌləfl/ [adj.] — 色彩鲜艳的 come out 出现；盛开
+ 18. come out — 出现；盛开
+ 19. common /ˈkɒmən/ [adj.] — 共同的； 普遍的
+ 20. cookie /ˈkʊki/ [n.] — 曲奇饼
+ 21. cool /kuːl/ [adj.] — 妙极的；酷的
+ 22. could /kʊd; kəd/ — modal v. 能；可以
+
+【Review】
+  1. music /ˈmjuːzɪk/ [n.] — 音乐
+  2. musical /ˈmjuːzɪkl/ [adj.] — 音乐的； 有音乐天赋的
+  3. musical instrument — 乐器
+  4. my /maɪ/ [pron.] — 我的
+  5. name /neɪm/ [n.] — 名字；名称
+  6. nature /ˈneɪtʃə(r)/ [n.] — 自然界；大自然
+  7. need /niːd/ [v.] — & n. 需要
+  8. new /njuː/ [adj.] — 新的；刚出现的
+  9. news /njuːz/ [n.] — 消息；新闻
+ 10. next /nekst/ [adj.] — , adv. & n.  下一个（的）
+ 11. next time — 下次
+ 12. next to — 紧邻；在……近旁
+ 13. nice /naɪs/ [adj.] — 令人愉快的；宜人的
+ 14. night /naɪt/ [n.] — 夜晚
+ 15. nine /naɪn/ [num.] — 九
+ 16. nineteen /ˌnaɪnˈtiːn/ [num.] — 十九
+ 17. nineteenth /ˌnaɪnˈtiːnθ/ [num.] — 第十九
+ 18. ninetieth /ˈnaɪntiəθ/ [num.] — 第九十
+ 19. ninety /ˈnaɪnti/ [num.] — 九十
+ 20. ninth /naɪnθ/ [num.] — 第九
+ 21. no /nəʊ/ [interj.] — 不；不要
+ 22. noodle /ˈnuːdl/ [n.] — (usually pl.) 面条
+ 23. tenth /tenθ/ [num.] — 第十
+ 24. term /tɜːm/ [n.] — 学期
+ 25. than /ðæn; ðən/ [prep.] — & conj. （用以 引出比较的第二部分）比
+ 26. thank /θæŋk/ [v.] — 感谢；谢谢
+ 27. that /ðæt/ [pron.] — 那；那个
+ 28. their /ðeə(r)/ [pron.] — 他（她、它）们的
+ 29. them /ðem; ðəm/ [pron.] — （they的宾格） 他（她、它）们
+ 30. then /ðen/ [adv.] — 那时；然后；那么 M
+ 31. there /ðeə(r)/ [adv.] — 在那里
+ 32. these /ðiːz/ [pron.] — 这些
+ 33. they /ðeɪ/ [pron.] — 他（她、它）们
+ 34. thing /θɪŋ/ [n.] — 东西；事情
+ 35. third /θɜːd/ [num.] — 第三
+ 36. thirteen /ˌθɜːˈtiːn/ [num.] — 十三
+ 37. thirteenth /ˌθɜːˈtiːnθ/ [num.] — 第十三
+ 38. thirtieth /ˈθɜːtiəθ/ [num.] — 第三十
+ 39. thirty /ˈθɜːti/ [num.] — 三十
+ 40. this /ðɪs/ [pron.] — 这；这个
+ 41. those /ðəʊz/ [pron.] — 那些
+ 42. thousand /ˈθaʊznd/ [num.] — 千
+ 43. three /θriː/ [num.] — 三
+ 44. tidy /ˈtaɪdi/ [adj.] — 整洁的；井井有条的
+ 45. white /waɪt/ [adj.] — & n. 白色（的）
+ 46. who /ˌdʌbljuː eɪtʃ ˈəʊ/ — 世界卫生组织 UN /ˌjuː ˈen/ 联合国
+ 47. whom /huːm/ [pron.] — 谁；什么人
+ 48. why /waɪ/ [adv.] — 为什么
+ 49. will /wɪl/ — modal v. 将要；会
+ 50. window /ˈwɪndəʊ/ [n.] — 窗户
+ 51. wish /wɪʃ/ [v.] — 希望；祝愿 n. 愿望
+ 52. with /wɪð; wɪθ/ [prep.] — 和……在一起； 带有；使用
+ 53. wood /wʊd/ — 伍德
+ 54. work /wɜːk/ [v.] — & n. 工作
+ 55. work out — 计算出；解决
+ 56. would /wʊd; wəd/ — modal v. 想 （用于礼貌地邀请或向某人 提供某物）；将会
+ 57. write /raɪt/ [v.] — 写
+ 58. yard /jɑːd/ [n.] — 院子；园圃
+ 59. year /jɪə(r); jɜː(r)/ [n.] — 年
+ 60. yellow /ˈjeləʊ/ [adj.] — & n. 黄色（的）
+ 61. yes /jes/ [interj.] — 是的；可以
+ 62. yogurt /ˈjɒɡət/ — (= yoghurt) n. 酸奶 You’re welcome. 别客气；不用谢。
+ 63. you /juː; ju/ [pron.] — 你；您；你们
+ 64. your /jɔː(r); jə(r)/ [pron.] — 你的；您的； 你们的
+ 65. yours /jɔːz/ [pron.] — （通常写作Yours， 用于书信结尾的签名前）你的； 您的
+ 66. a few — 少数；几个
+ 67. arm /ɑːm/ [n.] — 手臂；上肢
+ 68. around the world — 世界各地
+ 69. arrive /əˈraɪv/ [v.] — 到达
+ 70. article /ˈɑːtɪkl/ [n.] — 文章；冠词
+ 71. artist /ˈɑːtɪst/ [n.] — 美术家；艺术家
+ 72. astronaut /ˈæstrənɔːt/ [n.] — 宇航员
+ 73. at first — 起初；最初
+ 74. at the end — 最后；在末尾
+ 75. at the moment — 现在；此刻
+ 76. at the start — 开始；起初
+ 77. at the top — 在顶部；在顶端
+ 78. away /əˈweɪ/ [adv.] — 离开；在别处
+ 79. awful /ˈɔːfl/ [adj.] — 糟糕的；讨厌的
+ 80. bad /bæd/ [adj.] — 不好的；坏的
+ 81. badminton /ˈbædmɪntən/ [n.] — 羽毛球运动
+ 82. bag /bæɡ/ [n.] — 袋子
+ 83. balanced /ˈbælənst/ [adj.] — 均衡的； 平衡的
+ 84. banana /bəˈnɑːnə/ [n.] — 香蕉
+ 85. baseball /ˈbeɪsbɔːl/ [n.] — 棒球（运动）
+ 86. basket /ˈbɑːskɪt/ [n.] — 篮子；筐
+ 87. beach /biːtʃ/ [n.] — 海滩；海滨
+ 88. beach volleyball — 沙滩排球
+ 89. bean /biːn/ [n.] — 豆
+ 90. because of — 因为
+ 91. become /bɪˈkʌm/ [v.] — 变成；成为
+ 92. belong /bɪˈlɒŋ/ [v.] — 应在（某处）
+ 93. belong to — 属于（某人）
+ 94. belt /belt/ [n.] — 安全带；腰带；皮带
+ 95. beth /beθ/ — 贝丝
+ 96. better /ˈbetə(r)/ [adj.] — 较好的  adv. 较好地
+ 97. bite through — 咬穿
+ 98. blind /blaɪnd/ [adj.] — 瞎的；失明的
+ 99. boat /bəʊt/ [n.] — 小船；小艇
+100. body /ˈbɒdi/ [n.] — 身体
+101. branch /brɑːntʃ/ [n.] — 分支；树枝
+102. bread /bred/ [n.] — 面包
+103. bright /braɪt/ [adj.] — 鲜艳的；明亮的； 聪明的
+104. brightly /ˈbraɪtli/ [adv.] — 明亮地
+105. bring /brɪŋ/ [v.] — 带来
+106. build /bɪld/ [v.] — 创建；建造
+107. bus /bʌs/ [n.] — 公交车
+108. by /baɪ/ [prep.] — 靠近；在……旁边
+109. cabbage /ˈkæbɪdʒ/ [n.] — 卷心菜
+110. call back — 回电话

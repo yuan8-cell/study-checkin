@@ -1,0 +1,138 @@
+=== Day 57 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. compare /kəmˈpeə(r)/ (v.)
+  2. concert /ˈkɒnsət/ (n.)
+  3. confidence /ˈkɒnfɪdəns/ (n.)
+  4. congratulation /kənˌɡrætʃəˈleɪʃn/ (n.)
+  5. connect /kəˈnekt/ (v.)
+  6. connection /kəˈnekʃn/ (n.)
+  7. continue /kənˈtɪnjuː/ (v.)
+  8. cost /kɒst/ (n.)
+  9. countryside /ˈkʌntrisaɪd/ (n.)
+ 10. couple /ˈkʌpl/ (n.)
+ 11. cover /ˈkʌvə(r)/ (v.)
+ 12. cream /kriːm/ (n.)
+ 13. creativity /ˌkriːeɪˈtɪvəti/ (n.)
+ 14. crust /krʌst/ (n.)
+ 15. cure /kjʊə(r)/ (n.)
+ 16. date /deɪt/ (n.)
+ 17. dead /ded/ (adj.)
+ 18. decorate /ˈdekəreɪt/ (v.)
+ 19. deer /dɪə(r)/ (n.)
+ 20. depend /dɪˈpend/ (v.)
+ 21. describe /dɪˈskraɪb/ (v.)
+ 22. design /dɪˈzaɪn/ (v.)
+
+【Review (Day 42,50,53,55,56)】
+  1. mobile phone
+  2. moment /ˈməʊmənt/ (n.)
+  3. money /ˈmʌni/ (n.)
+  4. monkey /ˈmʌŋki/ (n.)
+  5. mount /maʊnt/ (n.)
+  6. mountain /ˈmaʊntən/ (n.)
+  7. move /muːv/ (v.)
+  8. museum /mjuˈziːəm/ (n.)
+  9. must /mʌst; məst/
+ 10. mutton /ˈmʌtn/ (n.)
+ 11. nairobi /naɪˈrəʊbi/
+ 12. near /nɪə(r)/ (prep.)
+ 13. neck /nek/ (n.)
+ 14. neighbour /ˈneɪbə(r)/ (n.)
+ 15. net /net/ (n.)
+ 16. noise /nɔɪz/ (n.)
+ 17. north /nɔːθ/ (n.)
+ 18. off /ɒf/ (adv.)
+ 19. official /əˈfɪʃl/ (n.)
+ 20. on time
+ 21. once /wʌns/ (adv.)
+ 22. once upon a time
+ 23. thai /taɪ/ (adj.)
+ 24. thailand /ˈtaɪlænd/
+ 25. theatre /ˈθɪətə(r)/ (n.)
+ 26. theirs /ðeəz/ (pron.)
+ 27. think about
+ 28. think of
+ 29. thirsty /ˈθɜːsti/ (adj.)
+ 30. thought /θɔːt/ (n.)
+ 31. through /θruː/ (prep.)
+ 32. tiger /ˈtaɪɡə(r)/ (n.)
+ 33. time zone
+ 34. tired /ˈtaɪəd/ (adj.)
+ 35. tiring /ˈtaɪərɪŋ/ (adj.)
+ 36. tony /ˈtəʊni/
+ 37. too many
+ 38. too much
+ 39. top /tɒp/ (n.)
+ 40. tour /tʊə(r)/ (n.)
+ 41. tourist /ˈtʊərɪst/ (n.)
+ 42. treat /triːt/ (v.)
+ 43. trick /trɪk/ (n.)
+ 44. trip /trɪp/ (n.)
+ 45. wow /waʊ/ (interj.)
+ 46. write down
+ 47. wrong /rɒŋ/ (adj.)
+ 48. yesterday /ˈjestədeɪ; ˈjestədi/ (n.)
+ 49. young /jʌŋ/ (adj.)
+ 50. zone /zəʊn/ (n.)
+ 51. zoo /zuː/ (n.)
+ 52. able /ˈeɪbl/ (adj.)
+ 53. accept /əkˈsept/ (v.)
+ 54. according /əˈkɔːdɪŋ/
+ 55. accordion /əˈkɔːdiən/ (n.)
+ 56. action /ˈækʃn/ (n.)
+ 57. actress /ˈæktrəs/ (n.)
+ 58. actually /ˈæktʃuəli/ (adv.)
+ 59. add /æd/ (v.)
+ 60. add sth to sth
+ 61. ah /ɑː/ (interj.)
+ 62. ahead /əˈhed/ (adv.)
+ 63. alexander /ˌælɪɡˈzɑːndə(r)/
+ 64. alike /əˈlaɪk/ (adj.)
+ 65. almost /ˈɔːlməʊst/ (adv.)
+ 66. alone /əˈləʊn/ (adv.)
+ 67. be yourself
+ 68. bedroom /ˈbedruːm/ (n.)
+ 69. bee /biː/ (n.)
+ 70. believe /bɪˈliːv/ (v.)
+ 71. benefit /ˈbenɪfɪt/ (v.)
+ 72. beside /bɪˈsaɪd/ (prep.)
+ 73. besides /bɪˈsaɪdz/ (prep.)
+ 74. billy /ˈbɪli/
+ 75. biscuit /ˈbɪskɪt/ (n.)
+ 76. block /blɒk/ (n.)
+ 77. boil /bɔɪl/ (v.)
+ 78. bored /bɔːd/ (adj.)
+ 79. born /bɔːn/ (v.)
+ 80. borrow /ˈbɒrəʊ/ (v.)
+ 81. bowl /bəʊl/ (n.)
+ 82. breath /breθ/ (n.)
+ 83. bridge /brɪdʒ/ (n.)
+ 84. budget /ˈbʌdʒɪt/ (n.)
+ 85. businessman /ˈbɪznəsmæn/ (n.)
+ 86. butter /ˈbʌtə(r)/ (n.)
+ 87. butterfly /ˈbʌtəflaɪ/ (n.)
+ 88. by accident
+ 89. calm /kɑːm/ (adj.)
+ 90. camp /kæmp/ (n.)
+ 91. cancer /ˈkænsə(r)/ (n.)
+ 92. care about
+ 93. careful /ˈkeəfl/ (adj.)
+ 94. challenge /ˈtʃælɪndʒ/ (n.)
+ 95. chance /tʃɑːns/ (n.)
+ 96. character /ˈkærəktə(r)/ (n.)
+ 97. cheese /tʃiːz/ (n.)
+ 98. cheetah /ˈtʃiːtə/ (n.)
+ 99. chief /tʃiːf/ (adj.)
+100. christmas /ˈkrɪsməs/ (n.)
+101. classic /ˈklæsɪk/ (n.)
+102. clause /klɔːz/ (n.)
+103. clean up
+104. climate /ˈklaɪmət/ (n.)
+105. closing /ˈkləʊzɪŋ/ (adj.)
+106. college /ˈkɒlɪdʒ/ (n.)
+107. come over
+108. communicate /kəˈmjuːnɪkeɪt/ (v.)
+109. communication /kəˌmjuːnɪˈkeɪʃn/ (n.)
+110. community /kəˈmjuːnəti/ (n.)

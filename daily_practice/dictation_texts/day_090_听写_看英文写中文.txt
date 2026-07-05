@@ -1,0 +1,138 @@
+=== Day 90 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. risky /ˈrɪski/ (adj.)
+  2. robert /ˈrɒbət/
+  3. roll /rəʊl/ (v.)
+  4. roof /ruːf/ (n.)
+  5. rub /rʌb/ (v.)
+  6. rude /ruːd/ (adj.)
+  7. runny /ˈrʌni/ (adj.)
+  8. sadly /ˈsædli/ (adv.)
+  9. safety /ˈseɪfti/ (n.)
+ 10. sahara /səˈhɑːrə/
+ 11. sand /sænd/ (n.)
+ 12. scared /skeəd/ (adj.)
+ 13. scared of
+ 14. schoolgirl /ˈskuːlɡɜːl/ (n.)
+ 15. score /skɔː(r)/ (n.)
+ 16. scream /skriːm/ (v.)
+ 17. sea level
+ 18. secondly /ˈsekəndli/ (adv.)
+ 19. secretly /ˈsiːkrətli/ (adv.)
+ 20. security /sɪˈkjʊərəti/ (n.)
+ 21. security guard
+ 22. selfish /ˈselfɪʃ/ (adj.)
+
+【Review (Day 75,83,86,88,89)】
+  1. audience /ˈɔːdiəns/ (n.)
+  2. avoid /əˈvɔɪd/ (v.)
+  3. awake /əˈweɪk/ (adj.)
+  4. award /əˈwɔːd/ (n.)
+  5. backache /ˈbækeɪk/ (n.)
+  6. badal /ˈbɑːdl/
+  7. bark /bɑːk/ (v.)
+  8. base /beɪs/ (v.)
+  9. base sth on sth
+ 10. basic /ˈbeɪsɪk/ (adj.)
+ 11. be about to
+ 12. be hard on
+ 13. be used to
+ 14. behave /bɪˈheɪv/ (v.)
+ 15. belgium /ˈbeldʒəm/
+ 16. below /bɪˈləʊ/ (prep.)
+ 17. ben /ben/
+ 18. bit /bɪt/ (n.)
+ 19. bit by bit
+ 20. blouse /blaʊz/ (n.)
+ 21. bone /bəʊn/ (n.)
+ 22. bottom /ˈbɒtəm/ (n.)
+ 23. in low spirits
+ 24. in need
+ 25. in return
+ 26. in time
+ 27. include /ɪnˈkluːd/ (v.)
+ 28. india /ˈɪndiə/
+ 29. indian /ˈɪndiən/ (adj.)
+ 30. indonesia /ˌɪndəˈniːʒə/
+ 31. informal /ɪnˈfɔːml/ (adj.)
+ 32. inga /ˈɪŋɡə/
+ 33. injury /ˈɪndʒəri/ (n.)
+ 34. ink /ɪŋk/ (n.)
+ 35. inspiration /ˌɪnspəˈreɪʃn/ (n.)
+ 36. instructor /ɪnˈstrʌktə(r)/ (n.)
+ 37. interview /ˈɪntəvjuː/ (n.)
+ 38. interviewer /ˈɪntəvjuːə(r)/ (n.)
+ 39. introduction /ˌɪntrəˈdʌkʃn/ (n.)
+ 40. italian /ɪˈtæliən/ (adj.)
+ 41. its /ɪts/ (pron.)
+ 42. james /dʒeɪmz/
+ 43. jeans /dʒiːnz/ (n.)
+ 44. jeff /dʒef/
+ 45. missing /ˈmɪsɪŋ/ (adj.)
+ 46. moon /muːn/ (n.)
+ 47. most of all
+ 48. mystery /ˈmɪstri/ (n.)
+ 49. namaste /nɑːˈmɑːste/ (interj.)
+ 50. nancy /ˈnænsi/
+ 51. naughty /ˈnɔːti/ (adj.)
+ 52. nearby /ˌnɪəˈbaɪ/ (adj.)
+ 53. nearly /ˈnɪəli/ (adv.)
+ 54. negative /ˈneɡətɪv/ (adj.)
+ 55. nervously /ˈnɜːvəsli/ (adv.)
+ 56. nile /naɪl/
+ 57. no way
+ 58. nobody /ˈnəʊbədi/ (pron.)
+ 59. normal /ˈnɔːml/ (adj.)
+ 60. nosebleed /ˈnəʊzbliːd/ (n.)
+ 61. nursing home
+ 62. object /ˈɒbdʒɪkt/ (n.)
+ 63. occasion /əˈkeɪʒn/ (n.)
+ 64. on fire
+ 65. on purpose
+ 66. on the go
+ 67. player /ˈpleɪə(r)/ (n.)
+ 68. plenty /ˈplenti/ (pron.)
+ 69. pocket /ˈpɒkɪt/ (n.)
+ 70. pocket money
+ 71. poem /ˈpəʊɪm/ (n.)
+ 72. police /pəˈliːs/ (n.)
+ 73. pool /puːl/ (n.)
+ 74. postcard /ˈpəʊstkɑːd/ (n.)
+ 75. power /ˈpaʊə(r)/ (n.)
+ 76. practical /ˈpræktɪkl/ (adj.)
+ 77. preparation /ˌprepəˈreɪʃn/ (n.)
+ 78. present /ˈpreznt/ (n.)
+ 79. press /pres/ (v.)
+ 80. pressure /ˈpreʃə(r)/ (n.)
+ 81. primary /ˈpraɪməri/ (adj.)
+ 82. proper /ˈprɒpə(r)/ (adj.)
+ 83. proud of
+ 84. prove /pruːv/ (v.)
+ 85. provide /prəˈvaɪd/ (v.)
+ 86. pulitzer /ˈpʊlɪtsə(r)/
+ 87. pull together
+ 88. punish /ˈpʌnɪʃ/ (v.)
+ 89. purpose /ˈpɜːpəs/ (n.)
+ 90. push /pʊʃ/ (v.)
+ 91. quick /kwɪk/ (adj.)
+ 92. rainstorm /ˈreɪnstɔːm/ (n.)
+ 93. rather /ˈrɑːðə(r)/ (adv.)
+ 94. reader /ˈriːdə(r)/ (n.)
+ 95. receive /rɪˈsiːv/ (v.)
+ 96. recently /ˈriːsntli/ (adv.)
+ 97. recommend /ˌrekəˈmend/ (v.)
+ 98. recommendation /ˌrekəmenˈdeɪʃn/ (n.)
+ 99. reduce /rɪˈdjuːs/ (v.)
+100. reef /riːf/ (n.)
+101. referee /ˌrefəˈriː/ (n.)
+102. refuse /reˈfjuːz/ (v.)
+103. relative /ˈrelətɪv/ (n.)
+104. relaxed /rɪˈlækst/ (adj.)
+105. repeat /rɪˈpiːt/ (v.)
+106. report /rɪˈpɔːt/ (n.)
+107. rescue /ˈreskjuː/ (n.)
+108. return /rɪˈtɜːn/ (n.)
+109. review /rɪˈvjuː/ (v.)
+110. risk /rɪsk/ (v.)

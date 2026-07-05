@@ -1,0 +1,138 @@
+=== Day 33 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. car /kɑː(r)/ (n.)
+  2. care /keə(r)/ (n.)
+  3. carry /ˈkæri/ (v.)
+  4. cause /kɔːz/ (v.)
+  5. central /ˈsentrəl/ (adj.)
+  6. certainly /ˈsɜːtnli/ (adv.)
+  7. chip /tʃɪp/ (n.)
+  8. choice /tʃɔɪs/ (n.)
+  9. cinema /ˈsɪnəmə/ (n.)
+ 10. city /ˈsɪti/ (n.)
+ 11. close /kləʊs/ (adv.)
+ 12. clothes /kləʊðz/ (n.)
+ 13. cloud /klaʊd/ (n.)
+ 14. cloudy /ˈklaʊdi/ (adj.)
+ 15. coffee /ˈkɒfi/ (n.)
+ 16. cold /kəʊld/ (adj.)
+ 17. colourful /ˈkʌləfl/ (adj.)
+ 18. come out
+ 19. common /ˈkɒmən/ (adj.)
+ 20. cookie /ˈkʊki/ (n.)
+ 21. cool /kuːl/ (adj.)
+ 22. could /kʊd; kəd/
+
+【Review (Day 18,26,29,31,32)】
+  1. music /ˈmjuːzɪk/ (n.)
+  2. musical /ˈmjuːzɪkl/ (adj.)
+  3. musical instrument
+  4. my /maɪ/ (pron.)
+  5. name /neɪm/ (n.)
+  6. nature /ˈneɪtʃə(r)/ (n.)
+  7. need /niːd/ (v.)
+  8. new /njuː/ (adj.)
+  9. news /njuːz/ (n.)
+ 10. next /nekst/ (adj.)
+ 11. next time
+ 12. next to
+ 13. nice /naɪs/ (adj.)
+ 14. night /naɪt/ (n.)
+ 15. nine /naɪn/ (num.)
+ 16. nineteen /ˌnaɪnˈtiːn/ (num.)
+ 17. nineteenth /ˌnaɪnˈtiːnθ/ (num.)
+ 18. ninetieth /ˈnaɪntiəθ/ (num.)
+ 19. ninety /ˈnaɪnti/ (num.)
+ 20. ninth /naɪnθ/ (num.)
+ 21. no /nəʊ/ (interj.)
+ 22. noodle /ˈnuːdl/ (n.)
+ 23. tenth /tenθ/ (num.)
+ 24. term /tɜːm/ (n.)
+ 25. than /ðæn; ðən/ (prep.)
+ 26. thank /θæŋk/ (v.)
+ 27. that /ðæt/ (pron.)
+ 28. their /ðeə(r)/ (pron.)
+ 29. them /ðem; ðəm/ (pron.)
+ 30. then /ðen/ (adv.)
+ 31. there /ðeə(r)/ (adv.)
+ 32. these /ðiːz/ (pron.)
+ 33. they /ðeɪ/ (pron.)
+ 34. thing /θɪŋ/ (n.)
+ 35. third /θɜːd/ (num.)
+ 36. thirteen /ˌθɜːˈtiːn/ (num.)
+ 37. thirteenth /ˌθɜːˈtiːnθ/ (num.)
+ 38. thirtieth /ˈθɜːtiəθ/ (num.)
+ 39. thirty /ˈθɜːti/ (num.)
+ 40. this /ðɪs/ (pron.)
+ 41. those /ðəʊz/ (pron.)
+ 42. thousand /ˈθaʊznd/ (num.)
+ 43. three /θriː/ (num.)
+ 44. tidy /ˈtaɪdi/ (adj.)
+ 45. white /waɪt/ (adj.)
+ 46. who /ˌdʌbljuː eɪtʃ ˈəʊ/
+ 47. whom /huːm/ (pron.)
+ 48. why /waɪ/ (adv.)
+ 49. will /wɪl/
+ 50. window /ˈwɪndəʊ/ (n.)
+ 51. wish /wɪʃ/ (v.)
+ 52. with /wɪð; wɪθ/ (prep.)
+ 53. wood /wʊd/
+ 54. work /wɜːk/ (v.)
+ 55. work out
+ 56. would /wʊd; wəd/
+ 57. write /raɪt/ (v.)
+ 58. yard /jɑːd/ (n.)
+ 59. year /jɪə(r); jɜː(r)/ (n.)
+ 60. yellow /ˈjeləʊ/ (adj.)
+ 61. yes /jes/ (interj.)
+ 62. yogurt /ˈjɒɡət/
+ 63. you /juː; ju/ (pron.)
+ 64. your /jɔː(r); jə(r)/ (pron.)
+ 65. yours /jɔːz/ (pron.)
+ 66. a few
+ 67. arm /ɑːm/ (n.)
+ 68. around the world
+ 69. arrive /əˈraɪv/ (v.)
+ 70. article /ˈɑːtɪkl/ (n.)
+ 71. artist /ˈɑːtɪst/ (n.)
+ 72. astronaut /ˈæstrənɔːt/ (n.)
+ 73. at first
+ 74. at the end
+ 75. at the moment
+ 76. at the start
+ 77. at the top
+ 78. away /əˈweɪ/ (adv.)
+ 79. awful /ˈɔːfl/ (adj.)
+ 80. bad /bæd/ (adj.)
+ 81. badminton /ˈbædmɪntən/ (n.)
+ 82. bag /bæɡ/ (n.)
+ 83. balanced /ˈbælənst/ (adj.)
+ 84. banana /bəˈnɑːnə/ (n.)
+ 85. baseball /ˈbeɪsbɔːl/ (n.)
+ 86. basket /ˈbɑːskɪt/ (n.)
+ 87. beach /biːtʃ/ (n.)
+ 88. beach volleyball
+ 89. bean /biːn/ (n.)
+ 90. because of
+ 91. become /bɪˈkʌm/ (v.)
+ 92. belong /bɪˈlɒŋ/ (v.)
+ 93. belong to
+ 94. belt /belt/ (n.)
+ 95. beth /beθ/
+ 96. better /ˈbetə(r)/ (adj.)
+ 97. bite through
+ 98. blind /blaɪnd/ (adj.)
+ 99. boat /bəʊt/ (n.)
+100. body /ˈbɒdi/ (n.)
+101. branch /brɑːntʃ/ (n.)
+102. bread /bred/ (n.)
+103. bright /braɪt/ (adj.)
+104. brightly /ˈbraɪtli/ (adv.)
+105. bring /brɪŋ/ (v.)
+106. build /bɪld/ (v.)
+107. bus /bʌs/ (n.)
+108. by /baɪ/ (prep.)
+109. cabbage /ˈkæbɪdʒ/ (n.)
+110. call back

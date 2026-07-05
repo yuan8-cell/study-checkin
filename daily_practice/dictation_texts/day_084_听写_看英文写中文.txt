@@ -1,0 +1,138 @@
+=== Day 84 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. ji-hoon /ˈdʒiːˌhuːn/
+  2. joyful /ˈdʒɔɪfl/ (adj.)
+  3. kaito /ˈkaɪtəʊ/
+  4. kelly /ˈkeli/
+  5. kid /kɪd/ (n.)
+  6. kingdom /ˈkɪŋdəm/ (n.)
+  7. kiss /kɪs/ (v.)
+  8. knowledge /ˈnɒlɪdʒ/ (n.)
+  9. ladder /ˈlædə(r)/ (n.)
+ 10. landslide /ˈlændslaɪd/ (n.)
+ 11. lastly /ˈlɑːstli/ (adv.)
+ 12. lennox /ˈlenəks/
+ 13. let down
+ 14. letter /ˈletə(r)/ (n.)
+ 15. level /ˈlevl/ (n.)
+ 16. life-saving /ˈlaɪfˌseɪvɪŋ/ (adj.)
+ 17. lifetime /ˈlaɪftaɪm/ (n.)
+ 18. literary /ˈlɪtərəri/ (adj.)
+ 19. located /ləʊˈkeɪtɪd/ (adj.)
+ 20. lock /lɒk/ (v.)
+ 21. lock up
+ 22. lonely /ˈləʊnli/ (adj.)
+
+【Review (Day 69,77,80,82,83)】
+  1. sense /sens/ (n.)
+  2. sentence /ˈsentəns/ (n.)
+  3. serious /ˈsɪəriəs/ (adj.)
+  4. service /ˈsɜːvɪs/ (n.)
+  5. several /ˈsevrəl/ (pron.)
+  6. share sth with sb
+  7. show interest in sth
+  8. show sb around
+  9. shy /ʃaɪ/ (adj.)
+ 10. sick /sɪk/ (adj.)
+ 11. sign /saɪn/ (n.)
+ 12. silk /sɪlk/ (n.)
+ 13. silver /ˈsɪlvə(r)/ (adj.)
+ 14. silver lining
+ 15. similarity /ˌsɪməˈlærəti/ (n.)
+ 16. sincere /sɪnˈsɪə(r)/ (adj.)
+ 17. situation /ˌsɪtʃuˈeɪʃn/ (n.)
+ 18. slice /slaɪs/ (n.)
+ 19. slim /slɪm/ (adj.)
+ 20. slow /sləʊ/ (adj.)
+ 21. smell /smel/ (v.)
+ 22. social /ˈsəʊʃl/ (adj.)
+ 23. climax /ˈklaɪmæks/ (n.)
+ 24. climber /ˈklaɪmə(r)/ (n.)
+ 25. coach /kəʊtʃ/ (n.)
+ 26. coast /kəʊst/ (n.)
+ 27. coin /kɔɪn/ (n.)
+ 28. colin /ˈkɒlɪn/
+ 29. come along
+ 30. completely /kəmˈpliːtli/ (adv.)
+ 31. condition /kənˈdɪʃn/ (n.)
+ 32. confused /kənˈfjuːzd/ (adj.)
+ 33. congratulate /kənˈɡrætʃəleɪt/ (v.)
+ 34. consider /kənˈsɪdə(r)/ (v.)
+ 35. control /kənˈtrəʊl/ (v.)
+ 36. cooper /ˈkuːpə(r)/
+ 37. coral /ˈkɒrəl/ (n.)
+ 38. correct /kəˈrekt/ (adj.)
+ 39. correctly /kəˈrektli/ (adv.)
+ 40. cough /kɒf/ (n.)
+ 41. craven /ˈkreɪvn/
+ 42. cross /krɒs/ (v.)
+ 43. cubic /ˈkjuːbɪk/ (adj.)
+ 44. cubic metre
+ 45. ever since
+ 46. explorer /ɪkˈsplɔːrə(r)/ (n.)
+ 47. express /ɪkˈspres/ (v.)
+ 48. extinguisher /ɪkˈstɪŋɡwɪʃə(r)/ (n.)
+ 49. failure /ˈfeɪljə(r)/ (n.)
+ 50. false /fɔːls/ (adj.)
+ 51. familiar with
+ 52. fantasy /ˈfæntəsi/ (n.)
+ 53. fear /fɪə(r)/ (n.)
+ 54. feel blue
+ 55. fever /ˈfiːvə(r)/ (n.)
+ 56. fiction /ˈfɪkʃn/ (n.)
+ 57. firefighter /ˈfaɪəfaɪtə(r)/ (n.)
+ 58. first aid
+ 59. firstly /ˈfɜːstli/ (adv.)
+ 60. fist /fɪst/ (n.)
+ 61. flame /fleɪm/ (n.)
+ 62. flood /flʌd/ (n.)
+ 63. floodwater /ˈflʌdwɔːtə(r)/ (n.)
+ 64. flu /fluː/ (n.)
+ 65. force /fɔːs/ (v.)
+ 66. foreign /ˈfɒrən/ (adj.)
+ 67. harm /hɑːm/ (n.)
+ 68. harmful /ˈhɑːmfl/ (adj.)
+ 69. headache /ˈhedeɪk/ (n.)
+ 70. hear from
+ 71. hear of
+ 72. heartbeat /ˈhɑːtbiːt/ (n.)
+ 73. heatwave /ˈhiːtweɪv/ (n.)
+ 74. help out
+ 75. hero /ˈhɪərəʊ/ (n.)
+ 76. hidden /ˈhɪdn/ (adj.)
+ 77. historical /hɪˈstɒrɪkl/ (adj.)
+ 78. hit /hɪt/ (v.)
+ 79. hug /hʌɡ/ (v.)
+ 80. hurt /hɜːt/ (v.)
+ 81. hurtful /ˈhɜːtfl/ (adj.)
+ 82. ice-skate /ˈaɪsskeɪt/ (v.)
+ 83. idiom /ˈɪdiəm/ (n.)
+ 84. ill /ɪl/ (adj.)
+ 85. illness /ˈɪlnəs/ (n.)
+ 86. importantly /ɪmˈpɔːtntli/ (adv.)
+ 87. improper /ɪmˈprɒpə(r)/ (adj.)
+ 88. in future
+ 89. in low spirits
+ 90. in need
+ 91. in return
+ 92. in time
+ 93. include /ɪnˈkluːd/ (v.)
+ 94. india /ˈɪndiə/
+ 95. indian /ˈɪndiən/ (adj.)
+ 96. indonesia /ˌɪndəˈniːʒə/
+ 97. informal /ɪnˈfɔːml/ (adj.)
+ 98. inga /ˈɪŋɡə/
+ 99. injury /ˈɪndʒəri/ (n.)
+100. ink /ɪŋk/ (n.)
+101. inspiration /ˌɪnspəˈreɪʃn/ (n.)
+102. instructor /ɪnˈstrʌktə(r)/ (n.)
+103. interview /ˈɪntəvjuː/ (n.)
+104. interviewer /ˈɪntəvjuːə(r)/ (n.)
+105. introduction /ˌɪntrəˈdʌkʃn/ (n.)
+106. italian /ɪˈtæliən/ (adj.)
+107. its /ɪts/ (pron.)
+108. james /dʒeɪmz/
+109. jeans /dʒiːnz/ (n.)
+110. jeff /dʒef/

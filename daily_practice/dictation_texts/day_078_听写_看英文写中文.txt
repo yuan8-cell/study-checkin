@@ -1,0 +1,138 @@
+=== Day 78 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. cultural /ˈkʌltʃərəl/ (adj.)
+  2. curiosity /ˌkjʊəriˈɒsəti/ (n.)
+  3. curious /ˈkjʊəriəs/ (adj.)
+  4. curry /ˈkʌri/ (n.)
+  5. custom /ˈkʌstəm/ (n.)
+  6. dare /deə(r)/ (v.)
+  7. day by day
+  8. deal /diːl/ (n.)
+  9. deal with
+ 10. death /deθ/ (n.)
+ 11. decision /dɪˈsɪʒn/ (n.)
+ 12. deep /diːp/ (adj.)
+ 13. defeat /dɪˈfiːt/ (v.)
+ 14. degree /dɪˈɡriː/ (n.)
+ 15. dentist /ˈdentɪst/ (n.)
+ 16. depth /depθ/ (n.)
+ 17. desert /ˈdezət/ (n.)
+ 18. destroy /dɪˈstrɔɪ/ (v.)
+ 19. detective /dɪˈtektɪv/ (n.)
+ 20. development /dɪˈveləpmənt/ (n.)
+ 21. dickon /ˈdɪkən/
+ 22. differently /ˈdɪfrəntli/ (adv.)
+
+【Review (Day 63,71,74,76,77)】
+  1. lift /lɪft/ (n.)
+  2. line /laɪn/ (n.)
+  3. lining /ˈlaɪnɪŋ/ (n.)
+  4. listener /ˈlɪsənə(r)/ (n.)
+  5. literature /ˈlɪtrətʃə(r)/ (n.)
+  6. living room
+  7. local /ˈləʊkl/ (adj.)
+  8. look for
+  9. lotus /ˈləʊtəs/ (n.)
+ 10. loud /laʊd/ (adv.)
+ 11. low /ləʊ/ (adv.)
+ 12. luggage /ˈlʌɡɪdʒ/ (n.)
+ 13. make a mistake
+ 14. make sure
+ 15. mandy /ˈmændi/
+ 16. mashed /mæʃt/
+ 17. matt /mæt/
+ 18. matter /ˈmætə(r)/ (v.)
+ 19. meaning /ˈmiːnɪŋ/ (n.)
+ 20. meat /miːt/ (n.)
+ 21. medical /ˈmedɪkl/ (adj.)
+ 22. meeting /ˈmiːtɪŋ/ (n.)
+ 23. susan /ˈsu:zən/
+ 24. system /ˈsɪstəm/ (n.)
+ 25. take a walk
+ 26. take notes
+ 27. take over
+ 28. take place
+ 29. take up
+ 30. task /tɑːsk/ (n.)
+ 31. tear /tɪə(r)/ (n.)
+ 32. technology /tekˈnɒlədʒi/ (n.)
+ 33. text /tekst/ (n.)
+ 34. thanks to
+ 35. thanksgiving /ˌθæŋksˈɡɪvɪŋ/
+ 36. the movies
+ 37. thin /θɪn/ (adj.)
+ 38. ticket /ˈtɪkɪt/ (n.)
+ 39. tina /ˈtiːnə/
+ 40. tiny /ˈtaɪni/ (adj.)
+ 41. tip /tɪp/ (n.)
+ 42. title /ˈtaɪtl/ (n.)
+ 43. toilet /ˈtɔɪlət/ (n.)
+ 44. ton /tʌn/ (n.)
+ 45. alarm /əˈlɑːm/ (n.)
+ 46. alien /ˈeɪliən/ (n.)
+ 47. alive /əˈlaɪv/ (adj.)
+ 48. all smiles
+ 49. allen /ˈælən/
+ 50. allergic /əˈlɜːdʒɪk/ (adj.)
+ 51. allow /əˈlaʊ/ (v.)
+ 52. ambition /æmˈbɪʃn/ (n.)
+ 53. american /əˈmerɪkən/ (adj.)
+ 54. angel /ˈeɪndʒl/
+ 55. anger /ˈæŋɡə(r)/ (n.)
+ 56. anybody /ˈenibɒdi/ (pron.)
+ 57. argentina /ˌɑːdʒənˈtiːnə/
+ 58. army /ˈɑːmi/ (n.)
+ 59. as a result
+ 60. as soon as
+ 61. as well
+ 62. asian /ˈeɪʒn; ˈeɪʃn/ (adj.)
+ 63. at all costs
+ 64. attack /əˈtæk/ (v.)
+ 65. attract /əˈtrækt/ (v.)
+ 66. au revoir
+ 67. bow /baʊ/ (v.)
+ 68. brightness /ˈbraɪtnəs/ (n.)
+ 69. bruised /bruːzd/ (adj.)
+ 70. bruno /ˈbruːnəʊ/
+ 71. build-up /ˈbɪldʌp/ (n.)
+ 72. bully /ˈbʊli/ (v.)
+ 73. bump /bʌmp/ (v.)
+ 74. by the time
+ 75. cage /keɪdʒ/ (n.)
+ 76. calligraphy /kəˈlɪɡrəfi/ (n.)
+ 77. catch fire
+ 78. charity /ˈtʃærəti/ (n.)
+ 79. chat /tʃæt/ (v.)
+ 80. check /tʃek/ (v.)
+ 81. cheek /tʃiːk/ (n.)
+ 82. cheers /tʃɪəz/ (interj.)
+ 83. chopstick /ˈtʃɒpstɪk/ (n.)
+ 84. chore /tʃɔː(r)/ (n.)
+ 85. clear /klɪə(r)/ (adj.)
+ 86. clear the air
+ 87. clearly /ˈklɪəli/ (adv.)
+ 88. cliff /klɪf/ (n.)
+ 89. climax /ˈklaɪmæks/ (n.)
+ 90. climber /ˈklaɪmə(r)/ (n.)
+ 91. coach /kəʊtʃ/ (n.)
+ 92. coast /kəʊst/ (n.)
+ 93. coin /kɔɪn/ (n.)
+ 94. colin /ˈkɒlɪn/
+ 95. come along
+ 96. completely /kəmˈpliːtli/ (adv.)
+ 97. condition /kənˈdɪʃn/ (n.)
+ 98. confused /kənˈfjuːzd/ (adj.)
+ 99. congratulate /kənˈɡrætʃəleɪt/ (v.)
+100. consider /kənˈsɪdə(r)/ (v.)
+101. control /kənˈtrəʊl/ (v.)
+102. cooper /ˈkuːpə(r)/
+103. coral /ˈkɒrəl/ (n.)
+104. correct /kəˈrekt/ (adj.)
+105. correctly /kəˈrektli/ (adv.)
+106. cough /kɒf/ (n.)
+107. craven /ˈkreɪvn/
+108. cross /krɒs/ (v.)
+109. cubic /ˈkjuːbɪk/ (adj.)
+110. cubic metre

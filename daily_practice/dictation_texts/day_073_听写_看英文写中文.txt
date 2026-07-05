@@ -1,0 +1,138 @@
+=== Day 73 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. wing /wɪŋ/ (n.)
+  2. winner /ˈwɪnə(r)/ (n.)
+  3. wisely /ˈwaɪzli/ (adv.)
+  4. without /wɪˈðaʊt/ (prep.)
+  5. word /wɜːd/ (n.)
+  6. worker /ˈwɜːkə/ (n.)
+  7. worry /ˈwʌri/ (n.)
+  8. worry about
+  9. worse /wɜːs/ (adj.)
+ 10. writer /ˈraɪtə(r)/ (n.)
+ 11. yeah /jeə/ (interj.)
+ 12. yet /jet/ (adv.)
+ 13. a bit
+ 14. a good read
+ 15. above /əˈbʌv/ (prep.)
+ 16. ache /eɪk/ (n.)
+ 17. achievement /əˈtʃiːvmənt/ (n.)
+ 18. active /ˈæktɪv/ (adj.)
+ 19. adult /ˈædʌlt; əˈdʌlt/ (n.)
+ 20. adventure /ədˈventʃə(r)/ (n.)
+ 21. advise /ədˈvaɪz/ (v.)
+ 22. aid /eɪd/ (n.)
+
+【Review (Day 58,66,69,71,72)】
+  1. designer /dɪˈzaɪnə(r)/ (n.)
+  2. detail /ˈdiːteɪl/ (n.)
+  3. diana /daɪˈænə/
+  4. difference /ˈdɪfrəns/ (n.)
+  5. difficulty /ˈdɪfɪkəlti/ (n.)
+  6. director /dəˈrektə(r); daɪˈrektə(r)/ (n.)
+  7. disappear /ˌdɪsəˈpɪə(r)/ (v.)
+  8. disappointed /ˌdɪsəˈpɔɪntɪd/ (adj.)
+  9. disaster /dɪˈzɑːstə(r)/ (n.)
+ 10. draw to a close
+ 11. drop sb a line
+ 12. during /ˈdjʊərɪŋ/ (prep.)
+ 13. earth /ɜːθ/ (n.)
+ 14. easily /ˈiːzəli/ (adv.)
+ 15. ecosystem /ˈiːkəʊsɪstəm/ (n.)
+ 16. education /ˌedʒuˈkeɪʃn/ (n.)
+ 17. edward /ˈedwəd/
+ 18. emotional intelligence
+ 19. engineer /ˌendʒɪˈnɪə(r)/ (n.)
+ 20. especially /ɪˈspeʃəli/ (adv.)
+ 21. event /ɪˈvent/ (n.)
+ 22. exchange /ɪksˈtʃeɪndʒ/ (v.)
+ 23. peony /ˈpiːəni/ (n.)
+ 24. pepper /ˈpepə(r)/ (n.)
+ 25. per /pə(r); pɜː(r)/ (prep.)
+ 26. perform /pəˈfɔːm/ (v.)
+ 27. perhaps /pəˈhæps; præps/ (adv.)
+ 28. personality /ˌpɜːsəˈnæləti/ (n.)
+ 29. photographer /fəˈtɒɡrəfə(r)/ (n.)
+ 30. photography /fəˈtɒɡrəfi/ (n.)
+ 31. physical /ˈfɪzɪkl/ (adj.)
+ 32. pie /paɪ/ (n.)
+ 33. pilot /ˈpaɪlət/ (n.)
+ 34. plan /plæn/ (v.)
+ 35. planet /ˈplænɪt/ (n.)
+ 36. plate /pleɪt/ (n.)
+ 37. pleasant /ˈpleznt/ (adj.)
+ 38. point /pɔɪnt/ (n.)
+ 39. pollen /ˈpɒlən/ (n.)
+ 40. pollination /ˌpɒləˈneɪʃn/ (n.)
+ 41. population /ˌpɒpjuˈleɪʃn/ (n.)
+ 42. poster /ˈpəʊstə(r)/ (n.)
+ 43. pour sth into sth
+ 44. prediction /prɪˈdɪkʃn/ (n.)
+ 45. sense /sens/ (n.)
+ 46. sentence /ˈsentəns/ (n.)
+ 47. serious /ˈsɪəriəs/ (adj.)
+ 48. service /ˈsɜːvɪs/ (n.)
+ 49. several /ˈsevrəl/ (pron.)
+ 50. share sth with sb
+ 51. show interest in sth
+ 52. show sb around
+ 53. shy /ʃaɪ/ (adj.)
+ 54. sick /sɪk/ (adj.)
+ 55. sign /saɪn/ (n.)
+ 56. silk /sɪlk/ (n.)
+ 57. silver /ˈsɪlvə(r)/ (adj.)
+ 58. silver lining
+ 59. similarity /ˌsɪməˈlærəti/ (n.)
+ 60. sincere /sɪnˈsɪə(r)/ (adj.)
+ 61. situation /ˌsɪtʃuˈeɪʃn/ (n.)
+ 62. slice /slaɪs/ (n.)
+ 63. slim /slɪm/ (adj.)
+ 64. slow /sləʊ/ (adj.)
+ 65. smell /smel/ (v.)
+ 66. social /ˈsəʊʃl/ (adj.)
+ 67. susan /ˈsu:zən/
+ 68. system /ˈsɪstəm/ (n.)
+ 69. take a walk
+ 70. take notes
+ 71. take over
+ 72. take place
+ 73. take up
+ 74. task /tɑːsk/ (n.)
+ 75. tear /tɪə(r)/ (n.)
+ 76. technology /tekˈnɒlədʒi/ (n.)
+ 77. text /tekst/ (n.)
+ 78. thanks to
+ 79. thanksgiving /ˌθæŋksˈɡɪvɪŋ/
+ 80. the movies
+ 81. thin /θɪn/ (adj.)
+ 82. ticket /ˈtɪkɪt/ (n.)
+ 83. tina /ˈtiːnə/
+ 84. tiny /ˈtaɪni/ (adj.)
+ 85. tip /tɪp/ (n.)
+ 86. title /ˈtaɪtl/ (n.)
+ 87. toilet /ˈtɔɪlət/ (n.)
+ 88. ton /tʌn/ (n.)
+ 89. tool /tuːl/ (n.)
+ 90. topic /ˈtɒpɪk/ (n.)
+ 91. touch /tʌtʃ/ (v.)
+ 92. towards /təˈwɔːdz; tɔːrdz/
+ 93. tower /ˈtaʊə(r)/ (n.)
+ 94. town /taʊn/ (n.)
+ 95. traffic /ˈtræfɪk/ (n.)
+ 96. train /treɪn/ (n.)
+ 97. training /ˈtreɪnɪŋ/ (n.)
+ 98. treasure /ˈtreʒə(r)/ (n.)
+ 99. treasure hunt
+100. trust /trʌst/ (n.)
+101. turn around
+102. up to
+103. vacation /vəˈkeɪʃn/ (n.)
+104. victory /ˈvɪktəri/ (n.)
+105. video /ˈvɪdiəʊ/ (n.)
+106. vincent /ˈvɪnsənt/
+107. visible /ˈvɪzəbl/ (adj.)
+108. wallet /ˈwɒlɪt/ (n.)
+109. weigh /weɪ/ (v.)
+110. wherever /weərˈevə(r)/ (adv.)

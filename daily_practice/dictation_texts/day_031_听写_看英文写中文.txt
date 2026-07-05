@@ -1,0 +1,138 @@
+=== Day 31 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. arm /ɑːm/ (n.)
+  2. around the world
+  3. arrive /əˈraɪv/ (v.)
+  4. article /ˈɑːtɪkl/ (n.)
+  5. artist /ˈɑːtɪst/ (n.)
+  6. astronaut /ˈæstrənɔːt/ (n.)
+  7. at first
+  8. at the end
+  9. at the moment
+ 10. at the start
+ 11. at the top
+ 12. away /əˈweɪ/ (adv.)
+ 13. awful /ˈɔːfl/ (adj.)
+ 14. bad /bæd/ (adj.)
+ 15. badminton /ˈbædmɪntən/ (n.)
+ 16. bag /bæɡ/ (n.)
+ 17. balanced /ˈbælənst/ (adj.)
+ 18. banana /bəˈnɑːnə/ (n.)
+ 19. baseball /ˈbeɪsbɔːl/ (n.)
+ 20. basket /ˈbɑːskɪt/ (n.)
+ 21. beach /biːtʃ/ (n.)
+ 22. beach volleyball
+
+【Review (Day 16,24,27,29,30)】
+  1. linda /ˈlɪndə/
+  2. lisa /ˈliːsə/
+  3. list /lɪst/ (n.)
+  4. listen /ˈlɪsn/ (v.)
+  5. listen to
+  6. little /ˈlɪtl/ (adj.)
+  7. live /lɪv/ (v.)
+  8. london /ˈlʌndən/
+  9. long /lɒŋ/ (adj.)
+ 10. look /lʊk/ (v.)
+ 11. look at
+ 12. lot /lɒt/ (pron.)
+ 13. love /lʌv/ (v.)
+ 14. lucy /ˈluːsi/
+ 15. lunch /lʌntʃ/ (n.)
+ 16. magic /ˈmædʒɪk/ (n.)
+ 17. make /meɪk/ (v.)
+ 18. make a wish
+ 19. make friends
+ 20. make use of
+ 21. many /ˈmeni/ (adj.)
+ 22. map /mæp/ (n.)
+ 23. sixth /sɪksθ/ (num.)
+ 24. sixtieth /ˈsɪkstiəθ/ (num.)
+ 25. sixty /ˈsɪksti/ (num.)
+ 26. small /smɔːl/ (adj.)
+ 27. smart /smɑːt/ (adj.)
+ 28. smith /smɪθ/
+ 29. so /səʊ/ (conj.)
+ 30. sock /sɒk/ (n.)
+ 31. some /sʌm; səm/ (adj.)
+ 32. something /ˈsʌmθɪŋ/ (pron.)
+ 33. sometimes /ˈsʌmtaɪmz/ (adv.)
+ 34. son /sʌn/ (n.)
+ 35. song /sɒŋ/ (n.)
+ 36. soon /suːn/ (adv.)
+ 37. sorry /ˈsɒri/ (adj.)
+ 38. sound /saʊnd/ (v.)
+ 39. speak /spiːk/ (v.)
+ 40. special /ˈspeʃl/ (adj.)
+ 41. spell /spel/ (v.)
+ 42. spend /spend/ (v.)
+ 43. sports field
+ 44. start /stɑːt/ (v.)
+ 45. time /taɪm/ (n.)
+ 46. timo /ˈtiːməʊ/
+ 47. to /tuː; tə/
+ 48. today /təˈdeɪ/ (adv.)
+ 49. tofu /ˈtəʊfuː/ (n.)
+ 50. tom /tɒm/
+ 51. tomato /təˈmɑːtəʊ; təˈmeɪtəʊ/ (n.)
+ 52. too /tuː/ (adv.)
+ 53. travel /ˈtrævl/ (v.)
+ 54. tree /triː/ (n.)
+ 55. trousers /ˈtraʊzəz/ (n.)
+ 56. twelfth /twelfθ/ (num.)
+ 57. twelve /twelv/ (num.)
+ 58. twin /twɪn/ (n.)
+ 59. two /tuː/ (num.)
+ 60. uk /ˌjuː ˈkeɪ/
+ 61. uncle /ˈʌŋkl/ (n.)
+ 62. under /ˈʌndə(r)/ (prep.)
+ 63. unit /ˈjuːnɪt/ (n.)
+ 64. up /ʌp/ (adv.)
+ 65. us /ʌs; əs/ (pron.)
+ 66. use /juːz/ (v.)
+ 67. white /waɪt/ (adj.)
+ 68. who /ˌdʌbljuː eɪtʃ ˈəʊ/
+ 69. whom /huːm/ (pron.)
+ 70. why /waɪ/ (adv.)
+ 71. will /wɪl/
+ 72. window /ˈwɪndəʊ/ (n.)
+ 73. wish /wɪʃ/ (v.)
+ 74. with /wɪð; wɪθ/ (prep.)
+ 75. wood /wʊd/
+ 76. work /wɜːk/ (v.)
+ 77. work out
+ 78. would /wʊd; wəd/
+ 79. write /raɪt/ (v.)
+ 80. yard /jɑːd/ (n.)
+ 81. year /jɪə(r); jɜː(r)/ (n.)
+ 82. yellow /ˈjeləʊ/ (adj.)
+ 83. yes /jes/ (interj.)
+ 84. yogurt /ˈjɒɡət/
+ 85. you /juː; ju/ (pron.)
+ 86. your /jɔː(r); jə(r)/ (pron.)
+ 87. yours /jɔːz/ (pron.)
+ 88. a few
+ 89. absent /ˈæbsənt/ (adj.)
+ 90. actor /ˈæktə(r)/ (n.)
+ 91. adam /ˈædəm/
+ 92. advice /ədˈvaɪs/ (n.)
+ 93. affect /əˈfekt/ (v.)
+ 94. afraid /əˈfreɪd/ (adj.)
+ 95. africa /ˈæfrɪkə/
+ 96. again /əˈɡen; əˈɡeɪn/ (adv.)
+ 97. agree /əˈɡriː/ (v.)
+ 98. agree with
+ 99. air /eə(r)/ (n.)
+100. all over
+101. along /əˈlɒŋ/ (prep.)
+102. although /ɔːlˈðəʊ/ (conj.)
+103. america /əˈmerɪkə/
+104. among /əˈmʌŋ/ (prep.)
+105. anna /ˈænə/
+106. anne /æn/
+107. antarctica /ænˈtɑːktɪkə/
+108. anyone /ˈeniwʌn/ (pron.)
+109. anything /ˈeniθɪŋ/ (pron.)
+110. area /ˈeəriə/ (n.)

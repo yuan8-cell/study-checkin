@@ -1,0 +1,138 @@
+=== Day 51 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. true /truː/ (adj.)
+  2. trunk /trʌŋk/ (n.)
+  3. truth /truːθ/ (n.)
+  4. try /traɪ/ (v.)
+  5. try on
+  6. turn /tɜːn/ (v.)
+  7. turn off
+  8. twice /twaɪs/ (adv.)
+  9. ugly /ˈʌɡli/ (adj.)
+ 10. umbrella /ʌmˈbrelə/ (n.)
+ 11. understand /ˌʌndəˈstænd/ (v.)
+ 12. unhappy /ʌnˈhæpi/ (adj.)
+ 13. uniform /ˈjuːnɪfɔːm/ (n.)
+ 14. untidy /ʌnˈtaɪdi/ (adj.)
+ 15. upon /əˈpɒn/ (prep.)
+ 16. usa /ˌjuːesˈeɪ/
+ 17. used to
+ 18. vegetable /ˈvedʒtəbl/ (n.)
+ 19. voice /vɔɪs/ (n.)
+ 20. volleyball /ˈvɒlibɔːl/ (n.)
+ 21. waiter /ˈweɪtə(r)/ (n.)
+ 22. waitress /ˈweɪtrəs/ (n.)
+
+【Review (Day 36,44,47,49,50)】
+  1. farmer /ˈfɑːmə(r)/ (n.)
+  2. fast food
+  3. fat /fæt/ (n.)
+  4. feather /ˈfeðə/ (n.)
+  5. feed /fiːd/ (v.)
+  6. feel like
+  7. festival /ˈfestɪvl/ (n.)
+  8. few /fjuː/ (adj.)
+  9. fill /fɪl/ (v.)
+ 10. finally /ˈfaɪnəli/ (adv.)
+ 11. fish and chips
+ 12. fit /fɪt/ (adj.)
+ 13. focus /ˈfəʊkəs/ (v.)
+ 14. focus on
+ 15. fog /fɒɡ/ (n.)
+ 16. follow /ˈfɒləʊ/ (v.)
+ 17. forest /ˈfɒrɪst/ (n.)
+ 18. forward /ˈfɔːwəd/ (adv.)
+ 19. fox /fɒks/ (n.)
+ 20. free /friː/ (adj.)
+ 21. freezing /ˈfriːzɪŋ/ (adj.)
+ 22. fresh /freʃ/ (adj.)
+ 23. poor /pɔː(r); pʊə(r)/ (adj.)
+ 24. pork /pɔːk/ (n.)
+ 25. porridge /ˈpɒrɪdʒ/ (n.)
+ 26. pour /pɔː(r)/ (v.)
+ 27. powerful /ˈpaʊəfl/ (adj.)
+ 28. practice /ˈpræktɪs/ (n.)
+ 29. practise /ˈpræktɪs/ (v.)
+ 30. praise /preɪz/ (v.)
+ 31. pretend /prɪˈtend/ (v.)
+ 32. process /ˈprəʊses/ (n.)
+ 33. progress /ˈprəʊɡres/ (n.)
+ 34. purr /pɜː(r)/ (v.)
+ 35. put on
+ 36. queue /kjuː/ (n.)
+ 37. quickly /ˈkwɪkli/ (adv.)
+ 38. quietly /ˈkwaɪətli/ (adv.)
+ 39. quite /kwaɪt/ (adv.)
+ 40. quite a
+ 41. race /reɪs/ (n.)
+ 42. racket /ˈrækɪt/ (n.)
+ 43. rain /reɪn/ (n.)
+ 44. rain or shine
+ 45. sight /saɪt/ (n.)
+ 46. silly /ˈsɪli/ (adj.)
+ 47. sir /sɜː(r)/ (n.)
+ 48. sit-up /ˈsɪtʌp/ (n.)
+ 49. size /saɪz/ (n.)
+ 50. skate /skeɪt/ (v.)
+ 51. skateboard /ˈskeɪtbɔːd/ (n.)
+ 52. skateboarding /ˈskeɪtbɔːdɪŋ/ (n.)
+ 53. skill /skɪl/ (n.)
+ 54. sleepy /ˈsliːpi/ (adj.)
+ 55. smile /smaɪl/ (v.)
+ 56. snack /snæk/ (n.)
+ 57. snake /sneɪk/ (n.)
+ 58. snow /snəʊ/ (v.)
+ 59. soft /sɒft/ (adj.)
+ 60. soft drink
+ 61. some day
+ 62. somebody /ˈsʌmbədi/ (pron.)
+ 63. someone /ˈsʌmwʌn/ (pron.)
+ 64. sometime /ˈsʌmtaɪm/ (adv.)
+ 65. soup /suːp/ (n.)
+ 66. south /saʊθ/ (n.)
+ 67. sunbathe /ˈsʌnbeɪð/ (v.)
+ 68. sunlight /ˈsʌnlaɪt/ (n.)
+ 69. sunshine /ˈsʌnʃaɪn/ (n.)
+ 70. supermarket /ˈsuːpəˌmɑːkɪt/ (n.)
+ 71. swan /swɒn/ (n.)
+ 72. sweater /ˈswetə(r)/ (n.)
+ 73. sweet /swiːt/ (n.)
+ 74. swimmer /ˈswɪmə(r)/ (n.)
+ 75. t-shirt /ˈtiː ʃɜːt/ (n.)
+ 76. tail /teɪl/ (n.)
+ 77. take a message
+ 78. take care of
+ 79. take part in
+ 80. taste /teɪst/ (v.)
+ 81. taxi /ˈtæksi/ (n.)
+ 82. tea /tiː/ (n.)
+ 83. team /tiːm/ (n.)
+ 84. teenager /ˈtiːneɪdʒə(r)/ (n.)
+ 85. tell the truth
+ 86. temperature /ˈtemprətʃə(r)/ (n.)
+ 87. tent /tent/ (n.)
+ 88. terrible /ˈterəbl/ (adj.)
+ 89. thai /taɪ/ (adj.)
+ 90. thailand /ˈtaɪlænd/
+ 91. theatre /ˈθɪətə(r)/ (n.)
+ 92. theirs /ðeəz/ (pron.)
+ 93. think about
+ 94. think of
+ 95. thirsty /ˈθɜːsti/ (adj.)
+ 96. thought /θɔːt/ (n.)
+ 97. through /θruː/ (prep.)
+ 98. tiger /ˈtaɪɡə(r)/ (n.)
+ 99. time zone
+100. tired /ˈtaɪəd/ (adj.)
+101. tiring /ˈtaɪərɪŋ/ (adj.)
+102. tony /ˈtəʊni/
+103. too many
+104. too much
+105. top /tɒp/ (n.)
+106. tour /tʊə(r)/ (n.)
+107. tourist /ˈtʊərɪst/ (n.)
+108. treat /triːt/ (v.)
+109. trick /trɪk/ (n.)
+110. trip /trɪp/ (n.)

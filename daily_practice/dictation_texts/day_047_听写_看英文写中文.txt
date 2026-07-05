@@ -1,0 +1,138 @@
+=== Day 47 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. sight /saɪt/ (n.)
+  2. silly /ˈsɪli/ (adj.)
+  3. sir /sɜː(r)/ (n.)
+  4. sit-up /ˈsɪtʌp/ (n.)
+  5. size /saɪz/ (n.)
+  6. skate /skeɪt/ (v.)
+  7. skateboard /ˈskeɪtbɔːd/ (n.)
+  8. skateboarding /ˈskeɪtbɔːdɪŋ/ (n.)
+  9. skill /skɪl/ (n.)
+ 10. sleepy /ˈsliːpi/ (adj.)
+ 11. smile /smaɪl/ (v.)
+ 12. snack /snæk/ (n.)
+ 13. snake /sneɪk/ (n.)
+ 14. snow /snəʊ/ (v.)
+ 15. soft /sɒft/ (adj.)
+ 16. soft drink
+ 17. some day
+ 18. somebody /ˈsʌmbədi/ (pron.)
+ 19. someone /ˈsʌmwʌn/ (pron.)
+ 20. sometime /ˈsʌmtaɪm/ (adv.)
+ 21. soup /suːp/ (n.)
+ 22. south /saʊθ/ (n.)
+
+【Review (Day 32,40,43,45,46)】
+  1. bean /biːn/ (n.)
+  2. because of
+  3. become /bɪˈkʌm/ (v.)
+  4. belong /bɪˈlɒŋ/ (v.)
+  5. belong to
+  6. belt /belt/ (n.)
+  7. beth /beθ/
+  8. better /ˈbetə(r)/ (adj.)
+  9. bite through
+ 10. blind /blaɪnd/ (adj.)
+ 11. boat /bəʊt/ (n.)
+ 12. body /ˈbɒdi/ (n.)
+ 13. branch /brɑːntʃ/ (n.)
+ 14. bread /bred/ (n.)
+ 15. bright /braɪt/ (adj.)
+ 16. brightly /ˈbraɪtli/ (adv.)
+ 17. bring /brɪŋ/ (v.)
+ 18. build /bɪld/ (v.)
+ 19. bus /bʌs/ (n.)
+ 20. by /baɪ/ (prep.)
+ 21. cabbage /ˈkæbɪdʒ/ (n.)
+ 22. call back
+ 23. just /dʒʌst/ (adv.)
+ 24. kenya /ˈkenjə/
+ 25. kick /kɪk/ (v.)
+ 26. kill /kɪl/ (v.)
+ 27. king /kɪŋ/ (n.)
+ 28. kite /kaɪt/ (n.)
+ 29. late /leɪt/ (adj.)
+ 30. late for
+ 31. laugh at
+ 32. leave /liːv/ (v.)
+ 33. leave a message
+ 34. leg /leɡ/ (n.)
+ 35. lend /lend/ (v.)
+ 36. lie /laɪ/ (v.)
+ 37. light /laɪt/ (n.)
+ 38. lightning /ˈlaɪtnɪŋ/ (n.)
+ 39. lion /ˈlaɪən/ (n.)
+ 40. litter /ˈlɪtə(r)/ (v.)
+ 41. long ago
+ 42. look after
+ 43. look forward to
+ 44. lose /luːz/ (v.)
+ 45. one another
+ 46. onion /ˈʌnjən/ (n.)
+ 47. online /ˌɒnˈlaɪn/ (adj.)
+ 48. only if
+ 49. order /ˈɔːdə(r)/ (n.)
+ 50. ours /ˈaʊəz; ɑːz/ (pron.)
+ 51. over /ˈəʊvə(r)/ (adv.)
+ 52. over there
+ 53. painting /ˈpeɪntɪŋ/ (n.)
+ 54. passenger /ˈpæsɪndʒə(r)/ (n.)
+ 55. peak /piːk/ (n.)
+ 56. pear /peə(r)/ (n.)
+ 57. pen /pen/ (n.)
+ 58. penguin /ˈpeŋɡwɪn/ (n.)
+ 59. perfect /ˈpɜːfɪkt/ (adj.)
+ 60. person /ˈpɜːsn/ (n.)
+ 61. phone /fəʊn/ (n.)
+ 62. pick /pɪk/ (v.)
+ 63. pick up
+ 64. piece /piːs/ (n.)
+ 65. playful /ˈpleɪfl/ (adj.)
+ 66. polite /pəˈlaɪt/ (adj.)
+ 67. real /rɪəl/ (adj.)
+ 68. realize /ˈrɪəlaɪz/
+ 69. record /rɪˈkɔːd/ (v.)
+ 70. relax /rɪˈlæks/ (v.)
+ 71. remove /rɪˈmuːv/ (v.)
+ 72. respect /rɪˈspekt/ (n.)
+ 73. rest /rest/ (n.)
+ 74. rest area
+ 75. result /rɪˈzʌlt/ (n.)
+ 76. rice /raɪs/ (n.)
+ 77. rich /rɪtʃ/ (adj.)
+ 78. ride /raɪd/ (v.)
+ 79. right now
+ 80. river /ˈrɪvə(r)/ (n.)
+ 81. road /rəʊd/ (n.)
+ 82. robot /ˈrəʊbɒt/ (n.)
+ 83. rock /rɒk/ (n.)
+ 84. rope /rəʊp/ (n.)
+ 85. rule /ruːl/ (n.)
+ 86. run after
+ 87. rush /rʌʃ/ (v.)
+ 88. sad /sæd/ (adj.)
+ 89. safe /seɪf/ (adj.)
+ 90. salad /ˈsæləd/ (n.)
+ 91. salt /sɔːlt; sɒlt/ (n.)
+ 92. sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ (n.)
+ 93. save /seɪv/ (v.)
+ 94. scary /ˈskeəri/ (adj.)
+ 95. sea /siː/ (n.)
+ 96. search /sɜːtʃ/ (v.)
+ 97. search for
+ 98. season /ˈsiːzn/ (n.)
+ 99. seem /siːm/ (v.)
+100. seldom /ˈseldəm/ (adv.)
+101. serve /sɜːv/ (v.)
+102. set /set/ (v.)
+103. shark /ʃɑːk/ (n.)
+104. shine /ʃaɪn/ (v.)
+105. should /ʃʊd; ʃəd/
+106. shout /ʃaʊt/ (v.)
+107. show /ʃəʊ/ (v.)
+108. shuttlecock /ˈʃʌtlkɒk/ (n.)
+109. side /saɪd/ (n.)
+110. side by side

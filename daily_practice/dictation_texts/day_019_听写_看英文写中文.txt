@@ -1,0 +1,138 @@
+=== Day 19 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. nose /nəʊz/ (n.)
+  2. notice /ˈnəʊtɪs/ (n.)
+  3. now /naʊ/ (adv.)
+  4. number /ˈnʌmbə(r)/ (n.)
+  5. of /ɒv; əv/ (prep.)
+  6. office /ˈɒfɪs/ (n.)
+  7. often /ˈɒfn; ˈɒftən/ (adv.)
+  8. oh /əʊ/ (interj.)
+  9. ok /əʊˈkeɪ/ (interj.)
+ 10. old /əʊld/ (adj.)
+ 11. on /ɒn/ (prep.)
+ 12. on duty
+ 13. one /wʌn/ (num.)
+ 14. only /ˈəʊnli/ (adv.)
+ 15. or /ɔː(r)/ (conj.)
+ 16. oscar /ˈɒskə(r)/
+ 17. other /ˈʌðə(r)/ (pron.)
+ 18. our /ɑː(r); ˈaʊə(r)/ (pron.)
+ 19. out /aʊt/ (adv.)
+ 20. page /peɪdʒ/ (n.)
+ 21. paint /peɪnt/ (v.)
+ 22. pair /peə(r)/ (n.)
+
+【Review (Day 4,12,15,17,18)】
+  1. boring /ˈbɔːrɪŋ/ (adj.)
+  2. both /bəʊθ/ (adj.)
+  3. bottle /ˈbɒtl/ (n.)
+  4. box /bɒks/ (n.)
+  5. break /breɪk/ (n.)
+  6. breakfast /ˈbrekfəst/ (n.)
+  7. brother /ˈbrʌðə(r)/ (n.)
+  8. brown /braʊn/ (adj.)
+  9. brush /brʌʃ/ (v.)
+ 10. building /ˈbɪldɪŋ/ (n.)
+ 11. busy /ˈbɪzi/ (adj.)
+ 12. but /bʌt; bət/ (conj.)
+ 13. buy /baɪ/ (v.)
+ 14. bye /baɪ/
+ 15. bye for now
+ 16. cake /keɪk/ (n.)
+ 17. call /kɔːl/ (v.)
+ 18. can /kæn; kən/ (n.)
+ 19. canada /ˈkænədə/
+ 20. candle /ˈkændl/ (n.)
+ 21. candy /ˈkændi/ (n.)
+ 22. cap /kæp/ (n.)
+ 23. grade /ɡreɪd/ (n.)
+ 24. grass /ɡrɑːs/ (n.)
+ 25. great /ɡreɪt/ (adj.)
+ 26. green /ɡriːn/ (adj.)
+ 27. greet /ɡriːt/ (v.)
+ 28. grow /ɡrəʊ/ (v.)
+ 29. guitar /ɡɪˈtɑː(r)/ (n.)
+ 30. hair /heə(r)/ (n.)
+ 31. half /hɑːf/ (n.)
+ 32. hall /hɔːl/ (n.)
+ 33. halla /ˈhɑlɑ/
+ 34. handsome /ˈhænsəm/ (adj.)
+ 35. hat /hæt/ (n.)
+ 36. have /hæv; həv/ (v.)
+ 37. have fun
+ 38. he /hiː; hi/ (pron.)
+ 39. head /hed/ (n.)
+ 40. hear /hɪə(r)/ (v.)
+ 41. height /haɪt/ (n.)
+ 42. helen /ˈhelən/
+ 43. hello /həˈləʊ/ (interj.)
+ 44. help sb with
+ 45. juice /dʒuːs/ (n.)
+ 46. kate /keɪt/
+ 47. keep /kiːp/ (v.)
+ 48. key /kiː/ (n.)
+ 49. kind /kaɪnd/ (n.)
+ 50. knee /niː/ (n.)
+ 51. know /nəʊ/ (v.)
+ 52. lake /leɪk/ (n.)
+ 53. language /ˈlæŋɡwɪdʒ/ (n.)
+ 54. large /lɑːdʒ/ (adj.)
+ 55. last /lɑːst/ (adj.)
+ 56. last name
+ 57. later /ˈleɪtə(r)/ (adv.)
+ 58. laugh /lɑːf/ (v.)
+ 59. learn /lɜːn/ (v.)
+ 60. lee /liː/
+ 61. left /left/ (n.)
+ 62. lesson /ˈlesn/ (n.)
+ 63. let /let/ (v.)
+ 64. life /laɪf/ (n.)
+ 65. like /laɪk/ (v.)
+ 66. lily /ˈlɪli/
+ 67. mark /mɑːk/ (v.)
+ 68. may /meɪ/
+ 69. me /miː; mi/ (pron.)
+ 70. mean /miːn/ (v.)
+ 71. member /ˈmembə(r)/ (n.)
+ 72. middle /ˈmɪdl/ (n.)
+ 73. mike /maɪk/
+ 74. milk /mɪlk/ (n.)
+ 75. miller /ˈmɪlə(r)/
+ 76. million /ˈmɪljən/ (num.)
+ 77. mind /maɪnd/ (n.)
+ 78. minute /ˈmɪnɪt/ (n.)
+ 79. mistake /mɪˈsteɪk/ (n.)
+ 80. modern /ˈmɒdn/ (adj.)
+ 81. month /mʌnθ/ (n.)
+ 82. more /mɔː(r)/ (adj.)
+ 83. morning /ˈmɔːnɪŋ/ (n.)
+ 84. most /məʊst/ (adj.)
+ 85. mr /ˈmɪstə(r)/
+ 86. mrs /ˈmɪsɪz/
+ 87. ms /mɪz; məz/
+ 88. much /mʌtʃ/ (adv.)
+ 89. music /ˈmjuːzɪk/ (n.)
+ 90. musical /ˈmjuːzɪkl/ (adj.)
+ 91. musical instrument
+ 92. my /maɪ/ (pron.)
+ 93. name /neɪm/ (n.)
+ 94. nature /ˈneɪtʃə(r)/ (n.)
+ 95. need /niːd/ (v.)
+ 96. new /njuː/ (adj.)
+ 97. news /njuːz/ (n.)
+ 98. next /nekst/ (adj.)
+ 99. next time
+100. next to
+101. nice /naɪs/ (adj.)
+102. night /naɪt/ (n.)
+103. nine /naɪn/ (num.)
+104. nineteen /ˌnaɪnˈtiːn/ (num.)
+105. nineteenth /ˌnaɪnˈtiːnθ/ (num.)
+106. ninetieth /ˈnaɪntiəθ/ (num.)
+107. ninety /ˈnaɪnti/ (num.)
+108. ninth /naɪnθ/ (num.)
+109. no /nəʊ/ (interj.)
+110. noodle /ˈnuːdl/ (n.)

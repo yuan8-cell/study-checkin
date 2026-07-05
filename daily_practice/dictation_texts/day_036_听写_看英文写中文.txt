@@ -1,0 +1,138 @@
+=== Day 36 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. farmer /ˈfɑːmə(r)/ (n.)
+  2. fast food
+  3. fat /fæt/ (n.)
+  4. feather /ˈfeðə/ (n.)
+  5. feed /fiːd/ (v.)
+  6. feel like
+  7. festival /ˈfestɪvl/ (n.)
+  8. few /fjuː/ (adj.)
+  9. fill /fɪl/ (v.)
+ 10. finally /ˈfaɪnəli/ (adv.)
+ 11. fish and chips
+ 12. fit /fɪt/ (adj.)
+ 13. focus /ˈfəʊkəs/ (v.)
+ 14. focus on
+ 15. fog /fɒɡ/ (n.)
+ 16. follow /ˈfɒləʊ/ (v.)
+ 17. forest /ˈfɒrɪst/ (n.)
+ 18. forward /ˈfɔːwəd/ (adv.)
+ 19. fox /fɒks/ (n.)
+ 20. free /friː/ (adj.)
+ 21. freezing /ˈfriːzɪŋ/ (adj.)
+ 22. fresh /freʃ/ (adj.)
+
+【Review (Day 21,29,32,34,35)】
+  1. pm /ˌpiː ˈem/
+  2. post /pəʊst/ (n.)
+  3. pot /pɒt/ (n.)
+  4. potato /pəˈteɪtəʊ/ (n.)
+  5. prc /ˌpiː ɑː(r) ˈsiː/
+  6. prepare /prɪˈpeə(r)/ (v.)
+  7. prepare sth for
+  8. price /praɪs/ (n.)
+  9. problem /ˈprɒbləm/ (n.)
+ 10. put up
+ 11. question /ˈkwestʃən/ (n.)
+ 12. quiet /ˈkwaɪət/ (adj.)
+ 13. rabbit /ˈræbɪt/ (n.)
+ 14. raise /reɪz/ (v.)
+ 15. re /riː/ (prep.)
+ 16. read /riːd/ (v.)
+ 17. really /ˈriːəli/ (adv.)
+ 18. reason /ˈriːzn/ (n.)
+ 19. red /red/ (adj.)
+ 20. remember /rɪˈmembə(r)/ (v.)
+ 21. reporter /rɪˈpɔːtə(r)/ (n.)
+ 22. restaurant /ˈrestrɒnt/ (n.)
+ 23. white /waɪt/ (adj.)
+ 24. who /ˌdʌbljuː eɪtʃ ˈəʊ/
+ 25. whom /huːm/ (pron.)
+ 26. why /waɪ/ (adv.)
+ 27. will /wɪl/
+ 28. window /ˈwɪndəʊ/ (n.)
+ 29. wish /wɪʃ/ (v.)
+ 30. with /wɪð; wɪθ/ (prep.)
+ 31. wood /wʊd/
+ 32. work /wɜːk/ (v.)
+ 33. work out
+ 34. would /wʊd; wəd/
+ 35. write /raɪt/ (v.)
+ 36. yard /jɑːd/ (n.)
+ 37. year /jɪə(r); jɜː(r)/ (n.)
+ 38. yellow /ˈjeləʊ/ (adj.)
+ 39. yes /jes/ (interj.)
+ 40. yogurt /ˈjɒɡət/
+ 41. you /juː; ju/ (pron.)
+ 42. your /jɔː(r); jə(r)/ (pron.)
+ 43. yours /jɔːz/ (pron.)
+ 44. a few
+ 45. bean /biːn/ (n.)
+ 46. because of
+ 47. become /bɪˈkʌm/ (v.)
+ 48. belong /bɪˈlɒŋ/ (v.)
+ 49. belong to
+ 50. belt /belt/ (n.)
+ 51. beth /beθ/
+ 52. better /ˈbetə(r)/ (adj.)
+ 53. bite through
+ 54. blind /blaɪnd/ (adj.)
+ 55. boat /bəʊt/ (n.)
+ 56. body /ˈbɒdi/ (n.)
+ 57. branch /brɑːntʃ/ (n.)
+ 58. bread /bred/ (n.)
+ 59. bright /braɪt/ (adj.)
+ 60. brightly /ˈbraɪtli/ (adv.)
+ 61. bring /brɪŋ/ (v.)
+ 62. build /bɪld/ (v.)
+ 63. bus /bʌs/ (n.)
+ 64. by /baɪ/ (prep.)
+ 65. cabbage /ˈkæbɪdʒ/ (n.)
+ 66. call back
+ 67. create /kriˈeɪt/ (v.)
+ 68. cry /kraɪ/ (v.)
+ 69. cucumber /ˈkjuːkʌmbə(r)/ (n.)
+ 70. culture /ˈkʌltʃə(r)/ (n.)
+ 71. cup /kʌp/ (n.)
+ 72. customer /ˈkʌstəmə(r)/ (n.)
+ 73. cut /kʌt/ (v.)
+ 74. cut down
+ 75. danger /ˈdeɪndʒə(r)/ (n.)
+ 76. dangerous /ˈdeɪndʒərəs/ (adj.)
+ 77. darling /ˈdɑːlɪŋ/ (n.)
+ 78. decide /dɪˈsaɪd/ (v.)
+ 79. description /dɪˈskrɪpʃn/ (n.)
+ 80. die /daɪ/ (v.)
+ 81. direction /dɪˈrekʃn; daɪˈrekʃn/ (n.)
+ 82. dirty /ˈdɜːti/ (adj.)
+ 83. dish /dɪʃ/ (n.)
+ 84. doctor /ˈdɒktə(r)/ (n.)
+ 85. double /ˈdʌbl/ (n.)
+ 86. dragon /ˈdræɡən/ (n.)
+ 87. drive /draɪv/ (v.)
+ 88. drop /drɒp/ (v.)
+ 89. dry /draɪ/ (adj.)
+ 90. duckling /ˈdʌklɪŋ/ (n.)
+ 91. dumpling /ˈdʌmplɪŋ/ (n.)
+ 92. eagle /ˈiːɡl/ (n.)
+ 93. ear /ɪə(r)/ (n.)
+ 94. east /iːst/ (n.)
+ 95. elephant /ˈelɪfənt/ (n.)
+ 96. emperor /ˈempərə(r)/ (n.)
+ 97. encourage /ɪnˈkʌrɪdʒ/ (v.)
+ 98. end /end/ (n.)
+ 99. energy /ˈenədʒi/ (n.)
+100. enough /ɪˈnʌf/ (adj.)
+101. entry /ˈentri/ (n.)
+102. eric /ˈerɪk/
+103. evening /ˈiːvnɪŋ/ (n.)
+104. ever /ˈevə(r)/ (adv.)
+105. excuse /ɪkˈskjuːz/ (v.)
+106. excuse me
+107. exhibition /ˌeksɪˈbɪʃn/ (n.)
+108. explain /ɪkˈspleɪn/ (v.)
+109. explore /ɪkˈsplɔː(r)/ (v.)
+110. factory /ˈfæktri; ˈfæktəri/ (n.)

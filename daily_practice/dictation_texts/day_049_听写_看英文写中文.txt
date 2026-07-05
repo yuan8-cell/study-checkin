@@ -1,0 +1,138 @@
+=== Day 49 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. sunbathe /ˈsʌnbeɪð/ (v.)
+  2. sunlight /ˈsʌnlaɪt/ (n.)
+  3. sunshine /ˈsʌnʃaɪn/ (n.)
+  4. supermarket /ˈsuːpəˌmɑːkɪt/ (n.)
+  5. swan /swɒn/ (n.)
+  6. sweater /ˈswetə(r)/ (n.)
+  7. sweet /swiːt/ (n.)
+  8. swimmer /ˈswɪmə(r)/ (n.)
+  9. t-shirt /ˈtiː ʃɜːt/ (n.)
+ 10. tail /teɪl/ (n.)
+ 11. take a message
+ 12. take care of
+ 13. take part in
+ 14. taste /teɪst/ (v.)
+ 15. taxi /ˈtæksi/ (n.)
+ 16. tea /tiː/ (n.)
+ 17. team /tiːm/ (n.)
+ 18. teenager /ˈtiːneɪdʒə(r)/ (n.)
+ 19. tell the truth
+ 20. temperature /ˈtemprətʃə(r)/ (n.)
+ 21. tent /tent/ (n.)
+ 22. terrible /ˈterəbl/ (adj.)
+
+【Review (Day 34,42,45,47,48)】
+  1. create /kriˈeɪt/ (v.)
+  2. cry /kraɪ/ (v.)
+  3. cucumber /ˈkjuːkʌmbə(r)/ (n.)
+  4. culture /ˈkʌltʃə(r)/ (n.)
+  5. cup /kʌp/ (n.)
+  6. customer /ˈkʌstəmə(r)/ (n.)
+  7. cut /kʌt/ (v.)
+  8. cut down
+  9. danger /ˈdeɪndʒə(r)/ (n.)
+ 10. dangerous /ˈdeɪndʒərəs/ (adj.)
+ 11. darling /ˈdɑːlɪŋ/ (n.)
+ 12. decide /dɪˈsaɪd/ (v.)
+ 13. description /dɪˈskrɪpʃn/ (n.)
+ 14. die /daɪ/ (v.)
+ 15. direction /dɪˈrekʃn; daɪˈrekʃn/ (n.)
+ 16. dirty /ˈdɜːti/ (adj.)
+ 17. dish /dɪʃ/ (n.)
+ 18. doctor /ˈdɒktə(r)/ (n.)
+ 19. double /ˈdʌbl/ (n.)
+ 20. dragon /ˈdræɡən/ (n.)
+ 21. drive /draɪv/ (v.)
+ 22. drop /drɒp/ (v.)
+ 23. mobile phone
+ 24. moment /ˈməʊmənt/ (n.)
+ 25. money /ˈmʌni/ (n.)
+ 26. monkey /ˈmʌŋki/ (n.)
+ 27. mount /maʊnt/ (n.)
+ 28. mountain /ˈmaʊntən/ (n.)
+ 29. move /muːv/ (v.)
+ 30. museum /mjuˈziːəm/ (n.)
+ 31. must /mʌst; məst/
+ 32. mutton /ˈmʌtn/ (n.)
+ 33. nairobi /naɪˈrəʊbi/
+ 34. near /nɪə(r)/ (prep.)
+ 35. neck /nek/ (n.)
+ 36. neighbour /ˈneɪbə(r)/ (n.)
+ 37. net /net/ (n.)
+ 38. noise /nɔɪz/ (n.)
+ 39. north /nɔːθ/ (n.)
+ 40. off /ɒf/ (adv.)
+ 41. official /əˈfɪʃl/ (n.)
+ 42. on time
+ 43. once /wʌns/ (adv.)
+ 44. once upon a time
+ 45. real /rɪəl/ (adj.)
+ 46. realize /ˈrɪəlaɪz/
+ 47. record /rɪˈkɔːd/ (v.)
+ 48. relax /rɪˈlæks/ (v.)
+ 49. remove /rɪˈmuːv/ (v.)
+ 50. respect /rɪˈspekt/ (n.)
+ 51. rest /rest/ (n.)
+ 52. rest area
+ 53. result /rɪˈzʌlt/ (n.)
+ 54. rice /raɪs/ (n.)
+ 55. rich /rɪtʃ/ (adj.)
+ 56. ride /raɪd/ (v.)
+ 57. right now
+ 58. river /ˈrɪvə(r)/ (n.)
+ 59. road /rəʊd/ (n.)
+ 60. robot /ˈrəʊbɒt/ (n.)
+ 61. rock /rɒk/ (n.)
+ 62. rope /rəʊp/ (n.)
+ 63. rule /ruːl/ (n.)
+ 64. run after
+ 65. rush /rʌʃ/ (v.)
+ 66. sad /sæd/ (adj.)
+ 67. sight /saɪt/ (n.)
+ 68. silly /ˈsɪli/ (adj.)
+ 69. sir /sɜː(r)/ (n.)
+ 70. sit-up /ˈsɪtʌp/ (n.)
+ 71. size /saɪz/ (n.)
+ 72. skate /skeɪt/ (v.)
+ 73. skateboard /ˈskeɪtbɔːd/ (n.)
+ 74. skateboarding /ˈskeɪtbɔːdɪŋ/ (n.)
+ 75. skill /skɪl/ (n.)
+ 76. sleepy /ˈsliːpi/ (adj.)
+ 77. smile /smaɪl/ (v.)
+ 78. snack /snæk/ (n.)
+ 79. snake /sneɪk/ (n.)
+ 80. snow /snəʊ/ (v.)
+ 81. soft /sɒft/ (adj.)
+ 82. soft drink
+ 83. some day
+ 84. somebody /ˈsʌmbədi/ (pron.)
+ 85. someone /ˈsʌmwʌn/ (pron.)
+ 86. sometime /ˈsʌmtaɪm/ (adv.)
+ 87. soup /suːp/ (n.)
+ 88. south /saʊθ/ (n.)
+ 89. spirit /ˈspɪrɪt/ (n.)
+ 90. spring /sprɪŋ/ (n.)
+ 91. stand /stænd/ (v.)
+ 92. stay in
+ 93. step /step/ (n.)
+ 94. steve /stiːv/
+ 95. still /stɪl/ (adv.)
+ 96. stockholm /ˈstɒkhəʊm/
+ 97. stop /stɒp/ (v.)
+ 98. storm /stɔːm/ (n.)
+ 99. straight /streɪt/ (adv.)
+100. strawberry /ˈstrɔːbəri/ (n.)
+101. street /striːt/ (n.)
+102. strong /strɒŋ/ (adj.)
+103. subway /ˈsʌbweɪ/ (n.)
+104. succeed /səkˈsiːd/ (v.)
+105. succeed in doing sth
+106. such /sʌtʃ/ (adj.)
+107. suddenly /ˈsʌdənli/ (adv.)
+108. sugar /ˈʃʊɡə(r)/ (n.)
+109. summer /ˈsʌmə(r)/ (n.)
+110. sun /sʌn/ (n.)

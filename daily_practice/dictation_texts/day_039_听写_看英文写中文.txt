@@ -1,0 +1,138 @@
+=== Day 39 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. hospital /ˈhɒspɪtl/ (n.)
+  2. however /haʊˈevə(r)/ (adv.)
+  3. huge /hjuːdʒ/ (adj.)
+  4. hungry /ˈhʌŋɡri/ (adj.)
+  5. hunter /ˈhʌntə(r)/ (n.)
+  6. hurry /ˈhʌri/ (v.)
+  7. if /ɪf/ (conj.)
+  8. improve /ɪmˈpruːv/ (v.)
+  9. in a hurry
+ 10. in danger
+ 11. in high spirits
+ 12. in the end
+ 13. inside /ˌɪnˈsaɪd/ (prep.)
+ 14. instead /ɪnˈsted/ (adv.)
+ 15. instead of
+ 16. into /ˈɪntuː; ˈɪntə/ (prep.)
+ 17. ivory /ˈaɪvəri/ (n.)
+ 18. jacket /ˈdʒækɪt/ (n.)
+ 19. jog /dʒɒɡ/ (v.)
+ 20. john /dʒɒn/
+ 21. jump rope
+ 22. jump the queue
+
+【Review (Day 24,32,35,37,38)】
+  1. sixth /sɪksθ/ (num.)
+  2. sixtieth /ˈsɪkstiəθ/ (num.)
+  3. sixty /ˈsɪksti/ (num.)
+  4. small /smɔːl/ (adj.)
+  5. smart /smɑːt/ (adj.)
+  6. smith /smɪθ/
+  7. so /səʊ/ (conj.)
+  8. sock /sɒk/ (n.)
+  9. some /sʌm; səm/ (adj.)
+ 10. something /ˈsʌmθɪŋ/ (pron.)
+ 11. sometimes /ˈsʌmtaɪmz/ (adv.)
+ 12. son /sʌn/ (n.)
+ 13. song /sɒŋ/ (n.)
+ 14. soon /suːn/ (adv.)
+ 15. sorry /ˈsɒri/ (adj.)
+ 16. sound /saʊnd/ (v.)
+ 17. speak /spiːk/ (v.)
+ 18. special /ˈspeʃl/ (adj.)
+ 19. spell /spel/ (v.)
+ 20. spend /spend/ (v.)
+ 21. sports field
+ 22. start /stɑːt/ (v.)
+ 23. bean /biːn/ (n.)
+ 24. because of
+ 25. become /bɪˈkʌm/ (v.)
+ 26. belong /bɪˈlɒŋ/ (v.)
+ 27. belong to
+ 28. belt /belt/ (n.)
+ 29. beth /beθ/
+ 30. better /ˈbetə(r)/ (adj.)
+ 31. bite through
+ 32. blind /blaɪnd/ (adj.)
+ 33. boat /bəʊt/ (n.)
+ 34. body /ˈbɒdi/ (n.)
+ 35. branch /brɑːntʃ/ (n.)
+ 36. bread /bred/ (n.)
+ 37. bright /braɪt/ (adj.)
+ 38. brightly /ˈbraɪtli/ (adv.)
+ 39. bring /brɪŋ/ (v.)
+ 40. build /bɪld/ (v.)
+ 41. bus /bʌs/ (n.)
+ 42. by /baɪ/ (prep.)
+ 43. cabbage /ˈkæbɪdʒ/ (n.)
+ 44. call back
+ 45. dry /draɪ/ (adj.)
+ 46. duckling /ˈdʌklɪŋ/ (n.)
+ 47. dumpling /ˈdʌmplɪŋ/ (n.)
+ 48. eagle /ˈiːɡl/ (n.)
+ 49. ear /ɪə(r)/ (n.)
+ 50. east /iːst/ (n.)
+ 51. elephant /ˈelɪfənt/ (n.)
+ 52. emperor /ˈempərə(r)/ (n.)
+ 53. encourage /ɪnˈkʌrɪdʒ/ (v.)
+ 54. end /end/ (n.)
+ 55. energy /ˈenədʒi/ (n.)
+ 56. enough /ɪˈnʌf/ (adj.)
+ 57. entry /ˈentri/ (n.)
+ 58. eric /ˈerɪk/
+ 59. evening /ˈiːvnɪŋ/ (n.)
+ 60. ever /ˈevə(r)/ (adv.)
+ 61. excuse /ɪkˈskjuːz/ (v.)
+ 62. excuse me
+ 63. exhibition /ˌeksɪˈbɪʃn/ (n.)
+ 64. explain /ɪkˈspleɪn/ (v.)
+ 65. explore /ɪkˈsplɔː(r)/ (v.)
+ 66. factory /ˈfæktri; ˈfæktəri/ (n.)
+ 67. friendly /ˈfrendli/ (adj.)
+ 68. fruit /fruːt/ (n.)
+ 69. full of
+ 70. fur /fɜː(r)/ (n.)
+ 71. genie /ˈdʒiːni/ (n.)
+ 72. germ /dʒɜːm/ (n.)
+ 73. get out
+ 74. giraffe /dʒəˈrɑːf/ (n.)
+ 75. glad /ɡlæd/ (adj.)
+ 76. glove /ɡlʌv/ (n.)
+ 77. go away
+ 78. go with
+ 79. goal /ɡəʊl/ (n.)
+ 80. grain /ɡreɪn/ (n.)
+ 81. ground /ɡraʊnd/ (n.)
+ 82. group /ɡruːp/ (n.)
+ 83. guess /ɡes/ (v.)
+ 84. gun /ɡʌn/ (n.)
+ 85. habit /ˈhæbɪt/ (n.)
+ 86. hallway /ˈhɔːlweɪ/ (n.)
+ 87. hamburger /ˈhæmbɜːɡə(r)/ (n.)
+ 88. hand /hænd/ (n.)
+ 89. hang /hæŋ/ (v.)
+ 90. hang out
+ 91. happen /ˈhæpən/ (v.)
+ 92. hardly /ˈhɑːdli/ (adv.)
+ 93. hardly ever
+ 94. hate /heɪt/ (v.)
+ 95. have to
+ 96. healthy /ˈhelθi/ (adj.)
+ 97. hearing /ˈhɪərɪŋ/ (n.)
+ 98. heart /hɑːt/ (n.)
+ 99. heavily /ˈhevɪli/ (adv.)
+100. heavy /ˈhevi/ (adj.)
+101. hen /hen/ (n.)
+102. hers /hɜːz; ɜːz/ (pron.)
+103. high /haɪ/ (adv.)
+104. himself /hɪmˈself/ (pron.)
+105. hold /həʊld/ (v.)
+106. hold on
+107. holiday /ˈhɒlədeɪ; ˈhɒlədi/ (n.)
+108. hometown /ˈhəʊmtaʊn/ (n.)
+109. hope /həʊp/ (v.)
+110. hopefully /ˈhəʊpfəli/ (adv.)

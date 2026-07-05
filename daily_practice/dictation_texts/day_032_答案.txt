@@ -1,0 +1,137 @@
+=== Day 32 Answer Key ===
+
+【New Words】
+  1. bean /biːn/ [n.] — 豆
+  2. because of — 因为
+  3. become /bɪˈkʌm/ [v.] — 变成；成为
+  4. belong /bɪˈlɒŋ/ [v.] — 应在（某处）
+  5. belong to — 属于（某人）
+  6. belt /belt/ [n.] — 安全带；腰带；皮带
+  7. beth /beθ/ — 贝丝
+  8. better /ˈbetə(r)/ [adj.] — 较好的  adv. 较好地
+  9. bite through — 咬穿
+ 10. blind /blaɪnd/ [adj.] — 瞎的；失明的
+ 11. boat /bəʊt/ [n.] — 小船；小艇
+ 12. body /ˈbɒdi/ [n.] — 身体
+ 13. branch /brɑːntʃ/ [n.] — 分支；树枝
+ 14. bread /bred/ [n.] — 面包
+ 15. bright /braɪt/ [adj.] — 鲜艳的；明亮的； 聪明的
+ 16. brightly /ˈbraɪtli/ [adv.] — 明亮地
+ 17. bring /brɪŋ/ [v.] — 带来
+ 18. build /bɪld/ [v.] — 创建；建造
+ 19. bus /bʌs/ [n.] — 公交车
+ 20. by /baɪ/ [prep.] — 靠近；在……旁边
+ 21. cabbage /ˈkæbɪdʒ/ [n.] — 卷心菜
+ 22. call back — 回电话
+
+【Review】
+  1. mark /mɑːk/ [v.] — 做记号；纪念；打分   n. 记号
+  2. may /meɪ/ — modal v. 可以；可能
+  3. me /miː; mi/ [pron.] — （I的宾格）我
+  4. mean /miːn/ [v.] — 刻薄的；吝啬的
+  5. member /ˈmembə(r)/ [n.] — 成员；会员
+  6. middle /ˈmɪdl/ [n.] — 中间 adj. 中间的
+  7. mike /maɪk/ — 迈克
+  8. milk /mɪlk/ [n.] — 牛奶
+  9. miller /ˈmɪlə(r)/ — 米勒
+ 10. million /ˈmɪljən/ [num.] — 百万
+ 11. mind /maɪnd/ [n.] — 头脑；心思
+ 12. minute /ˈmɪnɪt/ [n.] — 分；分钟
+ 13. mistake /mɪˈsteɪk/ [n.] — 错误；失误
+ 14. modern /ˈmɒdn/ [adj.] — 现代的；当代的 do exercises 做体操
+ 15. month /mʌnθ/ [n.] — 月份
+ 16. more /mɔː(r)/ [adj.] — & pron. 更多（的）
+ 17. morning /ˈmɔːnɪŋ/ [n.] — 早晨；上午
+ 18. most /məʊst/ [adj.] — & pron. 大多数； 最多；最大 adv. 最
+ 19. mr /ˈmɪstə(r)/ — （用于男子的姓氏或 姓名前）先生
+ 20. mrs /ˈmɪsɪz/ — （对已婚妇女的礼貌称呼）
+ 21. ms /mɪz; məz/ — （用于女子的姓氏或姓 名前，不指明婚否）女士
+ 22. much /mʌtʃ/ [adv.] — 非常；十分
+ 23. starter /ˈstɑːtə(r)/ — unit 过渡单元
+ 24. stay /steɪ/ [v.] — 停留；待
+ 25. story /ˈstɔːri/ [n.] — 故事
+ 26. student /ˈstjuːdnt/ [n.] — 学生
+ 27. study /ˈstʌdi/ [v.] — & n. 学习；研究
+ 28. subject /ˈsʌbdʒɪkt/ [n.] — 学科；科目
+ 29. sure /ʃʊə(r)/ [adv.] — 当然；一定
+ 30. surprise /səˈpraɪz/ [n.] — 惊奇；惊讶   v. 使感到意外
+ 31. swim /swɪm/ [v.] — & n. 游泳
+ 32. sydney /ˈsɪdni/ — 悉尼（澳大利亚城市） A
+ 33. symbol /ˈsɪmbl/ [n.] — 象征；符号
+ 34. table /ˈteɪbl/ [n.] — 桌子
+ 35. take /teɪk/ [v.] — 拍照；拿；取；买下
+ 36. take a photo — 拍照
+ 37. take a shower — 淋浴
+ 38. take photos — 拍照
+ 39. talk /tɔːk/ [v.] — & n. 说话；交谈
+ 40. tall /tɔːl/ [adj.] — 高的
+ 41. teacher /ˈtiːtʃə(r)/ [n.] — 教师
+ 42. tell /tel/ [v.] — 告诉
+ 43. ten /ten/ [num.] — 十
+ 44. tennis /ˈtenɪs/ [n.] — 网球运动
+ 45. useful /ˈjuːsfl/ [adj.] — 有用的；有益的
+ 46. usually /ˈjuːʒuəli/ [adv.] — 通常地；一般地
+ 47. very /ˈveri/ [adv.] — 很；非常
+ 48. village /ˈvɪlɪdʒ/ [n.] — 村庄；村镇
+ 49. violin /ˌvaɪəˈlɪn/ [n.] — 小提琴
+ 50. visit /ˈvɪzɪt/ [v.] — & n. 参观；拜访
+ 51. vr /ˌviː ˈɑː(r)/ — 虚拟现实
+ 52. wait /weɪt/ [v.] — 等待；等候
+ 53. walk /wɔːk/ [v.] — & n. 行走；步行
+ 54. watch /wɒtʃ/ [v.] — 注视；观看  n. 表；手表
+ 55. way /weɪ/ [n.] — 方式；道路
+ 56. we /wiː; wi/ [pron.] — 我们
+ 57. wear /weə(r)/ [v.] — 穿；戴
+ 58. week /wiːk/ [n.] — 周
+ 59. weekend /ˌwiːkˈend/ [n.] — 周末
+ 60. welcome /ˈwelkəm/ [adj.] — 受欢迎的   interj., v. & n.  欢迎
+ 61. well /wel/ [interj.] — 嗯；好吧
+ 62. what /wɒt/ [pron.] — & adj. 什么
+ 63. when /wen/ [adv.] — 什么时候
+ 64. where /weə(r)/ [adv.] — 在哪里；到哪里
+ 65. which /wɪtʃ/ [pron.] — 哪一个；哪一些
+ 66. while /waɪl/ [n.] — 一段时间；一会儿
+ 67. absent /ˈæbsənt/ [adj.] — 缺席的；不在的 absent from 缺席；不在
+ 68. actor /ˈæktə(r)/ [n.] — 演员
+ 69. adam /ˈædəm/ — 亚当
+ 70. advice /ədˈvaɪs/ [n.] — 建议；意见
+ 71. affect /əˈfekt/ [v.] — 影响
+ 72. afraid /əˈfreɪd/ [adj.] — 害怕的；担心的 after all 毕竟；终归
+ 73. africa /ˈæfrɪkə/ — 非洲
+ 74. again /əˈɡen; əˈɡeɪn/ [adv.] — 再一次； 又一次
+ 75. agree /əˈɡriː/ [v.] — 赞成；同意
+ 76. agree with — 赞成；同意
+ 77. air /eə(r)/ [n.] — 空气
+ 78. all over — 到处；遍及
+ 79. along /əˈlɒŋ/ [prep.] — 沿着；顺着
+ 80. although /ɔːlˈðəʊ/ [conj.] — 虽然；尽管
+ 81. america /əˈmerɪkə/ — 美国；美洲
+ 82. among /əˈmʌŋ/ [prep.] — 在……中； ……之一
+ 83. anna /ˈænə/ — 安娜
+ 84. anne /æn/ — 安妮
+ 85. antarctica /ænˈtɑːktɪkə/ — 南极洲
+ 86. anyone /ˈeniwʌn/ [pron.] — 任何人； 某个人
+ 87. anything /ˈeniθɪŋ/ [pron.] — 某事物； 任何事物
+ 88. area /ˈeəriə/ [n.] — 场地；地区
+ 89. arm /ɑːm/ [n.] — 手臂；上肢
+ 90. around the world — 世界各地
+ 91. arrive /əˈraɪv/ [v.] — 到达
+ 92. article /ˈɑːtɪkl/ [n.] — 文章；冠词
+ 93. artist /ˈɑːtɪst/ [n.] — 美术家；艺术家
+ 94. astronaut /ˈæstrənɔːt/ [n.] — 宇航员
+ 95. at first — 起初；最初
+ 96. at the end — 最后；在末尾
+ 97. at the moment — 现在；此刻
+ 98. at the start — 开始；起初
+ 99. at the top — 在顶部；在顶端
+100. away /əˈweɪ/ [adv.] — 离开；在别处
+101. awful /ˈɔːfl/ [adj.] — 糟糕的；讨厌的
+102. bad /bæd/ [adj.] — 不好的；坏的
+103. badminton /ˈbædmɪntən/ [n.] — 羽毛球运动
+104. bag /bæɡ/ [n.] — 袋子
+105. balanced /ˈbælənst/ [adj.] — 均衡的； 平衡的
+106. banana /bəˈnɑːnə/ [n.] — 香蕉
+107. baseball /ˈbeɪsbɔːl/ [n.] — 棒球（运动）
+108. basket /ˈbɑːskɪt/ [n.] — 篮子；筐
+109. beach /biːtʃ/ [n.] — 海滩；海滨
+110. beach volleyball — 沙滩排球

@@ -1,0 +1,138 @@
+=== Day 34 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. create /kriˈeɪt/ (v.)
+  2. cry /kraɪ/ (v.)
+  3. cucumber /ˈkjuːkʌmbə(r)/ (n.)
+  4. culture /ˈkʌltʃə(r)/ (n.)
+  5. cup /kʌp/ (n.)
+  6. customer /ˈkʌstəmə(r)/ (n.)
+  7. cut /kʌt/ (v.)
+  8. cut down
+  9. danger /ˈdeɪndʒə(r)/ (n.)
+ 10. dangerous /ˈdeɪndʒərəs/ (adj.)
+ 11. darling /ˈdɑːlɪŋ/ (n.)
+ 12. decide /dɪˈsaɪd/ (v.)
+ 13. description /dɪˈskrɪpʃn/ (n.)
+ 14. die /daɪ/ (v.)
+ 15. direction /dɪˈrekʃn; daɪˈrekʃn/ (n.)
+ 16. dirty /ˈdɜːti/ (adj.)
+ 17. dish /dɪʃ/ (n.)
+ 18. doctor /ˈdɒktə(r)/ (n.)
+ 19. double /ˈdʌbl/ (n.)
+ 20. dragon /ˈdræɡən/ (n.)
+ 21. drive /draɪv/ (v.)
+ 22. drop /drɒp/ (v.)
+
+【Review (Day 19,27,30,32,33)】
+  1. nose /nəʊz/ (n.)
+  2. notice /ˈnəʊtɪs/ (n.)
+  3. now /naʊ/ (adv.)
+  4. number /ˈnʌmbə(r)/ (n.)
+  5. of /ɒv; əv/ (prep.)
+  6. office /ˈɒfɪs/ (n.)
+  7. often /ˈɒfn; ˈɒftən/ (adv.)
+  8. oh /əʊ/ (interj.)
+  9. ok /əʊˈkeɪ/ (interj.)
+ 10. old /əʊld/ (adj.)
+ 11. on /ɒn/ (prep.)
+ 12. on duty
+ 13. one /wʌn/ (num.)
+ 14. only /ˈəʊnli/ (adv.)
+ 15. or /ɔː(r)/ (conj.)
+ 16. oscar /ˈɒskə(r)/
+ 17. other /ˈʌðə(r)/ (pron.)
+ 18. our /ɑː(r); ˈaʊə(r)/ (pron.)
+ 19. out /aʊt/ (adv.)
+ 20. page /peɪdʒ/ (n.)
+ 21. paint /peɪnt/ (v.)
+ 22. pair /peə(r)/ (n.)
+ 23. time /taɪm/ (n.)
+ 24. timo /ˈtiːməʊ/
+ 25. to /tuː; tə/
+ 26. today /təˈdeɪ/ (adv.)
+ 27. tofu /ˈtəʊfuː/ (n.)
+ 28. tom /tɒm/
+ 29. tomato /təˈmɑːtəʊ; təˈmeɪtəʊ/ (n.)
+ 30. too /tuː/ (adv.)
+ 31. travel /ˈtrævl/ (v.)
+ 32. tree /triː/ (n.)
+ 33. trousers /ˈtraʊzəz/ (n.)
+ 34. twelfth /twelfθ/ (num.)
+ 35. twelve /twelv/ (num.)
+ 36. twin /twɪn/ (n.)
+ 37. two /tuː/ (num.)
+ 38. uk /ˌjuː ˈkeɪ/
+ 39. uncle /ˈʌŋkl/ (n.)
+ 40. under /ˈʌndə(r)/ (prep.)
+ 41. unit /ˈjuːnɪt/ (n.)
+ 42. up /ʌp/ (adv.)
+ 43. us /ʌs; əs/ (pron.)
+ 44. use /juːz/ (v.)
+ 45. absent /ˈæbsənt/ (adj.)
+ 46. actor /ˈæktə(r)/ (n.)
+ 47. adam /ˈædəm/
+ 48. advice /ədˈvaɪs/ (n.)
+ 49. affect /əˈfekt/ (v.)
+ 50. afraid /əˈfreɪd/ (adj.)
+ 51. africa /ˈæfrɪkə/
+ 52. again /əˈɡen; əˈɡeɪn/ (adv.)
+ 53. agree /əˈɡriː/ (v.)
+ 54. agree with
+ 55. air /eə(r)/ (n.)
+ 56. all over
+ 57. along /əˈlɒŋ/ (prep.)
+ 58. although /ɔːlˈðəʊ/ (conj.)
+ 59. america /əˈmerɪkə/
+ 60. among /əˈmʌŋ/ (prep.)
+ 61. anna /ˈænə/
+ 62. anne /æn/
+ 63. antarctica /ænˈtɑːktɪkə/
+ 64. anyone /ˈeniwʌn/ (pron.)
+ 65. anything /ˈeniθɪŋ/ (pron.)
+ 66. area /ˈeəriə/ (n.)
+ 67. bean /biːn/ (n.)
+ 68. because of
+ 69. become /bɪˈkʌm/ (v.)
+ 70. belong /bɪˈlɒŋ/ (v.)
+ 71. belong to
+ 72. belt /belt/ (n.)
+ 73. beth /beθ/
+ 74. better /ˈbetə(r)/ (adj.)
+ 75. bite through
+ 76. blind /blaɪnd/ (adj.)
+ 77. boat /bəʊt/ (n.)
+ 78. body /ˈbɒdi/ (n.)
+ 79. branch /brɑːntʃ/ (n.)
+ 80. bread /bred/ (n.)
+ 81. bright /braɪt/ (adj.)
+ 82. brightly /ˈbraɪtli/ (adv.)
+ 83. bring /brɪŋ/ (v.)
+ 84. build /bɪld/ (v.)
+ 85. bus /bʌs/ (n.)
+ 86. by /baɪ/ (prep.)
+ 87. cabbage /ˈkæbɪdʒ/ (n.)
+ 88. call back
+ 89. car /kɑː(r)/ (n.)
+ 90. care /keə(r)/ (n.)
+ 91. carry /ˈkæri/ (v.)
+ 92. cause /kɔːz/ (v.)
+ 93. central /ˈsentrəl/ (adj.)
+ 94. certainly /ˈsɜːtnli/ (adv.)
+ 95. chip /tʃɪp/ (n.)
+ 96. choice /tʃɔɪs/ (n.)
+ 97. cinema /ˈsɪnəmə/ (n.)
+ 98. city /ˈsɪti/ (n.)
+ 99. close /kləʊs/ (adv.)
+100. clothes /kləʊðz/ (n.)
+101. cloud /klaʊd/ (n.)
+102. cloudy /ˈklaʊdi/ (adj.)
+103. coffee /ˈkɒfi/ (n.)
+104. cold /kəʊld/ (adj.)
+105. colourful /ˈkʌləfl/ (adj.)
+106. come out
+107. common /ˈkɒmən/ (adj.)
+108. cookie /ˈkʊki/ (n.)
+109. cool /kuːl/ (adj.)
+110. could /kʊd; kəd/

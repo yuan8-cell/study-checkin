@@ -1,0 +1,137 @@
+=== Day 61 Answer Key ===
+
+【New Words】
+  1. heat /hiːt/ [v.] — 加热；变热
+  2. helpful /ˈhelpfl/ [adj.] — 有用的；有益的
+  3. honest /ˈɒnɪst/ [adj.] — 坦诚的；诚实的 direct /dəˈrekt; daɪˈrekt/
+  4. honey /ˈhʌni/ [n.] — 蜂蜜；（爱称）亲爱的
+  5. honeycomb /ˈhʌnikəʊm/ [n.] — 蜂巢
+  6. honour /ˈɒnə(r)/ — (= honor)  n. 荣幸；尊敬
+  7. host /həʊst/ [n.] — 主人；东道主   v. 主办；主持（活动）
+  8. hostess /ˈhəʊstəs/ [n.] — 女主人；女房东 hot and sour soup酸辣汤
+  9. hotel /həʊˈtel/ [n.] — 旅馆；旅社
+ 10. human /ˈhjuːmən/ [n.] — 人   adj. 人的；人类的
+ 11. humour /ˈhjuːmə(r)/ — (= humor) n. 幽默；幽默感
+ 12. hunt /hʌnt/ [n.] — 搜寻；狩猎   v. 搜寻；打猎
+ 13. imagine /ɪˈmædʒɪn/ [v.] — 想象；猜想
+ 14. importance /ɪmˈpɔːtns/ [n.] — 重要性
+ 15. impossible /ɪmˈpɒsəbl/ [adj.] — 不可能的 in fact 确切地说；实际上
+ 16. in fact — 确切地说；实际上
+ 17. in order to — 为了；以便
+ 18. in person — 亲自；亲身
+ 19. in the sun — 在阳光下
+ 20. industry /ˈɪndəstri/ [n.] — 行业；工业 influence /ˈɪnfluəns / v. 影响；对……起作用   n. 影响；作用
+ 21. influence /ˈɪnfluəns/ [v.] — 影响；对……起作用  n. 影响；作用
+ 22. ingredient /ɪnˈɡriːdiənt/ [n.] — 食材；成分
+
+【Review】
+  1. safe /seɪf/ [adj.] — 安全的
+  2. salad /ˈsæləd/ [n.] — 沙拉；色拉
+  3. salt /sɔːlt; sɒlt/ [n.] — 盐
+  4. sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ [n.] — 三明治
+  5. save /seɪv/ [v.] — 救；储蓄；保存
+  6. scary /ˈskeəri/ [adj.] — 吓人的；恐怖的
+  7. sea /siː/ [n.] — 海；海洋
+  8. search /sɜːtʃ/ [v.] — 寻找；搜寻
+  9. search for — 寻找
+ 10. season /ˈsiːzn/ [n.] — 季节
+ 11. seem /siːm/ [v.] — 似乎；好像
+ 12. seldom /ˈseldəm/ [adv.] — 很少；不常
+ 13. serve /sɜːv/ [v.] — 提供；服务
+ 14. set /set/ [v.] — 使处于某种状况；使开始 set … free 释放
+ 15. shark /ʃɑːk/ [n.] — 鲨鱼
+ 16. shine /ʃaɪn/ [v.] — 发光；照耀 n. 光亮
+ 17. should /ʃʊd; ʃəd/ — modal v. 应该； 应当
+ 18. shout /ʃaʊt/ [v.] — & n. 喊叫；呼唤
+ 19. show /ʃəʊ/ [v.] — 表明；展示 n. 演出
+ 20. shuttlecock /ˈʃʌtlkɒk/ [n.] — 羽毛球
+ 21. side /saɪd/ [n.] — 边；侧
+ 22. side by side — 并排；并肩地
+ 23. ancient /ˈeɪnʃənt/ [adj.] — 古代的；古老的
+ 24. ant /ænt/ [n.] — 蚂蚁
+ 25. apartment /əˈpɑːtmənt/ [n.] — 房间；公寓套房
+ 26. appear /əˈpɪə(r)/ [v.] — 出现；看来好像 feel free (to do sth)可以随便做某事
+ 27. appearance /əˈpɪərəns/ [n.] — 外表；露面
+ 28. argue /ˈɑːɡjuː/ [v.] — 争论；争吵
+ 29. argue with sb — 与某人争论
+ 30. arrival /əˈraɪvl/ [n.] — 到达
+ 31. artwork /ˈɑːtwɜːk/ [n.] — 艺术作品；插图 as … as … 像……一样……
+ 32. as long as — 只要
+ 33. asimov /ˈæzɪmɒf/ — 阿西莫夫
+ 34. at least — 至少
+ 35. athlete /ˈæθliːt/ [n.] — 运动员
+ 36. attend /əˈtend/ [v.] — 参加；出席
+ 37. attention /əˈtenʃn/ [n.] — 注意；专心；关注 pay attention (to …) 注意；关注 be yourself  行为自然；不做作
+ 38. autumn /ˈɔːtəm/ [n.] — 秋天；秋季
+ 39. bake /beɪk/ [v.] — 烘焙
+ 40. balcony /ˈbælkəni/ [n.] — 阳台
+ 41. bamboo /ˌbæmˈbuː/ [n.] — 竹；竹子
+ 42. bath /bɑːθ/ [n.] — 洗澡；浴缸
+ 43. bathroom /ˈbɑːθruːm/ [n.] — 浴室；洗手间 be careful with 注意；当心
+ 44. be tired of — 对……感到厌倦
+ 45. compare /kəmˈpeə(r)/ [v.] — 比较；对比
+ 46. concert /ˈkɒnsət/ [n.] — 音乐会；演奏会
+ 47. confidence /ˈkɒnfɪdəns/ [n.] — 信心；信任 draw to a close 即将结束；即将完成
+ 48. congratulation /kənˌɡrætʃəˈleɪʃn/ [n.] — 祝贺；恭喜
+ 49. connect /kəˈnekt/ [v.] — 关联；连接
+ 50. connection /kəˈnekʃn/ [n.] — 联系；连接
+ 51. continue /kənˈtɪnjuː/ [v.] — 持续；继续做
+ 52. cost /kɒst/ [n.] — 费用；价钱；代价
+ 53. countryside /ˈkʌntrisaɪd/ [n.] — 乡村；农村
+ 54. couple /ˈkʌpl/ [n.] — 夫妻；情侣；两人
+ 55. cover /ˈkʌvə(r)/ [v.] — 遮盖；包括  n. 遮盖物；封皮
+ 56. cream /kriːm/ [n.] — 奶油；护肤霜
+ 57. creativity /ˌkriːeɪˈtɪvəti/ [n.] — 创造力
+ 58. crust /krʌst/ [n.] — 糕饼酥皮；面包皮
+ 59. cure /kjʊə(r)/ [n.] — 药物；疗法   v. 治愈；治好
+ 60. date /deɪt/ [n.] — 日期；日子；约会   v. 确定年代；注明日期
+ 61. dead /ded/ [adj.] — 不运行的；死的
+ 62. decorate /ˈdekəreɪt/ [v.] — 装饰；装潢
+ 63. deer /dɪə(r)/ [n.] — (pl. deer)鹿
+ 64. depend /dɪˈpend/ [v.] — 取决于；依靠 depend on / upon 取决于；依靠
+ 65. describe /dɪˈskraɪb/ [v.] — 描述；形容
+ 66. design /dɪˈzaɪn/ [v.] — 设计；计划   n. 设计；花纹
+ 67. excited /ɪkˈsaɪtɪd/ [adj.] — 兴奋的；激动的
+ 68. expect /ɪkˈspekt/ [v.] — 预料；期待
+ 69. expert /ˈekspɜːt/ [n.] — 专家；行家  adj. 熟练的；内行的
+ 70. expression /ɪkˈspreʃn/ [n.] — 表达方式；表达
+ 71. face /feɪs/ [n.] — 脸
+ 72. face to face — 面对面
+ 73. fact /fækt/ [n.] — 事实；现实
+ 74. fail /feɪl/ [v.] — 未能（做到）；失败
+ 75. familiar /fəˈmɪliə(r)/ [adj.] — 熟悉的
+ 76. fan /fæn/ [n.] — 扇子；电风扇
+ 77. far /fɑː(r)/ [adv.] — 远；（离……）有多远   adj. 较远的；远端的
+ 78. faraway /ˈfɑːrəweɪ; ˌfɑːrəˈweɪ/ [adj.] — 远方的；遥远的
+ 79. fashion /ˈfæʃn/ [n.] — 时装业；时尚
+ 80. final /ˈfaɪnl/ [adj.] — 最后的；最终的  n. 决赛
+ 81. fire /faɪə(r)/ [n.] — 火；火灾    v. 射击；开火
+ 82. floor /flɔː(r)/ [n.] — 地板
+ 83. flute /fluːt/ [n.] — 长笛
+ 84. folding fan — 折扇
+ 85. for this reason — 出于这个原因
+ 86. form /fɔːm/ [v.] — （使）形成；组成   n. 类型；形式；表格
+ 87. france /frɑːns/ — 法国
+ 88. freshly /ˈfreʃli/ [adv.] — 刚刚
+ 89. friendship /ˈfrendʃɪp/ [n.] — 友谊；友情
+ 90. frog /frɒɡ/ [n.] — 蛙；青蛙
+ 91. futurist /ˈfjuːtʃərɪst/ [n.] — 未来学家
+ 92. game /ɡeɪm/ [n.] — 游戏；运动
+ 93. german /ˈdʒɜːmən/ [n.] — 德语；德国人
+ 94. get together — 聚会；相聚
+ 95. ginkgo /ˈɡɪŋkəʊ/ [n.] — 银杏
+ 96. give sb a lift — 开车顺便送某人
+ 97. glue /ɡluː/ [n.] — 胶水  v. 粘贴
+ 98. go boating — 去划船
+ 99. go shopping — 去购物
+100. goodness /ˈɡʊdnəs/ [n.] — 美德；营养
+101. grape /ɡreɪp/ [n.] — 葡萄
+102. guest /gest/ [n.] — 客人；宾客
+103. guide /ɡaɪd/ [n.] — 导游；指南；手册   v. 给某人领路；指导
+104. hang up — 挂起；挂断电话
+105. happiness /ˈhæpinəs/ [n.] — 幸福；快乐 hard-working /ˌhɑːd ˈwɜːkɪŋ/
+106. hard-working /ˌhɑːd ˈwɜːkɪŋ/ [adj.] — 勤奋的
+107. harry /ˈhæri/ — 哈里；哈丽
+108. have sth in common — 有共同之处
+109. health /helθ/ [n.] — 健康
+110. healthily /ˈhelθɪli/ [adv.] — 健康地

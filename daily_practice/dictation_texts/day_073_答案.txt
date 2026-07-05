@@ -1,0 +1,137 @@
+=== Day 73 Answer Key ===
+
+【New Words】
+  1. wing /wɪŋ/ [n.] — 翅膀；翼
+  2. winner /ˈwɪnə(r)/ [n.] — 优胜者；成功者
+  3. wisely /ˈwaɪzli/ [adv.] — 聪明地；明智地
+  4. without /wɪˈðaʊt/ [prep.] — 没有；缺乏
+  5. word /wɜːd/ [n.] — 词；字
+  6. worker /ˈwɜːkə/ [n.] — 工人；工作者
+  7. worry /ˈwʌri/ [n.] — & v. 担心；发愁
+  8. worry about — 为……担心
+  9. worse /wɜːs/ [adj.] — （bad的比较级） 更差的；更糟的；更坏的
+ 10. writer /ˈraɪtə(r)/ [n.] — 作者
+ 11. yeah /jeə/ [interj.] — 是的；对
+ 12. yet /jet/ [adv.] — （用于否定句和疑问句）还  conj. 但是
+ 13. a bit — 有点儿；稍微
+ 14. a good read — 好的读物；好书 （或文章等）
+ 15. above /əˈbʌv/ [prep.] — & adv.  在（……）上方；高于
+ 16. ache /eɪk/ [n.] — & v. 疼痛
+ 17. achievement /əˈtʃiːvmənt/ [n.] — 成就
+ 18. active /ˈæktɪv/ [adj.] — 活跃的；积极的 adult /ˈædʌlt; əˈdʌlt/ n. 成年人
+ 19. adult /ˈædʌlt; əˈdʌlt/ [n.] — 成年人   adj. 成年的；成熟的
+ 20. adventure /ədˈventʃə(r)/ [n.] — 冒险； 冒险经历
+ 21. advise /ədˈvaɪz/ [v.] — 建议；劝告
+ 22. aid /eɪd/ [n.] — & v. 帮助；援助
+
+【Review】
+  1. designer /dɪˈzaɪnə(r)/ [n.] — 设计师
+  2. detail /ˈdiːteɪl/ [n.] — 细节；详情
+  3. diana /daɪˈænə/ — 戴安娜
+  4. difference /ˈdɪfrəns/ [n.] — 差异
+  5. difficulty /ˈdɪfɪkəlti/ [n.] — 困难；难题 direct /dəˈrekt; daɪˈrekt/
+  6. director /dəˈrektə(r); daɪˈrektə(r)/ [n.] — 导演；主任；董事
+  7. disappear /ˌdɪsəˈpɪə(r)/ [v.] — 消失；不见
+  8. disappointed /ˌdɪsəˈpɔɪntɪd/ [adj.] — 失望的；沮丧的
+  9. disaster /dɪˈzɑːstə(r)/ [n.] — 灾难；不幸 do with 处理
+ 10. draw to a close — 即将结束；即将完成 dream /driːm/ n. 梦想；梦
+ 11. drop sb a line — 给……写信
+ 12. during /ˈdjʊərɪŋ/ [prep.] — 在……期间
+ 13. earth /ɜːθ/ [n.] — 地球；世界
+ 14. easily /ˈiːzəli/ [adv.] — 容易地；轻易地
+ 15. ecosystem /ˈiːkəʊsɪstəm/ [n.] — 生态系统
+ 16. education /ˌedʒuˈkeɪʃn/ [n.] — 教育
+ 17. edward /ˈedwəd/ — 爱德华
+ 18. emotional intelligence — 情绪智力
+ 19. engineer /ˌendʒɪˈnɪə(r)/ [n.] — 工程师 ；技师
+ 20. especially /ɪˈspeʃəli/ [adv.] — 尤其；特别
+ 21. event /ɪˈvent/ [n.] — 公开活动；重要事情 take place 发生；进行
+ 22. exchange /ɪksˈtʃeɪndʒ/ [v.] — & n. 交换
+ 23. peony /ˈpiːəni/ [n.] — 牡丹；芍药
+ 24. pepper /ˈpepə(r)/ [n.] — 胡椒粉；菜椒 per /pə(r); pɜː(r)/ prep. 每
+ 25. per /pə(r); pɜː(r)/ [prep.] — 每
+ 26. perform /pəˈfɔːm/ [v.] — 表演；执行
+ 27. perhaps /pəˈhæps; præps/ [adv.] — 也许；可能
+ 28. personality /ˌpɜːsəˈnæləti/ [n.] — 性格；品质
+ 29. photographer /fəˈtɒɡrəfə(r)/ [n.] — 摄影师；拍照者
+ 30. photography /fəˈtɒɡrəfi/ [n.] — 照相术；摄影
+ 31. physical /ˈfɪzɪkl/ [adj.] — 身体的；物质的
+ 32. pie /paɪ/ [n.] — 果馅饼；肉馅饼
+ 33. pilot /ˈpaɪlət/ [n.] — 飞行员；领航员
+ 34. plan /plæn/ [v.] — 策划；打算   n. 计划；方案
+ 35. planet /ˈplænɪt/ [n.] — 行星
+ 36. plate /pleɪt/ [n.] — 盘子；碟子
+ 37. pleasant /ˈpleznt/ [adj.] — 宜人的；友好的
+ 38. point /pɔɪnt/ [n.] — 观点；重点   v. 指向；瞄准
+ 39. pollen /ˈpɒlən/ [n.] — 花粉
+ 40. pollination /ˌpɒləˈneɪʃn/ [n.] — 授粉
+ 41. population /ˌpɒpjuˈleɪʃn/ [n.] — 人口
+ 42. poster /ˈpəʊstə(r)/ [n.] — 海报
+ 43. pour sth into sth — 将……倒入…… prediction /prɪˈdɪkʃn/ n. 预测；预言 prefer /prɪˈfɜː(r)/ v. 较喜欢
+ 44. prediction /prɪˈdɪkʃn/ [n.] — 预测；预言
+ 45. sense /sens/ [n.] — 理解力；感觉    v. 意识到；感觉到
+ 46. sentence /ˈsentəns/ [n.] — 句子；判决  n. 判决；宣判
+ 47. serious /ˈsɪəriəs/ [adj.] — 严肃的；严重的
+ 48. service /ˈsɜːvɪs/ [n.] — 服务；公共服务
+ 49. several /ˈsevrəl/ [pron.] — 几个；一些
+ 50. share sth with sb — 把……与……分享 shoot /ʃuːt/ n. 幼苗；嫩芽
+ 51. show interest in sth — 对……表现出兴趣 show sb around 领某人参观
+ 52. show sb around — 领某人参观
+ 53. shy /ʃaɪ/ [adj.] — 害羞的
+ 54. sick /sɪk/ [adj.] — 恶心的；生病的
+ 55. sign /saɪn/ [n.] — 手势；迹象；标志   v. 签（名）；签字
+ 56. silk /sɪlk/ [n.] — 丝绸；（蚕）丝
+ 57. silver /ˈsɪlvə(r)/ [adj.] — 银色的  n. 银
+ 58. silver lining — 一线光明
+ 59. similarity /ˌsɪməˈlærəti/ [n.] — 相似之处
+ 60. sincere /sɪnˈsɪə(r)/ [adj.] — 真诚的；诚实的 find out 查明；弄清（情况）
+ 61. situation /ˌsɪtʃuˈeɪʃn/ [n.] — 情况；状况 care about 关心；担心
+ 62. slice /slaɪs/ [n.] — 薄片；片
+ 63. slim /slɪm/ [adj.] — 苗条的；薄的
+ 64. slow /sləʊ/ [adj.] — 慢的；迟钝的
+ 65. smell /smel/ [v.] — 发臭；闻到   n. 气味；臭味
+ 66. social /ˈsəʊʃl/ [adj.] — 社会的；社交的   n. 联谊会；联欢会
+ 67. susan /ˈsu:zən/ — 苏珊
+ 68. system /ˈsɪstəm/ [n.] — 系统
+ 69. take a walk — 散步
+ 70. take notes — 做笔记
+ 71. take over — 接替；接管；接收
+ 72. take place — 发生；进行
+ 73. take up — 开始学；开始从事
+ 74. task /tɑːsk/ [n.] — 任务；工作
+ 75. tear /tɪə(r)/ [n.] — 眼泪；泪水
+ 76. technology /tekˈnɒlədʒi/ [n.] — 科技；工艺
+ 77. text /tekst/ [n.] — 正文；文本
+ 78. thanks to — 归功于；由于；因为
+ 79. thanksgiving /ˌθæŋksˈɡɪvɪŋ/ — 感恩节 Guoqiao Rice Noodles 过桥米线
+ 80. the movies — 电影院；电影产业
+ 81. thin /θɪn/ [adj.] — 薄的；细的；瘦的
+ 82. ticket /ˈtɪkɪt/ [n.] — 票；券
+ 83. tina /ˈtiːnə/ — 蒂娜
+ 84. tiny /ˈtaɪni/ [adj.] — 极小的；微小的
+ 85. tip /tɪp/ [n.] — 指点；实用的提示；尖端
+ 86. title /ˈtaɪtl/ [n.] — 标题；题目；名称
+ 87. toilet /ˈtɔɪlət/ [n.] — 厕所；抽水马桶
+ 88. ton /tʌn/ [n.] — 吨
+ 89. tool /tuːl/ [n.] — 工具；手段
+ 90. topic /ˈtɒpɪk/ [n.] — 话题；题目；标题
+ 91. touch /tʌtʃ/ [v.] — 触动；触碰
+ 92. towards /təˈwɔːdz; tɔːrdz/ — (= toward)  prep. 向；朝
+ 93. tower /ˈtaʊə(r)/ [n.] — 塔；塔楼
+ 94. town /taʊn/ [n.] — 镇；商业区
+ 95. traffic /ˈtræfɪk/ [n.] — 交通；运输
+ 96. train /treɪn/ [n.] — 火车；列车  v. 训练；培训
+ 97. training /ˈtreɪnɪŋ/ [n.] — 训练；培训
+ 98. treasure /ˈtreʒə(r)/ [n.] — 宝物；财富  v. 珍视
+ 99. treasure hunt — 寻宝游戏
+100. trust /trʌst/ [n.] — & v. 信任；相信
+101. turn around — 转身；翻转
+102. up to — 正在做；由某人决定
+103. vacation /vəˈkeɪʃn/ [n.] — 假期；度假
+104. victory /ˈvɪktəri/ [n.] — 胜利；成功
+105. video /ˈvɪdiəʊ/ [n.] — 视频；录像系统   v. 录视频；给……录像
+106. vincent /ˈvɪnsənt/ — 文森特
+107. visible /ˈvɪzəbl/ [adj.] — 看得见的；可见的 along with sb / sth 除……以外（还）；
+108. wallet /ˈwɒlɪt/ [n.] — 钱包；皮夹
+109. weigh /weɪ/ [v.] — 有……重；称重量
+110. wherever /weərˈevə(r)/ [adv.] — & conj.  无论去哪里；在任何地方

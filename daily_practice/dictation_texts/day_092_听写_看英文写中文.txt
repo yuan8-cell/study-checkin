@@ -1,0 +1,138 @@
+=== Day 92 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. soldier /ˈsəʊldʒə(r)/ (n.)
+  2. sore /sɔː(r)/ (adj.)
+  3. soundly /ˈsaʊndli/ (adv.)
+  4. southern /ˈsʌðən/ (adj.)
+  5. southwestern /ˌsaʊθˈwestən/ (adj.)
+  6. square kilometre
+  7. stadium /ˈsteɪdiəm/ (n.)
+  8. stage /steɪdʒ/ (n.)
+  9. stamp /stæmp/ (n.)
+ 10. standard /ˈstændəd/ (n.)
+ 11. state /steɪt/ (n.)
+ 12. stomach /ˈstʌmək/ (n.)
+ 13. stone /stəʊn/
+ 14. stove /stəʊv/ (n.)
+ 15. stress /stres/ (n.)
+ 16. strict /strɪkt/ (adj.)
+ 17. stroke /strəʊk/ (n.)
+ 18. structure /ˈstrʌktʃə(r)/ (n.)
+ 19. submersible /səbˈmɜːsəbl/ (n.)
+ 20. success /səkˈses/ (n.)
+ 21. successful /səkˈsesfl/ (adj.)
+ 22. successfully /səkˈsesfəli/ (adv.)
+
+【Review (Day 77,85,88,90,91)】
+  1. climax /ˈklaɪmæks/ (n.)
+  2. climber /ˈklaɪmə(r)/ (n.)
+  3. coach /kəʊtʃ/ (n.)
+  4. coast /kəʊst/ (n.)
+  5. coin /kɔɪn/ (n.)
+  6. colin /ˈkɒlɪn/
+  7. come along
+  8. completely /kəmˈpliːtli/ (adv.)
+  9. condition /kənˈdɪʃn/ (n.)
+ 10. confused /kənˈfjuːzd/ (adj.)
+ 11. congratulate /kənˈɡrætʃəleɪt/ (v.)
+ 12. consider /kənˈsɪdə(r)/ (v.)
+ 13. control /kənˈtrəʊl/ (v.)
+ 14. cooper /ˈkuːpə(r)/
+ 15. coral /ˈkɒrəl/ (n.)
+ 16. correct /kəˈrekt/ (adj.)
+ 17. correctly /kəˈrektli/ (adv.)
+ 18. cough /kɒf/ (n.)
+ 19. craven /ˈkreɪvn/
+ 20. cross /krɒs/ (v.)
+ 21. cubic /ˈkjuːbɪk/ (adj.)
+ 22. cubic metre
+ 23. look on the bright side
+ 24. lost /lɒst/ (adj.)
+ 25. luca /ˈluːkə/
+ 26. luckily /ˈlʌkɪli/ (adv.)
+ 27. mad /mæd/ (adj.)
+ 28. madam /ˈmædəm/ (n.)
+ 29. main /meɪn/ (adj.)
+ 30. make a difference
+ 31. make preparations
+ 32. manner /ˈmænə(r)/ (n.)
+ 33. manpower /ˈmænpaʊə(r)/ (n.)
+ 34. marie /məˈriː/
+ 35. married /ˈmærid/ (adj.)
+ 36. marry /ˈmæri/ (v.)
+ 37. mask /mɑːsk/ (n.)
+ 38. maya /ˈmaɪə/
+ 39. measure /ˈmeʒə(r)/ (v.)
+ 40. measurement /ˈmeʒəmənt/ (n.)
+ 41. medicine /ˈmedsn/ (n.)
+ 42. merci
+ 43. mexico /ˈmeksɪkəʊ/
+ 44. mile /maɪl/ (n.)
+ 45. player /ˈpleɪə(r)/ (n.)
+ 46. plenty /ˈplenti/ (pron.)
+ 47. pocket /ˈpɒkɪt/ (n.)
+ 48. pocket money
+ 49. poem /ˈpəʊɪm/ (n.)
+ 50. police /pəˈliːs/ (n.)
+ 51. pool /puːl/ (n.)
+ 52. postcard /ˈpəʊstkɑːd/ (n.)
+ 53. power /ˈpaʊə(r)/ (n.)
+ 54. practical /ˈpræktɪkl/ (adj.)
+ 55. preparation /ˌprepəˈreɪʃn/ (n.)
+ 56. present /ˈpreznt/ (n.)
+ 57. press /pres/ (v.)
+ 58. pressure /ˈpreʃə(r)/ (n.)
+ 59. primary /ˈpraɪməri/ (adj.)
+ 60. proper /ˈprɒpə(r)/ (adj.)
+ 61. proud of
+ 62. prove /pruːv/ (v.)
+ 63. provide /prəˈvaɪd/ (v.)
+ 64. pulitzer /ˈpʊlɪtsə(r)/
+ 65. pull together
+ 66. punish /ˈpʌnɪʃ/ (v.)
+ 67. risky /ˈrɪski/ (adj.)
+ 68. robert /ˈrɒbət/
+ 69. roll /rəʊl/ (v.)
+ 70. roof /ruːf/ (n.)
+ 71. rub /rʌb/ (v.)
+ 72. rude /ruːd/ (adj.)
+ 73. runny /ˈrʌni/ (adj.)
+ 74. sadly /ˈsædli/ (adv.)
+ 75. safety /ˈseɪfti/ (n.)
+ 76. sahara /səˈhɑːrə/
+ 77. sand /sænd/ (n.)
+ 78. scared /skeəd/ (adj.)
+ 79. scared of
+ 80. schoolgirl /ˈskuːlɡɜːl/ (n.)
+ 81. score /skɔː(r)/ (n.)
+ 82. scream /skriːm/ (v.)
+ 83. sea level
+ 84. secondly /ˈsekəndli/ (adv.)
+ 85. secretly /ˈsiːkrətli/ (adv.)
+ 86. security /sɪˈkjʊərəti/ (n.)
+ 87. security guard
+ 88. selfish /ˈselfɪʃ/ (adj.)
+ 89. serving /ˈsɜːvɪŋ/ (adj.)
+ 90. serving chopsticks
+ 91. shelter /ˈʃeltə(r)/ (n.)
+ 92. shirt /ʃɜːt/ (n.)
+ 93. shock /ʃɒk/ (n.)
+ 94. shocked /ʃɒkt/ (adj.)
+ 95. shorts /ʃɔːts/ (n.)
+ 96. shoulder /ˈʃəʊldə(r)/ (n.)
+ 97. shut /ʃʌt/ (v.)
+ 98. siberia /saɪˈbɪəriə/
+ 99. sign up
+100. sign-off /ˈsaɪnɒf/ (n.)
+101. simply /ˈsɪmpli/ (adv.)
+102. since /sɪns/ (prep.)
+103. single /ˈsɪŋɡl/ (adj.)
+104. sit up
+105. ski /skiː/ (v.)
+106. skirt /skɜːt/ (n.)
+107. snowstorm /ˈsnəʊstɔːm/ (n.)
+108. so far
+109. so that
+110. society /səˈsaɪəti/ (n.)

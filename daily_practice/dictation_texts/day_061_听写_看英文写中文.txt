@@ -1,0 +1,138 @@
+=== Day 61 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. heat /hiːt/ (v.)
+  2. helpful /ˈhelpfl/ (adj.)
+  3. honest /ˈɒnɪst/ (adj.)
+  4. honey /ˈhʌni/ (n.)
+  5. honeycomb /ˈhʌnikəʊm/ (n.)
+  6. honour /ˈɒnə(r)/
+  7. host /həʊst/ (n.)
+  8. hostess /ˈhəʊstəs/ (n.)
+  9. hotel /həʊˈtel/ (n.)
+ 10. human /ˈhjuːmən/ (n.)
+ 11. humour /ˈhjuːmə(r)/
+ 12. hunt /hʌnt/ (n.)
+ 13. imagine /ɪˈmædʒɪn/ (v.)
+ 14. importance /ɪmˈpɔːtns/ (n.)
+ 15. impossible /ɪmˈpɒsəbl/ (adj.)
+ 16. in fact
+ 17. in order to
+ 18. in person
+ 19. in the sun
+ 20. industry /ˈɪndəstri/ (n.)
+ 21. influence /ˈɪnfluəns/ (v.)
+ 22. ingredient /ɪnˈɡriːdiənt/ (n.)
+
+【Review (Day 46,54,57,59,60)】
+  1. safe /seɪf/ (adj.)
+  2. salad /ˈsæləd/ (n.)
+  3. salt /sɔːlt; sɒlt/ (n.)
+  4. sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ (n.)
+  5. save /seɪv/ (v.)
+  6. scary /ˈskeəri/ (adj.)
+  7. sea /siː/ (n.)
+  8. search /sɜːtʃ/ (v.)
+  9. search for
+ 10. season /ˈsiːzn/ (n.)
+ 11. seem /siːm/ (v.)
+ 12. seldom /ˈseldəm/ (adv.)
+ 13. serve /sɜːv/ (v.)
+ 14. set /set/ (v.)
+ 15. shark /ʃɑːk/ (n.)
+ 16. shine /ʃaɪn/ (v.)
+ 17. should /ʃʊd; ʃəd/
+ 18. shout /ʃaʊt/ (v.)
+ 19. show /ʃəʊ/ (v.)
+ 20. shuttlecock /ˈʃʌtlkɒk/ (n.)
+ 21. side /saɪd/ (n.)
+ 22. side by side
+ 23. ancient /ˈeɪnʃənt/ (adj.)
+ 24. ant /ænt/ (n.)
+ 25. apartment /əˈpɑːtmənt/ (n.)
+ 26. appear /əˈpɪə(r)/ (v.)
+ 27. appearance /əˈpɪərəns/ (n.)
+ 28. argue /ˈɑːɡjuː/ (v.)
+ 29. argue with sb
+ 30. arrival /əˈraɪvl/ (n.)
+ 31. artwork /ˈɑːtwɜːk/ (n.)
+ 32. as long as
+ 33. asimov /ˈæzɪmɒf/
+ 34. at least
+ 35. athlete /ˈæθliːt/ (n.)
+ 36. attend /əˈtend/ (v.)
+ 37. attention /əˈtenʃn/ (n.)
+ 38. autumn /ˈɔːtəm/ (n.)
+ 39. bake /beɪk/ (v.)
+ 40. balcony /ˈbælkəni/ (n.)
+ 41. bamboo /ˌbæmˈbuː/ (n.)
+ 42. bath /bɑːθ/ (n.)
+ 43. bathroom /ˈbɑːθruːm/ (n.)
+ 44. be tired of
+ 45. compare /kəmˈpeə(r)/ (v.)
+ 46. concert /ˈkɒnsət/ (n.)
+ 47. confidence /ˈkɒnfɪdəns/ (n.)
+ 48. congratulation /kənˌɡrætʃəˈleɪʃn/ (n.)
+ 49. connect /kəˈnekt/ (v.)
+ 50. connection /kəˈnekʃn/ (n.)
+ 51. continue /kənˈtɪnjuː/ (v.)
+ 52. cost /kɒst/ (n.)
+ 53. countryside /ˈkʌntrisaɪd/ (n.)
+ 54. couple /ˈkʌpl/ (n.)
+ 55. cover /ˈkʌvə(r)/ (v.)
+ 56. cream /kriːm/ (n.)
+ 57. creativity /ˌkriːeɪˈtɪvəti/ (n.)
+ 58. crust /krʌst/ (n.)
+ 59. cure /kjʊə(r)/ (n.)
+ 60. date /deɪt/ (n.)
+ 61. dead /ded/ (adj.)
+ 62. decorate /ˈdekəreɪt/ (v.)
+ 63. deer /dɪə(r)/ (n.)
+ 64. depend /dɪˈpend/ (v.)
+ 65. describe /dɪˈskraɪb/ (v.)
+ 66. design /dɪˈzaɪn/ (v.)
+ 67. excited /ɪkˈsaɪtɪd/ (adj.)
+ 68. expect /ɪkˈspekt/ (v.)
+ 69. expert /ˈekspɜːt/ (n.)
+ 70. expression /ɪkˈspreʃn/ (n.)
+ 71. face /feɪs/ (n.)
+ 72. face to face
+ 73. fact /fækt/ (n.)
+ 74. fail /feɪl/ (v.)
+ 75. familiar /fəˈmɪliə(r)/ (adj.)
+ 76. fan /fæn/ (n.)
+ 77. far /fɑː(r)/ (adv.)
+ 78. faraway /ˈfɑːrəweɪ; ˌfɑːrəˈweɪ/ (adj.)
+ 79. fashion /ˈfæʃn/ (n.)
+ 80. final /ˈfaɪnl/ (adj.)
+ 81. fire /faɪə(r)/ (n.)
+ 82. floor /flɔː(r)/ (n.)
+ 83. flute /fluːt/ (n.)
+ 84. folding fan
+ 85. for this reason
+ 86. form /fɔːm/ (v.)
+ 87. france /frɑːns/
+ 88. freshly /ˈfreʃli/ (adv.)
+ 89. friendship /ˈfrendʃɪp/ (n.)
+ 90. frog /frɒɡ/ (n.)
+ 91. futurist /ˈfjuːtʃərɪst/ (n.)
+ 92. game /ɡeɪm/ (n.)
+ 93. german /ˈdʒɜːmən/ (n.)
+ 94. get together
+ 95. ginkgo /ˈɡɪŋkəʊ/ (n.)
+ 96. give sb a lift
+ 97. glue /ɡluː/ (n.)
+ 98. go boating
+ 99. go shopping
+100. goodness /ˈɡʊdnəs/ (n.)
+101. grape /ɡreɪp/ (n.)
+102. guest /gest/ (n.)
+103. guide /ɡaɪd/ (n.)
+104. hang up
+105. happiness /ˈhæpinəs/ (n.)
+106. hard-working /ˌhɑːd ˈwɜːkɪŋ/ (adj.)
+107. harry /ˈhæri/
+108. have sth in common
+109. health /helθ/ (n.)
+110. healthily /ˈhelθɪli/ (adv.)

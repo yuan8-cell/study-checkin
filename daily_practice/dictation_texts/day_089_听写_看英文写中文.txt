@@ -1,0 +1,138 @@
+=== Day 89 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. purpose /ˈpɜːpəs/ (n.)
+  2. push /pʊʃ/ (v.)
+  3. quick /kwɪk/ (adj.)
+  4. rainstorm /ˈreɪnstɔːm/ (n.)
+  5. rather /ˈrɑːðə(r)/ (adv.)
+  6. reader /ˈriːdə(r)/ (n.)
+  7. receive /rɪˈsiːv/ (v.)
+  8. recently /ˈriːsntli/ (adv.)
+  9. recommend /ˌrekəˈmend/ (v.)
+ 10. recommendation /ˌrekəmenˈdeɪʃn/ (n.)
+ 11. reduce /rɪˈdjuːs/ (v.)
+ 12. reef /riːf/ (n.)
+ 13. referee /ˌrefəˈriː/ (n.)
+ 14. refuse /reˈfjuːz/ (v.)
+ 15. relative /ˈrelətɪv/ (n.)
+ 16. relaxed /rɪˈlækst/ (adj.)
+ 17. repeat /rɪˈpiːt/ (v.)
+ 18. report /rɪˈpɔːt/ (n.)
+ 19. rescue /ˈreskjuː/ (n.)
+ 20. return /rɪˈtɜːn/ (n.)
+ 21. review /rɪˈvjuː/ (v.)
+ 22. risk /rɪsk/ (v.)
+
+【Review (Day 74,82,85,87,88)】
+  1. alarm /əˈlɑːm/ (n.)
+  2. alien /ˈeɪliən/ (n.)
+  3. alive /əˈlaɪv/ (adj.)
+  4. all smiles
+  5. allen /ˈælən/
+  6. allergic /əˈlɜːdʒɪk/ (adj.)
+  7. allow /əˈlaʊ/ (v.)
+  8. ambition /æmˈbɪʃn/ (n.)
+  9. american /əˈmerɪkən/ (adj.)
+ 10. angel /ˈeɪndʒl/
+ 11. anger /ˈæŋɡə(r)/ (n.)
+ 12. anybody /ˈenibɒdi/ (pron.)
+ 13. argentina /ˌɑːdʒənˈtiːnə/
+ 14. army /ˈɑːmi/ (n.)
+ 15. as a result
+ 16. as soon as
+ 17. as well
+ 18. asian /ˈeɪʒn; ˈeɪʃn/ (adj.)
+ 19. at all costs
+ 20. attack /əˈtæk/ (v.)
+ 21. attract /əˈtrækt/ (v.)
+ 22. au revoir
+ 23. harm /hɑːm/ (n.)
+ 24. harmful /ˈhɑːmfl/ (adj.)
+ 25. headache /ˈhedeɪk/ (n.)
+ 26. hear from
+ 27. hear of
+ 28. heartbeat /ˈhɑːtbiːt/ (n.)
+ 29. heatwave /ˈhiːtweɪv/ (n.)
+ 30. help out
+ 31. hero /ˈhɪərəʊ/ (n.)
+ 32. hidden /ˈhɪdn/ (adj.)
+ 33. historical /hɪˈstɒrɪkl/ (adj.)
+ 34. hit /hɪt/ (v.)
+ 35. hug /hʌɡ/ (v.)
+ 36. hurt /hɜːt/ (v.)
+ 37. hurtful /ˈhɜːtfl/ (adj.)
+ 38. ice-skate /ˈaɪsskeɪt/ (v.)
+ 39. idiom /ˈɪdiəm/ (n.)
+ 40. ill /ɪl/ (adj.)
+ 41. illness /ˈɪlnəs/ (n.)
+ 42. importantly /ɪmˈpɔːtntli/ (adv.)
+ 43. improper /ɪmˈprɒpə(r)/ (adj.)
+ 44. in future
+ 45. look on the bright side
+ 46. lost /lɒst/ (adj.)
+ 47. luca /ˈluːkə/
+ 48. luckily /ˈlʌkɪli/ (adv.)
+ 49. mad /mæd/ (adj.)
+ 50. madam /ˈmædəm/ (n.)
+ 51. main /meɪn/ (adj.)
+ 52. make a difference
+ 53. make preparations
+ 54. manner /ˈmænə(r)/ (n.)
+ 55. manpower /ˈmænpaʊə(r)/ (n.)
+ 56. marie /məˈriː/
+ 57. married /ˈmærid/ (adj.)
+ 58. marry /ˈmæri/ (v.)
+ 59. mask /mɑːsk/ (n.)
+ 60. maya /ˈmaɪə/
+ 61. measure /ˈmeʒə(r)/ (v.)
+ 62. measurement /ˈmeʒəmənt/ (n.)
+ 63. medicine /ˈmedsn/ (n.)
+ 64. merci
+ 65. mexico /ˈmeksɪkəʊ/
+ 66. mile /maɪl/ (n.)
+ 67. on top of the world
+ 68. once in a while
+ 69. onto /ˈɒntu;ˈɒntə/ (prep.)
+ 70. ordinary /ˈɔːdnri/ (adj.)
+ 71. ourselves /ˌaʊəˈselvz; ɑːˈselvz/ (pron.)
+ 72. out of breath
+ 73. outing /ˈaʊtɪŋ/ (n.)
+ 74. owner /ˈəʊnə(r)/ (n.)
+ 75. pain /peɪn/ (n.)
+ 76. painful /ˈpeɪnfl/ (adj.)
+ 77. palm /pɑːm/ (n.)
+ 78. panic /ˈpænɪk/ (n.)
+ 79. paris /ˈpærɪs/
+ 80. pass away
+ 81. patient /ˈpeɪʃnt/ (n.)
+ 82. peru /pəˈruː/
+ 83. philippines /ˈfɪlɪpiːnz/
+ 84. photograph /ˈfəʊtəɡrɑːf/ (v.)
+ 85. phuket /ˌpuːˈket/
+ 86. physics /ˈfɪzɪks/ (n.)
+ 87. pill /pɪl/ (n.)
+ 88. plane /pleɪn/ (n.)
+ 89. player /ˈpleɪə(r)/ (n.)
+ 90. plenty /ˈplenti/ (pron.)
+ 91. pocket /ˈpɒkɪt/ (n.)
+ 92. pocket money
+ 93. poem /ˈpəʊɪm/ (n.)
+ 94. police /pəˈliːs/ (n.)
+ 95. pool /puːl/ (n.)
+ 96. postcard /ˈpəʊstkɑːd/ (n.)
+ 97. power /ˈpaʊə(r)/ (n.)
+ 98. practical /ˈpræktɪkl/ (adj.)
+ 99. preparation /ˌprepəˈreɪʃn/ (n.)
+100. present /ˈpreznt/ (n.)
+101. press /pres/ (v.)
+102. pressure /ˈpreʃə(r)/ (n.)
+103. primary /ˈpraɪməri/ (adj.)
+104. proper /ˈprɒpə(r)/ (adj.)
+105. proud of
+106. prove /pruːv/ (v.)
+107. provide /prəˈvaɪd/ (v.)
+108. pulitzer /ˈpʊlɪtsə(r)/
+109. pull together
+110. punish /ˈpʌnɪʃ/ (v.)

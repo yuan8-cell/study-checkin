@@ -1,0 +1,138 @@
+=== Day 81 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. formal /ˈfɔːml/ (adj.)
+  2. freshwater /ˈfreʃwɔːtə(r)/ (adj.)
+  3. from now on
+  4. from time to time
+  5. froth /frɒθ/ (n.)
+  6. fry /fraɪ/ (v.)
+  7. gas /ɡæs/ (n.)
+  8. gentle /ˈdʒentl/ (adj.)
+  9. germany /ˈdʒɜːməni/
+ 10. get across
+ 11. get along
+ 12. get into
+ 13. get lost
+ 14. get over
+ 15. give it a go
+ 16. give up
+ 17. go a long way
+ 18. go on an outing
+ 19. go wrong
+ 20. guard /ɡɑːd/ (n.)
+ 21. hand out
+ 22. happily /ˈhæpɪli/ (adv.)
+
+【Review (Day 66,74,77,79,80)】
+  1. peony /ˈpiːəni/ (n.)
+  2. pepper /ˈpepə(r)/ (n.)
+  3. per /pə(r); pɜː(r)/ (prep.)
+  4. perform /pəˈfɔːm/ (v.)
+  5. perhaps /pəˈhæps; præps/ (adv.)
+  6. personality /ˌpɜːsəˈnæləti/ (n.)
+  7. photographer /fəˈtɒɡrəfə(r)/ (n.)
+  8. photography /fəˈtɒɡrəfi/ (n.)
+  9. physical /ˈfɪzɪkl/ (adj.)
+ 10. pie /paɪ/ (n.)
+ 11. pilot /ˈpaɪlət/ (n.)
+ 12. plan /plæn/ (v.)
+ 13. planet /ˈplænɪt/ (n.)
+ 14. plate /pleɪt/ (n.)
+ 15. pleasant /ˈpleznt/ (adj.)
+ 16. point /pɔɪnt/ (n.)
+ 17. pollen /ˈpɒlən/ (n.)
+ 18. pollination /ˌpɒləˈneɪʃn/ (n.)
+ 19. population /ˌpɒpjuˈleɪʃn/ (n.)
+ 20. poster /ˈpəʊstə(r)/ (n.)
+ 21. pour sth into sth
+ 22. prediction /prɪˈdɪkʃn/ (n.)
+ 23. alarm /əˈlɑːm/ (n.)
+ 24. alien /ˈeɪliən/ (n.)
+ 25. alive /əˈlaɪv/ (adj.)
+ 26. all smiles
+ 27. allen /ˈælən/
+ 28. allergic /əˈlɜːdʒɪk/ (adj.)
+ 29. allow /əˈlaʊ/ (v.)
+ 30. ambition /æmˈbɪʃn/ (n.)
+ 31. american /əˈmerɪkən/ (adj.)
+ 32. angel /ˈeɪndʒl/
+ 33. anger /ˈæŋɡə(r)/ (n.)
+ 34. anybody /ˈenibɒdi/ (pron.)
+ 35. argentina /ˌɑːdʒənˈtiːnə/
+ 36. army /ˈɑːmi/ (n.)
+ 37. as a result
+ 38. as soon as
+ 39. as well
+ 40. asian /ˈeɪʒn; ˈeɪʃn/ (adj.)
+ 41. at all costs
+ 42. attack /əˈtæk/ (v.)
+ 43. attract /əˈtrækt/ (v.)
+ 44. au revoir
+ 45. climax /ˈklaɪmæks/ (n.)
+ 46. climber /ˈklaɪmə(r)/ (n.)
+ 47. coach /kəʊtʃ/ (n.)
+ 48. coast /kəʊst/ (n.)
+ 49. coin /kɔɪn/ (n.)
+ 50. colin /ˈkɒlɪn/
+ 51. come along
+ 52. completely /kəmˈpliːtli/ (adv.)
+ 53. condition /kənˈdɪʃn/ (n.)
+ 54. confused /kənˈfjuːzd/ (adj.)
+ 55. congratulate /kənˈɡrætʃəleɪt/ (v.)
+ 56. consider /kənˈsɪdə(r)/ (v.)
+ 57. control /kənˈtrəʊl/ (v.)
+ 58. cooper /ˈkuːpə(r)/
+ 59. coral /ˈkɒrəl/ (n.)
+ 60. correct /kəˈrekt/ (adj.)
+ 61. correctly /kəˈrektli/ (adv.)
+ 62. cough /kɒf/ (n.)
+ 63. craven /ˈkreɪvn/
+ 64. cross /krɒs/ (v.)
+ 65. cubic /ˈkjuːbɪk/ (adj.)
+ 66. cubic metre
+ 67. distance /ˈdɪstəns/ (n.)
+ 68. dive /daɪv/ (v.)
+ 69. do chores
+ 70. donate /dəʊˈneɪt/ (v.)
+ 71. donation /dəʊˈneɪʃn/ (n.)
+ 72. doubt /daʊt/ (v.)
+ 73. driver /ˈdraɪvə(r)/ (n.)
+ 74. drought /draʊt/ (n.)
+ 75. earthquake /ˈɜːθkweɪk/ (n.)
+ 76. eat out
+ 77. effect /ɪˈfekt/ (n.)
+ 78. effort /ˈefət/ (n.)
+ 79. egypt /ˈiːdʒɪpt/
+ 80. elbow /ˈelbəʊ/ (n.)
+ 81. elder /ˈeldə(r)/ (adj.)
+ 82. elderly /ˈeldəli/ (adj.)
+ 83. embarrassed /ɪmˈbærəst/ (adj.)
+ 84. emotion /ɪˈməʊʃn/ (n.)
+ 85. enemy /ˈenəmi/ (n.)
+ 86. enter /ˈentə(r)/ (v.)
+ 87. environment /ɪnˈvaɪrənmənt/ (n.)
+ 88. even though
+ 89. ever since
+ 90. explorer /ɪkˈsplɔːrə(r)/ (n.)
+ 91. express /ɪkˈspres/ (v.)
+ 92. extinguisher /ɪkˈstɪŋɡwɪʃə(r)/ (n.)
+ 93. failure /ˈfeɪljə(r)/ (n.)
+ 94. false /fɔːls/ (adj.)
+ 95. familiar with
+ 96. fantasy /ˈfæntəsi/ (n.)
+ 97. fear /fɪə(r)/ (n.)
+ 98. feel blue
+ 99. fever /ˈfiːvə(r)/ (n.)
+100. fiction /ˈfɪkʃn/ (n.)
+101. firefighter /ˈfaɪəfaɪtə(r)/ (n.)
+102. first aid
+103. firstly /ˈfɜːstli/ (adv.)
+104. fist /fɪst/ (n.)
+105. flame /fleɪm/ (n.)
+106. flood /flʌd/ (n.)
+107. floodwater /ˈflʌdwɔːtə(r)/ (n.)
+108. flu /fluː/ (n.)
+109. force /fɔːs/ (v.)
+110. foreign /ˈfɒrən/ (adj.)

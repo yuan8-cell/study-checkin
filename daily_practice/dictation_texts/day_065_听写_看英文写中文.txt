@@ -1,0 +1,138 @@
+=== Day 65 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. offer /ˈɒfə(r)/ (v.)
+  2. oil /ɔɪl/ (n.)
+  3. one by one
+  4. opinion /əˈpɪnjən/ (n.)
+  5. opportunity /ˌɒpəˈtjuːnəti/ (n.)
+  6. organized /ˈɔːɡənaɪzd/
+  7. outer /ˈaʊtə(r)/ (adj.)
+  8. outgoing /ˌaʊtˈɡəʊɪŋ/ (adj.)
+  9. oven /ˈʌvn/ (n.)
+ 10. pack /pæk/ (v.)
+ 11. pack up
+ 12. painter /ˈpeɪntə(r)/ (n.)
+ 13. palace /ˈpæləs/ (n.)
+ 14. pan /pæn/ (n.)
+ 15. pancake /ˈpænkeɪk/ (n.)
+ 16. paper-cut /ˈpeɪpə(r)kʌt/ (n.)
+ 17. paragraph /ˈpærəɡrɑːf/ (n.)
+ 18. pass /pɑːs/ (v.)
+ 19. passport /ˈpɑːspɔːt/ (n.)
+ 20. pauper /ˈpɔːpə(r)/ (n.)
+ 21. pea /piː/ (n.)
+ 22. peace /piːs/ (n.)
+
+【Review (Day 50,58,61,63,64)】
+  1. thai /taɪ/ (adj.)
+  2. thailand /ˈtaɪlænd/
+  3. theatre /ˈθɪətə(r)/ (n.)
+  4. theirs /ðeəz/ (pron.)
+  5. think about
+  6. think of
+  7. thirsty /ˈθɜːsti/ (adj.)
+  8. thought /θɔːt/ (n.)
+  9. through /θruː/ (prep.)
+ 10. tiger /ˈtaɪɡə(r)/ (n.)
+ 11. time zone
+ 12. tired /ˈtaɪəd/ (adj.)
+ 13. tiring /ˈtaɪərɪŋ/ (adj.)
+ 14. tony /ˈtəʊni/
+ 15. too many
+ 16. too much
+ 17. top /tɒp/ (n.)
+ 18. tour /tʊə(r)/ (n.)
+ 19. tourist /ˈtʊərɪst/ (n.)
+ 20. treat /triːt/ (v.)
+ 21. trick /trɪk/ (n.)
+ 22. trip /trɪp/ (n.)
+ 23. designer /dɪˈzaɪnə(r)/ (n.)
+ 24. detail /ˈdiːteɪl/ (n.)
+ 25. diana /daɪˈænə/
+ 26. difference /ˈdɪfrəns/ (n.)
+ 27. difficulty /ˈdɪfɪkəlti/ (n.)
+ 28. director /dəˈrektə(r); daɪˈrektə(r)/ (n.)
+ 29. disappear /ˌdɪsəˈpɪə(r)/ (v.)
+ 30. disappointed /ˌdɪsəˈpɔɪntɪd/ (adj.)
+ 31. disaster /dɪˈzɑːstə(r)/ (n.)
+ 32. draw to a close
+ 33. drop sb a line
+ 34. during /ˈdjʊərɪŋ/ (prep.)
+ 35. earth /ɜːθ/ (n.)
+ 36. easily /ˈiːzəli/ (adv.)
+ 37. ecosystem /ˈiːkəʊsɪstəm/ (n.)
+ 38. education /ˌedʒuˈkeɪʃn/ (n.)
+ 39. edward /ˈedwəd/
+ 40. emotional intelligence
+ 41. engineer /ˌendʒɪˈnɪə(r)/ (n.)
+ 42. especially /ɪˈspeʃəli/ (adv.)
+ 43. event /ɪˈvent/ (n.)
+ 44. exchange /ɪksˈtʃeɪndʒ/ (v.)
+ 45. heat /hiːt/ (v.)
+ 46. helpful /ˈhelpfl/ (adj.)
+ 47. honest /ˈɒnɪst/ (adj.)
+ 48. honey /ˈhʌni/ (n.)
+ 49. honeycomb /ˈhʌnikəʊm/ (n.)
+ 50. honour /ˈɒnə(r)/
+ 51. host /həʊst/ (n.)
+ 52. hostess /ˈhəʊstəs/ (n.)
+ 53. hotel /həʊˈtel/ (n.)
+ 54. human /ˈhjuːmən/ (n.)
+ 55. humour /ˈhjuːmə(r)/
+ 56. hunt /hʌnt/ (n.)
+ 57. imagine /ɪˈmædʒɪn/ (v.)
+ 58. importance /ɪmˈpɔːtns/ (n.)
+ 59. impossible /ɪmˈpɒsəbl/ (adj.)
+ 60. in fact
+ 61. in order to
+ 62. in person
+ 63. in the sun
+ 64. industry /ˈɪndəstri/ (n.)
+ 65. influence /ˈɪnfluəns/ (v.)
+ 66. ingredient /ɪnˈɡriːdiənt/ (n.)
+ 67. lift /lɪft/ (n.)
+ 68. line /laɪn/ (n.)
+ 69. lining /ˈlaɪnɪŋ/ (n.)
+ 70. listener /ˈlɪsənə(r)/ (n.)
+ 71. literature /ˈlɪtrətʃə(r)/ (n.)
+ 72. living room
+ 73. local /ˈləʊkl/ (adj.)
+ 74. look for
+ 75. lotus /ˈləʊtəs/ (n.)
+ 76. loud /laʊd/ (adv.)
+ 77. low /ləʊ/ (adv.)
+ 78. luggage /ˈlʌɡɪdʒ/ (n.)
+ 79. make a mistake
+ 80. make sure
+ 81. mandy /ˈmændi/
+ 82. mashed /mæʃt/
+ 83. matt /mæt/
+ 84. matter /ˈmætə(r)/ (v.)
+ 85. meaning /ˈmiːnɪŋ/ (n.)
+ 86. meat /miːt/ (n.)
+ 87. medical /ˈmedɪkl/ (adj.)
+ 88. meeting /ˈmiːtɪŋ/ (n.)
+ 89. memory /ˈmeməri/ (n.)
+ 90. mention /ˈmenʃn/ (v.)
+ 91. mess /mes/ (n.)
+ 92. metre /ˈmiːtə(r)/
+ 93. metro /ˈmetrəʊ/ (n.)
+ 94. might /maɪt/
+ 95. mini-goal /ˈmɪniˌɡəʊl/ (n.)
+ 96. mirror /ˈmɪrə(r)/ (n.)
+ 97. miss /mɪs/ (v.)
+ 98. misunderstanding /ˌmɪsʌndəˈstændɪŋ/ (n.)
+ 99. mix /mɪks/ (v.)
+100. moss /mɒs/ (n.)
+101. movie /ˈmuːvi/ (n.)
+102. mushroom /ˈmʌʃrʊm/ (n.)
+103. musician /mjuˈzɪʃn/ (n.)
+104. nazi /ˈnɑːtsi/ (n.)
+105. nod /nɒd/ (v.)
+106. noon /nuːn/ (n.)
+107. note /nəʊt/ (n.)
+108. nothing but
+109. novel /ˈnɒvl/ (n.)
+110. ocean /ˈəʊʃn/ (n.)

@@ -1,0 +1,138 @@
+=== Day 85 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. look on the bright side
+  2. lost /lɒst/ (adj.)
+  3. luca /ˈluːkə/
+  4. luckily /ˈlʌkɪli/ (adv.)
+  5. mad /mæd/ (adj.)
+  6. madam /ˈmædəm/ (n.)
+  7. main /meɪn/ (adj.)
+  8. make a difference
+  9. make preparations
+ 10. manner /ˈmænə(r)/ (n.)
+ 11. manpower /ˈmænpaʊə(r)/ (n.)
+ 12. marie /məˈriː/
+ 13. married /ˈmærid/ (adj.)
+ 14. marry /ˈmæri/ (v.)
+ 15. mask /mɑːsk/ (n.)
+ 16. maya /ˈmaɪə/
+ 17. measure /ˈmeʒə(r)/ (v.)
+ 18. measurement /ˈmeʒəmənt/ (n.)
+ 19. medicine /ˈmedsn/ (n.)
+ 20. merci
+ 21. mexico /ˈmeksɪkəʊ/
+ 22. mile /maɪl/ (n.)
+
+【Review (Day 70,78,81,83,84)】
+  1. social media
+  2. solve /sɒlv/ (v.)
+  3. somewhere /ˈsʌmweə(r)/ (adv.)
+  4. sort /sɔːt/ (v.)
+  5. sour /ˈsaʊə(r)/ (adj.)
+  6. spaghetti /spəˈɡeti/ (n.)
+  7. spare /speə(r)/ (adj.)
+  8. spare time
+  9. speaker /ˈspiːkə(r)/ (n.)
+ 10. speech /spiːtʃ/ (n.)
+ 11. square /skweə(r)/ (n.)
+ 12. station /ˈsteɪʃn/ (n.)
+ 13. steamed /stiːmd/
+ 14. steamed f ish
+ 15. stephen /ˈstiːvən/
+ 16. stick to sth
+ 17. stir-fry /ˈstɜːfraɪ/ (v.)
+ 18. store /stɔː(r)/ (v.)
+ 19. straightforward /ˌstreɪtˈfɔːwəd/ (adj.)
+ 20. strange /streɪndʒ/ (adj.)
+ 21. strength /streŋθ/ (n.)
+ 22. surely /ˈʃʊəli/ (adv.)
+ 23. cultural /ˈkʌltʃərəl/ (adj.)
+ 24. curiosity /ˌkjʊəriˈɒsəti/ (n.)
+ 25. curious /ˈkjʊəriəs/ (adj.)
+ 26. curry /ˈkʌri/ (n.)
+ 27. custom /ˈkʌstəm/ (n.)
+ 28. dare /deə(r)/ (v.)
+ 29. day by day
+ 30. deal /diːl/ (n.)
+ 31. deal with
+ 32. death /deθ/ (n.)
+ 33. decision /dɪˈsɪʒn/ (n.)
+ 34. deep /diːp/ (adj.)
+ 35. defeat /dɪˈfiːt/ (v.)
+ 36. degree /dɪˈɡriː/ (n.)
+ 37. dentist /ˈdentɪst/ (n.)
+ 38. depth /depθ/ (n.)
+ 39. desert /ˈdezət/ (n.)
+ 40. destroy /dɪˈstrɔɪ/ (v.)
+ 41. detective /dɪˈtektɪv/ (n.)
+ 42. development /dɪˈveləpmənt/ (n.)
+ 43. dickon /ˈdɪkən/
+ 44. differently /ˈdɪfrəntli/ (adv.)
+ 45. formal /ˈfɔːml/ (adj.)
+ 46. freshwater /ˈfreʃwɔːtə(r)/ (adj.)
+ 47. from now on
+ 48. from time to time
+ 49. froth /frɒθ/ (n.)
+ 50. fry /fraɪ/ (v.)
+ 51. gas /ɡæs/ (n.)
+ 52. gentle /ˈdʒentl/ (adj.)
+ 53. germany /ˈdʒɜːməni/
+ 54. get across
+ 55. get along
+ 56. get into
+ 57. get lost
+ 58. get over
+ 59. give it a go
+ 60. give up
+ 61. go a long way
+ 62. go on an outing
+ 63. go wrong
+ 64. guard /ɡɑːd/ (n.)
+ 65. hand out
+ 66. happily /ˈhæpɪli/ (adv.)
+ 67. in low spirits
+ 68. in need
+ 69. in return
+ 70. in time
+ 71. include /ɪnˈkluːd/ (v.)
+ 72. india /ˈɪndiə/
+ 73. indian /ˈɪndiən/ (adj.)
+ 74. indonesia /ˌɪndəˈniːʒə/
+ 75. informal /ɪnˈfɔːml/ (adj.)
+ 76. inga /ˈɪŋɡə/
+ 77. injury /ˈɪndʒəri/ (n.)
+ 78. ink /ɪŋk/ (n.)
+ 79. inspiration /ˌɪnspəˈreɪʃn/ (n.)
+ 80. instructor /ɪnˈstrʌktə(r)/ (n.)
+ 81. interview /ˈɪntəvjuː/ (n.)
+ 82. interviewer /ˈɪntəvjuːə(r)/ (n.)
+ 83. introduction /ˌɪntrəˈdʌkʃn/ (n.)
+ 84. italian /ɪˈtæliən/ (adj.)
+ 85. its /ɪts/ (pron.)
+ 86. james /dʒeɪmz/
+ 87. jeans /dʒiːnz/ (n.)
+ 88. jeff /dʒef/
+ 89. ji-hoon /ˈdʒiːˌhuːn/
+ 90. joyful /ˈdʒɔɪfl/ (adj.)
+ 91. kaito /ˈkaɪtəʊ/
+ 92. kelly /ˈkeli/
+ 93. kid /kɪd/ (n.)
+ 94. kingdom /ˈkɪŋdəm/ (n.)
+ 95. kiss /kɪs/ (v.)
+ 96. knowledge /ˈnɒlɪdʒ/ (n.)
+ 97. ladder /ˈlædə(r)/ (n.)
+ 98. landslide /ˈlændslaɪd/ (n.)
+ 99. lastly /ˈlɑːstli/ (adv.)
+100. lennox /ˈlenəks/
+101. let down
+102. letter /ˈletə(r)/ (n.)
+103. level /ˈlevl/ (n.)
+104. life-saving /ˈlaɪfˌseɪvɪŋ/ (adj.)
+105. lifetime /ˈlaɪftaɪm/ (n.)
+106. literary /ˈlɪtərəri/ (adj.)
+107. located /ləʊˈkeɪtɪd/ (adj.)
+108. lock /lɒk/ (v.)
+109. lock up
+110. lonely /ˈləʊnli/ (adj.)

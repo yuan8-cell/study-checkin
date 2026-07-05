@@ -1,0 +1,138 @@
+=== Day 58 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. designer /dɪˈzaɪnə(r)/ (n.)
+  2. detail /ˈdiːteɪl/ (n.)
+  3. diana /daɪˈænə/
+  4. difference /ˈdɪfrəns/ (n.)
+  5. difficulty /ˈdɪfɪkəlti/ (n.)
+  6. director /dəˈrektə(r); daɪˈrektə(r)/ (n.)
+  7. disappear /ˌdɪsəˈpɪə(r)/ (v.)
+  8. disappointed /ˌdɪsəˈpɔɪntɪd/ (adj.)
+  9. disaster /dɪˈzɑːstə(r)/ (n.)
+ 10. draw to a close
+ 11. drop sb a line
+ 12. during /ˈdjʊərɪŋ/ (prep.)
+ 13. earth /ɜːθ/ (n.)
+ 14. easily /ˈiːzəli/ (adv.)
+ 15. ecosystem /ˈiːkəʊsɪstəm/ (n.)
+ 16. education /ˌedʒuˈkeɪʃn/ (n.)
+ 17. edward /ˈedwəd/
+ 18. emotional intelligence
+ 19. engineer /ˌendʒɪˈnɪə(r)/ (n.)
+ 20. especially /ɪˈspeʃəli/ (adv.)
+ 21. event /ɪˈvent/ (n.)
+ 22. exchange /ɪksˈtʃeɪndʒ/ (v.)
+
+【Review (Day 43,51,54,56,57)】
+  1. one another
+  2. onion /ˈʌnjən/ (n.)
+  3. online /ˌɒnˈlaɪn/ (adj.)
+  4. only if
+  5. order /ˈɔːdə(r)/ (n.)
+  6. ours /ˈaʊəz; ɑːz/ (pron.)
+  7. over /ˈəʊvə(r)/ (adv.)
+  8. over there
+  9. painting /ˈpeɪntɪŋ/ (n.)
+ 10. passenger /ˈpæsɪndʒə(r)/ (n.)
+ 11. peak /piːk/ (n.)
+ 12. pear /peə(r)/ (n.)
+ 13. pen /pen/ (n.)
+ 14. penguin /ˈpeŋɡwɪn/ (n.)
+ 15. perfect /ˈpɜːfɪkt/ (adj.)
+ 16. person /ˈpɜːsn/ (n.)
+ 17. phone /fəʊn/ (n.)
+ 18. pick /pɪk/ (v.)
+ 19. pick up
+ 20. piece /piːs/ (n.)
+ 21. playful /ˈpleɪfl/ (adj.)
+ 22. polite /pəˈlaɪt/ (adj.)
+ 23. true /truː/ (adj.)
+ 24. trunk /trʌŋk/ (n.)
+ 25. truth /truːθ/ (n.)
+ 26. try /traɪ/ (v.)
+ 27. try on
+ 28. turn /tɜːn/ (v.)
+ 29. turn off
+ 30. twice /twaɪs/ (adv.)
+ 31. ugly /ˈʌɡli/ (adj.)
+ 32. umbrella /ʌmˈbrelə/ (n.)
+ 33. understand /ˌʌndəˈstænd/ (v.)
+ 34. unhappy /ʌnˈhæpi/ (adj.)
+ 35. uniform /ˈjuːnɪfɔːm/ (n.)
+ 36. untidy /ʌnˈtaɪdi/ (adj.)
+ 37. upon /əˈpɒn/ (prep.)
+ 38. usa /ˌjuːesˈeɪ/
+ 39. used to
+ 40. vegetable /ˈvedʒtəbl/ (n.)
+ 41. voice /vɔɪs/ (n.)
+ 42. volleyball /ˈvɒlibɔːl/ (n.)
+ 43. waiter /ˈweɪtə(r)/ (n.)
+ 44. waitress /ˈweɪtrəs/ (n.)
+ 45. ancient /ˈeɪnʃənt/ (adj.)
+ 46. ant /ænt/ (n.)
+ 47. apartment /əˈpɑːtmənt/ (n.)
+ 48. appear /əˈpɪə(r)/ (v.)
+ 49. appearance /əˈpɪərəns/ (n.)
+ 50. argue /ˈɑːɡjuː/ (v.)
+ 51. argue with sb
+ 52. arrival /əˈraɪvl/ (n.)
+ 53. artwork /ˈɑːtwɜːk/ (n.)
+ 54. as long as
+ 55. asimov /ˈæzɪmɒf/
+ 56. at least
+ 57. athlete /ˈæθliːt/ (n.)
+ 58. attend /əˈtend/ (v.)
+ 59. attention /əˈtenʃn/ (n.)
+ 60. autumn /ˈɔːtəm/ (n.)
+ 61. bake /beɪk/ (v.)
+ 62. balcony /ˈbælkəni/ (n.)
+ 63. bamboo /ˌbæmˈbuː/ (n.)
+ 64. bath /bɑːθ/ (n.)
+ 65. bathroom /ˈbɑːθruːm/ (n.)
+ 66. be tired of
+ 67. calm /kɑːm/ (adj.)
+ 68. camp /kæmp/ (n.)
+ 69. cancer /ˈkænsə(r)/ (n.)
+ 70. care about
+ 71. careful /ˈkeəfl/ (adj.)
+ 72. challenge /ˈtʃælɪndʒ/ (n.)
+ 73. chance /tʃɑːns/ (n.)
+ 74. character /ˈkærəktə(r)/ (n.)
+ 75. cheese /tʃiːz/ (n.)
+ 76. cheetah /ˈtʃiːtə/ (n.)
+ 77. chief /tʃiːf/ (adj.)
+ 78. christmas /ˈkrɪsməs/ (n.)
+ 79. classic /ˈklæsɪk/ (n.)
+ 80. clause /klɔːz/ (n.)
+ 81. clean up
+ 82. climate /ˈklaɪmət/ (n.)
+ 83. closing /ˈkləʊzɪŋ/ (adj.)
+ 84. college /ˈkɒlɪdʒ/ (n.)
+ 85. come over
+ 86. communicate /kəˈmjuːnɪkeɪt/ (v.)
+ 87. communication /kəˌmjuːnɪˈkeɪʃn/ (n.)
+ 88. community /kəˈmjuːnəti/ (n.)
+ 89. compare /kəmˈpeə(r)/ (v.)
+ 90. concert /ˈkɒnsət/ (n.)
+ 91. confidence /ˈkɒnfɪdəns/ (n.)
+ 92. congratulation /kənˌɡrætʃəˈleɪʃn/ (n.)
+ 93. connect /kəˈnekt/ (v.)
+ 94. connection /kəˈnekʃn/ (n.)
+ 95. continue /kənˈtɪnjuː/ (v.)
+ 96. cost /kɒst/ (n.)
+ 97. countryside /ˈkʌntrisaɪd/ (n.)
+ 98. couple /ˈkʌpl/ (n.)
+ 99. cover /ˈkʌvə(r)/ (v.)
+100. cream /kriːm/ (n.)
+101. creativity /ˌkriːeɪˈtɪvəti/ (n.)
+102. crust /krʌst/ (n.)
+103. cure /kjʊə(r)/ (n.)
+104. date /deɪt/ (n.)
+105. dead /ded/ (adj.)
+106. decorate /ˈdekəreɪt/ (v.)
+107. deer /dɪə(r)/ (n.)
+108. depend /dɪˈpend/ (v.)
+109. describe /dɪˈskraɪb/ (v.)
+110. design /dɪˈzaɪn/ (v.)

@@ -1,0 +1,116 @@
+=== Day 11 Dictation (English → Chinese) ===
+New: 22 | Review: 88
+
+【New Words】
+  1. full /fʊl/ (adj.)
+  2. full name
+  3. fun /fʌn/ (n.)
+  4. funny /ˈfʌni/ (adj.)
+  5. future /ˈfjuːtʃə(r)/ (n.)
+  6. garden /ˈɡɑːdn/ (v.)
+  7. geography /dʒiˈɒɡrəfi/ (n.)
+  8. get /ɡet/ (v.)
+  9. get dressed
+ 10. get to know
+ 11. get up
+ 12. gift /ɡɪft/ (n.)
+ 13. girl /ɡɜːl/ (n.)
+ 14. give /ɡɪv/ (v.)
+ 15. glasses /ˈɡlɑːsɪz/ (n.)
+ 16. go /ɡəʊ/ (v.)
+ 17. go hiking
+ 18. go to bed
+ 19. good /ɡʊd/ (adj.)
+ 20. good at
+ 21. good with
+ 22. goodbye /ˌɡʊdˈbaɪ/ (interj.)
+
+【Review (Day 4,7,9,10)】
+  1. boring /ˈbɔːrɪŋ/ (adj.)
+  2. both /bəʊθ/ (adj.)
+  3. bottle /ˈbɒtl/ (n.)
+  4. box /bɒks/ (n.)
+  5. break /breɪk/ (n.)
+  6. breakfast /ˈbrekfəst/ (n.)
+  7. brother /ˈbrʌðə(r)/ (n.)
+  8. brown /braʊn/ (adj.)
+  9. brush /brʌʃ/ (v.)
+ 10. building /ˈbɪldɪŋ/ (n.)
+ 11. busy /ˈbɪzi/ (adj.)
+ 12. but /bʌt; bət/ (conj.)
+ 13. buy /baɪ/ (v.)
+ 14. bye /baɪ/
+ 15. bye for now
+ 16. cake /keɪk/ (n.)
+ 17. call /kɔːl/ (v.)
+ 18. can /kæn; kən/ (n.)
+ 19. canada /ˈkænədə/
+ 20. candle /ˈkændl/ (n.)
+ 21. candy /ˈkændi/ (n.)
+ 22. cap /kæp/ (n.)
+ 23. dear /dɪə(r)/ (adj.)
+ 24. delicious /dɪˈlɪʃəs/ (adj.)
+ 25. desk /desk/ (n.)
+ 26. different /ˈdɪfrənt/ (adj.)
+ 27. different from
+ 28. dining /ˈdaɪnɪŋ/
+ 29. dinner /ˈdɪnə(r)/ (n.)
+ 30. discover /dɪˈskʌvə(r)/ (v.)
+ 31. do /duː; də/
+ 32. dog /dɒɡ/ (n.)
+ 33. doll /dɒl/ (n.)
+ 34. door /dɔː(r)/ (n.)
+ 35. down /daʊn/ (adv.)
+ 36. drama /ˈdrɑːmə/ (n.)
+ 37. draw /drɔː/ (v.)
+ 38. drawer /drɔː(r)/ (n.)
+ 39. drink /drɪŋk/ (n.)
+ 40. drum /drʌm/ (n.)
+ 41. duck /dʌk/ (n.)
+ 42. duty /ˈdjuːti/ (n.)
+ 43. each /iːtʃ/ (adj.)
+ 44. each other
+ 45. fall in love with
+ 46. family /ˈfæməli/ (n.)
+ 47. famous /ˈfeɪməs/ (adj.)
+ 48. fast /fɑːst/ (adv.)
+ 49. father /ˈfɑːðə(r)/ (n.)
+ 50. favourite /ˈfeɪvərɪt/
+ 51. feel /fiːl/ (v.)
+ 52. feeling /ˈfiːlɪŋ/ (n.)
+ 53. field /fiːld/ (n.)
+ 54. fifteen /ˌfɪfˈtiːn/ (num.)
+ 55. fifteenth /ˌfɪfˈtiːnθ/ (num.)
+ 56. fifth /fɪfθ/ (num.)
+ 57. fiftieth /ˈfɪftiəθ/ (num.)
+ 58. fifty /ˈfɪfti/ (num.)
+ 59. film /fɪlm/ (n.)
+ 60. find /faɪnd/ (v.)
+ 61. fine /faɪn/ (adj.)
+ 62. finish /ˈfɪnɪʃ/ (v.)
+ 63. finland /ˈfɪnlənd/
+ 64. finnish /ˈfɪnɪʃ/ (n.)
+ 65. first /fɜːst/ (num.)
+ 66. first name
+ 67. fish /fɪʃ/ (v.)
+ 68. five /faɪv/ (num.)
+ 69. flag /flæɡ/ (n.)
+ 70. flora /ˈflɔːrə/
+ 71. flower /ˈflaʊə(r)/ (n.)
+ 72. fly /flaɪ/ (v.)
+ 73. food /fuːd/ (n.)
+ 74. football /ˈfʊtbɔːl/ (n.)
+ 75. for /fɔː(r); fə(r)/ (prep.)
+ 76. for example
+ 77. fortieth /ˈfɔːtiəθ/ (num.)
+ 78. forty /ˈfɔːti/ (num.)
+ 79. found /faʊnd/ (v.)
+ 80. four /fɔː(r)/ (num.)
+ 81. fourteen /ˌfɔːˈtiːn/ (num.)
+ 82. fourteenth /ˌfɔːˈtiːnθ/ (num.)
+ 83. fourth /fɔːθ/ (num.)
+ 84. fred /fred/
+ 85. french /frentʃ/ (n.)
+ 86. friend /frend/ (n.)
+ 87. from /frɒm; frəm/ (prep.)
+ 88. front /frʌnt/ (n.)

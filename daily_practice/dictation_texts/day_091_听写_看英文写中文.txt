@@ -1,0 +1,138 @@
+=== Day 91 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. serving /ˈsɜːvɪŋ/ (adj.)
+  2. serving chopsticks
+  3. shelter /ˈʃeltə(r)/ (n.)
+  4. shirt /ʃɜːt/ (n.)
+  5. shock /ʃɒk/ (n.)
+  6. shocked /ʃɒkt/ (adj.)
+  7. shorts /ʃɔːts/ (n.)
+  8. shoulder /ˈʃəʊldə(r)/ (n.)
+  9. shut /ʃʌt/ (v.)
+ 10. siberia /saɪˈbɪəriə/
+ 11. sign up
+ 12. sign-off /ˈsaɪnɒf/ (n.)
+ 13. simply /ˈsɪmpli/ (adv.)
+ 14. since /sɪns/ (prep.)
+ 15. single /ˈsɪŋɡl/ (adj.)
+ 16. sit up
+ 17. ski /skiː/ (v.)
+ 18. skirt /skɜːt/ (n.)
+ 19. snowstorm /ˈsnəʊstɔːm/ (n.)
+ 20. so far
+ 21. so that
+ 22. society /səˈsaɪəti/ (n.)
+
+【Review (Day 76,84,87,89,90)】
+  1. bow /baʊ/ (v.)
+  2. brightness /ˈbraɪtnəs/ (n.)
+  3. bruised /bruːzd/ (adj.)
+  4. bruno /ˈbruːnəʊ/
+  5. build-up /ˈbɪldʌp/ (n.)
+  6. bully /ˈbʊli/ (v.)
+  7. bump /bʌmp/ (v.)
+  8. by the time
+  9. cage /keɪdʒ/ (n.)
+ 10. calligraphy /kəˈlɪɡrəfi/ (n.)
+ 11. catch fire
+ 12. charity /ˈtʃærəti/ (n.)
+ 13. chat /tʃæt/ (v.)
+ 14. check /tʃek/ (v.)
+ 15. cheek /tʃiːk/ (n.)
+ 16. cheers /tʃɪəz/ (interj.)
+ 17. chopstick /ˈtʃɒpstɪk/ (n.)
+ 18. chore /tʃɔː(r)/ (n.)
+ 19. clear /klɪə(r)/ (adj.)
+ 20. clear the air
+ 21. clearly /ˈklɪəli/ (adv.)
+ 22. cliff /klɪf/ (n.)
+ 23. ji-hoon /ˈdʒiːˌhuːn/
+ 24. joyful /ˈdʒɔɪfl/ (adj.)
+ 25. kaito /ˈkaɪtəʊ/
+ 26. kelly /ˈkeli/
+ 27. kid /kɪd/ (n.)
+ 28. kingdom /ˈkɪŋdəm/ (n.)
+ 29. kiss /kɪs/ (v.)
+ 30. knowledge /ˈnɒlɪdʒ/ (n.)
+ 31. ladder /ˈlædə(r)/ (n.)
+ 32. landslide /ˈlændslaɪd/ (n.)
+ 33. lastly /ˈlɑːstli/ (adv.)
+ 34. lennox /ˈlenəks/
+ 35. let down
+ 36. letter /ˈletə(r)/ (n.)
+ 37. level /ˈlevl/ (n.)
+ 38. life-saving /ˈlaɪfˌseɪvɪŋ/ (adj.)
+ 39. lifetime /ˈlaɪftaɪm/ (n.)
+ 40. literary /ˈlɪtərəri/ (adj.)
+ 41. located /ləʊˈkeɪtɪd/ (adj.)
+ 42. lock /lɒk/ (v.)
+ 43. lock up
+ 44. lonely /ˈləʊnli/ (adj.)
+ 45. on top of the world
+ 46. once in a while
+ 47. onto /ˈɒntu;ˈɒntə/ (prep.)
+ 48. ordinary /ˈɔːdnri/ (adj.)
+ 49. ourselves /ˌaʊəˈselvz; ɑːˈselvz/ (pron.)
+ 50. out of breath
+ 51. outing /ˈaʊtɪŋ/ (n.)
+ 52. owner /ˈəʊnə(r)/ (n.)
+ 53. pain /peɪn/ (n.)
+ 54. painful /ˈpeɪnfl/ (adj.)
+ 55. palm /pɑːm/ (n.)
+ 56. panic /ˈpænɪk/ (n.)
+ 57. paris /ˈpærɪs/
+ 58. pass away
+ 59. patient /ˈpeɪʃnt/ (n.)
+ 60. peru /pəˈruː/
+ 61. philippines /ˈfɪlɪpiːnz/
+ 62. photograph /ˈfəʊtəɡrɑːf/ (v.)
+ 63. phuket /ˌpuːˈket/
+ 64. physics /ˈfɪzɪks/ (n.)
+ 65. pill /pɪl/ (n.)
+ 66. plane /pleɪn/ (n.)
+ 67. purpose /ˈpɜːpəs/ (n.)
+ 68. push /pʊʃ/ (v.)
+ 69. quick /kwɪk/ (adj.)
+ 70. rainstorm /ˈreɪnstɔːm/ (n.)
+ 71. rather /ˈrɑːðə(r)/ (adv.)
+ 72. reader /ˈriːdə(r)/ (n.)
+ 73. receive /rɪˈsiːv/ (v.)
+ 74. recently /ˈriːsntli/ (adv.)
+ 75. recommend /ˌrekəˈmend/ (v.)
+ 76. recommendation /ˌrekəmenˈdeɪʃn/ (n.)
+ 77. reduce /rɪˈdjuːs/ (v.)
+ 78. reef /riːf/ (n.)
+ 79. referee /ˌrefəˈriː/ (n.)
+ 80. refuse /reˈfjuːz/ (v.)
+ 81. relative /ˈrelətɪv/ (n.)
+ 82. relaxed /rɪˈlækst/ (adj.)
+ 83. repeat /rɪˈpiːt/ (v.)
+ 84. report /rɪˈpɔːt/ (n.)
+ 85. rescue /ˈreskjuː/ (n.)
+ 86. return /rɪˈtɜːn/ (n.)
+ 87. review /rɪˈvjuː/ (v.)
+ 88. risk /rɪsk/ (v.)
+ 89. risky /ˈrɪski/ (adj.)
+ 90. robert /ˈrɒbət/
+ 91. roll /rəʊl/ (v.)
+ 92. roof /ruːf/ (n.)
+ 93. rub /rʌb/ (v.)
+ 94. rude /ruːd/ (adj.)
+ 95. runny /ˈrʌni/ (adj.)
+ 96. sadly /ˈsædli/ (adv.)
+ 97. safety /ˈseɪfti/ (n.)
+ 98. sahara /səˈhɑːrə/
+ 99. sand /sænd/ (n.)
+100. scared /skeəd/ (adj.)
+101. scared of
+102. schoolgirl /ˈskuːlɡɜːl/ (n.)
+103. score /skɔː(r)/ (n.)
+104. scream /skriːm/ (v.)
+105. sea level
+106. secondly /ˈsekəndli/ (adv.)
+107. secretly /ˈsiːkrətli/ (adv.)
+108. security /sɪˈkjʊərəti/ (n.)
+109. security guard
+110. selfish /ˈselfɪʃ/ (adj.)

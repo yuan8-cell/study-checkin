@@ -1,0 +1,137 @@
+=== Day 37 Answer Key ===
+
+【New Words】
+  1. friendly /ˈfrendli/ [adj.] — 友好的
+  2. fruit /fruːt/ [n.] — 水果
+  3. full of — 有许多；充满
+  4. fur /fɜː(r)/ [n.] — （动物浓厚的）软毛
+  5. genie /ˈdʒiːni/ [n.] — 妖怪；鬼
+  6. germ /dʒɜːm/ [n.] — 微生物；细菌
+  7. get out — 逃脱；离开
+  8. giraffe /dʒəˈrɑːf/ [n.] — 长颈鹿
+  9. glad /ɡlæd/ [adj.] — 高兴的
+ 10. glove /ɡlʌv/ [n.] — （手指分开的）手套 go away走开
+ 11. go away — 走开
+ 12. go with — 搭配；相配
+ 13. goal /ɡəʊl/ [n.] — 目标；目的
+ 14. grain /ɡreɪn/ [n.] — 谷物；谷粒
+ 15. ground /ɡraʊnd/ [n.] — 地面
+ 16. group /ɡruːp/ [n.] — 组；群
+ 17. guess /ɡes/ [v.] — 猜测；估计
+ 18. gun /ɡʌn/ [n.] — 枪
+ 19. habit /ˈhæbɪt/ [n.] — 习惯
+ 20. hallway /ˈhɔːlweɪ/ [n.] — 走廊
+ 21. hamburger /ˈhæmbɜːɡə(r)/ [n.] — 汉堡包
+ 22. hand /hænd/ [n.] — 手
+
+【Review】
+  1. right /raɪt/ [n.] — 右边 adv. 向右边   adj. 正确的；适当的
+  2. rise /raɪz/ [v.] — 起床；升起；增长   n. 增加；增强
+  3. room /ruːm/ [n.] — 房间
+  4. routine /ruːˈtiːn/ [n.] — 常规
+  5. ruler /ˈruːlə(r)/ [n.] — 尺；直尺
+  6. run /rʌn/ [v.] — & n. 跑；跑步
+  7. sale /seɪl/ [n.] — 出售；销售
+  8. sally /ˈsæli/ — 萨莉
+  9. sam /sæm/ — 萨姆
+ 10. same /seɪm/ [adj.] — 相同的
+ 11. sarah /ˈseərə/ — 萨拉
+ 12. say /seɪ/ [v.] — 说
+ 13. saying /ˈseɪɪŋ/ [n.] — 谚语；格言
+ 14. schoolbag /ˈskuːlbæɡ/ [n.] — 书包
+ 15. science /ˈsaɪəns/ [n.] — 科学
+ 16. scientist /ˈsaɪəntɪst/ [n.] — 科学家
+ 17. screen /skriːn/ [n.] — 滤网；隔板；屏障
+ 18. seat /siːt/ [n.] — 座位
+ 19. second /ˈsekənd/ [num.] — 第二
+ 20. section /ˈsekʃn/ [n.] — 部分；地区
+ 21. see /siː/ [v.] — 看见
+ 22. send /send/ [v.] — 发送；邮寄
+ 23. absent /ˈæbsənt/ [adj.] — 缺席的；不在的 absent from 缺席；不在
+ 24. actor /ˈæktə(r)/ [n.] — 演员
+ 25. adam /ˈædəm/ — 亚当
+ 26. advice /ədˈvaɪs/ [n.] — 建议；意见
+ 27. affect /əˈfekt/ [v.] — 影响
+ 28. afraid /əˈfreɪd/ [adj.] — 害怕的；担心的 after all 毕竟；终归
+ 29. africa /ˈæfrɪkə/ — 非洲
+ 30. again /əˈɡen; əˈɡeɪn/ [adv.] — 再一次； 又一次
+ 31. agree /əˈɡriː/ [v.] — 赞成；同意
+ 32. agree with — 赞成；同意
+ 33. air /eə(r)/ [n.] — 空气
+ 34. all over — 到处；遍及
+ 35. along /əˈlɒŋ/ [prep.] — 沿着；顺着
+ 36. although /ɔːlˈðəʊ/ [conj.] — 虽然；尽管
+ 37. america /əˈmerɪkə/ — 美国；美洲
+ 38. among /əˈmʌŋ/ [prep.] — 在……中； ……之一
+ 39. anna /ˈænə/ — 安娜
+ 40. anne /æn/ — 安妮
+ 41. antarctica /ænˈtɑːktɪkə/ — 南极洲
+ 42. anyone /ˈeniwʌn/ [pron.] — 任何人； 某个人
+ 43. anything /ˈeniθɪŋ/ [pron.] — 某事物； 任何事物
+ 44. area /ˈeəriə/ [n.] — 场地；地区
+ 45. car /kɑː(r)/ [n.] — 小汽车
+ 46. care /keə(r)/ [n.] — 照顾；护理  v. 关心；在乎
+ 47. carry /ˈkæri/ [v.] — 拿；提
+ 48. cause /kɔːz/ [v.] — 造成；导致
+ 49. central /ˈsentrəl/ [adj.] — 中心的；中央的
+ 50. certainly /ˈsɜːtnli/ [adv.] — 肯定；当然
+ 51. chip /tʃɪp/ [n.] — 炸薯条
+ 52. choice /tʃɔɪs/ [n.] — 选择
+ 53. cinema /ˈsɪnəmə/ [n.] — 电影院
+ 54. city /ˈsɪti/ [n.] — 城市
+ 55. close /kləʊs/ [adv.] — 紧挨着；靠近   adj. 亲密的；接近的
+ 56. clothes /kləʊðz/ [n.] — 衣服
+ 57. cloud /klaʊd/ [n.] — 云；云彩
+ 58. cloudy /ˈklaʊdi/ [adj.] — 多云的；阴天的
+ 59. coffee /ˈkɒfi/ [n.] — 咖啡
+ 60. cold /kəʊld/ [adj.] — 寒冷的
+ 61. colourful /ˈkʌləfl/ [adj.] — 色彩鲜艳的 come out 出现；盛开
+ 62. come out — 出现；盛开
+ 63. common /ˈkɒmən/ [adj.] — 共同的； 普遍的
+ 64. cookie /ˈkʊki/ [n.] — 曲奇饼
+ 65. cool /kuːl/ [adj.] — 妙极的；酷的
+ 66. could /kʊd; kəd/ — modal v. 能；可以
+ 67. dry /draɪ/ [adj.] — 干的；干旱的
+ 68. duckling /ˈdʌklɪŋ/ [n.] — 小鸭子
+ 69. dumpling /ˈdʌmplɪŋ/ [n.] — 饺子
+ 70. eagle /ˈiːɡl/ [n.] — 雕；鹰
+ 71. ear /ɪə(r)/ [n.] — 耳朵
+ 72. east /iːst/ [n.] — 东部；东；东方
+ 73. elephant /ˈelɪfənt/ [n.] — 象
+ 74. emperor /ˈempərə(r)/ [n.] — 皇帝
+ 75. encourage /ɪnˈkʌrɪdʒ/ [v.] — 鼓励；激励
+ 76. end /end/ [n.] — 末尾；结束
+ 77. energy /ˈenədʒi/ [n.] — 精力；能量
+ 78. enough /ɪˈnʌf/ [adj.] — 足够的；充足的  adv. 足够地；充分地
+ 79. entry /ˈentri/ [n.] — （日记的）一则；入口
+ 80. eric /ˈerɪk/ — 埃里克
+ 81. evening /ˈiːvnɪŋ/ [n.] — 晚上
+ 82. ever /ˈevə(r)/ [adv.] — 在任何时候； 从来；曾经
+ 83. excuse /ɪkˈskjuːz/ [v.] — 原谅；宽恕
+ 84. excuse me — 劳驾；请原谅
+ 85. exhibition /ˌeksɪˈbɪʃn/ [n.] — 展览
+ 86. explain /ɪkˈspleɪn/ [v.] — 解释；说明
+ 87. explore /ɪkˈsplɔː(r)/ [v.] — 探索
+ 88. factory /ˈfæktri; ˈfæktəri/ [n.] — 工厂
+ 89. farmer /ˈfɑːmə(r)/ [n.] — 农场主；农民
+ 90. fast food — 快餐
+ 91. fat /fæt/ [n.] — 脂肪 adj. 肥胖的
+ 92. feather /ˈfeðə/ [n.] — 羽毛
+ 93. feed /fiːd/ [v.] — 喂养；饲养
+ 94. feel like — 感觉像
+ 95. festival /ˈfestɪvl/ [n.] — 节日
+ 96. few /fjuː/ [adj.] — （表示否定的）很少的； 几乎没有的
+ 97. fill /fɪl/ [v.] — 装满；盛满
+ 98. finally /ˈfaɪnəli/ [adv.] — 终于
+ 99. fish and chips — 炸鱼薯条
+100. fit /fɪt/ [adj.] — 健康的；健壮的 v. 适合
+101. focus /ˈfəʊkəs/ [v.] — 集中（注意力、 精力等）；聚焦
+102. focus on — 集中（注意力、精力等）于 build /bɪld/ v. 创建；建造
+103. fog /fɒɡ/ [n.] — 雾
+104. follow /ˈfɒləʊ/ [v.] — 遵循；跟随
+105. forest /ˈfɒrɪst/ [n.] — 森林
+106. forward /ˈfɔːwəd/ [adv.] — 向前
+107. fox /fɒks/ [n.] — 狐狸
+108. free /friː/ [adj.] — 空闲的；免费的
+109. freezing /ˈfriːzɪŋ/ [adj.] — 极冷的；冰冻的
+110. fresh /freʃ/ [adj.] — 新鲜的

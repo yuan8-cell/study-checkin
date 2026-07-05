@@ -1,0 +1,138 @@
+=== Day 30 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. absent /ˈæbsənt/ (adj.)
+  2. actor /ˈæktə(r)/ (n.)
+  3. adam /ˈædəm/
+  4. advice /ədˈvaɪs/ (n.)
+  5. affect /əˈfekt/ (v.)
+  6. afraid /əˈfreɪd/ (adj.)
+  7. africa /ˈæfrɪkə/
+  8. again /əˈɡen; əˈɡeɪn/ (adv.)
+  9. agree /əˈɡriː/ (v.)
+ 10. agree with
+ 11. air /eə(r)/ (n.)
+ 12. all over
+ 13. along /əˈlɒŋ/ (prep.)
+ 14. although /ɔːlˈðəʊ/ (conj.)
+ 15. america /əˈmerɪkə/
+ 16. among /əˈmʌŋ/ (prep.)
+ 17. anna /ˈænə/
+ 18. anne /æn/
+ 19. antarctica /ænˈtɑːktɪkə/
+ 20. anyone /ˈeniwʌn/ (pron.)
+ 21. anything /ˈeniθɪŋ/ (pron.)
+ 22. area /ˈeəriə/ (n.)
+
+【Review (Day 15,23,26,28,29)】
+  1. juice /dʒuːs/ (n.)
+  2. kate /keɪt/
+  3. keep /kiːp/ (v.)
+  4. key /kiː/ (n.)
+  5. kind /kaɪnd/ (n.)
+  6. knee /niː/ (n.)
+  7. know /nəʊ/ (v.)
+  8. lake /leɪk/ (n.)
+  9. language /ˈlæŋɡwɪdʒ/ (n.)
+ 10. large /lɑːdʒ/ (adj.)
+ 11. last /lɑːst/ (adj.)
+ 12. last name
+ 13. later /ˈleɪtə(r)/ (adv.)
+ 14. laugh /lɑːf/ (v.)
+ 15. learn /lɜːn/ (v.)
+ 16. lee /liː/
+ 17. left /left/ (n.)
+ 18. lesson /ˈlesn/ (n.)
+ 19. let /let/ (v.)
+ 20. life /laɪf/ (n.)
+ 21. like /laɪk/ (v.)
+ 22. lily /ˈlɪli/
+ 23. seven /ˈsevn/ (num.)
+ 24. seventeen /ˌsevnˈtiːn/ (num.)
+ 25. seventeenth /ˌsevnˈtiːnθ/ (num.)
+ 26. seventh /ˈsevnθ/ (num.)
+ 27. seventieth /ˈsevntiəθ/ (num.)
+ 28. seventy /ˈsevnti/ (num.)
+ 29. share /ʃeə(r)/ (v.)
+ 30. she /ʃiː; ʃi/ (pron.)
+ 31. sheep /ʃiːp/ (n.)
+ 32. shoe /ʃuː/ (n.)
+ 33. shop /ʃɒp/ (n.)
+ 34. short /ʃɔːt/ (adj.)
+ 35. shower /ˈʃaʊə(r)/ (n.)
+ 36. similar to
+ 37. sing /sɪŋ/ (v.)
+ 38. singapore /ˌsɪŋəˈpɔː(r)/
+ 39. singer /ˈsɪŋə(r)/ (n.)
+ 40. sister /ˈsɪstə(r)/ (n.)
+ 41. sit /sɪt/ (v.)
+ 42. six /sɪks/ (num.)
+ 43. sixteen /ˌsɪkˈstiːn/ (num.)
+ 44. sixteenth /ˌsɪkˈstiːnθ/ (num.)
+ 45. tenth /tenθ/ (num.)
+ 46. term /tɜːm/ (n.)
+ 47. than /ðæn; ðən/ (prep.)
+ 48. thank /θæŋk/ (v.)
+ 49. that /ðæt/ (pron.)
+ 50. their /ðeə(r)/ (pron.)
+ 51. them /ðem; ðəm/ (pron.)
+ 52. then /ðen/ (adv.)
+ 53. there /ðeə(r)/ (adv.)
+ 54. these /ðiːz/ (pron.)
+ 55. they /ðeɪ/ (pron.)
+ 56. thing /θɪŋ/ (n.)
+ 57. third /θɜːd/ (num.)
+ 58. thirteen /ˌθɜːˈtiːn/ (num.)
+ 59. thirteenth /ˌθɜːˈtiːnθ/ (num.)
+ 60. thirtieth /ˈθɜːtiəθ/ (num.)
+ 61. thirty /ˈθɜːti/ (num.)
+ 62. this /ðɪs/ (pron.)
+ 63. those /ðəʊz/ (pron.)
+ 64. thousand /ˈθaʊznd/ (num.)
+ 65. three /θriː/ (num.)
+ 66. tidy /ˈtaɪdi/ (adj.)
+ 67. useful /ˈjuːsfl/ (adj.)
+ 68. usually /ˈjuːʒuəli/ (adv.)
+ 69. very /ˈveri/ (adv.)
+ 70. village /ˈvɪlɪdʒ/ (n.)
+ 71. violin /ˌvaɪəˈlɪn/ (n.)
+ 72. visit /ˈvɪzɪt/ (v.)
+ 73. vr /ˌviː ˈɑː(r)/
+ 74. wait /weɪt/ (v.)
+ 75. walk /wɔːk/ (v.)
+ 76. watch /wɒtʃ/ (v.)
+ 77. way /weɪ/ (n.)
+ 78. we /wiː; wi/ (pron.)
+ 79. wear /weə(r)/ (v.)
+ 80. week /wiːk/ (n.)
+ 81. weekend /ˌwiːkˈend/ (n.)
+ 82. welcome /ˈwelkəm/ (adj.)
+ 83. well /wel/ (interj.)
+ 84. what /wɒt/ (pron.)
+ 85. when /wen/ (adv.)
+ 86. where /weə(r)/ (adv.)
+ 87. which /wɪtʃ/ (pron.)
+ 88. while /waɪl/ (n.)
+ 89. white /waɪt/ (adj.)
+ 90. who /ˌdʌbljuː eɪtʃ ˈəʊ/
+ 91. whom /huːm/ (pron.)
+ 92. why /waɪ/ (adv.)
+ 93. will /wɪl/
+ 94. window /ˈwɪndəʊ/ (n.)
+ 95. wish /wɪʃ/ (v.)
+ 96. with /wɪð; wɪθ/ (prep.)
+ 97. wood /wʊd/
+ 98. work /wɜːk/ (v.)
+ 99. work out
+100. would /wʊd; wəd/
+101. write /raɪt/ (v.)
+102. yard /jɑːd/ (n.)
+103. year /jɪə(r); jɜː(r)/ (n.)
+104. yellow /ˈjeləʊ/ (adj.)
+105. yes /jes/ (interj.)
+106. yogurt /ˈjɒɡət/
+107. you /juː; ju/ (pron.)
+108. your /jɔː(r); jə(r)/ (pron.)
+109. yours /jɔːz/ (pron.)
+110. a few

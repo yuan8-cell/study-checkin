@@ -1,0 +1,138 @@
+=== Day 32 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. bean /biːn/ (n.)
+  2. because of
+  3. become /bɪˈkʌm/ (v.)
+  4. belong /bɪˈlɒŋ/ (v.)
+  5. belong to
+  6. belt /belt/ (n.)
+  7. beth /beθ/
+  8. better /ˈbetə(r)/ (adj.)
+  9. bite through
+ 10. blind /blaɪnd/ (adj.)
+ 11. boat /bəʊt/ (n.)
+ 12. body /ˈbɒdi/ (n.)
+ 13. branch /brɑːntʃ/ (n.)
+ 14. bread /bred/ (n.)
+ 15. bright /braɪt/ (adj.)
+ 16. brightly /ˈbraɪtli/ (adv.)
+ 17. bring /brɪŋ/ (v.)
+ 18. build /bɪld/ (v.)
+ 19. bus /bʌs/ (n.)
+ 20. by /baɪ/ (prep.)
+ 21. cabbage /ˈkæbɪdʒ/ (n.)
+ 22. call back
+
+【Review (Day 17,25,28,30,31)】
+  1. mark /mɑːk/ (v.)
+  2. may /meɪ/
+  3. me /miː; mi/ (pron.)
+  4. mean /miːn/ (v.)
+  5. member /ˈmembə(r)/ (n.)
+  6. middle /ˈmɪdl/ (n.)
+  7. mike /maɪk/
+  8. milk /mɪlk/ (n.)
+  9. miller /ˈmɪlə(r)/
+ 10. million /ˈmɪljən/ (num.)
+ 11. mind /maɪnd/ (n.)
+ 12. minute /ˈmɪnɪt/ (n.)
+ 13. mistake /mɪˈsteɪk/ (n.)
+ 14. modern /ˈmɒdn/ (adj.)
+ 15. month /mʌnθ/ (n.)
+ 16. more /mɔː(r)/ (adj.)
+ 17. morning /ˈmɔːnɪŋ/ (n.)
+ 18. most /məʊst/ (adj.)
+ 19. mr /ˈmɪstə(r)/
+ 20. mrs /ˈmɪsɪz/
+ 21. ms /mɪz; məz/
+ 22. much /mʌtʃ/ (adv.)
+ 23. starter /ˈstɑːtə(r)/
+ 24. stay /steɪ/ (v.)
+ 25. story /ˈstɔːri/ (n.)
+ 26. student /ˈstjuːdnt/ (n.)
+ 27. study /ˈstʌdi/ (v.)
+ 28. subject /ˈsʌbdʒɪkt/ (n.)
+ 29. sure /ʃʊə(r)/ (adv.)
+ 30. surprise /səˈpraɪz/ (n.)
+ 31. swim /swɪm/ (v.)
+ 32. sydney /ˈsɪdni/
+ 33. symbol /ˈsɪmbl/ (n.)
+ 34. table /ˈteɪbl/ (n.)
+ 35. take /teɪk/ (v.)
+ 36. take a photo
+ 37. take a shower
+ 38. take photos
+ 39. talk /tɔːk/ (v.)
+ 40. tall /tɔːl/ (adj.)
+ 41. teacher /ˈtiːtʃə(r)/ (n.)
+ 42. tell /tel/ (v.)
+ 43. ten /ten/ (num.)
+ 44. tennis /ˈtenɪs/ (n.)
+ 45. useful /ˈjuːsfl/ (adj.)
+ 46. usually /ˈjuːʒuəli/ (adv.)
+ 47. very /ˈveri/ (adv.)
+ 48. village /ˈvɪlɪdʒ/ (n.)
+ 49. violin /ˌvaɪəˈlɪn/ (n.)
+ 50. visit /ˈvɪzɪt/ (v.)
+ 51. vr /ˌviː ˈɑː(r)/
+ 52. wait /weɪt/ (v.)
+ 53. walk /wɔːk/ (v.)
+ 54. watch /wɒtʃ/ (v.)
+ 55. way /weɪ/ (n.)
+ 56. we /wiː; wi/ (pron.)
+ 57. wear /weə(r)/ (v.)
+ 58. week /wiːk/ (n.)
+ 59. weekend /ˌwiːkˈend/ (n.)
+ 60. welcome /ˈwelkəm/ (adj.)
+ 61. well /wel/ (interj.)
+ 62. what /wɒt/ (pron.)
+ 63. when /wen/ (adv.)
+ 64. where /weə(r)/ (adv.)
+ 65. which /wɪtʃ/ (pron.)
+ 66. while /waɪl/ (n.)
+ 67. absent /ˈæbsənt/ (adj.)
+ 68. actor /ˈæktə(r)/ (n.)
+ 69. adam /ˈædəm/
+ 70. advice /ədˈvaɪs/ (n.)
+ 71. affect /əˈfekt/ (v.)
+ 72. afraid /əˈfreɪd/ (adj.)
+ 73. africa /ˈæfrɪkə/
+ 74. again /əˈɡen; əˈɡeɪn/ (adv.)
+ 75. agree /əˈɡriː/ (v.)
+ 76. agree with
+ 77. air /eə(r)/ (n.)
+ 78. all over
+ 79. along /əˈlɒŋ/ (prep.)
+ 80. although /ɔːlˈðəʊ/ (conj.)
+ 81. america /əˈmerɪkə/
+ 82. among /əˈmʌŋ/ (prep.)
+ 83. anna /ˈænə/
+ 84. anne /æn/
+ 85. antarctica /ænˈtɑːktɪkə/
+ 86. anyone /ˈeniwʌn/ (pron.)
+ 87. anything /ˈeniθɪŋ/ (pron.)
+ 88. area /ˈeəriə/ (n.)
+ 89. arm /ɑːm/ (n.)
+ 90. around the world
+ 91. arrive /əˈraɪv/ (v.)
+ 92. article /ˈɑːtɪkl/ (n.)
+ 93. artist /ˈɑːtɪst/ (n.)
+ 94. astronaut /ˈæstrənɔːt/ (n.)
+ 95. at first
+ 96. at the end
+ 97. at the moment
+ 98. at the start
+ 99. at the top
+100. away /əˈweɪ/ (adv.)
+101. awful /ˈɔːfl/ (adj.)
+102. bad /bæd/ (adj.)
+103. badminton /ˈbædmɪntən/ (n.)
+104. bag /bæɡ/ (n.)
+105. balanced /ˈbælənst/ (adj.)
+106. banana /bəˈnɑːnə/ (n.)
+107. baseball /ˈbeɪsbɔːl/ (n.)
+108. basket /ˈbɑːskɪt/ (n.)
+109. beach /biːtʃ/ (n.)
+110. beach volleyball

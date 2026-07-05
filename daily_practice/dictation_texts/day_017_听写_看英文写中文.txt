@@ -1,0 +1,138 @@
+=== Day 17 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. mark /mɑːk/ (v.)
+  2. may /meɪ/
+  3. me /miː; mi/ (pron.)
+  4. mean /miːn/ (v.)
+  5. member /ˈmembə(r)/ (n.)
+  6. middle /ˈmɪdl/ (n.)
+  7. mike /maɪk/
+  8. milk /mɪlk/ (n.)
+  9. miller /ˈmɪlə(r)/
+ 10. million /ˈmɪljən/ (num.)
+ 11. mind /maɪnd/ (n.)
+ 12. minute /ˈmɪnɪt/ (n.)
+ 13. mistake /mɪˈsteɪk/ (n.)
+ 14. modern /ˈmɒdn/ (adj.)
+ 15. month /mʌnθ/ (n.)
+ 16. more /mɔː(r)/ (adj.)
+ 17. morning /ˈmɔːnɪŋ/ (n.)
+ 18. most /məʊst/ (adj.)
+ 19. mr /ˈmɪstə(r)/
+ 20. mrs /ˈmɪsɪz/
+ 21. ms /mɪz; məz/
+ 22. much /mʌtʃ/ (adv.)
+
+【Review (Day 2,10,13,15,16)】
+  1. another /əˈnʌðə(r)/ (adj.)
+  2. answer /ˈɑːnsə(r)/ (v.)
+  3. any /ˈeni/ (adj.)
+  4. apple /ˈæpl/ (n.)
+  5. are /ɑː(r); ə(r)/ (v.)
+  6. around /əˈraʊnd/ (adv.)
+  7. art /ɑːt/ (n.)
+  8. as /æz; əz/ (prep.)
+  9. ask /ɑːsk/ (v.)
+ 10. at /æt; ət/ (prep.)
+ 11. at home
+ 12. at night
+ 13. at school
+ 14. at weekends
+ 15. aunt /ɑːnt/ (n.)
+ 16. baby /ˈbeɪbi/ (n.)
+ 17. back /bæk/ (n.)
+ 18. baker /ˈbeɪkə(r)/
+ 19. ball /bɔːl/ (n.)
+ 20. balloon /bəˈluːn/ (n.)
+ 21. band /bænd/ (n.)
+ 22. bat /bæt/ (n.)
+ 23. fish /fɪʃ/ (v.)
+ 24. five /faɪv/ (num.)
+ 25. flag /flæɡ/ (n.)
+ 26. flora /ˈflɔːrə/
+ 27. flower /ˈflaʊə(r)/ (n.)
+ 28. fly /flaɪ/ (v.)
+ 29. food /fuːd/ (n.)
+ 30. football /ˈfʊtbɔːl/ (n.)
+ 31. for /fɔː(r); fə(r)/ (prep.)
+ 32. for example
+ 33. fortieth /ˈfɔːtiəθ/ (num.)
+ 34. forty /ˈfɔːti/ (num.)
+ 35. found /faʊnd/ (v.)
+ 36. four /fɔː(r)/ (num.)
+ 37. fourteen /ˌfɔːˈtiːn/ (num.)
+ 38. fourteenth /ˌfɔːˈtiːnθ/ (num.)
+ 39. fourth /fɔːθ/ (num.)
+ 40. fred /fred/
+ 41. french /frentʃ/ (n.)
+ 42. friend /frend/ (n.)
+ 43. from /frɒm; frəm/ (prep.)
+ 44. front /frʌnt/ (n.)
+ 45. her /hɜː(r); hə(r)/ (pron.)
+ 46. here /hɪə(r)/ (adv.)
+ 47. hey /heɪ/ (interj.)
+ 48. hi /haɪ/ (interj.)
+ 49. hike /haɪk/ (v.)
+ 50. him /hɪm; ɪm/ (pron.)
+ 51. his /hɪz; ɪz/ (pron.)
+ 52. hobby /ˈhɒbi/ (n.)
+ 53. hockey /ˈhɒki/ (n.)
+ 54. homework /ˈhəʊmwɜːk/ (n.)
+ 55. horse /hɔːs/ (n.)
+ 56. hot /hɒt/ (adj.)
+ 57. hot pot
+ 58. hour /ˈaʊə(r)/ (n.)
+ 59. house /haʊs/ (n.)
+ 60. how /haʊ/ (adv.)
+ 61. hundred /ˈhʌndrəd/ (num.)
+ 62. hundredth /ˈhʌndrədθ/ (num.)
+ 63. husband /ˈhʌzbənd/ (n.)
+ 64. i /aɪ/ (pron.)
+ 65. ice /aɪs/ (n.)
+ 66. ice hockey
+ 67. juice /dʒuːs/ (n.)
+ 68. kate /keɪt/
+ 69. keep /kiːp/ (v.)
+ 70. key /kiː/ (n.)
+ 71. kind /kaɪnd/ (n.)
+ 72. knee /niː/ (n.)
+ 73. know /nəʊ/ (v.)
+ 74. lake /leɪk/ (n.)
+ 75. language /ˈlæŋɡwɪdʒ/ (n.)
+ 76. large /lɑːdʒ/ (adj.)
+ 77. last /lɑːst/ (adj.)
+ 78. last name
+ 79. later /ˈleɪtə(r)/ (adv.)
+ 80. laugh /lɑːf/ (v.)
+ 81. learn /lɜːn/ (v.)
+ 82. lee /liː/
+ 83. left /left/ (n.)
+ 84. lesson /ˈlesn/ (n.)
+ 85. let /let/ (v.)
+ 86. life /laɪf/ (n.)
+ 87. like /laɪk/ (v.)
+ 88. lily /ˈlɪli/
+ 89. linda /ˈlɪndə/
+ 90. lisa /ˈliːsə/
+ 91. list /lɪst/ (n.)
+ 92. listen /ˈlɪsn/ (v.)
+ 93. listen to
+ 94. little /ˈlɪtl/ (adj.)
+ 95. live /lɪv/ (v.)
+ 96. london /ˈlʌndən/
+ 97. long /lɒŋ/ (adj.)
+ 98. look /lʊk/ (v.)
+ 99. look at
+100. lot /lɒt/ (pron.)
+101. love /lʌv/ (v.)
+102. lucy /ˈluːsi/
+103. lunch /lʌntʃ/ (n.)
+104. magic /ˈmædʒɪk/ (n.)
+105. make /meɪk/ (v.)
+106. make a wish
+107. make friends
+108. make use of
+109. many /ˈmeni/ (adj.)
+110. map /mæp/ (n.)

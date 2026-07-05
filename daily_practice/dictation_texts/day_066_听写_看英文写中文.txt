@@ -1,0 +1,138 @@
+=== Day 66 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. peony /ˈpiːəni/ (n.)
+  2. pepper /ˈpepə(r)/ (n.)
+  3. per /pə(r); pɜː(r)/ (prep.)
+  4. perform /pəˈfɔːm/ (v.)
+  5. perhaps /pəˈhæps; præps/ (adv.)
+  6. personality /ˌpɜːsəˈnæləti/ (n.)
+  7. photographer /fəˈtɒɡrəfə(r)/ (n.)
+  8. photography /fəˈtɒɡrəfi/ (n.)
+  9. physical /ˈfɪzɪkl/ (adj.)
+ 10. pie /paɪ/ (n.)
+ 11. pilot /ˈpaɪlət/ (n.)
+ 12. plan /plæn/ (v.)
+ 13. planet /ˈplænɪt/ (n.)
+ 14. plate /pleɪt/ (n.)
+ 15. pleasant /ˈpleznt/ (adj.)
+ 16. point /pɔɪnt/ (n.)
+ 17. pollen /ˈpɒlən/ (n.)
+ 18. pollination /ˌpɒləˈneɪʃn/ (n.)
+ 19. population /ˌpɒpjuˈleɪʃn/ (n.)
+ 20. poster /ˈpəʊstə(r)/ (n.)
+ 21. pour sth into sth
+ 22. prediction /prɪˈdɪkʃn/ (n.)
+
+【Review (Day 51,59,62,64,65)】
+  1. true /truː/ (adj.)
+  2. trunk /trʌŋk/ (n.)
+  3. truth /truːθ/ (n.)
+  4. try /traɪ/ (v.)
+  5. try on
+  6. turn /tɜːn/ (v.)
+  7. turn off
+  8. twice /twaɪs/ (adv.)
+  9. ugly /ˈʌɡli/ (adj.)
+ 10. umbrella /ʌmˈbrelə/ (n.)
+ 11. understand /ˌʌndəˈstænd/ (v.)
+ 12. unhappy /ʌnˈhæpi/ (adj.)
+ 13. uniform /ˈjuːnɪfɔːm/ (n.)
+ 14. untidy /ʌnˈtaɪdi/ (adj.)
+ 15. upon /əˈpɒn/ (prep.)
+ 16. usa /ˌjuːesˈeɪ/
+ 17. used to
+ 18. vegetable /ˈvedʒtəbl/ (n.)
+ 19. voice /vɔɪs/ (n.)
+ 20. volleyball /ˈvɒlibɔːl/ (n.)
+ 21. waiter /ˈweɪtə(r)/ (n.)
+ 22. waitress /ˈweɪtrəs/ (n.)
+ 23. excited /ɪkˈsaɪtɪd/ (adj.)
+ 24. expect /ɪkˈspekt/ (v.)
+ 25. expert /ˈekspɜːt/ (n.)
+ 26. expression /ɪkˈspreʃn/ (n.)
+ 27. face /feɪs/ (n.)
+ 28. face to face
+ 29. fact /fækt/ (n.)
+ 30. fail /feɪl/ (v.)
+ 31. familiar /fəˈmɪliə(r)/ (adj.)
+ 32. fan /fæn/ (n.)
+ 33. far /fɑː(r)/ (adv.)
+ 34. faraway /ˈfɑːrəweɪ; ˌfɑːrəˈweɪ/ (adj.)
+ 35. fashion /ˈfæʃn/ (n.)
+ 36. final /ˈfaɪnl/ (adj.)
+ 37. fire /faɪə(r)/ (n.)
+ 38. floor /flɔː(r)/ (n.)
+ 39. flute /fluːt/ (n.)
+ 40. folding fan
+ 41. for this reason
+ 42. form /fɔːm/ (v.)
+ 43. france /frɑːns/
+ 44. freshly /ˈfreʃli/ (adv.)
+ 45. intelligence /ɪnˈtelɪdʒəns/ (n.)
+ 46. interest /ˈɪntrest/ (n.)
+ 47. invite /ɪnˈvaɪt/ (v.)
+ 48. island /ˈaɪlənd/ (n.)
+ 49. item /ˈaɪtəm/ (n.)
+ 50. jason /ˈdʒeɪsən/
+ 51. jennifer /ˈdʒenifə/
+ 52. joke /dʒəʊk/ (n.)
+ 53. jones /dʒəunz/
+ 54. journey /ˈdʒɜːni/ (n.)
+ 55. joy /dʒɔɪ/ (n.)
+ 56. julie /ˈdʒuːli/
+ 57. keep on doing sth
+ 58. kitchen /ˈkɪtʃɪn/ (n.)
+ 59. land /lænd/ (n.)
+ 60. landscape /ˈlændskeɪp/ (n.)
+ 61. law /lɔː/ (n.)
+ 62. lawyer /ˈlɔːjə(r)/ (n.)
+ 63. lazy /ˈleɪzi/ (adj.)
+ 64. least /liːst/ (adv.)
+ 65. length /leŋθ/ (n.)
+ 66. less /les/ (adj.)
+ 67. memory /ˈmeməri/ (n.)
+ 68. mention /ˈmenʃn/ (v.)
+ 69. mess /mes/ (n.)
+ 70. metre /ˈmiːtə(r)/
+ 71. metro /ˈmetrəʊ/ (n.)
+ 72. might /maɪt/
+ 73. mini-goal /ˈmɪniˌɡəʊl/ (n.)
+ 74. mirror /ˈmɪrə(r)/ (n.)
+ 75. miss /mɪs/ (v.)
+ 76. misunderstanding /ˌmɪsʌndəˈstændɪŋ/ (n.)
+ 77. mix /mɪks/ (v.)
+ 78. moss /mɒs/ (n.)
+ 79. movie /ˈmuːvi/ (n.)
+ 80. mushroom /ˈmʌʃrʊm/ (n.)
+ 81. musician /mjuˈzɪʃn/ (n.)
+ 82. nazi /ˈnɑːtsi/ (n.)
+ 83. nod /nɒd/ (v.)
+ 84. noon /nuːn/ (n.)
+ 85. note /nəʊt/ (n.)
+ 86. nothing but
+ 87. novel /ˈnɒvl/ (n.)
+ 88. ocean /ˈəʊʃn/ (n.)
+ 89. offer /ˈɒfə(r)/ (v.)
+ 90. oil /ɔɪl/ (n.)
+ 91. one by one
+ 92. opinion /əˈpɪnjən/ (n.)
+ 93. opportunity /ˌɒpəˈtjuːnəti/ (n.)
+ 94. organized /ˈɔːɡənaɪzd/
+ 95. outer /ˈaʊtə(r)/ (adj.)
+ 96. outgoing /ˌaʊtˈɡəʊɪŋ/ (adj.)
+ 97. oven /ˈʌvn/ (n.)
+ 98. pack /pæk/ (v.)
+ 99. pack up
+100. painter /ˈpeɪntə(r)/ (n.)
+101. palace /ˈpæləs/ (n.)
+102. pan /pæn/ (n.)
+103. pancake /ˈpænkeɪk/ (n.)
+104. paper-cut /ˈpeɪpə(r)kʌt/ (n.)
+105. paragraph /ˈpærəɡrɑːf/ (n.)
+106. pass /pɑːs/ (v.)
+107. passport /ˈpɑːspɔːt/ (n.)
+108. pauper /ˈpɔːpə(r)/ (n.)
+109. pea /piː/ (n.)
+110. peace /piːs/ (n.)

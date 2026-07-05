@@ -1,0 +1,138 @@
+=== Day 56 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. calm /kɑːm/ (adj.)
+  2. camp /kæmp/ (n.)
+  3. cancer /ˈkænsə(r)/ (n.)
+  4. care about
+  5. careful /ˈkeəfl/ (adj.)
+  6. challenge /ˈtʃælɪndʒ/ (n.)
+  7. chance /tʃɑːns/ (n.)
+  8. character /ˈkærəktə(r)/ (n.)
+  9. cheese /tʃiːz/ (n.)
+ 10. cheetah /ˈtʃiːtə/ (n.)
+ 11. chief /tʃiːf/ (adj.)
+ 12. christmas /ˈkrɪsməs/ (n.)
+ 13. classic /ˈklæsɪk/ (n.)
+ 14. clause /klɔːz/ (n.)
+ 15. clean up
+ 16. climate /ˈklaɪmət/ (n.)
+ 17. closing /ˈkləʊzɪŋ/ (adj.)
+ 18. college /ˈkɒlɪdʒ/ (n.)
+ 19. come over
+ 20. communicate /kəˈmjuːnɪkeɪt/ (v.)
+ 21. communication /kəˌmjuːnɪˈkeɪʃn/ (n.)
+ 22. community /kəˈmjuːnəti/ (n.)
+
+【Review (Day 41,49,52,54,55)】
+  1. lovely /ˈlʌvli/ (adj.)
+  2. luck /lʌk/ (n.)
+  3. lucky /ˈlʌki/ (adj.)
+  4. lucky you
+  5. machine /məˈʃiːn/ (n.)
+  6. made of
+  7. magical /ˈmædʒɪkl/ (adj.)
+  8. make a promise
+  9. make money
+ 10. make progress
+ 11. malee /mɑːˈliː/
+ 12. market /ˈmɑːkɪt/ (n.)
+ 13. mary /ˈmeəri/
+ 14. mat /mæt/ (n.)
+ 15. match /mætʃ/ (n.)
+ 16. maybe /ˈmeɪbi/ (adv.)
+ 17. meal /miːl/ (n.)
+ 18. meet up
+ 19. menu /ˈmenjuː/ (n.)
+ 20. message /ˈmesɪdʒ/ (n.)
+ 21. mine /maɪn/ (pron.)
+ 22. mobile /ˈməʊbaɪl/ (adj.)
+ 23. sunbathe /ˈsʌnbeɪð/ (v.)
+ 24. sunlight /ˈsʌnlaɪt/ (n.)
+ 25. sunshine /ˈsʌnʃaɪn/ (n.)
+ 26. supermarket /ˈsuːpəˌmɑːkɪt/ (n.)
+ 27. swan /swɒn/ (n.)
+ 28. sweater /ˈswetə(r)/ (n.)
+ 29. sweet /swiːt/ (n.)
+ 30. swimmer /ˈswɪmə(r)/ (n.)
+ 31. t-shirt /ˈtiː ʃɜːt/ (n.)
+ 32. tail /teɪl/ (n.)
+ 33. take a message
+ 34. take care of
+ 35. take part in
+ 36. taste /teɪst/ (v.)
+ 37. taxi /ˈtæksi/ (n.)
+ 38. tea /tiː/ (n.)
+ 39. team /tiːm/ (n.)
+ 40. teenager /ˈtiːneɪdʒə(r)/ (n.)
+ 41. tell the truth
+ 42. temperature /ˈtemprətʃə(r)/ (n.)
+ 43. tent /tent/ (n.)
+ 44. terrible /ˈterəbl/ (adj.)
+ 45. war /wɔː(r)/ (n.)
+ 46. warm /wɔːm/ (adj.)
+ 47. wash /wɒʃ/ (v.)
+ 48. waste /weɪst/ (n.)
+ 49. wastewater /ˈweɪstwɔːtə(r)/ (n.)
+ 50. water /ˈwɔːtə(r)/ (n.)
+ 51. watermelon /ˈwɔːtəˌmelən/ (n.)
+ 52. weather /ˈweðə(r)/ (n.)
+ 53. weekday /ˈwiːkdeɪ/ (n.)
+ 54. weight /weɪt/ (n.)
+ 55. well-used /ˌwelˈjuːzd/ (adj.)
+ 56. west /west/ (n.)
+ 57. wet /wet/ (adj.)
+ 58. whale /weɪl/ (n.)
+ 59. win /wɪn/ (v.)
+ 60. wind /wɪnd/ (n.)
+ 61. winter /ˈwɪntə(r)/ (n.)
+ 62. wise /waɪz/ (adj.)
+ 63. wonderful /ˈwʌndəfl/ (adj.)
+ 64. work on
+ 65. working /ˈwɜːkɪŋ/ (adj.)
+ 66. working day
+ 67. ancient /ˈeɪnʃənt/ (adj.)
+ 68. ant /ænt/ (n.)
+ 69. apartment /əˈpɑːtmənt/ (n.)
+ 70. appear /əˈpɪə(r)/ (v.)
+ 71. appearance /əˈpɪərəns/ (n.)
+ 72. argue /ˈɑːɡjuː/ (v.)
+ 73. argue with sb
+ 74. arrival /əˈraɪvl/ (n.)
+ 75. artwork /ˈɑːtwɜːk/ (n.)
+ 76. as long as
+ 77. asimov /ˈæzɪmɒf/
+ 78. at least
+ 79. athlete /ˈæθliːt/ (n.)
+ 80. attend /əˈtend/ (v.)
+ 81. attention /əˈtenʃn/ (n.)
+ 82. autumn /ˈɔːtəm/ (n.)
+ 83. bake /beɪk/ (v.)
+ 84. balcony /ˈbælkəni/ (n.)
+ 85. bamboo /ˌbæmˈbuː/ (n.)
+ 86. bath /bɑːθ/ (n.)
+ 87. bathroom /ˈbɑːθruːm/ (n.)
+ 88. be tired of
+ 89. be yourself
+ 90. bedroom /ˈbedruːm/ (n.)
+ 91. bee /biː/ (n.)
+ 92. believe /bɪˈliːv/ (v.)
+ 93. benefit /ˈbenɪfɪt/ (v.)
+ 94. beside /bɪˈsaɪd/ (prep.)
+ 95. besides /bɪˈsaɪdz/ (prep.)
+ 96. billy /ˈbɪli/
+ 97. biscuit /ˈbɪskɪt/ (n.)
+ 98. block /blɒk/ (n.)
+ 99. boil /bɔɪl/ (v.)
+100. bored /bɔːd/ (adj.)
+101. born /bɔːn/ (v.)
+102. borrow /ˈbɒrəʊ/ (v.)
+103. bowl /bəʊl/ (n.)
+104. breath /breθ/ (n.)
+105. bridge /brɪdʒ/ (n.)
+106. budget /ˈbʌdʒɪt/ (n.)
+107. businessman /ˈbɪznəsmæn/ (n.)
+108. butter /ˈbʌtə(r)/ (n.)
+109. butterfly /ˈbʌtəflaɪ/ (n.)
+110. by accident

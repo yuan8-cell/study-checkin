@@ -1,0 +1,138 @@
+=== Day 94 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. though /ðəʊ/ (conj.)
+  2. throat /θrəʊt/ (n.)
+  3. thunder /ˈθʌndə(r)/ (n.)
+  4. tight /taɪt/ (adj.)
+  5. tilly /ˈtɪli/
+  6. titanic /taɪˈtænɪk/
+  7. tonight /təˈnaɪt/ (adv.)
+  8. toothache /ˈtuːθeɪk/ (n.)
+  9. tornado /tɔːˈneɪdəʊ/ (n.)
+ 10. toy /tɔɪ/ (n.)
+ 11. tradition /trəˈdɪʃn/ (n.)
+ 12. traveller /ˈtrævələ(r)/
+ 13. trouble /ˈtrʌbl/ (n.)
+ 14. truck /trʌk/ (n.)
+ 15. tsunami /tsuːˈnɑːmi/ (n.)
+ 16. turn on
+ 17. turtle /ˈtɜːtl/ (n.)
+ 18. type /taɪp/ (n.)
+ 19. typhoon /taɪˈfuːn/ (n.)
+ 20. uncommon /ʌnˈkɒmən/ (adj.)
+ 21. unfortunately /ʌnˈfɔːtʃənətli/ (adv.)
+ 22. unless /ənˈles/ (conj.)
+
+【Review (Day 79,87,90,92,93)】
+  1. distance /ˈdɪstəns/ (n.)
+  2. dive /daɪv/ (v.)
+  3. do chores
+  4. donate /dəʊˈneɪt/ (v.)
+  5. donation /dəʊˈneɪʃn/ (n.)
+  6. doubt /daʊt/ (v.)
+  7. driver /ˈdraɪvə(r)/ (n.)
+  8. drought /draʊt/ (n.)
+  9. earthquake /ˈɜːθkweɪk/ (n.)
+ 10. eat out
+ 11. effect /ɪˈfekt/ (n.)
+ 12. effort /ˈefət/ (n.)
+ 13. egypt /ˈiːdʒɪpt/
+ 14. elbow /ˈelbəʊ/ (n.)
+ 15. elder /ˈeldə(r)/ (adj.)
+ 16. elderly /ˈeldəli/ (adj.)
+ 17. embarrassed /ɪmˈbærəst/ (adj.)
+ 18. emotion /ɪˈməʊʃn/ (n.)
+ 19. enemy /ˈenəmi/ (n.)
+ 20. enter /ˈentə(r)/ (v.)
+ 21. environment /ɪnˈvaɪrənmənt/ (n.)
+ 22. even though
+ 23. on top of the world
+ 24. once in a while
+ 25. onto /ˈɒntu;ˈɒntə/ (prep.)
+ 26. ordinary /ˈɔːdnri/ (adj.)
+ 27. ourselves /ˌaʊəˈselvz; ɑːˈselvz/ (pron.)
+ 28. out of breath
+ 29. outing /ˈaʊtɪŋ/ (n.)
+ 30. owner /ˈəʊnə(r)/ (n.)
+ 31. pain /peɪn/ (n.)
+ 32. painful /ˈpeɪnfl/ (adj.)
+ 33. palm /pɑːm/ (n.)
+ 34. panic /ˈpænɪk/ (n.)
+ 35. paris /ˈpærɪs/
+ 36. pass away
+ 37. patient /ˈpeɪʃnt/ (n.)
+ 38. peru /pəˈruː/
+ 39. philippines /ˈfɪlɪpiːnz/
+ 40. photograph /ˈfəʊtəɡrɑːf/ (v.)
+ 41. phuket /ˌpuːˈket/
+ 42. physics /ˈfɪzɪks/ (n.)
+ 43. pill /pɪl/ (n.)
+ 44. plane /pleɪn/ (n.)
+ 45. risky /ˈrɪski/ (adj.)
+ 46. robert /ˈrɒbət/
+ 47. roll /rəʊl/ (v.)
+ 48. roof /ruːf/ (n.)
+ 49. rub /rʌb/ (v.)
+ 50. rude /ruːd/ (adj.)
+ 51. runny /ˈrʌni/ (adj.)
+ 52. sadly /ˈsædli/ (adv.)
+ 53. safety /ˈseɪfti/ (n.)
+ 54. sahara /səˈhɑːrə/
+ 55. sand /sænd/ (n.)
+ 56. scared /skeəd/ (adj.)
+ 57. scared of
+ 58. schoolgirl /ˈskuːlɡɜːl/ (n.)
+ 59. score /skɔː(r)/ (n.)
+ 60. scream /skriːm/ (v.)
+ 61. sea level
+ 62. secondly /ˈsekəndli/ (adv.)
+ 63. secretly /ˈsiːkrətli/ (adv.)
+ 64. security /sɪˈkjʊərəti/ (n.)
+ 65. security guard
+ 66. selfish /ˈselfɪʃ/ (adj.)
+ 67. soldier /ˈsəʊldʒə(r)/ (n.)
+ 68. sore /sɔː(r)/ (adj.)
+ 69. soundly /ˈsaʊndli/ (adv.)
+ 70. southern /ˈsʌðən/ (adj.)
+ 71. southwestern /ˌsaʊθˈwestən/ (adj.)
+ 72. square kilometre
+ 73. stadium /ˈsteɪdiəm/ (n.)
+ 74. stage /steɪdʒ/ (n.)
+ 75. stamp /stæmp/ (n.)
+ 76. standard /ˈstændəd/ (n.)
+ 77. state /steɪt/ (n.)
+ 78. stomach /ˈstʌmək/ (n.)
+ 79. stone /stəʊn/
+ 80. stove /stəʊv/ (n.)
+ 81. stress /stres/ (n.)
+ 82. strict /strɪkt/ (adj.)
+ 83. stroke /strəʊk/ (n.)
+ 84. structure /ˈstrʌktʃə(r)/ (n.)
+ 85. submersible /səbˈmɜːsəbl/ (n.)
+ 86. success /səkˈses/ (n.)
+ 87. successful /səkˈsesfl/ (adj.)
+ 88. successfully /səkˈsesfəli/ (adv.)
+ 89. sudden /ˈsʌdn/ (adj.)
+ 90. suffer from
+ 91. suggestion /səˈdʒestʃən/ (n.)
+ 92. supply /səˈplaɪ/ (n.)
+ 93. surface /ˈsɜːfɪs/ (n.)
+ 94. survive /səˈvaɪv/ (v.)
+ 95. table manners
+ 96. take a deep breath
+ 97. take a seat
+ 98. take back
+ 99. taklimakan /ˌtækləˈmɑːkæn/
+100. teamwork /ˈtiːmwɜːk/ (n.)
+101. temper /ˈtempə(r)/ (n.)
+102. terribly /ˈterəbli/ (adv.)
+103. thankful /ˈθæŋkfl/ (adj.)
+104. thankfully /ˈθæŋkfəli/ (adv.)
+105. the elderly
+106. therefore /ˈðeəfɔː(r)/ (adv.)
+107. thick /θɪk/ (adj.)
+108. thinking /ˈθɪŋkɪŋ/ (n.)
+109. thirdly /ˈθɜːdli/ (adv.)
+110. thompson /ˈtɒmpsn/

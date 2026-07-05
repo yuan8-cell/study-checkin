@@ -1,0 +1,138 @@
+=== Day 18 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. music /ˈmjuːzɪk/ (n.)
+  2. musical /ˈmjuːzɪkl/ (adj.)
+  3. musical instrument
+  4. my /maɪ/ (pron.)
+  5. name /neɪm/ (n.)
+  6. nature /ˈneɪtʃə(r)/ (n.)
+  7. need /niːd/ (v.)
+  8. new /njuː/ (adj.)
+  9. news /njuːz/ (n.)
+ 10. next /nekst/ (adj.)
+ 11. next time
+ 12. next to
+ 13. nice /naɪs/ (adj.)
+ 14. night /naɪt/ (n.)
+ 15. nine /naɪn/ (num.)
+ 16. nineteen /ˌnaɪnˈtiːn/ (num.)
+ 17. nineteenth /ˌnaɪnˈtiːnθ/ (num.)
+ 18. ninetieth /ˈnaɪntiəθ/ (num.)
+ 19. ninety /ˈnaɪnti/ (num.)
+ 20. ninth /naɪnθ/ (num.)
+ 21. no /nəʊ/ (interj.)
+ 22. noodle /ˈnuːdl/ (n.)
+
+【Review (Day 3,11,14,16,17)】
+  1. be /biː; bi/ (v.)
+  2. beautiful /ˈbjuːtɪfl/ (adj.)
+  3. because /bɪˈkɒz/ (conj.)
+  4. bed /bed/ (n.)
+  5. beef /biːf/ (n.)
+  6. before /bɪˈfɔː(r)/ (prep.)
+  7. begin /bɪˈɡɪn/ (v.)
+  8. behind /bɪˈhaɪnd/ (prep.)
+  9. bell /bel/ (n.)
+ 10. best /best/ (adj.)
+ 11. between /bɪˈtwiːn/ (prep.)
+ 12. bill /bɪl/ (n.)
+ 13. biology /baɪˈɒlədʒi/ (n.)
+ 14. bird /bɜːd/ (n.)
+ 15. birthday /ˈbɜːθdeɪ/ (n.)
+ 16. black /blæk/ (adj.)
+ 17. blackboard /ˈblækbɔːd/ (n.)
+ 18. blow /bləʊ/ (v.)
+ 19. blow out
+ 20. blue /bluː/ (adj.)
+ 21. book /bʊk/ (n.)
+ 22. bookcase /ˈbʊkkeɪs/ (n.)
+ 23. full /fʊl/ (adj.)
+ 24. full name
+ 25. fun /fʌn/ (n.)
+ 26. funny /ˈfʌni/ (adj.)
+ 27. future /ˈfjuːtʃə(r)/ (n.)
+ 28. garden /ˈɡɑːdn/ (v.)
+ 29. geography /dʒiˈɒɡrəfi/ (n.)
+ 30. get /ɡet/ (v.)
+ 31. get dressed
+ 32. get to know
+ 33. get up
+ 34. gift /ɡɪft/ (n.)
+ 35. girl /ɡɜːl/ (n.)
+ 36. give /ɡɪv/ (v.)
+ 37. glasses /ˈɡlɑːsɪz/ (n.)
+ 38. go /ɡəʊ/ (v.)
+ 39. go hiking
+ 40. go to bed
+ 41. good /ɡʊd/ (adj.)
+ 42. good at
+ 43. good with
+ 44. goodbye /ˌɡʊdˈbaɪ/ (interj.)
+ 45. idea /aɪˈdɪə/ (n.)
+ 46. important /ɪmˈpɔːtnt/ (adj.)
+ 47. in class
+ 48. in front of
+ 49. in the future
+ 50. in the middle
+ 51. information /ˌɪnfəˈmeɪʃn/ (n.)
+ 52. insect /ˈɪnsekt/ (n.)
+ 53. instrument /ˈɪnstrəmənt/ (n.)
+ 54. interested /ˈɪntrəstɪd/ (adj.)
+ 55. interesting /ˈɪntrəstɪŋ/ (adj.)
+ 56. international /ˌɪntəˈnæʃnəl/ (adj.)
+ 57. ireland /ˈaɪələnd/
+ 58. is /ɪz/ (v.)
+ 59. it /ɪt/ (pron.)
+ 60. jack /dʒæk/
+ 61. jane /dʒeɪn/
+ 62. jenny /ˈdʒeni/
+ 63. jim /dʒɪm/
+ 64. job /dʒɒb/ (n.)
+ 65. join /dʒɔɪn/ (v.)
+ 66. judy /ˈdʒuːdi/
+ 67. linda /ˈlɪndə/
+ 68. lisa /ˈliːsə/
+ 69. list /lɪst/ (n.)
+ 70. listen /ˈlɪsn/ (v.)
+ 71. listen to
+ 72. little /ˈlɪtl/ (adj.)
+ 73. live /lɪv/ (v.)
+ 74. london /ˈlʌndən/
+ 75. long /lɒŋ/ (adj.)
+ 76. look /lʊk/ (v.)
+ 77. look at
+ 78. lot /lɒt/ (pron.)
+ 79. love /lʌv/ (v.)
+ 80. lucy /ˈluːsi/
+ 81. lunch /lʌntʃ/ (n.)
+ 82. magic /ˈmædʒɪk/ (n.)
+ 83. make /meɪk/ (v.)
+ 84. make a wish
+ 85. make friends
+ 86. make use of
+ 87. many /ˈmeni/ (adj.)
+ 88. map /mæp/ (n.)
+ 89. mark /mɑːk/ (v.)
+ 90. may /meɪ/
+ 91. me /miː; mi/ (pron.)
+ 92. mean /miːn/ (v.)
+ 93. member /ˈmembə(r)/ (n.)
+ 94. middle /ˈmɪdl/ (n.)
+ 95. mike /maɪk/
+ 96. milk /mɪlk/ (n.)
+ 97. miller /ˈmɪlə(r)/
+ 98. million /ˈmɪljən/ (num.)
+ 99. mind /maɪnd/ (n.)
+100. minute /ˈmɪnɪt/ (n.)
+101. mistake /mɪˈsteɪk/ (n.)
+102. modern /ˈmɒdn/ (adj.)
+103. month /mʌnθ/ (n.)
+104. more /mɔː(r)/ (adj.)
+105. morning /ˈmɔːnɪŋ/ (n.)
+106. most /məʊst/ (adj.)
+107. mr /ˈmɪstə(r)/
+108. mrs /ˈmɪsɪz/
+109. ms /mɪz; məz/
+110. much /mʌtʃ/ (adv.)

@@ -1,0 +1,138 @@
+=== Day 63 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. lift /lɪft/ (n.)
+  2. line /laɪn/ (n.)
+  3. lining /ˈlaɪnɪŋ/ (n.)
+  4. listener /ˈlɪsənə(r)/ (n.)
+  5. literature /ˈlɪtrətʃə(r)/ (n.)
+  6. living room
+  7. local /ˈləʊkl/ (adj.)
+  8. look for
+  9. lotus /ˈləʊtəs/ (n.)
+ 10. loud /laʊd/ (adv.)
+ 11. low /ləʊ/ (adv.)
+ 12. luggage /ˈlʌɡɪdʒ/ (n.)
+ 13. make a mistake
+ 14. make sure
+ 15. mandy /ˈmændi/
+ 16. mashed /mæʃt/
+ 17. matt /mæt/
+ 18. matter /ˈmætə(r)/ (v.)
+ 19. meaning /ˈmiːnɪŋ/ (n.)
+ 20. meat /miːt/ (n.)
+ 21. medical /ˈmedɪkl/ (adj.)
+ 22. meeting /ˈmiːtɪŋ/ (n.)
+
+【Review (Day 48,56,59,61,62)】
+  1. spirit /ˈspɪrɪt/ (n.)
+  2. spring /sprɪŋ/ (n.)
+  3. stand /stænd/ (v.)
+  4. stay in
+  5. step /step/ (n.)
+  6. steve /stiːv/
+  7. still /stɪl/ (adv.)
+  8. stockholm /ˈstɒkhəʊm/
+  9. stop /stɒp/ (v.)
+ 10. storm /stɔːm/ (n.)
+ 11. straight /streɪt/ (adv.)
+ 12. strawberry /ˈstrɔːbəri/ (n.)
+ 13. street /striːt/ (n.)
+ 14. strong /strɒŋ/ (adj.)
+ 15. subway /ˈsʌbweɪ/ (n.)
+ 16. succeed /səkˈsiːd/ (v.)
+ 17. succeed in doing sth
+ 18. such /sʌtʃ/ (adj.)
+ 19. suddenly /ˈsʌdənli/ (adv.)
+ 20. sugar /ˈʃʊɡə(r)/ (n.)
+ 21. summer /ˈsʌmə(r)/ (n.)
+ 22. sun /sʌn/ (n.)
+ 23. calm /kɑːm/ (adj.)
+ 24. camp /kæmp/ (n.)
+ 25. cancer /ˈkænsə(r)/ (n.)
+ 26. care about
+ 27. careful /ˈkeəfl/ (adj.)
+ 28. challenge /ˈtʃælɪndʒ/ (n.)
+ 29. chance /tʃɑːns/ (n.)
+ 30. character /ˈkærəktə(r)/ (n.)
+ 31. cheese /tʃiːz/ (n.)
+ 32. cheetah /ˈtʃiːtə/ (n.)
+ 33. chief /tʃiːf/ (adj.)
+ 34. christmas /ˈkrɪsməs/ (n.)
+ 35. classic /ˈklæsɪk/ (n.)
+ 36. clause /klɔːz/ (n.)
+ 37. clean up
+ 38. climate /ˈklaɪmət/ (n.)
+ 39. closing /ˈkləʊzɪŋ/ (adj.)
+ 40. college /ˈkɒlɪdʒ/ (n.)
+ 41. come over
+ 42. communicate /kəˈmjuːnɪkeɪt/ (v.)
+ 43. communication /kəˌmjuːnɪˈkeɪʃn/ (n.)
+ 44. community /kəˈmjuːnəti/ (n.)
+ 45. excited /ɪkˈsaɪtɪd/ (adj.)
+ 46. expect /ɪkˈspekt/ (v.)
+ 47. expert /ˈekspɜːt/ (n.)
+ 48. expression /ɪkˈspreʃn/ (n.)
+ 49. face /feɪs/ (n.)
+ 50. face to face
+ 51. fact /fækt/ (n.)
+ 52. fail /feɪl/ (v.)
+ 53. familiar /fəˈmɪliə(r)/ (adj.)
+ 54. fan /fæn/ (n.)
+ 55. far /fɑː(r)/ (adv.)
+ 56. faraway /ˈfɑːrəweɪ; ˌfɑːrəˈweɪ/ (adj.)
+ 57. fashion /ˈfæʃn/ (n.)
+ 58. final /ˈfaɪnl/ (adj.)
+ 59. fire /faɪə(r)/ (n.)
+ 60. floor /flɔː(r)/ (n.)
+ 61. flute /fluːt/ (n.)
+ 62. folding fan
+ 63. for this reason
+ 64. form /fɔːm/ (v.)
+ 65. france /frɑːns/
+ 66. freshly /ˈfreʃli/ (adv.)
+ 67. heat /hiːt/ (v.)
+ 68. helpful /ˈhelpfl/ (adj.)
+ 69. honest /ˈɒnɪst/ (adj.)
+ 70. honey /ˈhʌni/ (n.)
+ 71. honeycomb /ˈhʌnikəʊm/ (n.)
+ 72. honour /ˈɒnə(r)/
+ 73. host /həʊst/ (n.)
+ 74. hostess /ˈhəʊstəs/ (n.)
+ 75. hotel /həʊˈtel/ (n.)
+ 76. human /ˈhjuːmən/ (n.)
+ 77. humour /ˈhjuːmə(r)/
+ 78. hunt /hʌnt/ (n.)
+ 79. imagine /ɪˈmædʒɪn/ (v.)
+ 80. importance /ɪmˈpɔːtns/ (n.)
+ 81. impossible /ɪmˈpɒsəbl/ (adj.)
+ 82. in fact
+ 83. in order to
+ 84. in person
+ 85. in the sun
+ 86. industry /ˈɪndəstri/ (n.)
+ 87. influence /ˈɪnfluəns/ (v.)
+ 88. ingredient /ɪnˈɡriːdiənt/ (n.)
+ 89. intelligence /ɪnˈtelɪdʒəns/ (n.)
+ 90. interest /ˈɪntrest/ (n.)
+ 91. invite /ɪnˈvaɪt/ (v.)
+ 92. island /ˈaɪlənd/ (n.)
+ 93. item /ˈaɪtəm/ (n.)
+ 94. jason /ˈdʒeɪsən/
+ 95. jennifer /ˈdʒenifə/
+ 96. joke /dʒəʊk/ (n.)
+ 97. jones /dʒəunz/
+ 98. journey /ˈdʒɜːni/ (n.)
+ 99. joy /dʒɔɪ/ (n.)
+100. julie /ˈdʒuːli/
+101. keep on doing sth
+102. kitchen /ˈkɪtʃɪn/ (n.)
+103. land /lænd/ (n.)
+104. landscape /ˈlændskeɪp/ (n.)
+105. law /lɔː/ (n.)
+106. lawyer /ˈlɔːjə(r)/ (n.)
+107. lazy /ˈleɪzi/ (adj.)
+108. least /liːst/ (adv.)
+109. length /leŋθ/ (n.)
+110. less /les/ (adj.)

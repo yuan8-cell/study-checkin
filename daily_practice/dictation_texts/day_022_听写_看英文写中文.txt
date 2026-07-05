@@ -1,0 +1,138 @@
+=== Day 22 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. right /raɪt/ (n.)
+  2. rise /raɪz/ (v.)
+  3. room /ruːm/ (n.)
+  4. routine /ruːˈtiːn/ (n.)
+  5. ruler /ˈruːlə(r)/ (n.)
+  6. run /rʌn/ (v.)
+  7. sale /seɪl/ (n.)
+  8. sally /ˈsæli/
+  9. sam /sæm/
+ 10. same /seɪm/ (adj.)
+ 11. sarah /ˈseərə/
+ 12. say /seɪ/ (v.)
+ 13. saying /ˈseɪɪŋ/ (n.)
+ 14. schoolbag /ˈskuːlbæɡ/ (n.)
+ 15. science /ˈsaɪəns/ (n.)
+ 16. scientist /ˈsaɪəntɪst/ (n.)
+ 17. screen /skriːn/ (n.)
+ 18. seat /siːt/ (n.)
+ 19. second /ˈsekənd/ (num.)
+ 20. section /ˈsekʃn/ (n.)
+ 21. see /siː/ (v.)
+ 22. send /send/ (v.)
+
+【Review (Day 7,15,18,20,21)】
+  1. dear /dɪə(r)/ (adj.)
+  2. delicious /dɪˈlɪʃəs/ (adj.)
+  3. desk /desk/ (n.)
+  4. different /ˈdɪfrənt/ (adj.)
+  5. different from
+  6. dining /ˈdaɪnɪŋ/
+  7. dinner /ˈdɪnə(r)/ (n.)
+  8. discover /dɪˈskʌvə(r)/ (v.)
+  9. do /duː; də/
+ 10. dog /dɒɡ/ (n.)
+ 11. doll /dɒl/ (n.)
+ 12. door /dɔː(r)/ (n.)
+ 13. down /daʊn/ (adv.)
+ 14. drama /ˈdrɑːmə/ (n.)
+ 15. draw /drɔː/ (v.)
+ 16. drawer /drɔː(r)/ (n.)
+ 17. drink /drɪŋk/ (n.)
+ 18. drum /drʌm/ (n.)
+ 19. duck /dʌk/ (n.)
+ 20. duty /ˈdjuːti/ (n.)
+ 21. each /iːtʃ/ (adj.)
+ 22. each other
+ 23. juice /dʒuːs/ (n.)
+ 24. kate /keɪt/
+ 25. keep /kiːp/ (v.)
+ 26. key /kiː/ (n.)
+ 27. kind /kaɪnd/ (n.)
+ 28. knee /niː/ (n.)
+ 29. know /nəʊ/ (v.)
+ 30. lake /leɪk/ (n.)
+ 31. language /ˈlæŋɡwɪdʒ/ (n.)
+ 32. large /lɑːdʒ/ (adj.)
+ 33. last /lɑːst/ (adj.)
+ 34. last name
+ 35. later /ˈleɪtə(r)/ (adv.)
+ 36. laugh /lɑːf/ (v.)
+ 37. learn /lɜːn/ (v.)
+ 38. lee /liː/
+ 39. left /left/ (n.)
+ 40. lesson /ˈlesn/ (n.)
+ 41. let /let/ (v.)
+ 42. life /laɪf/ (n.)
+ 43. like /laɪk/ (v.)
+ 44. lily /ˈlɪli/
+ 45. music /ˈmjuːzɪk/ (n.)
+ 46. musical /ˈmjuːzɪkl/ (adj.)
+ 47. musical instrument
+ 48. my /maɪ/ (pron.)
+ 49. name /neɪm/ (n.)
+ 50. nature /ˈneɪtʃə(r)/ (n.)
+ 51. need /niːd/ (v.)
+ 52. new /njuː/ (adj.)
+ 53. news /njuːz/ (n.)
+ 54. next /nekst/ (adj.)
+ 55. next time
+ 56. next to
+ 57. nice /naɪs/ (adj.)
+ 58. night /naɪt/ (n.)
+ 59. nine /naɪn/ (num.)
+ 60. nineteen /ˌnaɪnˈtiːn/ (num.)
+ 61. nineteenth /ˌnaɪnˈtiːnθ/ (num.)
+ 62. ninetieth /ˈnaɪntiəθ/ (num.)
+ 63. ninety /ˈnaɪnti/ (num.)
+ 64. ninth /naɪnθ/ (num.)
+ 65. no /nəʊ/ (interj.)
+ 66. noodle /ˈnuːdl/ (n.)
+ 67. panda /ˈpændə/ (n.)
+ 68. parent /ˈpeərənt/ (n.)
+ 69. park /pɑːk/ (n.)
+ 70. parrot /ˈpærət/ (n.)
+ 71. part /pɑːt/ (n.)
+ 72. party /ˈpɑːti/ (n.)
+ 73. past /pɑːst/ (n.)
+ 74. pauline /pɔːˈliːn/
+ 75. pencil /ˈpensl/ (n.)
+ 76. people /ˈpiːpl/ (n.)
+ 77. pet /pet/ (n.)
+ 78. peter /ˈpiːtə(r)/
+ 79. piano /piˈænəʊ/ (n.)
+ 80. picture /ˈpɪktʃə(r)/ (n.)
+ 81. pig /pɪɡ/ (n.)
+ 82. ping-pong /ˈpɪŋpɒŋ/ (n.)
+ 83. pizza /ˈpiːtsə/ (n.)
+ 84. place /pleɪs/ (n.)
+ 85. plant /plɑːnt/ (n.)
+ 86. play the guitar
+ 87. playground /ˈpleɪɡraʊnd/ (n.)
+ 88. please /pliːz/ (interj.)
+ 89. pm /ˌpiː ˈem/
+ 90. post /pəʊst/ (n.)
+ 91. pot /pɒt/ (n.)
+ 92. potato /pəˈteɪtəʊ/ (n.)
+ 93. prc /ˌpiː ɑː(r) ˈsiː/
+ 94. prepare /prɪˈpeə(r)/ (v.)
+ 95. prepare sth for
+ 96. price /praɪs/ (n.)
+ 97. problem /ˈprɒbləm/ (n.)
+ 98. put up
+ 99. question /ˈkwestʃən/ (n.)
+100. quiet /ˈkwaɪət/ (adj.)
+101. rabbit /ˈræbɪt/ (n.)
+102. raise /reɪz/ (v.)
+103. re /riː/ (prep.)
+104. read /riːd/ (v.)
+105. really /ˈriːəli/ (adv.)
+106. reason /ˈriːzn/ (n.)
+107. red /red/ (adj.)
+108. remember /rɪˈmembə(r)/ (v.)
+109. reporter /rɪˈpɔːtə(r)/ (n.)
+110. restaurant /ˈrestrɒnt/ (n.)

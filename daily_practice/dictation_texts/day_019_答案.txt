@@ -1,0 +1,137 @@
+=== Day 19 Answer Key ===
+
+【New Words】
+  1. nose /nəʊz/ [n.] — 鼻子
+  2. notice /ˈnəʊtɪs/ [n.] — 通知；注意   v. 注意到；意识到
+  3. now /naʊ/ [adv.] — 现在；目前
+  4. number /ˈnʌmbə(r)/ [n.] — 数字；号码
+  5. of /ɒv; əv/ [prep.] — 属于（某人）； 关于（某人）
+  6. office /ˈɒfɪs/ [n.] — 办公室
+  7. often /ˈɒfn; ˈɒftən/ [adv.] — 时常；常常
+  8. oh /əʊ/ [interj.] — 哦；啊
+  9. ok /əʊˈkeɪ/ [interj.] — 好；行  adj. & adv. 可以（的）
+ 10. old /əʊld/ [adj.] — 老的；旧的
+ 11. on /ɒn/ [prep.] — 在……上
+ 12. on duty — 值班
+ 13. one /wʌn/ [num.] — 一
+ 14. only /ˈəʊnli/ [adv.] — 只；仅
+ 15. or /ɔː(r)/ [conj.] — 或者；也不（用于否定句）
+ 16. oscar /ˈɒskə(r)/ — 奥斯卡
+ 17. other /ˈʌðə(r)/ [pron.] — 另外的人（或物）   adj. 另外的；其他的
+ 18. our /ɑː(r); ˈaʊə(r)/ [pron.] — 我们的
+ 19. out /aʊt/ [adv.] — & prep. （从……里） 出来；出去
+ 20. page /peɪdʒ/ [n.] — 页面；（书刊或纸张）页
+ 21. paint /peɪnt/ [v.] — 用颜料画；在……上 刷油漆 n. 油漆；涂料
+ 22. pair /peə(r)/ [n.] — 一双；一对
+
+【Review】
+  1. boring /ˈbɔːrɪŋ/ [adj.] — 乏味的； 令人生厌的
+  2. both /bəʊθ/ [adj.] — & pron. 两个； 两个都
+  3. bottle /ˈbɒtl/ [n.] — 瓶子
+  4. box /bɒks/ [n.] — 箱；盒；方框
+  5. break /breɪk/ [n.] — 休息；间断   v. （使）破碎；损坏
+  6. breakfast /ˈbrekfəst/ [n.] — 早餐
+  7. brother /ˈbrʌðə(r)/ [n.] — 兄；弟
+  8. brown /braʊn/ [adj.] — & n. 棕色（的）； 褐色（的）
+  9. brush /brʌʃ/ [v.] — （用刷子）刷   n. 刷子；画笔
+ 10. building /ˈbɪldɪŋ/ [n.] — 建筑物；房子 bye for now 再见
+ 11. busy /ˈbɪzi/ [adj.] — 忙碌的；无暇的
+ 12. but /bʌt; bət/ [conj.] — 但是
+ 13. buy /baɪ/ [v.] — 买
+ 14. bye /baɪ/ — (= goodbye) interj. 再见
+ 15. bye for now — 再见
+ 16. cake /keɪk/ [n.] — 蛋糕
+ 17. call /kɔːl/ [v.] — 把……叫作；（给……） 打电话；呼唤
+ 18. can /kæn; kən/ [n.] — （装食品或饮料的）金属罐；
+ 19. canada /ˈkænədə/ — 加拿大
+ 20. candle /ˈkændl/ [n.] — 蜡烛
+ 21. candy /ˈkændi/ [n.] — 糖果
+ 22. cap /kæp/ [n.] — （无帽边或有帽舌的）帽子； 棒球帽
+ 23. grade /ɡreɪd/ [n.] — 年级；等级
+ 24. grass /ɡrɑːs/ [n.] — 草
+ 25. great /ɡreɪt/ [adj.] — 美妙的；伟大的
+ 26. green /ɡriːn/ [adj.] — & n. 绿色（的）
+ 27. greet /ɡriːt/ [v.] — 招呼；问候
+ 28. grow /ɡrəʊ/ [v.] — 成长；长大；增长
+ 29. guitar /ɡɪˈtɑː(r)/ [n.] — 吉他
+ 30. hair /heə(r)/ [n.] — 头发
+ 31. half /hɑːf/ [n.] — 一半；半 pron. 半数
+ 32. hall /hɔːl/ [n.] — 礼堂；大厅
+ 33. halla /ˈhɑlɑ/ — 哈拉
+ 34. handsome /ˈhænsəm/ [adj.] — 英俊的
+ 35. hat /hæt/ [n.] — 帽子
+ 36. have /hæv; həv/ [v.] — （第三人称单数形式  has /hæz; həz/）有
+ 37. have fun — 玩得高兴
+ 38. he /hiː; hi/ [pron.] — 他
+ 39. head /hed/ [n.] — 头
+ 40. hear /hɪə(r)/ [v.] — 听到
+ 41. height /haɪt/ [n.] — 身高；高度
+ 42. helen /ˈhelən/ — 海伦
+ 43. hello /həˈləʊ/ [interj.] — 你好；喂
+ 44. help sb with — 帮助某人做（某事）
+ 45. juice /dʒuːs/ [n.] — 果汁
+ 46. kate /keɪt/ — 凯特
+ 47. keep /kiːp/ [v.] — （使）保持；保留
+ 48. key /kiː/ [n.] — 钥匙；关键
+ 49. kind /kaɪnd/ [n.] — 种类
+ 50. knee /niː/ [n.] — 膝；膝盖
+ 51. know /nəʊ/ [v.] — 知道
+ 52. lake /leɪk/ [n.] — 湖
+ 53. language /ˈlæŋɡwɪdʒ/ [n.] — 语言
+ 54. large /lɑːdʒ/ [adj.] — 大的；大号的
+ 55. last /lɑːst/ [adj.] — 最后的；末尾的
+ 56. last name — 姓氏
+ 57. later /ˈleɪtə(r)/ [adv.] — & adj. 以后（的）； 后来（的）
+ 58. laugh /lɑːf/ [v.] — 笑；发笑 n. 笑声
+ 59. learn /lɜːn/ [v.] — 学习；得知
+ 60. lee /liː/ — 李
+ 61. left /left/ [n.] — 左边 adv. 向左边
+ 62. lesson /ˈlesn/ [n.] — 课；一节课
+ 63. let /let/ [v.] — 允许；让
+ 64. life /laɪf/ [n.] — 生活；生命
+ 65. like /laɪk/ [v.] — 喜欢
+ 66. lily /ˈlɪli/ — 莉莉
+ 67. mark /mɑːk/ [v.] — 做记号；纪念；打分   n. 记号
+ 68. may /meɪ/ — modal v. 可以；可能
+ 69. me /miː; mi/ [pron.] — （I的宾格）我
+ 70. mean /miːn/ [v.] — 刻薄的；吝啬的
+ 71. member /ˈmembə(r)/ [n.] — 成员；会员
+ 72. middle /ˈmɪdl/ [n.] — 中间 adj. 中间的
+ 73. mike /maɪk/ — 迈克
+ 74. milk /mɪlk/ [n.] — 牛奶
+ 75. miller /ˈmɪlə(r)/ — 米勒
+ 76. million /ˈmɪljən/ [num.] — 百万
+ 77. mind /maɪnd/ [n.] — 头脑；心思
+ 78. minute /ˈmɪnɪt/ [n.] — 分；分钟
+ 79. mistake /mɪˈsteɪk/ [n.] — 错误；失误
+ 80. modern /ˈmɒdn/ [adj.] — 现代的；当代的 do exercises 做体操
+ 81. month /mʌnθ/ [n.] — 月份
+ 82. more /mɔː(r)/ [adj.] — & pron. 更多（的）
+ 83. morning /ˈmɔːnɪŋ/ [n.] — 早晨；上午
+ 84. most /məʊst/ [adj.] — & pron. 大多数； 最多；最大 adv. 最
+ 85. mr /ˈmɪstə(r)/ — （用于男子的姓氏或 姓名前）先生
+ 86. mrs /ˈmɪsɪz/ — （对已婚妇女的礼貌称呼）
+ 87. ms /mɪz; məz/ — （用于女子的姓氏或姓 名前，不指明婚否）女士
+ 88. much /mʌtʃ/ [adv.] — 非常；十分
+ 89. music /ˈmjuːzɪk/ [n.] — 音乐
+ 90. musical /ˈmjuːzɪkl/ [adj.] — 音乐的； 有音乐天赋的
+ 91. musical instrument — 乐器
+ 92. my /maɪ/ [pron.] — 我的
+ 93. name /neɪm/ [n.] — 名字；名称
+ 94. nature /ˈneɪtʃə(r)/ [n.] — 自然界；大自然
+ 95. need /niːd/ [v.] — & n. 需要
+ 96. new /njuː/ [adj.] — 新的；刚出现的
+ 97. news /njuːz/ [n.] — 消息；新闻
+ 98. next /nekst/ [adj.] — , adv. & n.  下一个（的）
+ 99. next time — 下次
+100. next to — 紧邻；在……近旁
+101. nice /naɪs/ [adj.] — 令人愉快的；宜人的
+102. night /naɪt/ [n.] — 夜晚
+103. nine /naɪn/ [num.] — 九
+104. nineteen /ˌnaɪnˈtiːn/ [num.] — 十九
+105. nineteenth /ˌnaɪnˈtiːnθ/ [num.] — 第十九
+106. ninetieth /ˈnaɪntiəθ/ [num.] — 第九十
+107. ninety /ˈnaɪnti/ [num.] — 九十
+108. ninth /naɪnθ/ [num.] — 第九
+109. no /nəʊ/ [interj.] — 不；不要
+110. noodle /ˈnuːdl/ [n.] — (usually pl.) 面条

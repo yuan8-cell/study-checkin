@@ -1,0 +1,137 @@
+=== Day 34 Answer Key ===
+
+【New Words】
+  1. create /kriˈeɪt/ [v.] — 创造
+  2. cry /kraɪ/ [v.] — 大叫；哭
+  3. cucumber /ˈkjuːkʌmbə(r)/ [n.] — 黄瓜
+  4. culture /ˈkʌltʃə(r)/ [n.] — 文化；文明
+  5. cup /kʌp/ [n.] — 杯
+  6. customer /ˈkʌstəmə(r)/ [n.] — 顾客
+  7. cut /kʌt/ [v.] — 砍；切
+  8. cut down — 砍伐；减少
+  9. danger /ˈdeɪndʒə(r)/ [n.] — 危险
+ 10. dangerous /ˈdeɪndʒərəs/ [adj.] — 危险的； 有危害的
+ 11. darling /ˈdɑːlɪŋ/ [n.] — 亲爱的；宝贝
+ 12. decide /dɪˈsaɪd/ [v.] — 决定
+ 13. description /dɪˈskrɪpʃn/ [n.] — 描述；说明
+ 14. die /daɪ/ [v.] — 死亡；消失
+ 15. direction /dɪˈrekʃn; daɪˈrekʃn/ [n.] — 方向
+ 16. dirty /ˈdɜːti/ [adj.] — 肮脏的
+ 17. dish /dɪʃ/ [n.] — 一道菜；盘子
+ 18. doctor /ˈdɒktə(r)/ [n.] — 医生
+ 19. double /ˈdʌbl/ [n.] — 双打（doubles）； 两倍 adj. 成双的；两倍的
+ 20. dragon /ˈdræɡən/ [n.] — 龙
+ 21. drive /draɪv/ [v.] — 开车；驾驶
+ 22. drop /drɒp/ [v.] — 运送；落下    n. 滴；下降
+
+【Review】
+  1. nose /nəʊz/ [n.] — 鼻子
+  2. notice /ˈnəʊtɪs/ [n.] — 通知；注意   v. 注意到；意识到
+  3. now /naʊ/ [adv.] — 现在；目前
+  4. number /ˈnʌmbə(r)/ [n.] — 数字；号码
+  5. of /ɒv; əv/ [prep.] — 属于（某人）； 关于（某人）
+  6. office /ˈɒfɪs/ [n.] — 办公室
+  7. often /ˈɒfn; ˈɒftən/ [adv.] — 时常；常常
+  8. oh /əʊ/ [interj.] — 哦；啊
+  9. ok /əʊˈkeɪ/ [interj.] — 好；行  adj. & adv. 可以（的）
+ 10. old /əʊld/ [adj.] — 老的；旧的
+ 11. on /ɒn/ [prep.] — 在……上
+ 12. on duty — 值班
+ 13. one /wʌn/ [num.] — 一
+ 14. only /ˈəʊnli/ [adv.] — 只；仅
+ 15. or /ɔː(r)/ [conj.] — 或者；也不（用于否定句）
+ 16. oscar /ˈɒskə(r)/ — 奥斯卡
+ 17. other /ˈʌðə(r)/ [pron.] — 另外的人（或物）   adj. 另外的；其他的
+ 18. our /ɑː(r); ˈaʊə(r)/ [pron.] — 我们的
+ 19. out /aʊt/ [adv.] — & prep. （从……里） 出来；出去
+ 20. page /peɪdʒ/ [n.] — 页面；（书刊或纸张）页
+ 21. paint /peɪnt/ [v.] — 用颜料画；在……上 刷油漆 n. 油漆；涂料
+ 22. pair /peə(r)/ [n.] — 一双；一对
+ 23. time /taɪm/ [n.] — 时间；次
+ 24. timo /ˈtiːməʊ/ — 蒂莫
+ 25. to /tuː; tə/ — 常用于原形动词之前，
+ 26. today /təˈdeɪ/ [adv.] — 在今天 n. 今天
+ 27. tofu /ˈtəʊfuː/ [n.] — 豆腐
+ 28. tom /tɒm/ — 汤姆
+ 29. tomato /təˈmɑːtəʊ; təˈmeɪtəʊ/ [n.] — (pl. tomatoes) 西红柿
+ 30. too /tuː/ [adv.] — 也；又；太
+ 31. travel /ˈtrævl/ [v.] — & n. 旅行；游历
+ 32. tree /triː/ [n.] — 树
+ 33. trousers /ˈtraʊzəz/ [n.] — (pl.) 裤子
+ 34. twelfth /twelfθ/ [num.] — 第十二
+ 35. twelve /twelv/ [num.] — 十二
+ 36. twin /twɪn/ [n.] — 双胞胎之一   adj. 双胞胎之一的
+ 37. two /tuː/ [num.] — 二
+ 38. uk /ˌjuː ˈkeɪ/ — 英国
+ 39. uncle /ˈʌŋkl/ [n.] — 舅父；叔父；伯父；
+ 40. under /ˈʌndə(r)/ [prep.] — 在……下
+ 41. unit /ˈjuːnɪt/ [n.] — 单元
+ 42. up /ʌp/ [adv.] — 向上
+ 43. us /ʌs; əs/ [pron.] — （we的宾格）我们
+ 44. use /juːz/ [v.] — 使用；利用  /juːs/ n. 使用；用途
+ 45. absent /ˈæbsənt/ [adj.] — 缺席的；不在的 absent from 缺席；不在
+ 46. actor /ˈæktə(r)/ [n.] — 演员
+ 47. adam /ˈædəm/ — 亚当
+ 48. advice /ədˈvaɪs/ [n.] — 建议；意见
+ 49. affect /əˈfekt/ [v.] — 影响
+ 50. afraid /əˈfreɪd/ [adj.] — 害怕的；担心的 after all 毕竟；终归
+ 51. africa /ˈæfrɪkə/ — 非洲
+ 52. again /əˈɡen; əˈɡeɪn/ [adv.] — 再一次； 又一次
+ 53. agree /əˈɡriː/ [v.] — 赞成；同意
+ 54. agree with — 赞成；同意
+ 55. air /eə(r)/ [n.] — 空气
+ 56. all over — 到处；遍及
+ 57. along /əˈlɒŋ/ [prep.] — 沿着；顺着
+ 58. although /ɔːlˈðəʊ/ [conj.] — 虽然；尽管
+ 59. america /əˈmerɪkə/ — 美国；美洲
+ 60. among /əˈmʌŋ/ [prep.] — 在……中； ……之一
+ 61. anna /ˈænə/ — 安娜
+ 62. anne /æn/ — 安妮
+ 63. antarctica /ænˈtɑːktɪkə/ — 南极洲
+ 64. anyone /ˈeniwʌn/ [pron.] — 任何人； 某个人
+ 65. anything /ˈeniθɪŋ/ [pron.] — 某事物； 任何事物
+ 66. area /ˈeəriə/ [n.] — 场地；地区
+ 67. bean /biːn/ [n.] — 豆
+ 68. because of — 因为
+ 69. become /bɪˈkʌm/ [v.] — 变成；成为
+ 70. belong /bɪˈlɒŋ/ [v.] — 应在（某处）
+ 71. belong to — 属于（某人）
+ 72. belt /belt/ [n.] — 安全带；腰带；皮带
+ 73. beth /beθ/ — 贝丝
+ 74. better /ˈbetə(r)/ [adj.] — 较好的  adv. 较好地
+ 75. bite through — 咬穿
+ 76. blind /blaɪnd/ [adj.] — 瞎的；失明的
+ 77. boat /bəʊt/ [n.] — 小船；小艇
+ 78. body /ˈbɒdi/ [n.] — 身体
+ 79. branch /brɑːntʃ/ [n.] — 分支；树枝
+ 80. bread /bred/ [n.] — 面包
+ 81. bright /braɪt/ [adj.] — 鲜艳的；明亮的； 聪明的
+ 82. brightly /ˈbraɪtli/ [adv.] — 明亮地
+ 83. bring /brɪŋ/ [v.] — 带来
+ 84. build /bɪld/ [v.] — 创建；建造
+ 85. bus /bʌs/ [n.] — 公交车
+ 86. by /baɪ/ [prep.] — 靠近；在……旁边
+ 87. cabbage /ˈkæbɪdʒ/ [n.] — 卷心菜
+ 88. call back — 回电话
+ 89. car /kɑː(r)/ [n.] — 小汽车
+ 90. care /keə(r)/ [n.] — 照顾；护理  v. 关心；在乎
+ 91. carry /ˈkæri/ [v.] — 拿；提
+ 92. cause /kɔːz/ [v.] — 造成；导致
+ 93. central /ˈsentrəl/ [adj.] — 中心的；中央的
+ 94. certainly /ˈsɜːtnli/ [adv.] — 肯定；当然
+ 95. chip /tʃɪp/ [n.] — 炸薯条
+ 96. choice /tʃɔɪs/ [n.] — 选择
+ 97. cinema /ˈsɪnəmə/ [n.] — 电影院
+ 98. city /ˈsɪti/ [n.] — 城市
+ 99. close /kləʊs/ [adv.] — 紧挨着；靠近   adj. 亲密的；接近的
+100. clothes /kləʊðz/ [n.] — 衣服
+101. cloud /klaʊd/ [n.] — 云；云彩
+102. cloudy /ˈklaʊdi/ [adj.] — 多云的；阴天的
+103. coffee /ˈkɒfi/ [n.] — 咖啡
+104. cold /kəʊld/ [adj.] — 寒冷的
+105. colourful /ˈkʌləfl/ [adj.] — 色彩鲜艳的 come out 出现；盛开
+106. come out — 出现；盛开
+107. common /ˈkɒmən/ [adj.] — 共同的； 普遍的
+108. cookie /ˈkʊki/ [n.] — 曲奇饼
+109. cool /kuːl/ [adj.] — 妙极的；酷的
+110. could /kʊd; kəd/ — modal v. 能；可以

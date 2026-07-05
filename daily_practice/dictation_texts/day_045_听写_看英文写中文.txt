@@ -1,0 +1,138 @@
+=== Day 45 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. real /rɪəl/ (adj.)
+  2. realize /ˈrɪəlaɪz/
+  3. record /rɪˈkɔːd/ (v.)
+  4. relax /rɪˈlæks/ (v.)
+  5. remove /rɪˈmuːv/ (v.)
+  6. respect /rɪˈspekt/ (n.)
+  7. rest /rest/ (n.)
+  8. rest area
+  9. result /rɪˈzʌlt/ (n.)
+ 10. rice /raɪs/ (n.)
+ 11. rich /rɪtʃ/ (adj.)
+ 12. ride /raɪd/ (v.)
+ 13. right now
+ 14. river /ˈrɪvə(r)/ (n.)
+ 15. road /rəʊd/ (n.)
+ 16. robot /ˈrəʊbɒt/ (n.)
+ 17. rock /rɒk/ (n.)
+ 18. rope /rəʊp/ (n.)
+ 19. rule /ruːl/ (n.)
+ 20. run after
+ 21. rush /rʌʃ/ (v.)
+ 22. sad /sæd/ (adj.)
+
+【Review (Day 30,38,41,43,44)】
+  1. absent /ˈæbsənt/ (adj.)
+  2. actor /ˈæktə(r)/ (n.)
+  3. adam /ˈædəm/
+  4. advice /ədˈvaɪs/ (n.)
+  5. affect /əˈfekt/ (v.)
+  6. afraid /əˈfreɪd/ (adj.)
+  7. africa /ˈæfrɪkə/
+  8. again /əˈɡen; əˈɡeɪn/ (adv.)
+  9. agree /əˈɡriː/ (v.)
+ 10. agree with
+ 11. air /eə(r)/ (n.)
+ 12. all over
+ 13. along /əˈlɒŋ/ (prep.)
+ 14. although /ɔːlˈðəʊ/ (conj.)
+ 15. america /əˈmerɪkə/
+ 16. among /əˈmʌŋ/ (prep.)
+ 17. anna /ˈænə/
+ 18. anne /æn/
+ 19. antarctica /ænˈtɑːktɪkə/
+ 20. anyone /ˈeniwʌn/ (pron.)
+ 21. anything /ˈeniθɪŋ/ (pron.)
+ 22. area /ˈeəriə/ (n.)
+ 23. hang /hæŋ/ (v.)
+ 24. hang out
+ 25. happen /ˈhæpən/ (v.)
+ 26. hardly /ˈhɑːdli/ (adv.)
+ 27. hardly ever
+ 28. hate /heɪt/ (v.)
+ 29. have to
+ 30. healthy /ˈhelθi/ (adj.)
+ 31. hearing /ˈhɪərɪŋ/ (n.)
+ 32. heart /hɑːt/ (n.)
+ 33. heavily /ˈhevɪli/ (adv.)
+ 34. heavy /ˈhevi/ (adj.)
+ 35. hen /hen/ (n.)
+ 36. hers /hɜːz; ɜːz/ (pron.)
+ 37. high /haɪ/ (adv.)
+ 38. himself /hɪmˈself/ (pron.)
+ 39. hold /həʊld/ (v.)
+ 40. hold on
+ 41. holiday /ˈhɒlədeɪ; ˈhɒlədi/ (n.)
+ 42. hometown /ˈhəʊmtaʊn/ (n.)
+ 43. hope /həʊp/ (v.)
+ 44. hopefully /ˈhəʊpfəli/ (adv.)
+ 45. lovely /ˈlʌvli/ (adj.)
+ 46. luck /lʌk/ (n.)
+ 47. lucky /ˈlʌki/ (adj.)
+ 48. lucky you
+ 49. machine /məˈʃiːn/ (n.)
+ 50. made of
+ 51. magical /ˈmædʒɪkl/ (adj.)
+ 52. make a promise
+ 53. make money
+ 54. make progress
+ 55. malee /mɑːˈliː/
+ 56. market /ˈmɑːkɪt/ (n.)
+ 57. mary /ˈmeəri/
+ 58. mat /mæt/ (n.)
+ 59. match /mætʃ/ (n.)
+ 60. maybe /ˈmeɪbi/ (adv.)
+ 61. meal /miːl/ (n.)
+ 62. meet up
+ 63. menu /ˈmenjuː/ (n.)
+ 64. message /ˈmesɪdʒ/ (n.)
+ 65. mine /maɪn/ (pron.)
+ 66. mobile /ˈməʊbaɪl/ (adj.)
+ 67. one another
+ 68. onion /ˈʌnjən/ (n.)
+ 69. online /ˌɒnˈlaɪn/ (adj.)
+ 70. only if
+ 71. order /ˈɔːdə(r)/ (n.)
+ 72. ours /ˈaʊəz; ɑːz/ (pron.)
+ 73. over /ˈəʊvə(r)/ (adv.)
+ 74. over there
+ 75. painting /ˈpeɪntɪŋ/ (n.)
+ 76. passenger /ˈpæsɪndʒə(r)/ (n.)
+ 77. peak /piːk/ (n.)
+ 78. pear /peə(r)/ (n.)
+ 79. pen /pen/ (n.)
+ 80. penguin /ˈpeŋɡwɪn/ (n.)
+ 81. perfect /ˈpɜːfɪkt/ (adj.)
+ 82. person /ˈpɜːsn/ (n.)
+ 83. phone /fəʊn/ (n.)
+ 84. pick /pɪk/ (v.)
+ 85. pick up
+ 86. piece /piːs/ (n.)
+ 87. playful /ˈpleɪfl/ (adj.)
+ 88. polite /pəˈlaɪt/ (adj.)
+ 89. poor /pɔː(r); pʊə(r)/ (adj.)
+ 90. pork /pɔːk/ (n.)
+ 91. porridge /ˈpɒrɪdʒ/ (n.)
+ 92. pour /pɔː(r)/ (v.)
+ 93. powerful /ˈpaʊəfl/ (adj.)
+ 94. practice /ˈpræktɪs/ (n.)
+ 95. practise /ˈpræktɪs/ (v.)
+ 96. praise /preɪz/ (v.)
+ 97. pretend /prɪˈtend/ (v.)
+ 98. process /ˈprəʊses/ (n.)
+ 99. progress /ˈprəʊɡres/ (n.)
+100. purr /pɜː(r)/ (v.)
+101. put on
+102. queue /kjuː/ (n.)
+103. quickly /ˈkwɪkli/ (adv.)
+104. quietly /ˈkwaɪətli/ (adv.)
+105. quite /kwaɪt/ (adv.)
+106. quite a
+107. race /reɪs/ (n.)
+108. racket /ˈrækɪt/ (n.)
+109. rain /reɪn/ (n.)
+110. rain or shine

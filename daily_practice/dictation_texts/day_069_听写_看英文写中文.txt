@@ -1,0 +1,138 @@
+=== Day 69 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. sense /sens/ (n.)
+  2. sentence /ˈsentəns/ (n.)
+  3. serious /ˈsɪəriəs/ (adj.)
+  4. service /ˈsɜːvɪs/ (n.)
+  5. several /ˈsevrəl/ (pron.)
+  6. share sth with sb
+  7. show interest in sth
+  8. show sb around
+  9. shy /ʃaɪ/ (adj.)
+ 10. sick /sɪk/ (adj.)
+ 11. sign /saɪn/ (n.)
+ 12. silk /sɪlk/ (n.)
+ 13. silver /ˈsɪlvə(r)/ (adj.)
+ 14. silver lining
+ 15. similarity /ˌsɪməˈlærəti/ (n.)
+ 16. sincere /sɪnˈsɪə(r)/ (adj.)
+ 17. situation /ˌsɪtʃuˈeɪʃn/ (n.)
+ 18. slice /slaɪs/ (n.)
+ 19. slim /slɪm/ (adj.)
+ 20. slow /sləʊ/ (adj.)
+ 21. smell /smel/ (v.)
+ 22. social /ˈsəʊʃl/ (adj.)
+
+【Review (Day 54,62,65,67,68)】
+  1. ancient /ˈeɪnʃənt/ (adj.)
+  2. ant /ænt/ (n.)
+  3. apartment /əˈpɑːtmənt/ (n.)
+  4. appear /əˈpɪə(r)/ (v.)
+  5. appearance /əˈpɪərəns/ (n.)
+  6. argue /ˈɑːɡjuː/ (v.)
+  7. argue with sb
+  8. arrival /əˈraɪvl/ (n.)
+  9. artwork /ˈɑːtwɜːk/ (n.)
+ 10. as long as
+ 11. asimov /ˈæzɪmɒf/
+ 12. at least
+ 13. athlete /ˈæθliːt/ (n.)
+ 14. attend /əˈtend/ (v.)
+ 15. attention /əˈtenʃn/ (n.)
+ 16. autumn /ˈɔːtəm/ (n.)
+ 17. bake /beɪk/ (v.)
+ 18. balcony /ˈbælkəni/ (n.)
+ 19. bamboo /ˌbæmˈbuː/ (n.)
+ 20. bath /bɑːθ/ (n.)
+ 21. bathroom /ˈbɑːθruːm/ (n.)
+ 22. be tired of
+ 23. intelligence /ɪnˈtelɪdʒəns/ (n.)
+ 24. interest /ˈɪntrest/ (n.)
+ 25. invite /ɪnˈvaɪt/ (v.)
+ 26. island /ˈaɪlənd/ (n.)
+ 27. item /ˈaɪtəm/ (n.)
+ 28. jason /ˈdʒeɪsən/
+ 29. jennifer /ˈdʒenifə/
+ 30. joke /dʒəʊk/ (n.)
+ 31. jones /dʒəunz/
+ 32. journey /ˈdʒɜːni/ (n.)
+ 33. joy /dʒɔɪ/ (n.)
+ 34. julie /ˈdʒuːli/
+ 35. keep on doing sth
+ 36. kitchen /ˈkɪtʃɪn/ (n.)
+ 37. land /lænd/ (n.)
+ 38. landscape /ˈlændskeɪp/ (n.)
+ 39. law /lɔː/ (n.)
+ 40. lawyer /ˈlɔːjə(r)/ (n.)
+ 41. lazy /ˈleɪzi/ (adj.)
+ 42. least /liːst/ (adv.)
+ 43. length /leŋθ/ (n.)
+ 44. less /les/ (adj.)
+ 45. offer /ˈɒfə(r)/ (v.)
+ 46. oil /ɔɪl/ (n.)
+ 47. one by one
+ 48. opinion /əˈpɪnjən/ (n.)
+ 49. opportunity /ˌɒpəˈtjuːnəti/ (n.)
+ 50. organized /ˈɔːɡənaɪzd/
+ 51. outer /ˈaʊtə(r)/ (adj.)
+ 52. outgoing /ˌaʊtˈɡəʊɪŋ/ (adj.)
+ 53. oven /ˈʌvn/ (n.)
+ 54. pack /pæk/ (v.)
+ 55. pack up
+ 56. painter /ˈpeɪntə(r)/ (n.)
+ 57. palace /ˈpæləs/ (n.)
+ 58. pan /pæn/ (n.)
+ 59. pancake /ˈpænkeɪk/ (n.)
+ 60. paper-cut /ˈpeɪpə(r)kʌt/ (n.)
+ 61. paragraph /ˈpærəɡrɑːf/ (n.)
+ 62. pass /pɑːs/ (v.)
+ 63. passport /ˈpɑːspɔːt/ (n.)
+ 64. pauper /ˈpɔːpə(r)/ (n.)
+ 65. pea /piː/ (n.)
+ 66. peace /piːs/ (n.)
+ 67. prefer /prɪˈfɜː(r)/ (v.)
+ 68. pretty /ˈprɪti/ (adj.)
+ 69. prince /prɪns/ (n.)
+ 70. prize /praɪz/ (n.)
+ 71. probably /ˈprɒbəbli/ (adv.)
+ 72. professor /prəˈfesə(r)/ (n.)
+ 73. protect /prəˈtekt/ (v.)
+ 74. province /ˈprɒvɪns/ (n.)
+ 75. public /ˈpʌblɪk/ (adj.)
+ 76. pull /pʊl/ (v.)
+ 77. pumpkin /ˈpʌmpkɪn/ (n.)
+ 78. push-up /ˈpʊʃʌp/ (n.)
+ 79. put out
+ 80. put sth back
+ 81. quality /ˈkwɒləti/ (n.)
+ 82. rainbow /ˈreɪnbəʊ/ (n.)
+ 83. rainfall /ˈreɪnfɔːl/ (n.)
+ 84. reach /riːtʃ/ (v.)
+ 85. reach for
+ 86. ready /ˈredi/ (adj.)
+ 87. ready to do sth
+ 88. recipe /ˈresəpi/ (n.)
+ 89. redwood /ˈredwʊd/ (n.)
+ 90. rehearsal /rɪˈhɜːsl/ (n.)
+ 91. relationship /rɪˈleɪʃnʃɪp/ (n.)
+ 92. remind /rɪˈmaɪnd/ (v.)
+ 93. replace /rɪˈpleɪs/ (v.)
+ 94. reply /rɪˈplaɪ/ (n.)
+ 95. research /rɪˈsɜːtʃ/ (n.)
+ 96. researcher /rɪˈsɜːtʃə(r)/ (n.)
+ 97. resolution /ˌrezəˈluːʃn/ (n.)
+ 98. right  away
+ 99. robotics /rəʊˈbɒtɪks/ (n.)
+100. role /rəʊl/ (n.)
+101. rose /rəʊz/ (n.)
+102. rubbish /ˈrʌbɪʃ/ (n.)
+103. russia /ˈrʌʃə/
+104. scarf /skɑːf/ (n.)
+105. scenery /ˈsiːnəri/ (n.)
+106. scissors /ˈsɪzəz/ (n.)
+107. scotland /ˈskɒtlənd/
+108. seattle /siˈætl/
+109. secret /ˈsiːkrət/ (n.)
+110. self-improvement /ˌselfɪmˈpruːvmənt/ (n.)

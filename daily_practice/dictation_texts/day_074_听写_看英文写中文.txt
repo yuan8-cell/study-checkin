@@ -1,0 +1,138 @@
+=== Day 74 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. alarm /əˈlɑːm/ (n.)
+  2. alien /ˈeɪliən/ (n.)
+  3. alive /əˈlaɪv/ (adj.)
+  4. all smiles
+  5. allen /ˈælən/
+  6. allergic /əˈlɜːdʒɪk/ (adj.)
+  7. allow /əˈlaʊ/ (v.)
+  8. ambition /æmˈbɪʃn/ (n.)
+  9. american /əˈmerɪkən/ (adj.)
+ 10. angel /ˈeɪndʒl/
+ 11. anger /ˈæŋɡə(r)/ (n.)
+ 12. anybody /ˈenibɒdi/ (pron.)
+ 13. argentina /ˌɑːdʒənˈtiːnə/
+ 14. army /ˈɑːmi/ (n.)
+ 15. as a result
+ 16. as soon as
+ 17. as well
+ 18. asian /ˈeɪʒn; ˈeɪʃn/ (adj.)
+ 19. at all costs
+ 20. attack /əˈtæk/ (v.)
+ 21. attract /əˈtrækt/ (v.)
+ 22. au revoir
+
+【Review (Day 59,67,70,72,73)】
+  1. excited /ɪkˈsaɪtɪd/ (adj.)
+  2. expect /ɪkˈspekt/ (v.)
+  3. expert /ˈekspɜːt/ (n.)
+  4. expression /ɪkˈspreʃn/ (n.)
+  5. face /feɪs/ (n.)
+  6. face to face
+  7. fact /fækt/ (n.)
+  8. fail /feɪl/ (v.)
+  9. familiar /fəˈmɪliə(r)/ (adj.)
+ 10. fan /fæn/ (n.)
+ 11. far /fɑː(r)/ (adv.)
+ 12. faraway /ˈfɑːrəweɪ; ˌfɑːrəˈweɪ/ (adj.)
+ 13. fashion /ˈfæʃn/ (n.)
+ 14. final /ˈfaɪnl/ (adj.)
+ 15. fire /faɪə(r)/ (n.)
+ 16. floor /flɔː(r)/ (n.)
+ 17. flute /fluːt/ (n.)
+ 18. folding fan
+ 19. for this reason
+ 20. form /fɔːm/ (v.)
+ 21. france /frɑːns/
+ 22. freshly /ˈfreʃli/ (adv.)
+ 23. prefer /prɪˈfɜː(r)/ (v.)
+ 24. pretty /ˈprɪti/ (adj.)
+ 25. prince /prɪns/ (n.)
+ 26. prize /praɪz/ (n.)
+ 27. probably /ˈprɒbəbli/ (adv.)
+ 28. professor /prəˈfesə(r)/ (n.)
+ 29. protect /prəˈtekt/ (v.)
+ 30. province /ˈprɒvɪns/ (n.)
+ 31. public /ˈpʌblɪk/ (adj.)
+ 32. pull /pʊl/ (v.)
+ 33. pumpkin /ˈpʌmpkɪn/ (n.)
+ 34. push-up /ˈpʊʃʌp/ (n.)
+ 35. put out
+ 36. put sth back
+ 37. quality /ˈkwɒləti/ (n.)
+ 38. rainbow /ˈreɪnbəʊ/ (n.)
+ 39. rainfall /ˈreɪnfɔːl/ (n.)
+ 40. reach /riːtʃ/ (v.)
+ 41. reach for
+ 42. ready /ˈredi/ (adj.)
+ 43. ready to do sth
+ 44. recipe /ˈresəpi/ (n.)
+ 45. social media
+ 46. solve /sɒlv/ (v.)
+ 47. somewhere /ˈsʌmweə(r)/ (adv.)
+ 48. sort /sɔːt/ (v.)
+ 49. sour /ˈsaʊə(r)/ (adj.)
+ 50. spaghetti /spəˈɡeti/ (n.)
+ 51. spare /speə(r)/ (adj.)
+ 52. spare time
+ 53. speaker /ˈspiːkə(r)/ (n.)
+ 54. speech /spiːtʃ/ (n.)
+ 55. square /skweə(r)/ (n.)
+ 56. station /ˈsteɪʃn/ (n.)
+ 57. steamed /stiːmd/
+ 58. steamed f ish
+ 59. stephen /ˈstiːvən/
+ 60. stick to sth
+ 61. stir-fry /ˈstɜːfraɪ/ (v.)
+ 62. store /stɔː(r)/ (v.)
+ 63. straightforward /ˌstreɪtˈfɔːwəd/ (adj.)
+ 64. strange /streɪndʒ/ (adj.)
+ 65. strength /streŋθ/ (n.)
+ 66. surely /ˈʃʊəli/ (adv.)
+ 67. tool /tuːl/ (n.)
+ 68. topic /ˈtɒpɪk/ (n.)
+ 69. touch /tʌtʃ/ (v.)
+ 70. towards /təˈwɔːdz; tɔːrdz/
+ 71. tower /ˈtaʊə(r)/ (n.)
+ 72. town /taʊn/ (n.)
+ 73. traffic /ˈtræfɪk/ (n.)
+ 74. train /treɪn/ (n.)
+ 75. training /ˈtreɪnɪŋ/ (n.)
+ 76. treasure /ˈtreʒə(r)/ (n.)
+ 77. treasure hunt
+ 78. trust /trʌst/ (n.)
+ 79. turn around
+ 80. up to
+ 81. vacation /vəˈkeɪʃn/ (n.)
+ 82. victory /ˈvɪktəri/ (n.)
+ 83. video /ˈvɪdiəʊ/ (n.)
+ 84. vincent /ˈvɪnsənt/
+ 85. visible /ˈvɪzəbl/ (adj.)
+ 86. wallet /ˈwɒlɪt/ (n.)
+ 87. weigh /weɪ/ (v.)
+ 88. wherever /weərˈevə(r)/ (adv.)
+ 89. wing /wɪŋ/ (n.)
+ 90. winner /ˈwɪnə(r)/ (n.)
+ 91. wisely /ˈwaɪzli/ (adv.)
+ 92. without /wɪˈðaʊt/ (prep.)
+ 93. word /wɜːd/ (n.)
+ 94. worker /ˈwɜːkə/ (n.)
+ 95. worry /ˈwʌri/ (n.)
+ 96. worry about
+ 97. worse /wɜːs/ (adj.)
+ 98. writer /ˈraɪtə(r)/ (n.)
+ 99. yeah /jeə/ (interj.)
+100. yet /jet/ (adv.)
+101. a bit
+102. a good read
+103. above /əˈbʌv/ (prep.)
+104. ache /eɪk/ (n.)
+105. achievement /əˈtʃiːvmənt/ (n.)
+106. active /ˈæktɪv/ (adj.)
+107. adult /ˈædʌlt; əˈdʌlt/ (n.)
+108. adventure /ədˈventʃə(r)/ (n.)
+109. advise /ədˈvaɪz/ (v.)
+110. aid /eɪd/ (n.)

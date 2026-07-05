@@ -1,0 +1,138 @@
+=== Day 72 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. tool /tuːl/ (n.)
+  2. topic /ˈtɒpɪk/ (n.)
+  3. touch /tʌtʃ/ (v.)
+  4. towards /təˈwɔːdz; tɔːrdz/
+  5. tower /ˈtaʊə(r)/ (n.)
+  6. town /taʊn/ (n.)
+  7. traffic /ˈtræfɪk/ (n.)
+  8. train /treɪn/ (n.)
+  9. training /ˈtreɪnɪŋ/ (n.)
+ 10. treasure /ˈtreʒə(r)/ (n.)
+ 11. treasure hunt
+ 12. trust /trʌst/ (n.)
+ 13. turn around
+ 14. up to
+ 15. vacation /vəˈkeɪʃn/ (n.)
+ 16. victory /ˈvɪktəri/ (n.)
+ 17. video /ˈvɪdiəʊ/ (n.)
+ 18. vincent /ˈvɪnsənt/
+ 19. visible /ˈvɪzəbl/ (adj.)
+ 20. wallet /ˈwɒlɪt/ (n.)
+ 21. weigh /weɪ/ (v.)
+ 22. wherever /weərˈevə(r)/ (adv.)
+
+【Review (Day 57,65,68,70,71)】
+  1. compare /kəmˈpeə(r)/ (v.)
+  2. concert /ˈkɒnsət/ (n.)
+  3. confidence /ˈkɒnfɪdəns/ (n.)
+  4. congratulation /kənˌɡrætʃəˈleɪʃn/ (n.)
+  5. connect /kəˈnekt/ (v.)
+  6. connection /kəˈnekʃn/ (n.)
+  7. continue /kənˈtɪnjuː/ (v.)
+  8. cost /kɒst/ (n.)
+  9. countryside /ˈkʌntrisaɪd/ (n.)
+ 10. couple /ˈkʌpl/ (n.)
+ 11. cover /ˈkʌvə(r)/ (v.)
+ 12. cream /kriːm/ (n.)
+ 13. creativity /ˌkriːeɪˈtɪvəti/ (n.)
+ 14. crust /krʌst/ (n.)
+ 15. cure /kjʊə(r)/ (n.)
+ 16. date /deɪt/ (n.)
+ 17. dead /ded/ (adj.)
+ 18. decorate /ˈdekəreɪt/ (v.)
+ 19. deer /dɪə(r)/ (n.)
+ 20. depend /dɪˈpend/ (v.)
+ 21. describe /dɪˈskraɪb/ (v.)
+ 22. design /dɪˈzaɪn/ (v.)
+ 23. offer /ˈɒfə(r)/ (v.)
+ 24. oil /ɔɪl/ (n.)
+ 25. one by one
+ 26. opinion /əˈpɪnjən/ (n.)
+ 27. opportunity /ˌɒpəˈtjuːnəti/ (n.)
+ 28. organized /ˈɔːɡənaɪzd/
+ 29. outer /ˈaʊtə(r)/ (adj.)
+ 30. outgoing /ˌaʊtˈɡəʊɪŋ/ (adj.)
+ 31. oven /ˈʌvn/ (n.)
+ 32. pack /pæk/ (v.)
+ 33. pack up
+ 34. painter /ˈpeɪntə(r)/ (n.)
+ 35. palace /ˈpæləs/ (n.)
+ 36. pan /pæn/ (n.)
+ 37. pancake /ˈpænkeɪk/ (n.)
+ 38. paper-cut /ˈpeɪpə(r)kʌt/ (n.)
+ 39. paragraph /ˈpærəɡrɑːf/ (n.)
+ 40. pass /pɑːs/ (v.)
+ 41. passport /ˈpɑːspɔːt/ (n.)
+ 42. pauper /ˈpɔːpə(r)/ (n.)
+ 43. pea /piː/ (n.)
+ 44. peace /piːs/ (n.)
+ 45. redwood /ˈredwʊd/ (n.)
+ 46. rehearsal /rɪˈhɜːsl/ (n.)
+ 47. relationship /rɪˈleɪʃnʃɪp/ (n.)
+ 48. remind /rɪˈmaɪnd/ (v.)
+ 49. replace /rɪˈpleɪs/ (v.)
+ 50. reply /rɪˈplaɪ/ (n.)
+ 51. research /rɪˈsɜːtʃ/ (n.)
+ 52. researcher /rɪˈsɜːtʃə(r)/ (n.)
+ 53. resolution /ˌrezəˈluːʃn/ (n.)
+ 54. right  away
+ 55. robotics /rəʊˈbɒtɪks/ (n.)
+ 56. role /rəʊl/ (n.)
+ 57. rose /rəʊz/ (n.)
+ 58. rubbish /ˈrʌbɪʃ/ (n.)
+ 59. russia /ˈrʌʃə/
+ 60. scarf /skɑːf/ (n.)
+ 61. scenery /ˈsiːnəri/ (n.)
+ 62. scissors /ˈsɪzəz/ (n.)
+ 63. scotland /ˈskɒtlənd/
+ 64. seattle /siˈætl/
+ 65. secret /ˈsiːkrət/ (n.)
+ 66. self-improvement /ˌselfɪmˈpruːvmənt/ (n.)
+ 67. social media
+ 68. solve /sɒlv/ (v.)
+ 69. somewhere /ˈsʌmweə(r)/ (adv.)
+ 70. sort /sɔːt/ (v.)
+ 71. sour /ˈsaʊə(r)/ (adj.)
+ 72. spaghetti /spəˈɡeti/ (n.)
+ 73. spare /speə(r)/ (adj.)
+ 74. spare time
+ 75. speaker /ˈspiːkə(r)/ (n.)
+ 76. speech /spiːtʃ/ (n.)
+ 77. square /skweə(r)/ (n.)
+ 78. station /ˈsteɪʃn/ (n.)
+ 79. steamed /stiːmd/
+ 80. steamed f ish
+ 81. stephen /ˈstiːvən/
+ 82. stick to sth
+ 83. stir-fry /ˈstɜːfraɪ/ (v.)
+ 84. store /stɔː(r)/ (v.)
+ 85. straightforward /ˌstreɪtˈfɔːwəd/ (adj.)
+ 86. strange /streɪndʒ/ (adj.)
+ 87. strength /streŋθ/ (n.)
+ 88. surely /ˈʃʊəli/ (adv.)
+ 89. susan /ˈsu:zən/
+ 90. system /ˈsɪstəm/ (n.)
+ 91. take a walk
+ 92. take notes
+ 93. take over
+ 94. take place
+ 95. take up
+ 96. task /tɑːsk/ (n.)
+ 97. tear /tɪə(r)/ (n.)
+ 98. technology /tekˈnɒlədʒi/ (n.)
+ 99. text /tekst/ (n.)
+100. thanks to
+101. thanksgiving /ˌθæŋksˈɡɪvɪŋ/
+102. the movies
+103. thin /θɪn/ (adj.)
+104. ticket /ˈtɪkɪt/ (n.)
+105. tina /ˈtiːnə/
+106. tiny /ˈtaɪni/ (adj.)
+107. tip /tɪp/ (n.)
+108. title /ˈtaɪtl/ (n.)
+109. toilet /ˈtɔɪlət/ (n.)
+110. ton /tʌn/ (n.)

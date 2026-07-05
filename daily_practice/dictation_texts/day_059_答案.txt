@@ -1,0 +1,137 @@
+=== Day 59 Answer Key ===
+
+【New Words】
+  1. excited /ɪkˈsaɪtɪd/ [adj.] — 兴奋的；激动的
+  2. expect /ɪkˈspekt/ [v.] — 预料；期待
+  3. expert /ˈekspɜːt/ [n.] — 专家；行家  adj. 熟练的；内行的
+  4. expression /ɪkˈspreʃn/ [n.] — 表达方式；表达
+  5. face /feɪs/ [n.] — 脸
+  6. face to face — 面对面
+  7. fact /fækt/ [n.] — 事实；现实
+  8. fail /feɪl/ [v.] — 未能（做到）；失败
+  9. familiar /fəˈmɪliə(r)/ [adj.] — 熟悉的
+ 10. fan /fæn/ [n.] — 扇子；电风扇
+ 11. far /fɑː(r)/ [adv.] — 远；（离……）有多远   adj. 较远的；远端的
+ 12. faraway /ˈfɑːrəweɪ; ˌfɑːrəˈweɪ/ [adj.] — 远方的；遥远的
+ 13. fashion /ˈfæʃn/ [n.] — 时装业；时尚
+ 14. final /ˈfaɪnl/ [adj.] — 最后的；最终的  n. 决赛
+ 15. fire /faɪə(r)/ [n.] — 火；火灾    v. 射击；开火
+ 16. floor /flɔː(r)/ [n.] — 地板
+ 17. flute /fluːt/ [n.] — 长笛
+ 18. folding fan — 折扇
+ 19. for this reason — 出于这个原因
+ 20. form /fɔːm/ [v.] — （使）形成；组成   n. 类型；形式；表格
+ 21. france /frɑːns/ — 法国
+ 22. freshly /ˈfreʃli/ [adv.] — 刚刚
+
+【Review】
+  1. poor /pɔː(r); pʊə(r)/ [adj.] — 不好的； 贫穷的；可怜的
+  2. pork /pɔːk/ [n.] — 猪肉
+  3. porridge /ˈpɒrɪdʒ/ [n.] — 粥；麦片粥
+  4. pour /pɔː(r)/ [v.] — 倾倒；倒出
+  5. powerful /ˈpaʊəfl/ [adj.] — 强大的； 有影响力的
+  6. practice /ˈpræktɪs/ [n.] — 练习；实践
+  7. practise /ˈpræktɪs/ [v.] — 训练；练习
+  8. praise /preɪz/ [v.] — & n. 赞美；表扬
+  9. pretend /prɪˈtend/ [v.] — 假装；伪装
+ 10. process /ˈprəʊses/ [n.] — 过程
+ 11. progress /ˈprəʊɡres/ [n.] — 进步；进展
+ 12. purr /pɜː(r)/ [v.] — （猫）发出呼噜声
+ 13. put on — 戴上；穿上；增加
+ 14. queue /kjuː/ [n.] — 队
+ 15. quickly /ˈkwɪkli/ [adv.] — 快速地；很快
+ 16. quietly /ˈkwaɪətli/ [adv.] — 轻声地； 安静地
+ 17. quite /kwaɪt/ [adv.] — 相当；完全
+ 18. quite a — 相当；非常
+ 19. race /reɪs/ [n.] — 比赛；竞赛
+ 20. racket /ˈrækɪt/ [n.] — （网球、羽毛球等的）
+ 21. rain /reɪn/ [n.] — 雨 v. 下雨
+ 22. rain or shine — 不论是雨或是晴； 不管发生什么事
+ 23. war /wɔː(r)/ [n.] — 战争
+ 24. warm /wɔːm/ [adj.] — 温暖的；暖和的
+ 25. wash /wɒʃ/ [v.] — 洗；洗澡
+ 26. waste /weɪst/ [n.] — 废弃物 v. 浪费
+ 27. wastewater /ˈweɪstwɔːtə(r)/ [n.] — 废水
+ 28. water /ˈwɔːtə(r)/ [n.] — 水
+ 29. watermelon /ˈwɔːtəˌmelən/ [n.] — 西瓜
+ 30. weather /ˈweðə(r)/ [n.] — 天气；气象
+ 31. weekday /ˈwiːkdeɪ/ [n.] — 工作日
+ 32. weight /weɪt/ [n.] — 体重；重量
+ 33. well-used /ˌwelˈjuːzd/ [adj.] — 使用得多的
+ 34. west /west/ [n.] — 西部；西；西方
+ 35. wet /wet/ [adj.] — 湿的
+ 36. whale /weɪl/ [n.] — 鲸
+ 37. win /wɪn/ [v.] — 获胜；赢
+ 38. wind /wɪnd/ [n.] — 风
+ 39. winter /ˈwɪntə(r)/ [n.] — 冬季；冬天
+ 40. wise /waɪz/ [adj.] — 明智的；高明的
+ 41. wonderful /ˈwʌndəfl/ [adj.] — 精彩的； 绝妙的
+ 42. work on — 做；从事
+ 43. working /ˈwɜːkɪŋ/ [adj.] — 工作的
+ 44. working day — 工作日
+ 45. be yourself — 行为自然；不做作
+ 46. bedroom /ˈbedruːm/ [n.] — 卧室
+ 47. bee /biː/ [n.] — 蜜蜂
+ 48. believe /bɪˈliːv/ [v.] — 相信；认为有可能
+ 49. benefit /ˈbenɪfɪt/ [v.] — 对……有用；使受益
+ 50. beside /bɪˈsaɪd/ [prep.] — 在……旁边；  在……附近
+ 51. besides /bɪˈsaɪdz/ [prep.] — 除……之外（还）  adv. 而且
+ 52. billy /ˈbɪli/ — 比利
+ 53. biscuit /ˈbɪskɪt/ [n.] — 饼干
+ 54. block /blɒk/ [n.] — 大楼；街区；大块     v. 阻挡；堵塞
+ 55. boil /bɔɪl/ [v.] — 煮沸；烧开   n. 沸腾；沸点
+ 56. bored /bɔːd/ [adj.] — 厌倦的；烦闷的
+ 57. born /bɔːn/ [v.] — 出生；出世
+ 58. borrow /ˈbɒrəʊ/ [v.] — 借
+ 59. bowl /bəʊl/ [n.] — 碗；钵；盆
+ 60. breath /breθ/ [n.] — 呼吸的空气；一口气
+ 61. bridge /brɪdʒ/ [n.] — 桥
+ 62. budget /ˈbʌdʒɪt/ [n.] — 预算
+ 63. businessman /ˈbɪznəsmæn/ [n.] — 商界人士；企业家
+ 64. butter /ˈbʌtə(r)/ [n.] — 黄油
+ 65. butterfly /ˈbʌtəflaɪ/ [n.] — 蝴蝶
+ 66. by accident — 偶然；意外地
+ 67. compare /kəmˈpeə(r)/ [v.] — 比较；对比
+ 68. concert /ˈkɒnsət/ [n.] — 音乐会；演奏会
+ 69. confidence /ˈkɒnfɪdəns/ [n.] — 信心；信任 draw to a close 即将结束；即将完成
+ 70. congratulation /kənˌɡrætʃəˈleɪʃn/ [n.] — 祝贺；恭喜
+ 71. connect /kəˈnekt/ [v.] — 关联；连接
+ 72. connection /kəˈnekʃn/ [n.] — 联系；连接
+ 73. continue /kənˈtɪnjuː/ [v.] — 持续；继续做
+ 74. cost /kɒst/ [n.] — 费用；价钱；代价
+ 75. countryside /ˈkʌntrisaɪd/ [n.] — 乡村；农村
+ 76. couple /ˈkʌpl/ [n.] — 夫妻；情侣；两人
+ 77. cover /ˈkʌvə(r)/ [v.] — 遮盖；包括  n. 遮盖物；封皮
+ 78. cream /kriːm/ [n.] — 奶油；护肤霜
+ 79. creativity /ˌkriːeɪˈtɪvəti/ [n.] — 创造力
+ 80. crust /krʌst/ [n.] — 糕饼酥皮；面包皮
+ 81. cure /kjʊə(r)/ [n.] — 药物；疗法   v. 治愈；治好
+ 82. date /deɪt/ [n.] — 日期；日子；约会   v. 确定年代；注明日期
+ 83. dead /ded/ [adj.] — 不运行的；死的
+ 84. decorate /ˈdekəreɪt/ [v.] — 装饰；装潢
+ 85. deer /dɪə(r)/ [n.] — (pl. deer)鹿
+ 86. depend /dɪˈpend/ [v.] — 取决于；依靠 depend on / upon 取决于；依靠
+ 87. describe /dɪˈskraɪb/ [v.] — 描述；形容
+ 88. design /dɪˈzaɪn/ [v.] — 设计；计划   n. 设计；花纹
+ 89. designer /dɪˈzaɪnə(r)/ [n.] — 设计师
+ 90. detail /ˈdiːteɪl/ [n.] — 细节；详情
+ 91. diana /daɪˈænə/ — 戴安娜
+ 92. difference /ˈdɪfrəns/ [n.] — 差异
+ 93. difficulty /ˈdɪfɪkəlti/ [n.] — 困难；难题 direct /dəˈrekt; daɪˈrekt/
+ 94. director /dəˈrektə(r); daɪˈrektə(r)/ [n.] — 导演；主任；董事
+ 95. disappear /ˌdɪsəˈpɪə(r)/ [v.] — 消失；不见
+ 96. disappointed /ˌdɪsəˈpɔɪntɪd/ [adj.] — 失望的；沮丧的
+ 97. disaster /dɪˈzɑːstə(r)/ [n.] — 灾难；不幸 do with 处理
+ 98. draw to a close — 即将结束；即将完成 dream /driːm/ n. 梦想；梦
+ 99. drop sb a line — 给……写信
+100. during /ˈdjʊərɪŋ/ [prep.] — 在……期间
+101. earth /ɜːθ/ [n.] — 地球；世界
+102. easily /ˈiːzəli/ [adv.] — 容易地；轻易地
+103. ecosystem /ˈiːkəʊsɪstəm/ [n.] — 生态系统
+104. education /ˌedʒuˈkeɪʃn/ [n.] — 教育
+105. edward /ˈedwəd/ — 爱德华
+106. emotional intelligence — 情绪智力
+107. engineer /ˌendʒɪˈnɪə(r)/ [n.] — 工程师 ；技师
+108. especially /ɪˈspeʃəli/ [adv.] — 尤其；特别
+109. event /ɪˈvent/ [n.] — 公开活动；重要事情 take place 发生；进行
+110. exchange /ɪksˈtʃeɪndʒ/ [v.] — & n. 交换

@@ -1,0 +1,138 @@
+=== Day 52 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. war /wɔː(r)/ (n.)
+  2. warm /wɔːm/ (adj.)
+  3. wash /wɒʃ/ (v.)
+  4. waste /weɪst/ (n.)
+  5. wastewater /ˈweɪstwɔːtə(r)/ (n.)
+  6. water /ˈwɔːtə(r)/ (n.)
+  7. watermelon /ˈwɔːtəˌmelən/ (n.)
+  8. weather /ˈweðə(r)/ (n.)
+  9. weekday /ˈwiːkdeɪ/ (n.)
+ 10. weight /weɪt/ (n.)
+ 11. well-used /ˌwelˈjuːzd/ (adj.)
+ 12. west /west/ (n.)
+ 13. wet /wet/ (adj.)
+ 14. whale /weɪl/ (n.)
+ 15. win /wɪn/ (v.)
+ 16. wind /wɪnd/ (n.)
+ 17. winter /ˈwɪntə(r)/ (n.)
+ 18. wise /waɪz/ (adj.)
+ 19. wonderful /ˈwʌndəfl/ (adj.)
+ 20. work on
+ 21. working /ˈwɜːkɪŋ/ (adj.)
+ 22. working day
+
+【Review (Day 37,45,48,50,51)】
+  1. friendly /ˈfrendli/ (adj.)
+  2. fruit /fruːt/ (n.)
+  3. full of
+  4. fur /fɜː(r)/ (n.)
+  5. genie /ˈdʒiːni/ (n.)
+  6. germ /dʒɜːm/ (n.)
+  7. get out
+  8. giraffe /dʒəˈrɑːf/ (n.)
+  9. glad /ɡlæd/ (adj.)
+ 10. glove /ɡlʌv/ (n.)
+ 11. go away
+ 12. go with
+ 13. goal /ɡəʊl/ (n.)
+ 14. grain /ɡreɪn/ (n.)
+ 15. ground /ɡraʊnd/ (n.)
+ 16. group /ɡruːp/ (n.)
+ 17. guess /ɡes/ (v.)
+ 18. gun /ɡʌn/ (n.)
+ 19. habit /ˈhæbɪt/ (n.)
+ 20. hallway /ˈhɔːlweɪ/ (n.)
+ 21. hamburger /ˈhæmbɜːɡə(r)/ (n.)
+ 22. hand /hænd/ (n.)
+ 23. real /rɪəl/ (adj.)
+ 24. realize /ˈrɪəlaɪz/
+ 25. record /rɪˈkɔːd/ (v.)
+ 26. relax /rɪˈlæks/ (v.)
+ 27. remove /rɪˈmuːv/ (v.)
+ 28. respect /rɪˈspekt/ (n.)
+ 29. rest /rest/ (n.)
+ 30. rest area
+ 31. result /rɪˈzʌlt/ (n.)
+ 32. rice /raɪs/ (n.)
+ 33. rich /rɪtʃ/ (adj.)
+ 34. ride /raɪd/ (v.)
+ 35. right now
+ 36. river /ˈrɪvə(r)/ (n.)
+ 37. road /rəʊd/ (n.)
+ 38. robot /ˈrəʊbɒt/ (n.)
+ 39. rock /rɒk/ (n.)
+ 40. rope /rəʊp/ (n.)
+ 41. rule /ruːl/ (n.)
+ 42. run after
+ 43. rush /rʌʃ/ (v.)
+ 44. sad /sæd/ (adj.)
+ 45. spirit /ˈspɪrɪt/ (n.)
+ 46. spring /sprɪŋ/ (n.)
+ 47. stand /stænd/ (v.)
+ 48. stay in
+ 49. step /step/ (n.)
+ 50. steve /stiːv/
+ 51. still /stɪl/ (adv.)
+ 52. stockholm /ˈstɒkhəʊm/
+ 53. stop /stɒp/ (v.)
+ 54. storm /stɔːm/ (n.)
+ 55. straight /streɪt/ (adv.)
+ 56. strawberry /ˈstrɔːbəri/ (n.)
+ 57. street /striːt/ (n.)
+ 58. strong /strɒŋ/ (adj.)
+ 59. subway /ˈsʌbweɪ/ (n.)
+ 60. succeed /səkˈsiːd/ (v.)
+ 61. succeed in doing sth
+ 62. such /sʌtʃ/ (adj.)
+ 63. suddenly /ˈsʌdənli/ (adv.)
+ 64. sugar /ˈʃʊɡə(r)/ (n.)
+ 65. summer /ˈsʌmə(r)/ (n.)
+ 66. sun /sʌn/ (n.)
+ 67. thai /taɪ/ (adj.)
+ 68. thailand /ˈtaɪlænd/
+ 69. theatre /ˈθɪətə(r)/ (n.)
+ 70. theirs /ðeəz/ (pron.)
+ 71. think about
+ 72. think of
+ 73. thirsty /ˈθɜːsti/ (adj.)
+ 74. thought /θɔːt/ (n.)
+ 75. through /θruː/ (prep.)
+ 76. tiger /ˈtaɪɡə(r)/ (n.)
+ 77. time zone
+ 78. tired /ˈtaɪəd/ (adj.)
+ 79. tiring /ˈtaɪərɪŋ/ (adj.)
+ 80. tony /ˈtəʊni/
+ 81. too many
+ 82. too much
+ 83. top /tɒp/ (n.)
+ 84. tour /tʊə(r)/ (n.)
+ 85. tourist /ˈtʊərɪst/ (n.)
+ 86. treat /triːt/ (v.)
+ 87. trick /trɪk/ (n.)
+ 88. trip /trɪp/ (n.)
+ 89. true /truː/ (adj.)
+ 90. trunk /trʌŋk/ (n.)
+ 91. truth /truːθ/ (n.)
+ 92. try /traɪ/ (v.)
+ 93. try on
+ 94. turn /tɜːn/ (v.)
+ 95. turn off
+ 96. twice /twaɪs/ (adv.)
+ 97. ugly /ˈʌɡli/ (adj.)
+ 98. umbrella /ʌmˈbrelə/ (n.)
+ 99. understand /ˌʌndəˈstænd/ (v.)
+100. unhappy /ʌnˈhæpi/ (adj.)
+101. uniform /ˈjuːnɪfɔːm/ (n.)
+102. untidy /ʌnˈtaɪdi/ (adj.)
+103. upon /əˈpɒn/ (prep.)
+104. usa /ˌjuːesˈeɪ/
+105. used to
+106. vegetable /ˈvedʒtəbl/ (n.)
+107. voice /vɔɪs/ (n.)
+108. volleyball /ˈvɒlibɔːl/ (n.)
+109. waiter /ˈweɪtə(r)/ (n.)
+110. waitress /ˈweɪtrəs/ (n.)

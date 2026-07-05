@@ -1,0 +1,138 @@
+=== Day 82 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. harm /hɑːm/ (n.)
+  2. harmful /ˈhɑːmfl/ (adj.)
+  3. headache /ˈhedeɪk/ (n.)
+  4. hear from
+  5. hear of
+  6. heartbeat /ˈhɑːtbiːt/ (n.)
+  7. heatwave /ˈhiːtweɪv/ (n.)
+  8. help out
+  9. hero /ˈhɪərəʊ/ (n.)
+ 10. hidden /ˈhɪdn/ (adj.)
+ 11. historical /hɪˈstɒrɪkl/ (adj.)
+ 12. hit /hɪt/ (v.)
+ 13. hug /hʌɡ/ (v.)
+ 14. hurt /hɜːt/ (v.)
+ 15. hurtful /ˈhɜːtfl/ (adj.)
+ 16. ice-skate /ˈaɪsskeɪt/ (v.)
+ 17. idiom /ˈɪdiəm/ (n.)
+ 18. ill /ɪl/ (adj.)
+ 19. illness /ˈɪlnəs/ (n.)
+ 20. importantly /ɪmˈpɔːtntli/ (adv.)
+ 21. improper /ɪmˈprɒpə(r)/ (adj.)
+ 22. in future
+
+【Review (Day 67,75,78,80,81)】
+  1. prefer /prɪˈfɜː(r)/ (v.)
+  2. pretty /ˈprɪti/ (adj.)
+  3. prince /prɪns/ (n.)
+  4. prize /praɪz/ (n.)
+  5. probably /ˈprɒbəbli/ (adv.)
+  6. professor /prəˈfesə(r)/ (n.)
+  7. protect /prəˈtekt/ (v.)
+  8. province /ˈprɒvɪns/ (n.)
+  9. public /ˈpʌblɪk/ (adj.)
+ 10. pull /pʊl/ (v.)
+ 11. pumpkin /ˈpʌmpkɪn/ (n.)
+ 12. push-up /ˈpʊʃʌp/ (n.)
+ 13. put out
+ 14. put sth back
+ 15. quality /ˈkwɒləti/ (n.)
+ 16. rainbow /ˈreɪnbəʊ/ (n.)
+ 17. rainfall /ˈreɪnfɔːl/ (n.)
+ 18. reach /riːtʃ/ (v.)
+ 19. reach for
+ 20. ready /ˈredi/ (adj.)
+ 21. ready to do sth
+ 22. recipe /ˈresəpi/ (n.)
+ 23. audience /ˈɔːdiəns/ (n.)
+ 24. avoid /əˈvɔɪd/ (v.)
+ 25. awake /əˈweɪk/ (adj.)
+ 26. award /əˈwɔːd/ (n.)
+ 27. backache /ˈbækeɪk/ (n.)
+ 28. badal /ˈbɑːdl/
+ 29. bark /bɑːk/ (v.)
+ 30. base /beɪs/ (v.)
+ 31. base sth on sth
+ 32. basic /ˈbeɪsɪk/ (adj.)
+ 33. be about to
+ 34. be hard on
+ 35. be used to
+ 36. behave /bɪˈheɪv/ (v.)
+ 37. belgium /ˈbeldʒəm/
+ 38. below /bɪˈləʊ/ (prep.)
+ 39. ben /ben/
+ 40. bit /bɪt/ (n.)
+ 41. bit by bit
+ 42. blouse /blaʊz/ (n.)
+ 43. bone /bəʊn/ (n.)
+ 44. bottom /ˈbɒtəm/ (n.)
+ 45. cultural /ˈkʌltʃərəl/ (adj.)
+ 46. curiosity /ˌkjʊəriˈɒsəti/ (n.)
+ 47. curious /ˈkjʊəriəs/ (adj.)
+ 48. curry /ˈkʌri/ (n.)
+ 49. custom /ˈkʌstəm/ (n.)
+ 50. dare /deə(r)/ (v.)
+ 51. day by day
+ 52. deal /diːl/ (n.)
+ 53. deal with
+ 54. death /deθ/ (n.)
+ 55. decision /dɪˈsɪʒn/ (n.)
+ 56. deep /diːp/ (adj.)
+ 57. defeat /dɪˈfiːt/ (v.)
+ 58. degree /dɪˈɡriː/ (n.)
+ 59. dentist /ˈdentɪst/ (n.)
+ 60. depth /depθ/ (n.)
+ 61. desert /ˈdezət/ (n.)
+ 62. destroy /dɪˈstrɔɪ/ (v.)
+ 63. detective /dɪˈtektɪv/ (n.)
+ 64. development /dɪˈveləpmənt/ (n.)
+ 65. dickon /ˈdɪkən/
+ 66. differently /ˈdɪfrəntli/ (adv.)
+ 67. ever since
+ 68. explorer /ɪkˈsplɔːrə(r)/ (n.)
+ 69. express /ɪkˈspres/ (v.)
+ 70. extinguisher /ɪkˈstɪŋɡwɪʃə(r)/ (n.)
+ 71. failure /ˈfeɪljə(r)/ (n.)
+ 72. false /fɔːls/ (adj.)
+ 73. familiar with
+ 74. fantasy /ˈfæntəsi/ (n.)
+ 75. fear /fɪə(r)/ (n.)
+ 76. feel blue
+ 77. fever /ˈfiːvə(r)/ (n.)
+ 78. fiction /ˈfɪkʃn/ (n.)
+ 79. firefighter /ˈfaɪəfaɪtə(r)/ (n.)
+ 80. first aid
+ 81. firstly /ˈfɜːstli/ (adv.)
+ 82. fist /fɪst/ (n.)
+ 83. flame /fleɪm/ (n.)
+ 84. flood /flʌd/ (n.)
+ 85. floodwater /ˈflʌdwɔːtə(r)/ (n.)
+ 86. flu /fluː/ (n.)
+ 87. force /fɔːs/ (v.)
+ 88. foreign /ˈfɒrən/ (adj.)
+ 89. formal /ˈfɔːml/ (adj.)
+ 90. freshwater /ˈfreʃwɔːtə(r)/ (adj.)
+ 91. from now on
+ 92. from time to time
+ 93. froth /frɒθ/ (n.)
+ 94. fry /fraɪ/ (v.)
+ 95. gas /ɡæs/ (n.)
+ 96. gentle /ˈdʒentl/ (adj.)
+ 97. germany /ˈdʒɜːməni/
+ 98. get across
+ 99. get along
+100. get into
+101. get lost
+102. get over
+103. give it a go
+104. give up
+105. go a long way
+106. go on an outing
+107. go wrong
+108. guard /ɡɑːd/ (n.)
+109. hand out
+110. happily /ˈhæpɪli/ (adv.)

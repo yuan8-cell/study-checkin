@@ -1,0 +1,137 @@
+=== Day 69 Answer Key ===
+
+【New Words】
+  1. sense /sens/ [n.] — 理解力；感觉    v. 意识到；感觉到
+  2. sentence /ˈsentəns/ [n.] — 句子；判决  n. 判决；宣判
+  3. serious /ˈsɪəriəs/ [adj.] — 严肃的；严重的
+  4. service /ˈsɜːvɪs/ [n.] — 服务；公共服务
+  5. several /ˈsevrəl/ [pron.] — 几个；一些
+  6. share sth with sb — 把……与……分享 shoot /ʃuːt/ n. 幼苗；嫩芽
+  7. show interest in sth — 对……表现出兴趣 show sb around 领某人参观
+  8. show sb around — 领某人参观
+  9. shy /ʃaɪ/ [adj.] — 害羞的
+ 10. sick /sɪk/ [adj.] — 恶心的；生病的
+ 11. sign /saɪn/ [n.] — 手势；迹象；标志   v. 签（名）；签字
+ 12. silk /sɪlk/ [n.] — 丝绸；（蚕）丝
+ 13. silver /ˈsɪlvə(r)/ [adj.] — 银色的  n. 银
+ 14. silver lining — 一线光明
+ 15. similarity /ˌsɪməˈlærəti/ [n.] — 相似之处
+ 16. sincere /sɪnˈsɪə(r)/ [adj.] — 真诚的；诚实的 find out 查明；弄清（情况）
+ 17. situation /ˌsɪtʃuˈeɪʃn/ [n.] — 情况；状况 care about 关心；担心
+ 18. slice /slaɪs/ [n.] — 薄片；片
+ 19. slim /slɪm/ [adj.] — 苗条的；薄的
+ 20. slow /sləʊ/ [adj.] — 慢的；迟钝的
+ 21. smell /smel/ [v.] — 发臭；闻到   n. 气味；臭味
+ 22. social /ˈsəʊʃl/ [adj.] — 社会的；社交的   n. 联谊会；联欢会
+
+【Review】
+  1. ancient /ˈeɪnʃənt/ [adj.] — 古代的；古老的
+  2. ant /ænt/ [n.] — 蚂蚁
+  3. apartment /əˈpɑːtmənt/ [n.] — 房间；公寓套房
+  4. appear /əˈpɪə(r)/ [v.] — 出现；看来好像 feel free (to do sth)可以随便做某事
+  5. appearance /əˈpɪərəns/ [n.] — 外表；露面
+  6. argue /ˈɑːɡjuː/ [v.] — 争论；争吵
+  7. argue with sb — 与某人争论
+  8. arrival /əˈraɪvl/ [n.] — 到达
+  9. artwork /ˈɑːtwɜːk/ [n.] — 艺术作品；插图 as … as … 像……一样……
+ 10. as long as — 只要
+ 11. asimov /ˈæzɪmɒf/ — 阿西莫夫
+ 12. at least — 至少
+ 13. athlete /ˈæθliːt/ [n.] — 运动员
+ 14. attend /əˈtend/ [v.] — 参加；出席
+ 15. attention /əˈtenʃn/ [n.] — 注意；专心；关注 pay attention (to …) 注意；关注 be yourself  行为自然；不做作
+ 16. autumn /ˈɔːtəm/ [n.] — 秋天；秋季
+ 17. bake /beɪk/ [v.] — 烘焙
+ 18. balcony /ˈbælkəni/ [n.] — 阳台
+ 19. bamboo /ˌbæmˈbuː/ [n.] — 竹；竹子
+ 20. bath /bɑːθ/ [n.] — 洗澡；浴缸
+ 21. bathroom /ˈbɑːθruːm/ [n.] — 浴室；洗手间 be careful with 注意；当心
+ 22. be tired of — 对……感到厌倦
+ 23. intelligence /ɪnˈtelɪdʒəns/ [n.] — 智力；智慧
+ 24. interest /ˈɪntrest/ [n.] — 业余爱好；兴趣   v. 使感兴趣
+ 25. invite /ɪnˈvaɪt/ [v.] — 邀请
+ 26. island /ˈaɪlənd/ [n.] — 岛
+ 27. item /ˈaɪtəm/ [n.] — 项目；条
+ 28. jason /ˈdʒeɪsən/ — 贾森
+ 29. jennifer /ˈdʒenifə/ — 珍妮弗
+ 30. joke /dʒəʊk/ [n.] — 笑话  v. 开玩笑
+ 31. jones /dʒəunz/ — 琼斯
+ 32. journey /ˈdʒɜːni/ [n.] — 旅行；历程   v. 旅行
+ 33. joy /dʒɔɪ/ [n.] — 喜悦；乐趣
+ 34. julie /ˈdʒuːli/ — 朱莉
+ 35. keep on doing sth — 继续做；反复做 kg (= kilogram; kilogramme)
+ 36. kitchen /ˈkɪtʃɪn/ [n.] — 厨房
+ 37. land /lænd/ [n.] — 陆地；土地   v. 降落；着陆
+ 38. landscape /ˈlændskeɪp/ [n.] — 风景；景色 last but not least 最后但同等重要的
+ 39. law /lɔː/ [n.] — 法律；法规
+ 40. lawyer /ˈlɔːjə(r)/ [n.] — 律师
+ 41. lazy /ˈleɪzi/ [adj.] — 懒惰的；懒洋洋的
+ 42. least /liːst/ [adv.] — & pron. 最小；最少 at least 至少
+ 43. length /leŋθ/ [n.] — 时长；长度
+ 44. less /les/ [adj.] — 较少的；更少的  adv.  较少地；更少地
+ 45. offer /ˈɒfə(r)/ [v.] — 提供；主动提出   n. 主动提议；出价
+ 46. oil /ɔɪl/ [n.] — 食用油；石油；燃油
+ 47. one by one — 逐个地；逐一地
+ 48. opinion /əˈpɪnjən/ [n.] — 看法；意见
+ 49. opportunity /ˌɒpəˈtjuːnəti/ [n.] — 机会；时机
+ 50. organized /ˈɔːɡənaɪzd/ — (= organised)  adj. 有条理的；有组织的
+ 51. outer /ˈaʊtə(r)/ [adj.] — 外围的；外表的 outer space (= space)太空；外层空间
+ 52. outgoing /ˌaʊtˈɡəʊɪŋ/ [adj.] — 外向的
+ 53. oven /ˈʌvn/ [n.] — 烤箱；烤炉
+ 54. pack /pæk/ [v.] — 打包；收拾
+ 55. pack up — 打包
+ 56. painter /ˈpeɪntə(r)/ [n.] — 画家；油漆匠
+ 57. palace /ˈpæləs/ [n.] — 王宫；宫殿
+ 58. pan /pæn/ [n.] — 平底锅；烤盘
+ 59. pancake /ˈpænkeɪk/ [n.] — 烙饼；薄饼 paper-
+ 60. paper-cut /ˈpeɪpə(r)kʌt/ [n.] — 剪纸
+ 61. paragraph /ˈpærəɡrɑːf/ [n.] — 段；段落
+ 62. pass /pɑːs/ [v.] — 及格；通过  n. 及格；通行证
+ 63. passport /ˈpɑːspɔːt/ [n.] — 护照
+ 64. pauper /ˈpɔːpə(r)/ [n.] — 贫民；乞丐
+ 65. pea /piː/ [n.] — 豌豆
+ 66. peace /piːs/ [n.] — 和平；太平
+ 67. prefer /prɪˈfɜː(r)/ [v.] — 较喜欢
+ 68. pretty /ˈprɪti/ [adj.] — 漂亮的；美丽的   adv. 相当；十分；非常
+ 69. prince /prɪns/ [n.] — 王子
+ 70. prize /praɪz/ [n.] — 奖；奖励
+ 71. probably /ˈprɒbəbli/ [adv.] — 很可能；大概
+ 72. professor /prəˈfesə(r)/ [n.] — 教授
+ 73. protect /prəˈtekt/ [v.] — 保护；防护
+ 74. province /ˈprɒvɪns/ [n.] — 省份
+ 75. public /ˈpʌblɪk/ [adj.] — 公共的；公众的
+ 76. pull /pʊl/ [v.] — & n. 拉；拖；拽
+ 77. pumpkin /ˈpʌmpkɪn/ [n.] — 南瓜
+ 78. push-up /ˈpʊʃʌp/ [n.] — 俯卧撑
+ 79. put out — 扑灭；把……摆好
+ 80. put sth back — 将……放回
+ 81. quality /ˈkwɒləti/ [n.] — 素质；质量；品质  adj. 优质的；高质量的
+ 82. rainbow /ˈreɪnbəʊ/ [n.] — 虹；彩虹
+ 83. rainfall /ˈreɪnfɔːl/ [n.] — 降雨量
+ 84. reach /riːtʃ/ [v.] — 伸手；到达
+ 85. reach for — 伸手触碰
+ 86. ready /ˈredi/ [adj.] — 准备好的；现成的   adv. 已做完；已完成
+ 87. ready to do sth — 马上要（做某事）； 愿意做（某事）
+ 88. recipe /ˈresəpi/ [n.] — 食谱；烹饪法
+ 89. redwood /ˈredwʊd/ [n.] — 红杉；红木
+ 90. rehearsal /rɪˈhɜːsl/ [n.] — 排演；排练
+ 91. relationship /rɪˈleɪʃnʃɪp/ [n.] — 关系；联系
+ 92. remind /rɪˈmaɪnd/ [v.] — 提醒；使想起
+ 93. replace /rɪˈpleɪs/ [v.] — 代替；取代
+ 94. reply /rɪˈplaɪ/ [n.] — & v. 回答；回复
+ 95. research /rɪˈsɜːtʃ/ [n.] — & v.研究；调查
+ 96. researcher /rɪˈsɜːtʃə(r)/ [n.] — 研究者；探索者
+ 97. resolution /ˌrezəˈluːʃn/ [n.] — 决定；决议 have (…) to do with sb / sth
+ 98. right  away — 立即；马上
+ 99. robotics /rəʊˈbɒtɪks/ [n.] — 机器人学
+100. role /rəʊl/ [n.] — 作用；职能；角色
+101. rose /rəʊz/ [n.] — 玫瑰；蔷薇
+102. rubbish /ˈrʌbɪʃ/ [n.] — 垃圾
+103. russia /ˈrʌʃə/ — 俄罗斯
+104. scarf /skɑːf/ [n.] — 围巾；披巾
+105. scenery /ˈsiːnəri/ [n.] — 风景；景色
+106. scissors /ˈsɪzəz/ [n.] — (pl. )剪刀
+107. scotland /ˈskɒtlənd/ — 苏格兰
+108. seattle /siˈætl/ — 西雅图（美国城市）
+109. secret /ˈsiːkrət/ [n.] — 诀窍；秘密   adj. 秘密的；隐秘的
+110. self-improvement /ˌselfɪmˈpruːvmənt/ [n.] — 自我改进；自我提高

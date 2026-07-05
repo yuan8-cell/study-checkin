@@ -1,0 +1,138 @@
+=== Day 53 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. wow /waʊ/ (interj.)
+  2. write down
+  3. wrong /rɒŋ/ (adj.)
+  4. yesterday /ˈjestədeɪ; ˈjestədi/ (n.)
+  5. young /jʌŋ/ (adj.)
+  6. zone /zəʊn/ (n.)
+  7. zoo /zuː/ (n.)
+  8. able /ˈeɪbl/ (adj.)
+  9. accept /əkˈsept/ (v.)
+ 10. according /əˈkɔːdɪŋ/
+ 11. accordion /əˈkɔːdiən/ (n.)
+ 12. action /ˈækʃn/ (n.)
+ 13. actress /ˈæktrəs/ (n.)
+ 14. actually /ˈæktʃuəli/ (adv.)
+ 15. add /æd/ (v.)
+ 16. add sth to sth
+ 17. ah /ɑː/ (interj.)
+ 18. ahead /əˈhed/ (adv.)
+ 19. alexander /ˌælɪɡˈzɑːndə(r)/
+ 20. alike /əˈlaɪk/ (adj.)
+ 21. almost /ˈɔːlməʊst/ (adv.)
+ 22. alone /əˈləʊn/ (adv.)
+
+【Review (Day 38,46,49,51,52)】
+  1. hang /hæŋ/ (v.)
+  2. hang out
+  3. happen /ˈhæpən/ (v.)
+  4. hardly /ˈhɑːdli/ (adv.)
+  5. hardly ever
+  6. hate /heɪt/ (v.)
+  7. have to
+  8. healthy /ˈhelθi/ (adj.)
+  9. hearing /ˈhɪərɪŋ/ (n.)
+ 10. heart /hɑːt/ (n.)
+ 11. heavily /ˈhevɪli/ (adv.)
+ 12. heavy /ˈhevi/ (adj.)
+ 13. hen /hen/ (n.)
+ 14. hers /hɜːz; ɜːz/ (pron.)
+ 15. high /haɪ/ (adv.)
+ 16. himself /hɪmˈself/ (pron.)
+ 17. hold /həʊld/ (v.)
+ 18. hold on
+ 19. holiday /ˈhɒlədeɪ; ˈhɒlədi/ (n.)
+ 20. hometown /ˈhəʊmtaʊn/ (n.)
+ 21. hope /həʊp/ (v.)
+ 22. hopefully /ˈhəʊpfəli/ (adv.)
+ 23. safe /seɪf/ (adj.)
+ 24. salad /ˈsæləd/ (n.)
+ 25. salt /sɔːlt; sɒlt/ (n.)
+ 26. sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ (n.)
+ 27. save /seɪv/ (v.)
+ 28. scary /ˈskeəri/ (adj.)
+ 29. sea /siː/ (n.)
+ 30. search /sɜːtʃ/ (v.)
+ 31. search for
+ 32. season /ˈsiːzn/ (n.)
+ 33. seem /siːm/ (v.)
+ 34. seldom /ˈseldəm/ (adv.)
+ 35. serve /sɜːv/ (v.)
+ 36. set /set/ (v.)
+ 37. shark /ʃɑːk/ (n.)
+ 38. shine /ʃaɪn/ (v.)
+ 39. should /ʃʊd; ʃəd/
+ 40. shout /ʃaʊt/ (v.)
+ 41. show /ʃəʊ/ (v.)
+ 42. shuttlecock /ˈʃʌtlkɒk/ (n.)
+ 43. side /saɪd/ (n.)
+ 44. side by side
+ 45. sunbathe /ˈsʌnbeɪð/ (v.)
+ 46. sunlight /ˈsʌnlaɪt/ (n.)
+ 47. sunshine /ˈsʌnʃaɪn/ (n.)
+ 48. supermarket /ˈsuːpəˌmɑːkɪt/ (n.)
+ 49. swan /swɒn/ (n.)
+ 50. sweater /ˈswetə(r)/ (n.)
+ 51. sweet /swiːt/ (n.)
+ 52. swimmer /ˈswɪmə(r)/ (n.)
+ 53. t-shirt /ˈtiː ʃɜːt/ (n.)
+ 54. tail /teɪl/ (n.)
+ 55. take a message
+ 56. take care of
+ 57. take part in
+ 58. taste /teɪst/ (v.)
+ 59. taxi /ˈtæksi/ (n.)
+ 60. tea /tiː/ (n.)
+ 61. team /tiːm/ (n.)
+ 62. teenager /ˈtiːneɪdʒə(r)/ (n.)
+ 63. tell the truth
+ 64. temperature /ˈtemprətʃə(r)/ (n.)
+ 65. tent /tent/ (n.)
+ 66. terrible /ˈterəbl/ (adj.)
+ 67. true /truː/ (adj.)
+ 68. trunk /trʌŋk/ (n.)
+ 69. truth /truːθ/ (n.)
+ 70. try /traɪ/ (v.)
+ 71. try on
+ 72. turn /tɜːn/ (v.)
+ 73. turn off
+ 74. twice /twaɪs/ (adv.)
+ 75. ugly /ˈʌɡli/ (adj.)
+ 76. umbrella /ʌmˈbrelə/ (n.)
+ 77. understand /ˌʌndəˈstænd/ (v.)
+ 78. unhappy /ʌnˈhæpi/ (adj.)
+ 79. uniform /ˈjuːnɪfɔːm/ (n.)
+ 80. untidy /ʌnˈtaɪdi/ (adj.)
+ 81. upon /əˈpɒn/ (prep.)
+ 82. usa /ˌjuːesˈeɪ/
+ 83. used to
+ 84. vegetable /ˈvedʒtəbl/ (n.)
+ 85. voice /vɔɪs/ (n.)
+ 86. volleyball /ˈvɒlibɔːl/ (n.)
+ 87. waiter /ˈweɪtə(r)/ (n.)
+ 88. waitress /ˈweɪtrəs/ (n.)
+ 89. war /wɔː(r)/ (n.)
+ 90. warm /wɔːm/ (adj.)
+ 91. wash /wɒʃ/ (v.)
+ 92. waste /weɪst/ (n.)
+ 93. wastewater /ˈweɪstwɔːtə(r)/ (n.)
+ 94. water /ˈwɔːtə(r)/ (n.)
+ 95. watermelon /ˈwɔːtəˌmelən/ (n.)
+ 96. weather /ˈweðə(r)/ (n.)
+ 97. weekday /ˈwiːkdeɪ/ (n.)
+ 98. weight /weɪt/ (n.)
+ 99. well-used /ˌwelˈjuːzd/ (adj.)
+100. west /west/ (n.)
+101. wet /wet/ (adj.)
+102. whale /weɪl/ (n.)
+103. win /wɪn/ (v.)
+104. wind /wɪnd/ (n.)
+105. winter /ˈwɪntə(r)/ (n.)
+106. wise /waɪz/ (adj.)
+107. wonderful /ˈwʌndəfl/ (adj.)
+108. work on
+109. working /ˈwɜːkɪŋ/ (adj.)
+110. working day

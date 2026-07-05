@@ -1,0 +1,138 @@
+=== Day 86 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. missing /ˈmɪsɪŋ/ (adj.)
+  2. moon /muːn/ (n.)
+  3. most of all
+  4. mystery /ˈmɪstri/ (n.)
+  5. namaste /nɑːˈmɑːste/ (interj.)
+  6. nancy /ˈnænsi/
+  7. naughty /ˈnɔːti/ (adj.)
+  8. nearby /ˌnɪəˈbaɪ/ (adj.)
+  9. nearly /ˈnɪəli/ (adv.)
+ 10. negative /ˈneɡətɪv/ (adj.)
+ 11. nervously /ˈnɜːvəsli/ (adv.)
+ 12. nile /naɪl/
+ 13. no way
+ 14. nobody /ˈnəʊbədi/ (pron.)
+ 15. normal /ˈnɔːml/ (adj.)
+ 16. nosebleed /ˈnəʊzbliːd/ (n.)
+ 17. nursing home
+ 18. object /ˈɒbdʒɪkt/ (n.)
+ 19. occasion /əˈkeɪʒn/ (n.)
+ 20. on fire
+ 21. on purpose
+ 22. on the go
+
+【Review (Day 71,79,82,84,85)】
+  1. susan /ˈsu:zən/
+  2. system /ˈsɪstəm/ (n.)
+  3. take a walk
+  4. take notes
+  5. take over
+  6. take place
+  7. take up
+  8. task /tɑːsk/ (n.)
+  9. tear /tɪə(r)/ (n.)
+ 10. technology /tekˈnɒlədʒi/ (n.)
+ 11. text /tekst/ (n.)
+ 12. thanks to
+ 13. thanksgiving /ˌθæŋksˈɡɪvɪŋ/
+ 14. the movies
+ 15. thin /θɪn/ (adj.)
+ 16. ticket /ˈtɪkɪt/ (n.)
+ 17. tina /ˈtiːnə/
+ 18. tiny /ˈtaɪni/ (adj.)
+ 19. tip /tɪp/ (n.)
+ 20. title /ˈtaɪtl/ (n.)
+ 21. toilet /ˈtɔɪlət/ (n.)
+ 22. ton /tʌn/ (n.)
+ 23. distance /ˈdɪstəns/ (n.)
+ 24. dive /daɪv/ (v.)
+ 25. do chores
+ 26. donate /dəʊˈneɪt/ (v.)
+ 27. donation /dəʊˈneɪʃn/ (n.)
+ 28. doubt /daʊt/ (v.)
+ 29. driver /ˈdraɪvə(r)/ (n.)
+ 30. drought /draʊt/ (n.)
+ 31. earthquake /ˈɜːθkweɪk/ (n.)
+ 32. eat out
+ 33. effect /ɪˈfekt/ (n.)
+ 34. effort /ˈefət/ (n.)
+ 35. egypt /ˈiːdʒɪpt/
+ 36. elbow /ˈelbəʊ/ (n.)
+ 37. elder /ˈeldə(r)/ (adj.)
+ 38. elderly /ˈeldəli/ (adj.)
+ 39. embarrassed /ɪmˈbærəst/ (adj.)
+ 40. emotion /ɪˈməʊʃn/ (n.)
+ 41. enemy /ˈenəmi/ (n.)
+ 42. enter /ˈentə(r)/ (v.)
+ 43. environment /ɪnˈvaɪrənmənt/ (n.)
+ 44. even though
+ 45. harm /hɑːm/ (n.)
+ 46. harmful /ˈhɑːmfl/ (adj.)
+ 47. headache /ˈhedeɪk/ (n.)
+ 48. hear from
+ 49. hear of
+ 50. heartbeat /ˈhɑːtbiːt/ (n.)
+ 51. heatwave /ˈhiːtweɪv/ (n.)
+ 52. help out
+ 53. hero /ˈhɪərəʊ/ (n.)
+ 54. hidden /ˈhɪdn/ (adj.)
+ 55. historical /hɪˈstɒrɪkl/ (adj.)
+ 56. hit /hɪt/ (v.)
+ 57. hug /hʌɡ/ (v.)
+ 58. hurt /hɜːt/ (v.)
+ 59. hurtful /ˈhɜːtfl/ (adj.)
+ 60. ice-skate /ˈaɪsskeɪt/ (v.)
+ 61. idiom /ˈɪdiəm/ (n.)
+ 62. ill /ɪl/ (adj.)
+ 63. illness /ˈɪlnəs/ (n.)
+ 64. importantly /ɪmˈpɔːtntli/ (adv.)
+ 65. improper /ɪmˈprɒpə(r)/ (adj.)
+ 66. in future
+ 67. ji-hoon /ˈdʒiːˌhuːn/
+ 68. joyful /ˈdʒɔɪfl/ (adj.)
+ 69. kaito /ˈkaɪtəʊ/
+ 70. kelly /ˈkeli/
+ 71. kid /kɪd/ (n.)
+ 72. kingdom /ˈkɪŋdəm/ (n.)
+ 73. kiss /kɪs/ (v.)
+ 74. knowledge /ˈnɒlɪdʒ/ (n.)
+ 75. ladder /ˈlædə(r)/ (n.)
+ 76. landslide /ˈlændslaɪd/ (n.)
+ 77. lastly /ˈlɑːstli/ (adv.)
+ 78. lennox /ˈlenəks/
+ 79. let down
+ 80. letter /ˈletə(r)/ (n.)
+ 81. level /ˈlevl/ (n.)
+ 82. life-saving /ˈlaɪfˌseɪvɪŋ/ (adj.)
+ 83. lifetime /ˈlaɪftaɪm/ (n.)
+ 84. literary /ˈlɪtərəri/ (adj.)
+ 85. located /ləʊˈkeɪtɪd/ (adj.)
+ 86. lock /lɒk/ (v.)
+ 87. lock up
+ 88. lonely /ˈləʊnli/ (adj.)
+ 89. look on the bright side
+ 90. lost /lɒst/ (adj.)
+ 91. luca /ˈluːkə/
+ 92. luckily /ˈlʌkɪli/ (adv.)
+ 93. mad /mæd/ (adj.)
+ 94. madam /ˈmædəm/ (n.)
+ 95. main /meɪn/ (adj.)
+ 96. make a difference
+ 97. make preparations
+ 98. manner /ˈmænə(r)/ (n.)
+ 99. manpower /ˈmænpaʊə(r)/ (n.)
+100. marie /məˈriː/
+101. married /ˈmærid/ (adj.)
+102. marry /ˈmæri/ (v.)
+103. mask /mɑːsk/ (n.)
+104. maya /ˈmaɪə/
+105. measure /ˈmeʒə(r)/ (v.)
+106. measurement /ˈmeʒəmənt/ (n.)
+107. medicine /ˈmedsn/ (n.)
+108. merci
+109. mexico /ˈmeksɪkəʊ/
+110. mile /maɪl/ (n.)

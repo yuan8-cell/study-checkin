@@ -1,0 +1,138 @@
+=== Day 21 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. pm /ˌpiː ˈem/
+  2. post /pəʊst/ (n.)
+  3. pot /pɒt/ (n.)
+  4. potato /pəˈteɪtəʊ/ (n.)
+  5. prc /ˌpiː ɑː(r) ˈsiː/
+  6. prepare /prɪˈpeə(r)/ (v.)
+  7. prepare sth for
+  8. price /praɪs/ (n.)
+  9. problem /ˈprɒbləm/ (n.)
+ 10. put up
+ 11. question /ˈkwestʃən/ (n.)
+ 12. quiet /ˈkwaɪət/ (adj.)
+ 13. rabbit /ˈræbɪt/ (n.)
+ 14. raise /reɪz/ (v.)
+ 15. re /riː/ (prep.)
+ 16. read /riːd/ (v.)
+ 17. really /ˈriːəli/ (adv.)
+ 18. reason /ˈriːzn/ (n.)
+ 19. red /red/ (adj.)
+ 20. remember /rɪˈmembə(r)/ (v.)
+ 21. reporter /rɪˈpɔːtə(r)/ (n.)
+ 22. restaurant /ˈrestrɒnt/ (n.)
+
+【Review (Day 6,14,17,19,20)】
+  1. coco /ˈkəʊkəʊ/
+  2. collect /kəˈlekt/ (v.)
+  3. colour /ˈkʌlə(r)/
+  4. come /kʌm/ (v.)
+  5. computer /kəmˈpjuːtə(r)/ (n.)
+  6. contact /ˈkɒntækt/ (n.)
+  7. conversation /ˌkɒnvəˈseɪʃn/ (n.)
+  8. cook /kʊk/ (v.)
+  9. corner /ˈkɔːnə(r)/ (n.)
+ 10. count /kaʊnt/ (v.)
+ 11. country /ˈkʌntri/ (n.)
+ 12. cousin /ˈkʌzn/ (n.)
+ 13. cow /kaʊ/ (n.)
+ 14. cute /kjuːt/ (adj.)
+ 15. dad /dæd/ (n.)
+ 16. daily /ˈdeɪli/ (adj.)
+ 17. daily routine
+ 18. dance /dɑːns/ (v.)
+ 19. dark /dɑːk/ (adj.)
+ 20. david /ˈdeɪvɪd/
+ 21. davis /ˈdeɪvɪs/
+ 22. day /deɪ/ (n.)
+ 23. idea /aɪˈdɪə/ (n.)
+ 24. important /ɪmˈpɔːtnt/ (adj.)
+ 25. in class
+ 26. in front of
+ 27. in the future
+ 28. in the middle
+ 29. information /ˌɪnfəˈmeɪʃn/ (n.)
+ 30. insect /ˈɪnsekt/ (n.)
+ 31. instrument /ˈɪnstrəmənt/ (n.)
+ 32. interested /ˈɪntrəstɪd/ (adj.)
+ 33. interesting /ˈɪntrəstɪŋ/ (adj.)
+ 34. international /ˌɪntəˈnæʃnəl/ (adj.)
+ 35. ireland /ˈaɪələnd/
+ 36. is /ɪz/ (v.)
+ 37. it /ɪt/ (pron.)
+ 38. jack /dʒæk/
+ 39. jane /dʒeɪn/
+ 40. jenny /ˈdʒeni/
+ 41. jim /dʒɪm/
+ 42. job /dʒɒb/ (n.)
+ 43. join /dʒɔɪn/ (v.)
+ 44. judy /ˈdʒuːdi/
+ 45. mark /mɑːk/ (v.)
+ 46. may /meɪ/
+ 47. me /miː; mi/ (pron.)
+ 48. mean /miːn/ (v.)
+ 49. member /ˈmembə(r)/ (n.)
+ 50. middle /ˈmɪdl/ (n.)
+ 51. mike /maɪk/
+ 52. milk /mɪlk/ (n.)
+ 53. miller /ˈmɪlə(r)/
+ 54. million /ˈmɪljən/ (num.)
+ 55. mind /maɪnd/ (n.)
+ 56. minute /ˈmɪnɪt/ (n.)
+ 57. mistake /mɪˈsteɪk/ (n.)
+ 58. modern /ˈmɒdn/ (adj.)
+ 59. month /mʌnθ/ (n.)
+ 60. more /mɔː(r)/ (adj.)
+ 61. morning /ˈmɔːnɪŋ/ (n.)
+ 62. most /məʊst/ (adj.)
+ 63. mr /ˈmɪstə(r)/
+ 64. mrs /ˈmɪsɪz/
+ 65. ms /mɪz; məz/
+ 66. much /mʌtʃ/ (adv.)
+ 67. nose /nəʊz/ (n.)
+ 68. notice /ˈnəʊtɪs/ (n.)
+ 69. now /naʊ/ (adv.)
+ 70. number /ˈnʌmbə(r)/ (n.)
+ 71. of /ɒv; əv/ (prep.)
+ 72. office /ˈɒfɪs/ (n.)
+ 73. often /ˈɒfn; ˈɒftən/ (adv.)
+ 74. oh /əʊ/ (interj.)
+ 75. ok /əʊˈkeɪ/ (interj.)
+ 76. old /əʊld/ (adj.)
+ 77. on /ɒn/ (prep.)
+ 78. on duty
+ 79. one /wʌn/ (num.)
+ 80. only /ˈəʊnli/ (adv.)
+ 81. or /ɔː(r)/ (conj.)
+ 82. oscar /ˈɒskə(r)/
+ 83. other /ˈʌðə(r)/ (pron.)
+ 84. our /ɑː(r); ˈaʊə(r)/ (pron.)
+ 85. out /aʊt/ (adv.)
+ 86. page /peɪdʒ/ (n.)
+ 87. paint /peɪnt/ (v.)
+ 88. pair /peə(r)/ (n.)
+ 89. panda /ˈpændə/ (n.)
+ 90. parent /ˈpeərənt/ (n.)
+ 91. park /pɑːk/ (n.)
+ 92. parrot /ˈpærət/ (n.)
+ 93. part /pɑːt/ (n.)
+ 94. party /ˈpɑːti/ (n.)
+ 95. past /pɑːst/ (n.)
+ 96. pauline /pɔːˈliːn/
+ 97. pencil /ˈpensl/ (n.)
+ 98. people /ˈpiːpl/ (n.)
+ 99. pet /pet/ (n.)
+100. peter /ˈpiːtə(r)/
+101. piano /piˈænəʊ/ (n.)
+102. picture /ˈpɪktʃə(r)/ (n.)
+103. pig /pɪɡ/ (n.)
+104. ping-pong /ˈpɪŋpɒŋ/ (n.)
+105. pizza /ˈpiːtsə/ (n.)
+106. place /pleɪs/ (n.)
+107. plant /plɑːnt/ (n.)
+108. play the guitar
+109. playground /ˈpleɪɡraʊnd/ (n.)
+110. please /pliːz/ (interj.)

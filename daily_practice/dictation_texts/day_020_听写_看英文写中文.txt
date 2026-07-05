@@ -1,0 +1,138 @@
+=== Day 20 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. panda /ˈpændə/ (n.)
+  2. parent /ˈpeərənt/ (n.)
+  3. park /pɑːk/ (n.)
+  4. parrot /ˈpærət/ (n.)
+  5. part /pɑːt/ (n.)
+  6. party /ˈpɑːti/ (n.)
+  7. past /pɑːst/ (n.)
+  8. pauline /pɔːˈliːn/
+  9. pencil /ˈpensl/ (n.)
+ 10. people /ˈpiːpl/ (n.)
+ 11. pet /pet/ (n.)
+ 12. peter /ˈpiːtə(r)/
+ 13. piano /piˈænəʊ/ (n.)
+ 14. picture /ˈpɪktʃə(r)/ (n.)
+ 15. pig /pɪɡ/ (n.)
+ 16. ping-pong /ˈpɪŋpɒŋ/ (n.)
+ 17. pizza /ˈpiːtsə/ (n.)
+ 18. place /pleɪs/ (n.)
+ 19. plant /plɑːnt/ (n.)
+ 20. play the guitar
+ 21. playground /ˈpleɪɡraʊnd/ (n.)
+ 22. please /pliːz/ (interj.)
+
+【Review (Day 5,13,16,18,19)】
+  1. card /kɑːd/ (n.)
+  2. carrot /ˈkærət/ (n.)
+  3. cat /kæt/ (n.)
+  4. celebrate /ˈselɪbreɪt/ (v.)
+  5. centre /ˈsentə(r)/
+  6. chair /tʃeə(r)/ (n.)
+  7. change /tʃeɪndʒ/ (v.)
+  8. chess /tʃes/ (n.)
+  9. chicken /ˈtʃɪkɪn/ (n.)
+ 10. china /ˈtʃaɪnə/
+ 11. chinese /ˌtʃaɪˈniːz/ (adj.)
+ 12. chocolate /ˈtʃɒklət/ (n.)
+ 13. choose /tʃuːz/ (v.)
+ 14. circle /ˈsɜːkl/ (v.)
+ 15. clark /klɑːk/
+ 16. class /klɑːs/ (n.)
+ 17. classmate /ˈklɑːsmeɪt/ (n.)
+ 18. classroom /ˈklɑːsruːm/ (n.)
+ 19. clever /ˈklevə(r)/ (adj.)
+ 20. climb /klaɪm/ (v.)
+ 21. clock /klɒk/ (n.)
+ 22. club /klʌb/ (n.)
+ 23. her /hɜː(r); hə(r)/ (pron.)
+ 24. here /hɪə(r)/ (adv.)
+ 25. hey /heɪ/ (interj.)
+ 26. hi /haɪ/ (interj.)
+ 27. hike /haɪk/ (v.)
+ 28. him /hɪm; ɪm/ (pron.)
+ 29. his /hɪz; ɪz/ (pron.)
+ 30. hobby /ˈhɒbi/ (n.)
+ 31. hockey /ˈhɒki/ (n.)
+ 32. homework /ˈhəʊmwɜːk/ (n.)
+ 33. horse /hɔːs/ (n.)
+ 34. hot /hɒt/ (adj.)
+ 35. hot pot
+ 36. hour /ˈaʊə(r)/ (n.)
+ 37. house /haʊs/ (n.)
+ 38. how /haʊ/ (adv.)
+ 39. hundred /ˈhʌndrəd/ (num.)
+ 40. hundredth /ˈhʌndrədθ/ (num.)
+ 41. husband /ˈhʌzbənd/ (n.)
+ 42. i /aɪ/ (pron.)
+ 43. ice /aɪs/ (n.)
+ 44. ice hockey
+ 45. linda /ˈlɪndə/
+ 46. lisa /ˈliːsə/
+ 47. list /lɪst/ (n.)
+ 48. listen /ˈlɪsn/ (v.)
+ 49. listen to
+ 50. little /ˈlɪtl/ (adj.)
+ 51. live /lɪv/ (v.)
+ 52. london /ˈlʌndən/
+ 53. long /lɒŋ/ (adj.)
+ 54. look /lʊk/ (v.)
+ 55. look at
+ 56. lot /lɒt/ (pron.)
+ 57. love /lʌv/ (v.)
+ 58. lucy /ˈluːsi/
+ 59. lunch /lʌntʃ/ (n.)
+ 60. magic /ˈmædʒɪk/ (n.)
+ 61. make /meɪk/ (v.)
+ 62. make a wish
+ 63. make friends
+ 64. make use of
+ 65. many /ˈmeni/ (adj.)
+ 66. map /mæp/ (n.)
+ 67. music /ˈmjuːzɪk/ (n.)
+ 68. musical /ˈmjuːzɪkl/ (adj.)
+ 69. musical instrument
+ 70. my /maɪ/ (pron.)
+ 71. name /neɪm/ (n.)
+ 72. nature /ˈneɪtʃə(r)/ (n.)
+ 73. need /niːd/ (v.)
+ 74. new /njuː/ (adj.)
+ 75. news /njuːz/ (n.)
+ 76. next /nekst/ (adj.)
+ 77. next time
+ 78. next to
+ 79. nice /naɪs/ (adj.)
+ 80. night /naɪt/ (n.)
+ 81. nine /naɪn/ (num.)
+ 82. nineteen /ˌnaɪnˈtiːn/ (num.)
+ 83. nineteenth /ˌnaɪnˈtiːnθ/ (num.)
+ 84. ninetieth /ˈnaɪntiəθ/ (num.)
+ 85. ninety /ˈnaɪnti/ (num.)
+ 86. ninth /naɪnθ/ (num.)
+ 87. no /nəʊ/ (interj.)
+ 88. noodle /ˈnuːdl/ (n.)
+ 89. nose /nəʊz/ (n.)
+ 90. notice /ˈnəʊtɪs/ (n.)
+ 91. now /naʊ/ (adv.)
+ 92. number /ˈnʌmbə(r)/ (n.)
+ 93. of /ɒv; əv/ (prep.)
+ 94. office /ˈɒfɪs/ (n.)
+ 95. often /ˈɒfn; ˈɒftən/ (adv.)
+ 96. oh /əʊ/ (interj.)
+ 97. ok /əʊˈkeɪ/ (interj.)
+ 98. old /əʊld/ (adj.)
+ 99. on /ɒn/ (prep.)
+100. on duty
+101. one /wʌn/ (num.)
+102. only /ˈəʊnli/ (adv.)
+103. or /ɔː(r)/ (conj.)
+104. oscar /ˈɒskə(r)/
+105. other /ˈʌðə(r)/ (pron.)
+106. our /ɑː(r); ˈaʊə(r)/ (pron.)
+107. out /aʊt/ (adv.)
+108. page /peɪdʒ/ (n.)
+109. paint /peɪnt/ (v.)
+110. pair /peə(r)/ (n.)

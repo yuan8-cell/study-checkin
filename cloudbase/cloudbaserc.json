@@ -1,0 +1,13 @@
+{
+  "envId": "zj-edu-dev-d3grxsted961185b1",
+  "app": {
+    "serviceName": "checkin-api",
+    "buildCommand": "npm install",
+    "outputDir": ".",
+    "envVariables": {
+      "TENCENT_SECRET_ID": "",
+      "TENCENT_SECRET_KEY": "",
+      "TENCENT_REGION": "ap-shanghai"
+    }
+  }
+}

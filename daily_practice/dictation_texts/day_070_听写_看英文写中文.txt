@@ -1,0 +1,138 @@
+=== Day 70 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. social media
+  2. solve /sɒlv/ (v.)
+  3. somewhere /ˈsʌmweə(r)/ (adv.)
+  4. sort /sɔːt/ (v.)
+  5. sour /ˈsaʊə(r)/ (adj.)
+  6. spaghetti /spəˈɡeti/ (n.)
+  7. spare /speə(r)/ (adj.)
+  8. spare time
+  9. speaker /ˈspiːkə(r)/ (n.)
+ 10. speech /spiːtʃ/ (n.)
+ 11. square /skweə(r)/ (n.)
+ 12. station /ˈsteɪʃn/ (n.)
+ 13. steamed /stiːmd/
+ 14. steamed f ish
+ 15. stephen /ˈstiːvən/
+ 16. stick to sth
+ 17. stir-fry /ˈstɜːfraɪ/ (v.)
+ 18. store /stɔː(r)/ (v.)
+ 19. straightforward /ˌstreɪtˈfɔːwəd/ (adj.)
+ 20. strange /streɪndʒ/ (adj.)
+ 21. strength /streŋθ/ (n.)
+ 22. surely /ˈʃʊəli/ (adv.)
+
+【Review (Day 55,63,66,68,69)】
+  1. be yourself
+  2. bedroom /ˈbedruːm/ (n.)
+  3. bee /biː/ (n.)
+  4. believe /bɪˈliːv/ (v.)
+  5. benefit /ˈbenɪfɪt/ (v.)
+  6. beside /bɪˈsaɪd/ (prep.)
+  7. besides /bɪˈsaɪdz/ (prep.)
+  8. billy /ˈbɪli/
+  9. biscuit /ˈbɪskɪt/ (n.)
+ 10. block /blɒk/ (n.)
+ 11. boil /bɔɪl/ (v.)
+ 12. bored /bɔːd/ (adj.)
+ 13. born /bɔːn/ (v.)
+ 14. borrow /ˈbɒrəʊ/ (v.)
+ 15. bowl /bəʊl/ (n.)
+ 16. breath /breθ/ (n.)
+ 17. bridge /brɪdʒ/ (n.)
+ 18. budget /ˈbʌdʒɪt/ (n.)
+ 19. businessman /ˈbɪznəsmæn/ (n.)
+ 20. butter /ˈbʌtə(r)/ (n.)
+ 21. butterfly /ˈbʌtəflaɪ/ (n.)
+ 22. by accident
+ 23. lift /lɪft/ (n.)
+ 24. line /laɪn/ (n.)
+ 25. lining /ˈlaɪnɪŋ/ (n.)
+ 26. listener /ˈlɪsənə(r)/ (n.)
+ 27. literature /ˈlɪtrətʃə(r)/ (n.)
+ 28. living room
+ 29. local /ˈləʊkl/ (adj.)
+ 30. look for
+ 31. lotus /ˈləʊtəs/ (n.)
+ 32. loud /laʊd/ (adv.)
+ 33. low /ləʊ/ (adv.)
+ 34. luggage /ˈlʌɡɪdʒ/ (n.)
+ 35. make a mistake
+ 36. make sure
+ 37. mandy /ˈmændi/
+ 38. mashed /mæʃt/
+ 39. matt /mæt/
+ 40. matter /ˈmætə(r)/ (v.)
+ 41. meaning /ˈmiːnɪŋ/ (n.)
+ 42. meat /miːt/ (n.)
+ 43. medical /ˈmedɪkl/ (adj.)
+ 44. meeting /ˈmiːtɪŋ/ (n.)
+ 45. peony /ˈpiːəni/ (n.)
+ 46. pepper /ˈpepə(r)/ (n.)
+ 47. per /pə(r); pɜː(r)/ (prep.)
+ 48. perform /pəˈfɔːm/ (v.)
+ 49. perhaps /pəˈhæps; præps/ (adv.)
+ 50. personality /ˌpɜːsəˈnæləti/ (n.)
+ 51. photographer /fəˈtɒɡrəfə(r)/ (n.)
+ 52. photography /fəˈtɒɡrəfi/ (n.)
+ 53. physical /ˈfɪzɪkl/ (adj.)
+ 54. pie /paɪ/ (n.)
+ 55. pilot /ˈpaɪlət/ (n.)
+ 56. plan /plæn/ (v.)
+ 57. planet /ˈplænɪt/ (n.)
+ 58. plate /pleɪt/ (n.)
+ 59. pleasant /ˈpleznt/ (adj.)
+ 60. point /pɔɪnt/ (n.)
+ 61. pollen /ˈpɒlən/ (n.)
+ 62. pollination /ˌpɒləˈneɪʃn/ (n.)
+ 63. population /ˌpɒpjuˈleɪʃn/ (n.)
+ 64. poster /ˈpəʊstə(r)/ (n.)
+ 65. pour sth into sth
+ 66. prediction /prɪˈdɪkʃn/ (n.)
+ 67. redwood /ˈredwʊd/ (n.)
+ 68. rehearsal /rɪˈhɜːsl/ (n.)
+ 69. relationship /rɪˈleɪʃnʃɪp/ (n.)
+ 70. remind /rɪˈmaɪnd/ (v.)
+ 71. replace /rɪˈpleɪs/ (v.)
+ 72. reply /rɪˈplaɪ/ (n.)
+ 73. research /rɪˈsɜːtʃ/ (n.)
+ 74. researcher /rɪˈsɜːtʃə(r)/ (n.)
+ 75. resolution /ˌrezəˈluːʃn/ (n.)
+ 76. right  away
+ 77. robotics /rəʊˈbɒtɪks/ (n.)
+ 78. role /rəʊl/ (n.)
+ 79. rose /rəʊz/ (n.)
+ 80. rubbish /ˈrʌbɪʃ/ (n.)
+ 81. russia /ˈrʌʃə/
+ 82. scarf /skɑːf/ (n.)
+ 83. scenery /ˈsiːnəri/ (n.)
+ 84. scissors /ˈsɪzəz/ (n.)
+ 85. scotland /ˈskɒtlənd/
+ 86. seattle /siˈætl/
+ 87. secret /ˈsiːkrət/ (n.)
+ 88. self-improvement /ˌselfɪmˈpruːvmənt/ (n.)
+ 89. sense /sens/ (n.)
+ 90. sentence /ˈsentəns/ (n.)
+ 91. serious /ˈsɪəriəs/ (adj.)
+ 92. service /ˈsɜːvɪs/ (n.)
+ 93. several /ˈsevrəl/ (pron.)
+ 94. share sth with sb
+ 95. show interest in sth
+ 96. show sb around
+ 97. shy /ʃaɪ/ (adj.)
+ 98. sick /sɪk/ (adj.)
+ 99. sign /saɪn/ (n.)
+100. silk /sɪlk/ (n.)
+101. silver /ˈsɪlvə(r)/ (adj.)
+102. silver lining
+103. similarity /ˌsɪməˈlærəti/ (n.)
+104. sincere /sɪnˈsɪə(r)/ (adj.)
+105. situation /ˌsɪtʃuˈeɪʃn/ (n.)
+106. slice /slaɪs/ (n.)
+107. slim /slɪm/ (adj.)
+108. slow /sləʊ/ (adj.)
+109. smell /smel/ (v.)
+110. social /ˈsəʊʃl/ (adj.)

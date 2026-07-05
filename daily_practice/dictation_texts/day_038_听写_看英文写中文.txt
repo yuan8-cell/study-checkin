@@ -1,0 +1,138 @@
+=== Day 38 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. hang /hæŋ/ (v.)
+  2. hang out
+  3. happen /ˈhæpən/ (v.)
+  4. hardly /ˈhɑːdli/ (adv.)
+  5. hardly ever
+  6. hate /heɪt/ (v.)
+  7. have to
+  8. healthy /ˈhelθi/ (adj.)
+  9. hearing /ˈhɪərɪŋ/ (n.)
+ 10. heart /hɑːt/ (n.)
+ 11. heavily /ˈhevɪli/ (adv.)
+ 12. heavy /ˈhevi/ (adj.)
+ 13. hen /hen/ (n.)
+ 14. hers /hɜːz; ɜːz/ (pron.)
+ 15. high /haɪ/ (adv.)
+ 16. himself /hɪmˈself/ (pron.)
+ 17. hold /həʊld/ (v.)
+ 18. hold on
+ 19. holiday /ˈhɒlədeɪ; ˈhɒlədi/ (n.)
+ 20. hometown /ˈhəʊmtaʊn/ (n.)
+ 21. hope /həʊp/ (v.)
+ 22. hopefully /ˈhəʊpfəli/ (adv.)
+
+【Review (Day 23,31,34,36,37)】
+  1. seven /ˈsevn/ (num.)
+  2. seventeen /ˌsevnˈtiːn/ (num.)
+  3. seventeenth /ˌsevnˈtiːnθ/ (num.)
+  4. seventh /ˈsevnθ/ (num.)
+  5. seventieth /ˈsevntiəθ/ (num.)
+  6. seventy /ˈsevnti/ (num.)
+  7. share /ʃeə(r)/ (v.)
+  8. she /ʃiː; ʃi/ (pron.)
+  9. sheep /ʃiːp/ (n.)
+ 10. shoe /ʃuː/ (n.)
+ 11. shop /ʃɒp/ (n.)
+ 12. short /ʃɔːt/ (adj.)
+ 13. shower /ˈʃaʊə(r)/ (n.)
+ 14. similar to
+ 15. sing /sɪŋ/ (v.)
+ 16. singapore /ˌsɪŋəˈpɔː(r)/
+ 17. singer /ˈsɪŋə(r)/ (n.)
+ 18. sister /ˈsɪstə(r)/ (n.)
+ 19. sit /sɪt/ (v.)
+ 20. six /sɪks/ (num.)
+ 21. sixteen /ˌsɪkˈstiːn/ (num.)
+ 22. sixteenth /ˌsɪkˈstiːnθ/ (num.)
+ 23. arm /ɑːm/ (n.)
+ 24. around the world
+ 25. arrive /əˈraɪv/ (v.)
+ 26. article /ˈɑːtɪkl/ (n.)
+ 27. artist /ˈɑːtɪst/ (n.)
+ 28. astronaut /ˈæstrənɔːt/ (n.)
+ 29. at first
+ 30. at the end
+ 31. at the moment
+ 32. at the start
+ 33. at the top
+ 34. away /əˈweɪ/ (adv.)
+ 35. awful /ˈɔːfl/ (adj.)
+ 36. bad /bæd/ (adj.)
+ 37. badminton /ˈbædmɪntən/ (n.)
+ 38. bag /bæɡ/ (n.)
+ 39. balanced /ˈbælənst/ (adj.)
+ 40. banana /bəˈnɑːnə/ (n.)
+ 41. baseball /ˈbeɪsbɔːl/ (n.)
+ 42. basket /ˈbɑːskɪt/ (n.)
+ 43. beach /biːtʃ/ (n.)
+ 44. beach volleyball
+ 45. create /kriˈeɪt/ (v.)
+ 46. cry /kraɪ/ (v.)
+ 47. cucumber /ˈkjuːkʌmbə(r)/ (n.)
+ 48. culture /ˈkʌltʃə(r)/ (n.)
+ 49. cup /kʌp/ (n.)
+ 50. customer /ˈkʌstəmə(r)/ (n.)
+ 51. cut /kʌt/ (v.)
+ 52. cut down
+ 53. danger /ˈdeɪndʒə(r)/ (n.)
+ 54. dangerous /ˈdeɪndʒərəs/ (adj.)
+ 55. darling /ˈdɑːlɪŋ/ (n.)
+ 56. decide /dɪˈsaɪd/ (v.)
+ 57. description /dɪˈskrɪpʃn/ (n.)
+ 58. die /daɪ/ (v.)
+ 59. direction /dɪˈrekʃn; daɪˈrekʃn/ (n.)
+ 60. dirty /ˈdɜːti/ (adj.)
+ 61. dish /dɪʃ/ (n.)
+ 62. doctor /ˈdɒktə(r)/ (n.)
+ 63. double /ˈdʌbl/ (n.)
+ 64. dragon /ˈdræɡən/ (n.)
+ 65. drive /draɪv/ (v.)
+ 66. drop /drɒp/ (v.)
+ 67. farmer /ˈfɑːmə(r)/ (n.)
+ 68. fast food
+ 69. fat /fæt/ (n.)
+ 70. feather /ˈfeðə/ (n.)
+ 71. feed /fiːd/ (v.)
+ 72. feel like
+ 73. festival /ˈfestɪvl/ (n.)
+ 74. few /fjuː/ (adj.)
+ 75. fill /fɪl/ (v.)
+ 76. finally /ˈfaɪnəli/ (adv.)
+ 77. fish and chips
+ 78. fit /fɪt/ (adj.)
+ 79. focus /ˈfəʊkəs/ (v.)
+ 80. focus on
+ 81. fog /fɒɡ/ (n.)
+ 82. follow /ˈfɒləʊ/ (v.)
+ 83. forest /ˈfɒrɪst/ (n.)
+ 84. forward /ˈfɔːwəd/ (adv.)
+ 85. fox /fɒks/ (n.)
+ 86. free /friː/ (adj.)
+ 87. freezing /ˈfriːzɪŋ/ (adj.)
+ 88. fresh /freʃ/ (adj.)
+ 89. friendly /ˈfrendli/ (adj.)
+ 90. fruit /fruːt/ (n.)
+ 91. full of
+ 92. fur /fɜː(r)/ (n.)
+ 93. genie /ˈdʒiːni/ (n.)
+ 94. germ /dʒɜːm/ (n.)
+ 95. get out
+ 96. giraffe /dʒəˈrɑːf/ (n.)
+ 97. glad /ɡlæd/ (adj.)
+ 98. glove /ɡlʌv/ (n.)
+ 99. go away
+100. go with
+101. goal /ɡəʊl/ (n.)
+102. grain /ɡreɪn/ (n.)
+103. ground /ɡraʊnd/ (n.)
+104. group /ɡruːp/ (n.)
+105. guess /ɡes/ (v.)
+106. gun /ɡʌn/ (n.)
+107. habit /ˈhæbɪt/ (n.)
+108. hallway /ˈhɔːlweɪ/ (n.)
+109. hamburger /ˈhæmbɜːɡə(r)/ (n.)
+110. hand /hænd/ (n.)

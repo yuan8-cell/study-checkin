@@ -1,0 +1,138 @@
+=== Day 80 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. ever since
+  2. explorer /ɪkˈsplɔːrə(r)/ (n.)
+  3. express /ɪkˈspres/ (v.)
+  4. extinguisher /ɪkˈstɪŋɡwɪʃə(r)/ (n.)
+  5. failure /ˈfeɪljə(r)/ (n.)
+  6. false /fɔːls/ (adj.)
+  7. familiar with
+  8. fantasy /ˈfæntəsi/ (n.)
+  9. fear /fɪə(r)/ (n.)
+ 10. feel blue
+ 11. fever /ˈfiːvə(r)/ (n.)
+ 12. fiction /ˈfɪkʃn/ (n.)
+ 13. firefighter /ˈfaɪəfaɪtə(r)/ (n.)
+ 14. first aid
+ 15. firstly /ˈfɜːstli/ (adv.)
+ 16. fist /fɪst/ (n.)
+ 17. flame /fleɪm/ (n.)
+ 18. flood /flʌd/ (n.)
+ 19. floodwater /ˈflʌdwɔːtə(r)/ (n.)
+ 20. flu /fluː/ (n.)
+ 21. force /fɔːs/ (v.)
+ 22. foreign /ˈfɒrən/ (adj.)
+
+【Review (Day 65,73,76,78,79)】
+  1. offer /ˈɒfə(r)/ (v.)
+  2. oil /ɔɪl/ (n.)
+  3. one by one
+  4. opinion /əˈpɪnjən/ (n.)
+  5. opportunity /ˌɒpəˈtjuːnəti/ (n.)
+  6. organized /ˈɔːɡənaɪzd/
+  7. outer /ˈaʊtə(r)/ (adj.)
+  8. outgoing /ˌaʊtˈɡəʊɪŋ/ (adj.)
+  9. oven /ˈʌvn/ (n.)
+ 10. pack /pæk/ (v.)
+ 11. pack up
+ 12. painter /ˈpeɪntə(r)/ (n.)
+ 13. palace /ˈpæləs/ (n.)
+ 14. pan /pæn/ (n.)
+ 15. pancake /ˈpænkeɪk/ (n.)
+ 16. paper-cut /ˈpeɪpə(r)kʌt/ (n.)
+ 17. paragraph /ˈpærəɡrɑːf/ (n.)
+ 18. pass /pɑːs/ (v.)
+ 19. passport /ˈpɑːspɔːt/ (n.)
+ 20. pauper /ˈpɔːpə(r)/ (n.)
+ 21. pea /piː/ (n.)
+ 22. peace /piːs/ (n.)
+ 23. wing /wɪŋ/ (n.)
+ 24. winner /ˈwɪnə(r)/ (n.)
+ 25. wisely /ˈwaɪzli/ (adv.)
+ 26. without /wɪˈðaʊt/ (prep.)
+ 27. word /wɜːd/ (n.)
+ 28. worker /ˈwɜːkə/ (n.)
+ 29. worry /ˈwʌri/ (n.)
+ 30. worry about
+ 31. worse /wɜːs/ (adj.)
+ 32. writer /ˈraɪtə(r)/ (n.)
+ 33. yeah /jeə/ (interj.)
+ 34. yet /jet/ (adv.)
+ 35. a bit
+ 36. a good read
+ 37. above /əˈbʌv/ (prep.)
+ 38. ache /eɪk/ (n.)
+ 39. achievement /əˈtʃiːvmənt/ (n.)
+ 40. active /ˈæktɪv/ (adj.)
+ 41. adult /ˈædʌlt; əˈdʌlt/ (n.)
+ 42. adventure /ədˈventʃə(r)/ (n.)
+ 43. advise /ədˈvaɪz/ (v.)
+ 44. aid /eɪd/ (n.)
+ 45. bow /baʊ/ (v.)
+ 46. brightness /ˈbraɪtnəs/ (n.)
+ 47. bruised /bruːzd/ (adj.)
+ 48. bruno /ˈbruːnəʊ/
+ 49. build-up /ˈbɪldʌp/ (n.)
+ 50. bully /ˈbʊli/ (v.)
+ 51. bump /bʌmp/ (v.)
+ 52. by the time
+ 53. cage /keɪdʒ/ (n.)
+ 54. calligraphy /kəˈlɪɡrəfi/ (n.)
+ 55. catch fire
+ 56. charity /ˈtʃærəti/ (n.)
+ 57. chat /tʃæt/ (v.)
+ 58. check /tʃek/ (v.)
+ 59. cheek /tʃiːk/ (n.)
+ 60. cheers /tʃɪəz/ (interj.)
+ 61. chopstick /ˈtʃɒpstɪk/ (n.)
+ 62. chore /tʃɔː(r)/ (n.)
+ 63. clear /klɪə(r)/ (adj.)
+ 64. clear the air
+ 65. clearly /ˈklɪəli/ (adv.)
+ 66. cliff /klɪf/ (n.)
+ 67. cultural /ˈkʌltʃərəl/ (adj.)
+ 68. curiosity /ˌkjʊəriˈɒsəti/ (n.)
+ 69. curious /ˈkjʊəriəs/ (adj.)
+ 70. curry /ˈkʌri/ (n.)
+ 71. custom /ˈkʌstəm/ (n.)
+ 72. dare /deə(r)/ (v.)
+ 73. day by day
+ 74. deal /diːl/ (n.)
+ 75. deal with
+ 76. death /deθ/ (n.)
+ 77. decision /dɪˈsɪʒn/ (n.)
+ 78. deep /diːp/ (adj.)
+ 79. defeat /dɪˈfiːt/ (v.)
+ 80. degree /dɪˈɡriː/ (n.)
+ 81. dentist /ˈdentɪst/ (n.)
+ 82. depth /depθ/ (n.)
+ 83. desert /ˈdezət/ (n.)
+ 84. destroy /dɪˈstrɔɪ/ (v.)
+ 85. detective /dɪˈtektɪv/ (n.)
+ 86. development /dɪˈveləpmənt/ (n.)
+ 87. dickon /ˈdɪkən/
+ 88. differently /ˈdɪfrəntli/ (adv.)
+ 89. distance /ˈdɪstəns/ (n.)
+ 90. dive /daɪv/ (v.)
+ 91. do chores
+ 92. donate /dəʊˈneɪt/ (v.)
+ 93. donation /dəʊˈneɪʃn/ (n.)
+ 94. doubt /daʊt/ (v.)
+ 95. driver /ˈdraɪvə(r)/ (n.)
+ 96. drought /draʊt/ (n.)
+ 97. earthquake /ˈɜːθkweɪk/ (n.)
+ 98. eat out
+ 99. effect /ɪˈfekt/ (n.)
+100. effort /ˈefət/ (n.)
+101. egypt /ˈiːdʒɪpt/
+102. elbow /ˈelbəʊ/ (n.)
+103. elder /ˈeldə(r)/ (adj.)
+104. elderly /ˈeldəli/ (adj.)
+105. embarrassed /ɪmˈbærəst/ (adj.)
+106. emotion /ɪˈməʊʃn/ (n.)
+107. enemy /ˈenəmi/ (n.)
+108. enter /ˈentə(r)/ (v.)
+109. environment /ɪnˈvaɪrənmənt/ (n.)
+110. even though

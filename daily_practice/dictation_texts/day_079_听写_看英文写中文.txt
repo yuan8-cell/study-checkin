@@ -1,0 +1,138 @@
+=== Day 79 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. distance /ˈdɪstəns/ (n.)
+  2. dive /daɪv/ (v.)
+  3. do chores
+  4. donate /dəʊˈneɪt/ (v.)
+  5. donation /dəʊˈneɪʃn/ (n.)
+  6. doubt /daʊt/ (v.)
+  7. driver /ˈdraɪvə(r)/ (n.)
+  8. drought /draʊt/ (n.)
+  9. earthquake /ˈɜːθkweɪk/ (n.)
+ 10. eat out
+ 11. effect /ɪˈfekt/ (n.)
+ 12. effort /ˈefət/ (n.)
+ 13. egypt /ˈiːdʒɪpt/
+ 14. elbow /ˈelbəʊ/ (n.)
+ 15. elder /ˈeldə(r)/ (adj.)
+ 16. elderly /ˈeldəli/ (adj.)
+ 17. embarrassed /ɪmˈbærəst/ (adj.)
+ 18. emotion /ɪˈməʊʃn/ (n.)
+ 19. enemy /ˈenəmi/ (n.)
+ 20. enter /ˈentə(r)/ (v.)
+ 21. environment /ɪnˈvaɪrənmənt/ (n.)
+ 22. even though
+
+【Review (Day 64,72,75,77,78)】
+  1. memory /ˈmeməri/ (n.)
+  2. mention /ˈmenʃn/ (v.)
+  3. mess /mes/ (n.)
+  4. metre /ˈmiːtə(r)/
+  5. metro /ˈmetrəʊ/ (n.)
+  6. might /maɪt/
+  7. mini-goal /ˈmɪniˌɡəʊl/ (n.)
+  8. mirror /ˈmɪrə(r)/ (n.)
+  9. miss /mɪs/ (v.)
+ 10. misunderstanding /ˌmɪsʌndəˈstændɪŋ/ (n.)
+ 11. mix /mɪks/ (v.)
+ 12. moss /mɒs/ (n.)
+ 13. movie /ˈmuːvi/ (n.)
+ 14. mushroom /ˈmʌʃrʊm/ (n.)
+ 15. musician /mjuˈzɪʃn/ (n.)
+ 16. nazi /ˈnɑːtsi/ (n.)
+ 17. nod /nɒd/ (v.)
+ 18. noon /nuːn/ (n.)
+ 19. note /nəʊt/ (n.)
+ 20. nothing but
+ 21. novel /ˈnɒvl/ (n.)
+ 22. ocean /ˈəʊʃn/ (n.)
+ 23. tool /tuːl/ (n.)
+ 24. topic /ˈtɒpɪk/ (n.)
+ 25. touch /tʌtʃ/ (v.)
+ 26. towards /təˈwɔːdz; tɔːrdz/
+ 27. tower /ˈtaʊə(r)/ (n.)
+ 28. town /taʊn/ (n.)
+ 29. traffic /ˈtræfɪk/ (n.)
+ 30. train /treɪn/ (n.)
+ 31. training /ˈtreɪnɪŋ/ (n.)
+ 32. treasure /ˈtreʒə(r)/ (n.)
+ 33. treasure hunt
+ 34. trust /trʌst/ (n.)
+ 35. turn around
+ 36. up to
+ 37. vacation /vəˈkeɪʃn/ (n.)
+ 38. victory /ˈvɪktəri/ (n.)
+ 39. video /ˈvɪdiəʊ/ (n.)
+ 40. vincent /ˈvɪnsənt/
+ 41. visible /ˈvɪzəbl/ (adj.)
+ 42. wallet /ˈwɒlɪt/ (n.)
+ 43. weigh /weɪ/ (v.)
+ 44. wherever /weərˈevə(r)/ (adv.)
+ 45. audience /ˈɔːdiəns/ (n.)
+ 46. avoid /əˈvɔɪd/ (v.)
+ 47. awake /əˈweɪk/ (adj.)
+ 48. award /əˈwɔːd/ (n.)
+ 49. backache /ˈbækeɪk/ (n.)
+ 50. badal /ˈbɑːdl/
+ 51. bark /bɑːk/ (v.)
+ 52. base /beɪs/ (v.)
+ 53. base sth on sth
+ 54. basic /ˈbeɪsɪk/ (adj.)
+ 55. be about to
+ 56. be hard on
+ 57. be used to
+ 58. behave /bɪˈheɪv/ (v.)
+ 59. belgium /ˈbeldʒəm/
+ 60. below /bɪˈləʊ/ (prep.)
+ 61. ben /ben/
+ 62. bit /bɪt/ (n.)
+ 63. bit by bit
+ 64. blouse /blaʊz/ (n.)
+ 65. bone /bəʊn/ (n.)
+ 66. bottom /ˈbɒtəm/ (n.)
+ 67. climax /ˈklaɪmæks/ (n.)
+ 68. climber /ˈklaɪmə(r)/ (n.)
+ 69. coach /kəʊtʃ/ (n.)
+ 70. coast /kəʊst/ (n.)
+ 71. coin /kɔɪn/ (n.)
+ 72. colin /ˈkɒlɪn/
+ 73. come along
+ 74. completely /kəmˈpliːtli/ (adv.)
+ 75. condition /kənˈdɪʃn/ (n.)
+ 76. confused /kənˈfjuːzd/ (adj.)
+ 77. congratulate /kənˈɡrætʃəleɪt/ (v.)
+ 78. consider /kənˈsɪdə(r)/ (v.)
+ 79. control /kənˈtrəʊl/ (v.)
+ 80. cooper /ˈkuːpə(r)/
+ 81. coral /ˈkɒrəl/ (n.)
+ 82. correct /kəˈrekt/ (adj.)
+ 83. correctly /kəˈrektli/ (adv.)
+ 84. cough /kɒf/ (n.)
+ 85. craven /ˈkreɪvn/
+ 86. cross /krɒs/ (v.)
+ 87. cubic /ˈkjuːbɪk/ (adj.)
+ 88. cubic metre
+ 89. cultural /ˈkʌltʃərəl/ (adj.)
+ 90. curiosity /ˌkjʊəriˈɒsəti/ (n.)
+ 91. curious /ˈkjʊəriəs/ (adj.)
+ 92. curry /ˈkʌri/ (n.)
+ 93. custom /ˈkʌstəm/ (n.)
+ 94. dare /deə(r)/ (v.)
+ 95. day by day
+ 96. deal /diːl/ (n.)
+ 97. deal with
+ 98. death /deθ/ (n.)
+ 99. decision /dɪˈsɪʒn/ (n.)
+100. deep /diːp/ (adj.)
+101. defeat /dɪˈfiːt/ (v.)
+102. degree /dɪˈɡriː/ (n.)
+103. dentist /ˈdentɪst/ (n.)
+104. depth /depθ/ (n.)
+105. desert /ˈdezət/ (n.)
+106. destroy /dɪˈstrɔɪ/ (v.)
+107. detective /dɪˈtektɪv/ (n.)
+108. development /dɪˈveləpmənt/ (n.)
+109. dickon /ˈdɪkən/
+110. differently /ˈdɪfrəntli/ (adv.)

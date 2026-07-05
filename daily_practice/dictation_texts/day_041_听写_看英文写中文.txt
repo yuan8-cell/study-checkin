@@ -1,0 +1,138 @@
+=== Day 41 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. lovely /ˈlʌvli/ (adj.)
+  2. luck /lʌk/ (n.)
+  3. lucky /ˈlʌki/ (adj.)
+  4. lucky you
+  5. machine /məˈʃiːn/ (n.)
+  6. made of
+  7. magical /ˈmædʒɪkl/ (adj.)
+  8. make a promise
+  9. make money
+ 10. make progress
+ 11. malee /mɑːˈliː/
+ 12. market /ˈmɑːkɪt/ (n.)
+ 13. mary /ˈmeəri/
+ 14. mat /mæt/ (n.)
+ 15. match /mætʃ/ (n.)
+ 16. maybe /ˈmeɪbi/ (adv.)
+ 17. meal /miːl/ (n.)
+ 18. meet up
+ 19. menu /ˈmenjuː/ (n.)
+ 20. message /ˈmesɪdʒ/ (n.)
+ 21. mine /maɪn/ (pron.)
+ 22. mobile /ˈməʊbaɪl/ (adj.)
+
+【Review (Day 26,34,37,39,40)】
+  1. tenth /tenθ/ (num.)
+  2. term /tɜːm/ (n.)
+  3. than /ðæn; ðən/ (prep.)
+  4. thank /θæŋk/ (v.)
+  5. that /ðæt/ (pron.)
+  6. their /ðeə(r)/ (pron.)
+  7. them /ðem; ðəm/ (pron.)
+  8. then /ðen/ (adv.)
+  9. there /ðeə(r)/ (adv.)
+ 10. these /ðiːz/ (pron.)
+ 11. they /ðeɪ/ (pron.)
+ 12. thing /θɪŋ/ (n.)
+ 13. third /θɜːd/ (num.)
+ 14. thirteen /ˌθɜːˈtiːn/ (num.)
+ 15. thirteenth /ˌθɜːˈtiːnθ/ (num.)
+ 16. thirtieth /ˈθɜːtiəθ/ (num.)
+ 17. thirty /ˈθɜːti/ (num.)
+ 18. this /ðɪs/ (pron.)
+ 19. those /ðəʊz/ (pron.)
+ 20. thousand /ˈθaʊznd/ (num.)
+ 21. three /θriː/ (num.)
+ 22. tidy /ˈtaɪdi/ (adj.)
+ 23. create /kriˈeɪt/ (v.)
+ 24. cry /kraɪ/ (v.)
+ 25. cucumber /ˈkjuːkʌmbə(r)/ (n.)
+ 26. culture /ˈkʌltʃə(r)/ (n.)
+ 27. cup /kʌp/ (n.)
+ 28. customer /ˈkʌstəmə(r)/ (n.)
+ 29. cut /kʌt/ (v.)
+ 30. cut down
+ 31. danger /ˈdeɪndʒə(r)/ (n.)
+ 32. dangerous /ˈdeɪndʒərəs/ (adj.)
+ 33. darling /ˈdɑːlɪŋ/ (n.)
+ 34. decide /dɪˈsaɪd/ (v.)
+ 35. description /dɪˈskrɪpʃn/ (n.)
+ 36. die /daɪ/ (v.)
+ 37. direction /dɪˈrekʃn; daɪˈrekʃn/ (n.)
+ 38. dirty /ˈdɜːti/ (adj.)
+ 39. dish /dɪʃ/ (n.)
+ 40. doctor /ˈdɒktə(r)/ (n.)
+ 41. double /ˈdʌbl/ (n.)
+ 42. dragon /ˈdræɡən/ (n.)
+ 43. drive /draɪv/ (v.)
+ 44. drop /drɒp/ (v.)
+ 45. friendly /ˈfrendli/ (adj.)
+ 46. fruit /fruːt/ (n.)
+ 47. full of
+ 48. fur /fɜː(r)/ (n.)
+ 49. genie /ˈdʒiːni/ (n.)
+ 50. germ /dʒɜːm/ (n.)
+ 51. get out
+ 52. giraffe /dʒəˈrɑːf/ (n.)
+ 53. glad /ɡlæd/ (adj.)
+ 54. glove /ɡlʌv/ (n.)
+ 55. go away
+ 56. go with
+ 57. goal /ɡəʊl/ (n.)
+ 58. grain /ɡreɪn/ (n.)
+ 59. ground /ɡraʊnd/ (n.)
+ 60. group /ɡruːp/ (n.)
+ 61. guess /ɡes/ (v.)
+ 62. gun /ɡʌn/ (n.)
+ 63. habit /ˈhæbɪt/ (n.)
+ 64. hallway /ˈhɔːlweɪ/ (n.)
+ 65. hamburger /ˈhæmbɜːɡə(r)/ (n.)
+ 66. hand /hænd/ (n.)
+ 67. hospital /ˈhɒspɪtl/ (n.)
+ 68. however /haʊˈevə(r)/ (adv.)
+ 69. huge /hjuːdʒ/ (adj.)
+ 70. hungry /ˈhʌŋɡri/ (adj.)
+ 71. hunter /ˈhʌntə(r)/ (n.)
+ 72. hurry /ˈhʌri/ (v.)
+ 73. if /ɪf/ (conj.)
+ 74. improve /ɪmˈpruːv/ (v.)
+ 75. in a hurry
+ 76. in danger
+ 77. in high spirits
+ 78. in the end
+ 79. inside /ˌɪnˈsaɪd/ (prep.)
+ 80. instead /ɪnˈsted/ (adv.)
+ 81. instead of
+ 82. into /ˈɪntuː; ˈɪntə/ (prep.)
+ 83. ivory /ˈaɪvəri/ (n.)
+ 84. jacket /ˈdʒækɪt/ (n.)
+ 85. jog /dʒɒɡ/ (v.)
+ 86. john /dʒɒn/
+ 87. jump rope
+ 88. jump the queue
+ 89. just /dʒʌst/ (adv.)
+ 90. kenya /ˈkenjə/
+ 91. kick /kɪk/ (v.)
+ 92. kill /kɪl/ (v.)
+ 93. king /kɪŋ/ (n.)
+ 94. kite /kaɪt/ (n.)
+ 95. late /leɪt/ (adj.)
+ 96. late for
+ 97. laugh at
+ 98. leave /liːv/ (v.)
+ 99. leave a message
+100. leg /leɡ/ (n.)
+101. lend /lend/ (v.)
+102. lie /laɪ/ (v.)
+103. light /laɪt/ (n.)
+104. lightning /ˈlaɪtnɪŋ/ (n.)
+105. lion /ˈlaɪən/ (n.)
+106. litter /ˈlɪtə(r)/ (v.)
+107. long ago
+108. look after
+109. look forward to
+110. lose /luːz/ (v.)

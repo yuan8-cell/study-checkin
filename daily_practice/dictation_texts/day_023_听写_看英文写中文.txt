@@ -1,0 +1,138 @@
+=== Day 23 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. seven /ˈsevn/ (num.)
+  2. seventeen /ˌsevnˈtiːn/ (num.)
+  3. seventeenth /ˌsevnˈtiːnθ/ (num.)
+  4. seventh /ˈsevnθ/ (num.)
+  5. seventieth /ˈsevntiəθ/ (num.)
+  6. seventy /ˈsevnti/ (num.)
+  7. share /ʃeə(r)/ (v.)
+  8. she /ʃiː; ʃi/ (pron.)
+  9. sheep /ʃiːp/ (n.)
+ 10. shoe /ʃuː/ (n.)
+ 11. shop /ʃɒp/ (n.)
+ 12. short /ʃɔːt/ (adj.)
+ 13. shower /ˈʃaʊə(r)/ (n.)
+ 14. similar to
+ 15. sing /sɪŋ/ (v.)
+ 16. singapore /ˌsɪŋəˈpɔː(r)/
+ 17. singer /ˈsɪŋə(r)/ (n.)
+ 18. sister /ˈsɪstə(r)/ (n.)
+ 19. sit /sɪt/ (v.)
+ 20. six /sɪks/ (num.)
+ 21. sixteen /ˌsɪkˈstiːn/ (num.)
+ 22. sixteenth /ˌsɪkˈstiːnθ/ (num.)
+
+【Review (Day 8,16,19,21,22)】
+  1. early /ˈɜːli/ (adj.)
+  2. easy /ˈiːzi/ (adj.)
+  3. eat /iːt/ (v.)
+  4. egg /eɡ/ (n.)
+  5. eight /eɪt/ (num.)
+  6. eighth /eɪtθ/ (num.)
+  7. eightieth /ˈeɪtiəθ/ (num.)
+  8. eighty /ˈeɪti/ (num.)
+  9. eleven /ɪˈlevn/ (num.)
+ 10. eleventh /ɪˈlevnθ/ (num.)
+ 11. ella /ˈelə/
+ 12. else /els/ (adv.)
+ 13. emma /ˈemə/
+ 14. english /ˈɪŋɡlɪʃ/ (n.)
+ 15. eraser /ɪˈreɪzə(r)/ (n.)
+ 16. even /ˈiːvn/ (adv.)
+ 17. every day
+ 18. everyday /ˈevrideɪ/ (adj.)
+ 19. example /ɪɡˈzɑːmpl/ (n.)
+ 20. exciting /ɪkˈsaɪtɪŋ/ (adj.)
+ 21. eye /aɪ/ (n.)
+ 22. fall /fɔːl/ (v.)
+ 23. linda /ˈlɪndə/
+ 24. lisa /ˈliːsə/
+ 25. list /lɪst/ (n.)
+ 26. listen /ˈlɪsn/ (v.)
+ 27. listen to
+ 28. little /ˈlɪtl/ (adj.)
+ 29. live /lɪv/ (v.)
+ 30. london /ˈlʌndən/
+ 31. long /lɒŋ/ (adj.)
+ 32. look /lʊk/ (v.)
+ 33. look at
+ 34. lot /lɒt/ (pron.)
+ 35. love /lʌv/ (v.)
+ 36. lucy /ˈluːsi/
+ 37. lunch /lʌntʃ/ (n.)
+ 38. magic /ˈmædʒɪk/ (n.)
+ 39. make /meɪk/ (v.)
+ 40. make a wish
+ 41. make friends
+ 42. make use of
+ 43. many /ˈmeni/ (adj.)
+ 44. map /mæp/ (n.)
+ 45. nose /nəʊz/ (n.)
+ 46. notice /ˈnəʊtɪs/ (n.)
+ 47. now /naʊ/ (adv.)
+ 48. number /ˈnʌmbə(r)/ (n.)
+ 49. of /ɒv; əv/ (prep.)
+ 50. office /ˈɒfɪs/ (n.)
+ 51. often /ˈɒfn; ˈɒftən/ (adv.)
+ 52. oh /əʊ/ (interj.)
+ 53. ok /əʊˈkeɪ/ (interj.)
+ 54. old /əʊld/ (adj.)
+ 55. on /ɒn/ (prep.)
+ 56. on duty
+ 57. one /wʌn/ (num.)
+ 58. only /ˈəʊnli/ (adv.)
+ 59. or /ɔː(r)/ (conj.)
+ 60. oscar /ˈɒskə(r)/
+ 61. other /ˈʌðə(r)/ (pron.)
+ 62. our /ɑː(r); ˈaʊə(r)/ (pron.)
+ 63. out /aʊt/ (adv.)
+ 64. page /peɪdʒ/ (n.)
+ 65. paint /peɪnt/ (v.)
+ 66. pair /peə(r)/ (n.)
+ 67. pm /ˌpiː ˈem/
+ 68. post /pəʊst/ (n.)
+ 69. pot /pɒt/ (n.)
+ 70. potato /pəˈteɪtəʊ/ (n.)
+ 71. prc /ˌpiː ɑː(r) ˈsiː/
+ 72. prepare /prɪˈpeə(r)/ (v.)
+ 73. prepare sth for
+ 74. price /praɪs/ (n.)
+ 75. problem /ˈprɒbləm/ (n.)
+ 76. put up
+ 77. question /ˈkwestʃən/ (n.)
+ 78. quiet /ˈkwaɪət/ (adj.)
+ 79. rabbit /ˈræbɪt/ (n.)
+ 80. raise /reɪz/ (v.)
+ 81. re /riː/ (prep.)
+ 82. read /riːd/ (v.)
+ 83. really /ˈriːəli/ (adv.)
+ 84. reason /ˈriːzn/ (n.)
+ 85. red /red/ (adj.)
+ 86. remember /rɪˈmembə(r)/ (v.)
+ 87. reporter /rɪˈpɔːtə(r)/ (n.)
+ 88. restaurant /ˈrestrɒnt/ (n.)
+ 89. right /raɪt/ (n.)
+ 90. rise /raɪz/ (v.)
+ 91. room /ruːm/ (n.)
+ 92. routine /ruːˈtiːn/ (n.)
+ 93. ruler /ˈruːlə(r)/ (n.)
+ 94. run /rʌn/ (v.)
+ 95. sale /seɪl/ (n.)
+ 96. sally /ˈsæli/
+ 97. sam /sæm/
+ 98. same /seɪm/ (adj.)
+ 99. sarah /ˈseərə/
+100. say /seɪ/ (v.)
+101. saying /ˈseɪɪŋ/ (n.)
+102. schoolbag /ˈskuːlbæɡ/ (n.)
+103. science /ˈsaɪəns/ (n.)
+104. scientist /ˈsaɪəntɪst/ (n.)
+105. screen /skriːn/ (n.)
+106. seat /siːt/ (n.)
+107. second /ˈsekənd/ (num.)
+108. section /ˈsekʃn/ (n.)
+109. see /siː/ (v.)
+110. send /send/ (v.)

@@ -1,0 +1,138 @@
+=== Day 46 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. safe /seɪf/ (adj.)
+  2. salad /ˈsæləd/ (n.)
+  3. salt /sɔːlt; sɒlt/ (n.)
+  4. sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ (n.)
+  5. save /seɪv/ (v.)
+  6. scary /ˈskeəri/ (adj.)
+  7. sea /siː/ (n.)
+  8. search /sɜːtʃ/ (v.)
+  9. search for
+ 10. season /ˈsiːzn/ (n.)
+ 11. seem /siːm/ (v.)
+ 12. seldom /ˈseldəm/ (adv.)
+ 13. serve /sɜːv/ (v.)
+ 14. set /set/ (v.)
+ 15. shark /ʃɑːk/ (n.)
+ 16. shine /ʃaɪn/ (v.)
+ 17. should /ʃʊd; ʃəd/
+ 18. shout /ʃaʊt/ (v.)
+ 19. show /ʃəʊ/ (v.)
+ 20. shuttlecock /ˈʃʌtlkɒk/ (n.)
+ 21. side /saɪd/ (n.)
+ 22. side by side
+
+【Review (Day 31,39,42,44,45)】
+  1. arm /ɑːm/ (n.)
+  2. around the world
+  3. arrive /əˈraɪv/ (v.)
+  4. article /ˈɑːtɪkl/ (n.)
+  5. artist /ˈɑːtɪst/ (n.)
+  6. astronaut /ˈæstrənɔːt/ (n.)
+  7. at first
+  8. at the end
+  9. at the moment
+ 10. at the start
+ 11. at the top
+ 12. away /əˈweɪ/ (adv.)
+ 13. awful /ˈɔːfl/ (adj.)
+ 14. bad /bæd/ (adj.)
+ 15. badminton /ˈbædmɪntən/ (n.)
+ 16. bag /bæɡ/ (n.)
+ 17. balanced /ˈbælənst/ (adj.)
+ 18. banana /bəˈnɑːnə/ (n.)
+ 19. baseball /ˈbeɪsbɔːl/ (n.)
+ 20. basket /ˈbɑːskɪt/ (n.)
+ 21. beach /biːtʃ/ (n.)
+ 22. beach volleyball
+ 23. hospital /ˈhɒspɪtl/ (n.)
+ 24. however /haʊˈevə(r)/ (adv.)
+ 25. huge /hjuːdʒ/ (adj.)
+ 26. hungry /ˈhʌŋɡri/ (adj.)
+ 27. hunter /ˈhʌntə(r)/ (n.)
+ 28. hurry /ˈhʌri/ (v.)
+ 29. if /ɪf/ (conj.)
+ 30. improve /ɪmˈpruːv/ (v.)
+ 31. in a hurry
+ 32. in danger
+ 33. in high spirits
+ 34. in the end
+ 35. inside /ˌɪnˈsaɪd/ (prep.)
+ 36. instead /ɪnˈsted/ (adv.)
+ 37. instead of
+ 38. into /ˈɪntuː; ˈɪntə/ (prep.)
+ 39. ivory /ˈaɪvəri/ (n.)
+ 40. jacket /ˈdʒækɪt/ (n.)
+ 41. jog /dʒɒɡ/ (v.)
+ 42. john /dʒɒn/
+ 43. jump rope
+ 44. jump the queue
+ 45. mobile phone
+ 46. moment /ˈməʊmənt/ (n.)
+ 47. money /ˈmʌni/ (n.)
+ 48. monkey /ˈmʌŋki/ (n.)
+ 49. mount /maʊnt/ (n.)
+ 50. mountain /ˈmaʊntən/ (n.)
+ 51. move /muːv/ (v.)
+ 52. museum /mjuˈziːəm/ (n.)
+ 53. must /mʌst; məst/
+ 54. mutton /ˈmʌtn/ (n.)
+ 55. nairobi /naɪˈrəʊbi/
+ 56. near /nɪə(r)/ (prep.)
+ 57. neck /nek/ (n.)
+ 58. neighbour /ˈneɪbə(r)/ (n.)
+ 59. net /net/ (n.)
+ 60. noise /nɔɪz/ (n.)
+ 61. north /nɔːθ/ (n.)
+ 62. off /ɒf/ (adv.)
+ 63. official /əˈfɪʃl/ (n.)
+ 64. on time
+ 65. once /wʌns/ (adv.)
+ 66. once upon a time
+ 67. poor /pɔː(r); pʊə(r)/ (adj.)
+ 68. pork /pɔːk/ (n.)
+ 69. porridge /ˈpɒrɪdʒ/ (n.)
+ 70. pour /pɔː(r)/ (v.)
+ 71. powerful /ˈpaʊəfl/ (adj.)
+ 72. practice /ˈpræktɪs/ (n.)
+ 73. practise /ˈpræktɪs/ (v.)
+ 74. praise /preɪz/ (v.)
+ 75. pretend /prɪˈtend/ (v.)
+ 76. process /ˈprəʊses/ (n.)
+ 77. progress /ˈprəʊɡres/ (n.)
+ 78. purr /pɜː(r)/ (v.)
+ 79. put on
+ 80. queue /kjuː/ (n.)
+ 81. quickly /ˈkwɪkli/ (adv.)
+ 82. quietly /ˈkwaɪətli/ (adv.)
+ 83. quite /kwaɪt/ (adv.)
+ 84. quite a
+ 85. race /reɪs/ (n.)
+ 86. racket /ˈrækɪt/ (n.)
+ 87. rain /reɪn/ (n.)
+ 88. rain or shine
+ 89. real /rɪəl/ (adj.)
+ 90. realize /ˈrɪəlaɪz/
+ 91. record /rɪˈkɔːd/ (v.)
+ 92. relax /rɪˈlæks/ (v.)
+ 93. remove /rɪˈmuːv/ (v.)
+ 94. respect /rɪˈspekt/ (n.)
+ 95. rest /rest/ (n.)
+ 96. rest area
+ 97. result /rɪˈzʌlt/ (n.)
+ 98. rice /raɪs/ (n.)
+ 99. rich /rɪtʃ/ (adj.)
+100. ride /raɪd/ (v.)
+101. right now
+102. river /ˈrɪvə(r)/ (n.)
+103. road /rəʊd/ (n.)
+104. robot /ˈrəʊbɒt/ (n.)
+105. rock /rɒk/ (n.)
+106. rope /rəʊp/ (n.)
+107. rule /ruːl/ (n.)
+108. run after
+109. rush /rʌʃ/ (v.)
+110. sad /sæd/ (adj.)

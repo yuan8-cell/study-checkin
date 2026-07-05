@@ -1,0 +1,138 @@
+=== Day 67 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. prefer /prɪˈfɜː(r)/ (v.)
+  2. pretty /ˈprɪti/ (adj.)
+  3. prince /prɪns/ (n.)
+  4. prize /praɪz/ (n.)
+  5. probably /ˈprɒbəbli/ (adv.)
+  6. professor /prəˈfesə(r)/ (n.)
+  7. protect /prəˈtekt/ (v.)
+  8. province /ˈprɒvɪns/ (n.)
+  9. public /ˈpʌblɪk/ (adj.)
+ 10. pull /pʊl/ (v.)
+ 11. pumpkin /ˈpʌmpkɪn/ (n.)
+ 12. push-up /ˈpʊʃʌp/ (n.)
+ 13. put out
+ 14. put sth back
+ 15. quality /ˈkwɒləti/ (n.)
+ 16. rainbow /ˈreɪnbəʊ/ (n.)
+ 17. rainfall /ˈreɪnfɔːl/ (n.)
+ 18. reach /riːtʃ/ (v.)
+ 19. reach for
+ 20. ready /ˈredi/ (adj.)
+ 21. ready to do sth
+ 22. recipe /ˈresəpi/ (n.)
+
+【Review (Day 52,60,63,65,66)】
+  1. war /wɔː(r)/ (n.)
+  2. warm /wɔːm/ (adj.)
+  3. wash /wɒʃ/ (v.)
+  4. waste /weɪst/ (n.)
+  5. wastewater /ˈweɪstwɔːtə(r)/ (n.)
+  6. water /ˈwɔːtə(r)/ (n.)
+  7. watermelon /ˈwɔːtəˌmelən/ (n.)
+  8. weather /ˈweðə(r)/ (n.)
+  9. weekday /ˈwiːkdeɪ/ (n.)
+ 10. weight /weɪt/ (n.)
+ 11. well-used /ˌwelˈjuːzd/ (adj.)
+ 12. west /west/ (n.)
+ 13. wet /wet/ (adj.)
+ 14. whale /weɪl/ (n.)
+ 15. win /wɪn/ (v.)
+ 16. wind /wɪnd/ (n.)
+ 17. winter /ˈwɪntə(r)/ (n.)
+ 18. wise /waɪz/ (adj.)
+ 19. wonderful /ˈwʌndəfl/ (adj.)
+ 20. work on
+ 21. working /ˈwɜːkɪŋ/ (adj.)
+ 22. working day
+ 23. friendship /ˈfrendʃɪp/ (n.)
+ 24. frog /frɒɡ/ (n.)
+ 25. futurist /ˈfjuːtʃərɪst/ (n.)
+ 26. game /ɡeɪm/ (n.)
+ 27. german /ˈdʒɜːmən/ (n.)
+ 28. get together
+ 29. ginkgo /ˈɡɪŋkəʊ/ (n.)
+ 30. give sb a lift
+ 31. glue /ɡluː/ (n.)
+ 32. go boating
+ 33. go shopping
+ 34. goodness /ˈɡʊdnəs/ (n.)
+ 35. grape /ɡreɪp/ (n.)
+ 36. guest /gest/ (n.)
+ 37. guide /ɡaɪd/ (n.)
+ 38. hang up
+ 39. happiness /ˈhæpinəs/ (n.)
+ 40. hard-working /ˌhɑːd ˈwɜːkɪŋ/ (adj.)
+ 41. harry /ˈhæri/
+ 42. have sth in common
+ 43. health /helθ/ (n.)
+ 44. healthily /ˈhelθɪli/ (adv.)
+ 45. lift /lɪft/ (n.)
+ 46. line /laɪn/ (n.)
+ 47. lining /ˈlaɪnɪŋ/ (n.)
+ 48. listener /ˈlɪsənə(r)/ (n.)
+ 49. literature /ˈlɪtrətʃə(r)/ (n.)
+ 50. living room
+ 51. local /ˈləʊkl/ (adj.)
+ 52. look for
+ 53. lotus /ˈləʊtəs/ (n.)
+ 54. loud /laʊd/ (adv.)
+ 55. low /ləʊ/ (adv.)
+ 56. luggage /ˈlʌɡɪdʒ/ (n.)
+ 57. make a mistake
+ 58. make sure
+ 59. mandy /ˈmændi/
+ 60. mashed /mæʃt/
+ 61. matt /mæt/
+ 62. matter /ˈmætə(r)/ (v.)
+ 63. meaning /ˈmiːnɪŋ/ (n.)
+ 64. meat /miːt/ (n.)
+ 65. medical /ˈmedɪkl/ (adj.)
+ 66. meeting /ˈmiːtɪŋ/ (n.)
+ 67. offer /ˈɒfə(r)/ (v.)
+ 68. oil /ɔɪl/ (n.)
+ 69. one by one
+ 70. opinion /əˈpɪnjən/ (n.)
+ 71. opportunity /ˌɒpəˈtjuːnəti/ (n.)
+ 72. organized /ˈɔːɡənaɪzd/
+ 73. outer /ˈaʊtə(r)/ (adj.)
+ 74. outgoing /ˌaʊtˈɡəʊɪŋ/ (adj.)
+ 75. oven /ˈʌvn/ (n.)
+ 76. pack /pæk/ (v.)
+ 77. pack up
+ 78. painter /ˈpeɪntə(r)/ (n.)
+ 79. palace /ˈpæləs/ (n.)
+ 80. pan /pæn/ (n.)
+ 81. pancake /ˈpænkeɪk/ (n.)
+ 82. paper-cut /ˈpeɪpə(r)kʌt/ (n.)
+ 83. paragraph /ˈpærəɡrɑːf/ (n.)
+ 84. pass /pɑːs/ (v.)
+ 85. passport /ˈpɑːspɔːt/ (n.)
+ 86. pauper /ˈpɔːpə(r)/ (n.)
+ 87. pea /piː/ (n.)
+ 88. peace /piːs/ (n.)
+ 89. peony /ˈpiːəni/ (n.)
+ 90. pepper /ˈpepə(r)/ (n.)
+ 91. per /pə(r); pɜː(r)/ (prep.)
+ 92. perform /pəˈfɔːm/ (v.)
+ 93. perhaps /pəˈhæps; præps/ (adv.)
+ 94. personality /ˌpɜːsəˈnæləti/ (n.)
+ 95. photographer /fəˈtɒɡrəfə(r)/ (n.)
+ 96. photography /fəˈtɒɡrəfi/ (n.)
+ 97. physical /ˈfɪzɪkl/ (adj.)
+ 98. pie /paɪ/ (n.)
+ 99. pilot /ˈpaɪlət/ (n.)
+100. plan /plæn/ (v.)
+101. planet /ˈplænɪt/ (n.)
+102. plate /pleɪt/ (n.)
+103. pleasant /ˈpleznt/ (adj.)
+104. point /pɔɪnt/ (n.)
+105. pollen /ˈpɒlən/ (n.)
+106. pollination /ˌpɒləˈneɪʃn/ (n.)
+107. population /ˌpɒpjuˈleɪʃn/ (n.)
+108. poster /ˈpəʊstə(r)/ (n.)
+109. pour sth into sth
+110. prediction /prɪˈdɪkʃn/ (n.)

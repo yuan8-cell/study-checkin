@@ -1,0 +1,116 @@
+=== Day 10 Dictation (English → Chinese) ===
+New: 22 | Review: 88
+
+【New Words】
+  1. fish /fɪʃ/ (v.)
+  2. five /faɪv/ (num.)
+  3. flag /flæɡ/ (n.)
+  4. flora /ˈflɔːrə/
+  5. flower /ˈflaʊə(r)/ (n.)
+  6. fly /flaɪ/ (v.)
+  7. food /fuːd/ (n.)
+  8. football /ˈfʊtbɔːl/ (n.)
+  9. for /fɔː(r); fə(r)/ (prep.)
+ 10. for example
+ 11. fortieth /ˈfɔːtiəθ/ (num.)
+ 12. forty /ˈfɔːti/ (num.)
+ 13. found /faʊnd/ (v.)
+ 14. four /fɔː(r)/ (num.)
+ 15. fourteen /ˌfɔːˈtiːn/ (num.)
+ 16. fourteenth /ˌfɔːˈtiːnθ/ (num.)
+ 17. fourth /fɔːθ/ (num.)
+ 18. fred /fred/
+ 19. french /frentʃ/ (n.)
+ 20. friend /frend/ (n.)
+ 21. from /frɒm; frəm/ (prep.)
+ 22. front /frʌnt/ (n.)
+
+【Review (Day 3,6,8,9)】
+  1. be /biː; bi/ (v.)
+  2. beautiful /ˈbjuːtɪfl/ (adj.)
+  3. because /bɪˈkɒz/ (conj.)
+  4. bed /bed/ (n.)
+  5. beef /biːf/ (n.)
+  6. before /bɪˈfɔː(r)/ (prep.)
+  7. begin /bɪˈɡɪn/ (v.)
+  8. behind /bɪˈhaɪnd/ (prep.)
+  9. bell /bel/ (n.)
+ 10. best /best/ (adj.)
+ 11. between /bɪˈtwiːn/ (prep.)
+ 12. bill /bɪl/ (n.)
+ 13. biology /baɪˈɒlədʒi/ (n.)
+ 14. bird /bɜːd/ (n.)
+ 15. birthday /ˈbɜːθdeɪ/ (n.)
+ 16. black /blæk/ (adj.)
+ 17. blackboard /ˈblækbɔːd/ (n.)
+ 18. blow /bləʊ/ (v.)
+ 19. blow out
+ 20. blue /bluː/ (adj.)
+ 21. book /bʊk/ (n.)
+ 22. bookcase /ˈbʊkkeɪs/ (n.)
+ 23. coco /ˈkəʊkəʊ/
+ 24. collect /kəˈlekt/ (v.)
+ 25. colour /ˈkʌlə(r)/
+ 26. come /kʌm/ (v.)
+ 27. computer /kəmˈpjuːtə(r)/ (n.)
+ 28. contact /ˈkɒntækt/ (n.)
+ 29. conversation /ˌkɒnvəˈseɪʃn/ (n.)
+ 30. cook /kʊk/ (v.)
+ 31. corner /ˈkɔːnə(r)/ (n.)
+ 32. count /kaʊnt/ (v.)
+ 33. country /ˈkʌntri/ (n.)
+ 34. cousin /ˈkʌzn/ (n.)
+ 35. cow /kaʊ/ (n.)
+ 36. cute /kjuːt/ (adj.)
+ 37. dad /dæd/ (n.)
+ 38. daily /ˈdeɪli/ (adj.)
+ 39. daily routine
+ 40. dance /dɑːns/ (v.)
+ 41. dark /dɑːk/ (adj.)
+ 42. david /ˈdeɪvɪd/
+ 43. davis /ˈdeɪvɪs/
+ 44. day /deɪ/ (n.)
+ 45. early /ˈɜːli/ (adj.)
+ 46. easy /ˈiːzi/ (adj.)
+ 47. eat /iːt/ (v.)
+ 48. egg /eɡ/ (n.)
+ 49. eight /eɪt/ (num.)
+ 50. eighth /eɪtθ/ (num.)
+ 51. eightieth /ˈeɪtiəθ/ (num.)
+ 52. eighty /ˈeɪti/ (num.)
+ 53. eleven /ɪˈlevn/ (num.)
+ 54. eleventh /ɪˈlevnθ/ (num.)
+ 55. ella /ˈelə/
+ 56. else /els/ (adv.)
+ 57. emma /ˈemə/
+ 58. english /ˈɪŋɡlɪʃ/ (n.)
+ 59. eraser /ɪˈreɪzə(r)/ (n.)
+ 60. even /ˈiːvn/ (adv.)
+ 61. every day
+ 62. everyday /ˈevrideɪ/ (adj.)
+ 63. example /ɪɡˈzɑːmpl/ (n.)
+ 64. exciting /ɪkˈsaɪtɪŋ/ (adj.)
+ 65. eye /aɪ/ (n.)
+ 66. fall /fɔːl/ (v.)
+ 67. fall in love with
+ 68. family /ˈfæməli/ (n.)
+ 69. famous /ˈfeɪməs/ (adj.)
+ 70. fast /fɑːst/ (adv.)
+ 71. father /ˈfɑːðə(r)/ (n.)
+ 72. favourite /ˈfeɪvərɪt/
+ 73. feel /fiːl/ (v.)
+ 74. feeling /ˈfiːlɪŋ/ (n.)
+ 75. field /fiːld/ (n.)
+ 76. fifteen /ˌfɪfˈtiːn/ (num.)
+ 77. fifteenth /ˌfɪfˈtiːnθ/ (num.)
+ 78. fifth /fɪfθ/ (num.)
+ 79. fiftieth /ˈfɪftiəθ/ (num.)
+ 80. fifty /ˈfɪfti/ (num.)
+ 81. film /fɪlm/ (n.)
+ 82. find /faɪnd/ (v.)
+ 83. fine /faɪn/ (adj.)
+ 84. finish /ˈfɪnɪʃ/ (v.)
+ 85. finland /ˈfɪnlənd/
+ 86. finnish /ˈfɪnɪʃ/ (n.)
+ 87. first /fɜːst/ (num.)
+ 88. first name

@@ -1,0 +1,138 @@
+=== Day 37 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. friendly /ˈfrendli/ (adj.)
+  2. fruit /fruːt/ (n.)
+  3. full of
+  4. fur /fɜː(r)/ (n.)
+  5. genie /ˈdʒiːni/ (n.)
+  6. germ /dʒɜːm/ (n.)
+  7. get out
+  8. giraffe /dʒəˈrɑːf/ (n.)
+  9. glad /ɡlæd/ (adj.)
+ 10. glove /ɡlʌv/ (n.)
+ 11. go away
+ 12. go with
+ 13. goal /ɡəʊl/ (n.)
+ 14. grain /ɡreɪn/ (n.)
+ 15. ground /ɡraʊnd/ (n.)
+ 16. group /ɡruːp/ (n.)
+ 17. guess /ɡes/ (v.)
+ 18. gun /ɡʌn/ (n.)
+ 19. habit /ˈhæbɪt/ (n.)
+ 20. hallway /ˈhɔːlweɪ/ (n.)
+ 21. hamburger /ˈhæmbɜːɡə(r)/ (n.)
+ 22. hand /hænd/ (n.)
+
+【Review (Day 22,30,33,35,36)】
+  1. right /raɪt/ (n.)
+  2. rise /raɪz/ (v.)
+  3. room /ruːm/ (n.)
+  4. routine /ruːˈtiːn/ (n.)
+  5. ruler /ˈruːlə(r)/ (n.)
+  6. run /rʌn/ (v.)
+  7. sale /seɪl/ (n.)
+  8. sally /ˈsæli/
+  9. sam /sæm/
+ 10. same /seɪm/ (adj.)
+ 11. sarah /ˈseərə/
+ 12. say /seɪ/ (v.)
+ 13. saying /ˈseɪɪŋ/ (n.)
+ 14. schoolbag /ˈskuːlbæɡ/ (n.)
+ 15. science /ˈsaɪəns/ (n.)
+ 16. scientist /ˈsaɪəntɪst/ (n.)
+ 17. screen /skriːn/ (n.)
+ 18. seat /siːt/ (n.)
+ 19. second /ˈsekənd/ (num.)
+ 20. section /ˈsekʃn/ (n.)
+ 21. see /siː/ (v.)
+ 22. send /send/ (v.)
+ 23. absent /ˈæbsənt/ (adj.)
+ 24. actor /ˈæktə(r)/ (n.)
+ 25. adam /ˈædəm/
+ 26. advice /ədˈvaɪs/ (n.)
+ 27. affect /əˈfekt/ (v.)
+ 28. afraid /əˈfreɪd/ (adj.)
+ 29. africa /ˈæfrɪkə/
+ 30. again /əˈɡen; əˈɡeɪn/ (adv.)
+ 31. agree /əˈɡriː/ (v.)
+ 32. agree with
+ 33. air /eə(r)/ (n.)
+ 34. all over
+ 35. along /əˈlɒŋ/ (prep.)
+ 36. although /ɔːlˈðəʊ/ (conj.)
+ 37. america /əˈmerɪkə/
+ 38. among /əˈmʌŋ/ (prep.)
+ 39. anna /ˈænə/
+ 40. anne /æn/
+ 41. antarctica /ænˈtɑːktɪkə/
+ 42. anyone /ˈeniwʌn/ (pron.)
+ 43. anything /ˈeniθɪŋ/ (pron.)
+ 44. area /ˈeəriə/ (n.)
+ 45. car /kɑː(r)/ (n.)
+ 46. care /keə(r)/ (n.)
+ 47. carry /ˈkæri/ (v.)
+ 48. cause /kɔːz/ (v.)
+ 49. central /ˈsentrəl/ (adj.)
+ 50. certainly /ˈsɜːtnli/ (adv.)
+ 51. chip /tʃɪp/ (n.)
+ 52. choice /tʃɔɪs/ (n.)
+ 53. cinema /ˈsɪnəmə/ (n.)
+ 54. city /ˈsɪti/ (n.)
+ 55. close /kləʊs/ (adv.)
+ 56. clothes /kləʊðz/ (n.)
+ 57. cloud /klaʊd/ (n.)
+ 58. cloudy /ˈklaʊdi/ (adj.)
+ 59. coffee /ˈkɒfi/ (n.)
+ 60. cold /kəʊld/ (adj.)
+ 61. colourful /ˈkʌləfl/ (adj.)
+ 62. come out
+ 63. common /ˈkɒmən/ (adj.)
+ 64. cookie /ˈkʊki/ (n.)
+ 65. cool /kuːl/ (adj.)
+ 66. could /kʊd; kəd/
+ 67. dry /draɪ/ (adj.)
+ 68. duckling /ˈdʌklɪŋ/ (n.)
+ 69. dumpling /ˈdʌmplɪŋ/ (n.)
+ 70. eagle /ˈiːɡl/ (n.)
+ 71. ear /ɪə(r)/ (n.)
+ 72. east /iːst/ (n.)
+ 73. elephant /ˈelɪfənt/ (n.)
+ 74. emperor /ˈempərə(r)/ (n.)
+ 75. encourage /ɪnˈkʌrɪdʒ/ (v.)
+ 76. end /end/ (n.)
+ 77. energy /ˈenədʒi/ (n.)
+ 78. enough /ɪˈnʌf/ (adj.)
+ 79. entry /ˈentri/ (n.)
+ 80. eric /ˈerɪk/
+ 81. evening /ˈiːvnɪŋ/ (n.)
+ 82. ever /ˈevə(r)/ (adv.)
+ 83. excuse /ɪkˈskjuːz/ (v.)
+ 84. excuse me
+ 85. exhibition /ˌeksɪˈbɪʃn/ (n.)
+ 86. explain /ɪkˈspleɪn/ (v.)
+ 87. explore /ɪkˈsplɔː(r)/ (v.)
+ 88. factory /ˈfæktri; ˈfæktəri/ (n.)
+ 89. farmer /ˈfɑːmə(r)/ (n.)
+ 90. fast food
+ 91. fat /fæt/ (n.)
+ 92. feather /ˈfeðə/ (n.)
+ 93. feed /fiːd/ (v.)
+ 94. feel like
+ 95. festival /ˈfestɪvl/ (n.)
+ 96. few /fjuː/ (adj.)
+ 97. fill /fɪl/ (v.)
+ 98. finally /ˈfaɪnəli/ (adv.)
+ 99. fish and chips
+100. fit /fɪt/ (adj.)
+101. focus /ˈfəʊkəs/ (v.)
+102. focus on
+103. fog /fɒɡ/ (n.)
+104. follow /ˈfɒləʊ/ (v.)
+105. forest /ˈfɒrɪst/ (n.)
+106. forward /ˈfɔːwəd/ (adv.)
+107. fox /fɒks/ (n.)
+108. free /friː/ (adj.)
+109. freezing /ˈfriːzɪŋ/ (adj.)
+110. fresh /freʃ/ (adj.)

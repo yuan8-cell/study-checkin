@@ -1,0 +1,138 @@
+=== Day 42 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. mobile phone
+  2. moment /ˈməʊmənt/ (n.)
+  3. money /ˈmʌni/ (n.)
+  4. monkey /ˈmʌŋki/ (n.)
+  5. mount /maʊnt/ (n.)
+  6. mountain /ˈmaʊntən/ (n.)
+  7. move /muːv/ (v.)
+  8. museum /mjuˈziːəm/ (n.)
+  9. must /mʌst; məst/
+ 10. mutton /ˈmʌtn/ (n.)
+ 11. nairobi /naɪˈrəʊbi/
+ 12. near /nɪə(r)/ (prep.)
+ 13. neck /nek/ (n.)
+ 14. neighbour /ˈneɪbə(r)/ (n.)
+ 15. net /net/ (n.)
+ 16. noise /nɔɪz/ (n.)
+ 17. north /nɔːθ/ (n.)
+ 18. off /ɒf/ (adv.)
+ 19. official /əˈfɪʃl/ (n.)
+ 20. on time
+ 21. once /wʌns/ (adv.)
+ 22. once upon a time
+
+【Review (Day 27,35,38,40,41)】
+  1. time /taɪm/ (n.)
+  2. timo /ˈtiːməʊ/
+  3. to /tuː; tə/
+  4. today /təˈdeɪ/ (adv.)
+  5. tofu /ˈtəʊfuː/ (n.)
+  6. tom /tɒm/
+  7. tomato /təˈmɑːtəʊ; təˈmeɪtəʊ/ (n.)
+  8. too /tuː/ (adv.)
+  9. travel /ˈtrævl/ (v.)
+ 10. tree /triː/ (n.)
+ 11. trousers /ˈtraʊzəz/ (n.)
+ 12. twelfth /twelfθ/ (num.)
+ 13. twelve /twelv/ (num.)
+ 14. twin /twɪn/ (n.)
+ 15. two /tuː/ (num.)
+ 16. uk /ˌjuː ˈkeɪ/
+ 17. uncle /ˈʌŋkl/ (n.)
+ 18. under /ˈʌndə(r)/ (prep.)
+ 19. unit /ˈjuːnɪt/ (n.)
+ 20. up /ʌp/ (adv.)
+ 21. us /ʌs; əs/ (pron.)
+ 22. use /juːz/ (v.)
+ 23. dry /draɪ/ (adj.)
+ 24. duckling /ˈdʌklɪŋ/ (n.)
+ 25. dumpling /ˈdʌmplɪŋ/ (n.)
+ 26. eagle /ˈiːɡl/ (n.)
+ 27. ear /ɪə(r)/ (n.)
+ 28. east /iːst/ (n.)
+ 29. elephant /ˈelɪfənt/ (n.)
+ 30. emperor /ˈempərə(r)/ (n.)
+ 31. encourage /ɪnˈkʌrɪdʒ/ (v.)
+ 32. end /end/ (n.)
+ 33. energy /ˈenədʒi/ (n.)
+ 34. enough /ɪˈnʌf/ (adj.)
+ 35. entry /ˈentri/ (n.)
+ 36. eric /ˈerɪk/
+ 37. evening /ˈiːvnɪŋ/ (n.)
+ 38. ever /ˈevə(r)/ (adv.)
+ 39. excuse /ɪkˈskjuːz/ (v.)
+ 40. excuse me
+ 41. exhibition /ˌeksɪˈbɪʃn/ (n.)
+ 42. explain /ɪkˈspleɪn/ (v.)
+ 43. explore /ɪkˈsplɔː(r)/ (v.)
+ 44. factory /ˈfæktri; ˈfæktəri/ (n.)
+ 45. hang /hæŋ/ (v.)
+ 46. hang out
+ 47. happen /ˈhæpən/ (v.)
+ 48. hardly /ˈhɑːdli/ (adv.)
+ 49. hardly ever
+ 50. hate /heɪt/ (v.)
+ 51. have to
+ 52. healthy /ˈhelθi/ (adj.)
+ 53. hearing /ˈhɪərɪŋ/ (n.)
+ 54. heart /hɑːt/ (n.)
+ 55. heavily /ˈhevɪli/ (adv.)
+ 56. heavy /ˈhevi/ (adj.)
+ 57. hen /hen/ (n.)
+ 58. hers /hɜːz; ɜːz/ (pron.)
+ 59. high /haɪ/ (adv.)
+ 60. himself /hɪmˈself/ (pron.)
+ 61. hold /həʊld/ (v.)
+ 62. hold on
+ 63. holiday /ˈhɒlədeɪ; ˈhɒlədi/ (n.)
+ 64. hometown /ˈhəʊmtaʊn/ (n.)
+ 65. hope /həʊp/ (v.)
+ 66. hopefully /ˈhəʊpfəli/ (adv.)
+ 67. just /dʒʌst/ (adv.)
+ 68. kenya /ˈkenjə/
+ 69. kick /kɪk/ (v.)
+ 70. kill /kɪl/ (v.)
+ 71. king /kɪŋ/ (n.)
+ 72. kite /kaɪt/ (n.)
+ 73. late /leɪt/ (adj.)
+ 74. late for
+ 75. laugh at
+ 76. leave /liːv/ (v.)
+ 77. leave a message
+ 78. leg /leɡ/ (n.)
+ 79. lend /lend/ (v.)
+ 80. lie /laɪ/ (v.)
+ 81. light /laɪt/ (n.)
+ 82. lightning /ˈlaɪtnɪŋ/ (n.)
+ 83. lion /ˈlaɪən/ (n.)
+ 84. litter /ˈlɪtə(r)/ (v.)
+ 85. long ago
+ 86. look after
+ 87. look forward to
+ 88. lose /luːz/ (v.)
+ 89. lovely /ˈlʌvli/ (adj.)
+ 90. luck /lʌk/ (n.)
+ 91. lucky /ˈlʌki/ (adj.)
+ 92. lucky you
+ 93. machine /məˈʃiːn/ (n.)
+ 94. made of
+ 95. magical /ˈmædʒɪkl/ (adj.)
+ 96. make a promise
+ 97. make money
+ 98. make progress
+ 99. malee /mɑːˈliː/
+100. market /ˈmɑːkɪt/ (n.)
+101. mary /ˈmeəri/
+102. mat /mæt/ (n.)
+103. match /mætʃ/ (n.)
+104. maybe /ˈmeɪbi/ (adv.)
+105. meal /miːl/ (n.)
+106. meet up
+107. menu /ˈmenjuː/ (n.)
+108. message /ˈmesɪdʒ/ (n.)
+109. mine /maɪn/ (pron.)
+110. mobile /ˈməʊbaɪl/ (adj.)

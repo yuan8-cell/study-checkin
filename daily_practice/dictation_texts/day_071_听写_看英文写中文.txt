@@ -1,0 +1,138 @@
+=== Day 71 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. susan /ˈsu:zən/
+  2. system /ˈsɪstəm/ (n.)
+  3. take a walk
+  4. take notes
+  5. take over
+  6. take place
+  7. take up
+  8. task /tɑːsk/ (n.)
+  9. tear /tɪə(r)/ (n.)
+ 10. technology /tekˈnɒlədʒi/ (n.)
+ 11. text /tekst/ (n.)
+ 12. thanks to
+ 13. thanksgiving /ˌθæŋksˈɡɪvɪŋ/
+ 14. the movies
+ 15. thin /θɪn/ (adj.)
+ 16. ticket /ˈtɪkɪt/ (n.)
+ 17. tina /ˈtiːnə/
+ 18. tiny /ˈtaɪni/ (adj.)
+ 19. tip /tɪp/ (n.)
+ 20. title /ˈtaɪtl/ (n.)
+ 21. toilet /ˈtɔɪlət/ (n.)
+ 22. ton /tʌn/ (n.)
+
+【Review (Day 56,64,67,69,70)】
+  1. calm /kɑːm/ (adj.)
+  2. camp /kæmp/ (n.)
+  3. cancer /ˈkænsə(r)/ (n.)
+  4. care about
+  5. careful /ˈkeəfl/ (adj.)
+  6. challenge /ˈtʃælɪndʒ/ (n.)
+  7. chance /tʃɑːns/ (n.)
+  8. character /ˈkærəktə(r)/ (n.)
+  9. cheese /tʃiːz/ (n.)
+ 10. cheetah /ˈtʃiːtə/ (n.)
+ 11. chief /tʃiːf/ (adj.)
+ 12. christmas /ˈkrɪsməs/ (n.)
+ 13. classic /ˈklæsɪk/ (n.)
+ 14. clause /klɔːz/ (n.)
+ 15. clean up
+ 16. climate /ˈklaɪmət/ (n.)
+ 17. closing /ˈkləʊzɪŋ/ (adj.)
+ 18. college /ˈkɒlɪdʒ/ (n.)
+ 19. come over
+ 20. communicate /kəˈmjuːnɪkeɪt/ (v.)
+ 21. communication /kəˌmjuːnɪˈkeɪʃn/ (n.)
+ 22. community /kəˈmjuːnəti/ (n.)
+ 23. memory /ˈmeməri/ (n.)
+ 24. mention /ˈmenʃn/ (v.)
+ 25. mess /mes/ (n.)
+ 26. metre /ˈmiːtə(r)/
+ 27. metro /ˈmetrəʊ/ (n.)
+ 28. might /maɪt/
+ 29. mini-goal /ˈmɪniˌɡəʊl/ (n.)
+ 30. mirror /ˈmɪrə(r)/ (n.)
+ 31. miss /mɪs/ (v.)
+ 32. misunderstanding /ˌmɪsʌndəˈstændɪŋ/ (n.)
+ 33. mix /mɪks/ (v.)
+ 34. moss /mɒs/ (n.)
+ 35. movie /ˈmuːvi/ (n.)
+ 36. mushroom /ˈmʌʃrʊm/ (n.)
+ 37. musician /mjuˈzɪʃn/ (n.)
+ 38. nazi /ˈnɑːtsi/ (n.)
+ 39. nod /nɒd/ (v.)
+ 40. noon /nuːn/ (n.)
+ 41. note /nəʊt/ (n.)
+ 42. nothing but
+ 43. novel /ˈnɒvl/ (n.)
+ 44. ocean /ˈəʊʃn/ (n.)
+ 45. prefer /prɪˈfɜː(r)/ (v.)
+ 46. pretty /ˈprɪti/ (adj.)
+ 47. prince /prɪns/ (n.)
+ 48. prize /praɪz/ (n.)
+ 49. probably /ˈprɒbəbli/ (adv.)
+ 50. professor /prəˈfesə(r)/ (n.)
+ 51. protect /prəˈtekt/ (v.)
+ 52. province /ˈprɒvɪns/ (n.)
+ 53. public /ˈpʌblɪk/ (adj.)
+ 54. pull /pʊl/ (v.)
+ 55. pumpkin /ˈpʌmpkɪn/ (n.)
+ 56. push-up /ˈpʊʃʌp/ (n.)
+ 57. put out
+ 58. put sth back
+ 59. quality /ˈkwɒləti/ (n.)
+ 60. rainbow /ˈreɪnbəʊ/ (n.)
+ 61. rainfall /ˈreɪnfɔːl/ (n.)
+ 62. reach /riːtʃ/ (v.)
+ 63. reach for
+ 64. ready /ˈredi/ (adj.)
+ 65. ready to do sth
+ 66. recipe /ˈresəpi/ (n.)
+ 67. sense /sens/ (n.)
+ 68. sentence /ˈsentəns/ (n.)
+ 69. serious /ˈsɪəriəs/ (adj.)
+ 70. service /ˈsɜːvɪs/ (n.)
+ 71. several /ˈsevrəl/ (pron.)
+ 72. share sth with sb
+ 73. show interest in sth
+ 74. show sb around
+ 75. shy /ʃaɪ/ (adj.)
+ 76. sick /sɪk/ (adj.)
+ 77. sign /saɪn/ (n.)
+ 78. silk /sɪlk/ (n.)
+ 79. silver /ˈsɪlvə(r)/ (adj.)
+ 80. silver lining
+ 81. similarity /ˌsɪməˈlærəti/ (n.)
+ 82. sincere /sɪnˈsɪə(r)/ (adj.)
+ 83. situation /ˌsɪtʃuˈeɪʃn/ (n.)
+ 84. slice /slaɪs/ (n.)
+ 85. slim /slɪm/ (adj.)
+ 86. slow /sləʊ/ (adj.)
+ 87. smell /smel/ (v.)
+ 88. social /ˈsəʊʃl/ (adj.)
+ 89. social media
+ 90. solve /sɒlv/ (v.)
+ 91. somewhere /ˈsʌmweə(r)/ (adv.)
+ 92. sort /sɔːt/ (v.)
+ 93. sour /ˈsaʊə(r)/ (adj.)
+ 94. spaghetti /spəˈɡeti/ (n.)
+ 95. spare /speə(r)/ (adj.)
+ 96. spare time
+ 97. speaker /ˈspiːkə(r)/ (n.)
+ 98. speech /spiːtʃ/ (n.)
+ 99. square /skweə(r)/ (n.)
+100. station /ˈsteɪʃn/ (n.)
+101. steamed /stiːmd/
+102. steamed f ish
+103. stephen /ˈstiːvən/
+104. stick to sth
+105. stir-fry /ˈstɜːfraɪ/ (v.)
+106. store /stɔː(r)/ (v.)
+107. straightforward /ˌstreɪtˈfɔːwəd/ (adj.)
+108. strange /streɪndʒ/ (adj.)
+109. strength /streŋθ/ (n.)
+110. surely /ˈʃʊəli/ (adv.)

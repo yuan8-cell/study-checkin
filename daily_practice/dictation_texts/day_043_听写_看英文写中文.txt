@@ -1,0 +1,138 @@
+=== Day 43 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. one another
+  2. onion /ˈʌnjən/ (n.)
+  3. online /ˌɒnˈlaɪn/ (adj.)
+  4. only if
+  5. order /ˈɔːdə(r)/ (n.)
+  6. ours /ˈaʊəz; ɑːz/ (pron.)
+  7. over /ˈəʊvə(r)/ (adv.)
+  8. over there
+  9. painting /ˈpeɪntɪŋ/ (n.)
+ 10. passenger /ˈpæsɪndʒə(r)/ (n.)
+ 11. peak /piːk/ (n.)
+ 12. pear /peə(r)/ (n.)
+ 13. pen /pen/ (n.)
+ 14. penguin /ˈpeŋɡwɪn/ (n.)
+ 15. perfect /ˈpɜːfɪkt/ (adj.)
+ 16. person /ˈpɜːsn/ (n.)
+ 17. phone /fəʊn/ (n.)
+ 18. pick /pɪk/ (v.)
+ 19. pick up
+ 20. piece /piːs/ (n.)
+ 21. playful /ˈpleɪfl/ (adj.)
+ 22. polite /pəˈlaɪt/ (adj.)
+
+【Review (Day 28,36,39,41,42)】
+  1. useful /ˈjuːsfl/ (adj.)
+  2. usually /ˈjuːʒuəli/ (adv.)
+  3. very /ˈveri/ (adv.)
+  4. village /ˈvɪlɪdʒ/ (n.)
+  5. violin /ˌvaɪəˈlɪn/ (n.)
+  6. visit /ˈvɪzɪt/ (v.)
+  7. vr /ˌviː ˈɑː(r)/
+  8. wait /weɪt/ (v.)
+  9. walk /wɔːk/ (v.)
+ 10. watch /wɒtʃ/ (v.)
+ 11. way /weɪ/ (n.)
+ 12. we /wiː; wi/ (pron.)
+ 13. wear /weə(r)/ (v.)
+ 14. week /wiːk/ (n.)
+ 15. weekend /ˌwiːkˈend/ (n.)
+ 16. welcome /ˈwelkəm/ (adj.)
+ 17. well /wel/ (interj.)
+ 18. what /wɒt/ (pron.)
+ 19. when /wen/ (adv.)
+ 20. where /weə(r)/ (adv.)
+ 21. which /wɪtʃ/ (pron.)
+ 22. while /waɪl/ (n.)
+ 23. farmer /ˈfɑːmə(r)/ (n.)
+ 24. fast food
+ 25. fat /fæt/ (n.)
+ 26. feather /ˈfeðə/ (n.)
+ 27. feed /fiːd/ (v.)
+ 28. feel like
+ 29. festival /ˈfestɪvl/ (n.)
+ 30. few /fjuː/ (adj.)
+ 31. fill /fɪl/ (v.)
+ 32. finally /ˈfaɪnəli/ (adv.)
+ 33. fish and chips
+ 34. fit /fɪt/ (adj.)
+ 35. focus /ˈfəʊkəs/ (v.)
+ 36. focus on
+ 37. fog /fɒɡ/ (n.)
+ 38. follow /ˈfɒləʊ/ (v.)
+ 39. forest /ˈfɒrɪst/ (n.)
+ 40. forward /ˈfɔːwəd/ (adv.)
+ 41. fox /fɒks/ (n.)
+ 42. free /friː/ (adj.)
+ 43. freezing /ˈfriːzɪŋ/ (adj.)
+ 44. fresh /freʃ/ (adj.)
+ 45. hospital /ˈhɒspɪtl/ (n.)
+ 46. however /haʊˈevə(r)/ (adv.)
+ 47. huge /hjuːdʒ/ (adj.)
+ 48. hungry /ˈhʌŋɡri/ (adj.)
+ 49. hunter /ˈhʌntə(r)/ (n.)
+ 50. hurry /ˈhʌri/ (v.)
+ 51. if /ɪf/ (conj.)
+ 52. improve /ɪmˈpruːv/ (v.)
+ 53. in a hurry
+ 54. in danger
+ 55. in high spirits
+ 56. in the end
+ 57. inside /ˌɪnˈsaɪd/ (prep.)
+ 58. instead /ɪnˈsted/ (adv.)
+ 59. instead of
+ 60. into /ˈɪntuː; ˈɪntə/ (prep.)
+ 61. ivory /ˈaɪvəri/ (n.)
+ 62. jacket /ˈdʒækɪt/ (n.)
+ 63. jog /dʒɒɡ/ (v.)
+ 64. john /dʒɒn/
+ 65. jump rope
+ 66. jump the queue
+ 67. lovely /ˈlʌvli/ (adj.)
+ 68. luck /lʌk/ (n.)
+ 69. lucky /ˈlʌki/ (adj.)
+ 70. lucky you
+ 71. machine /məˈʃiːn/ (n.)
+ 72. made of
+ 73. magical /ˈmædʒɪkl/ (adj.)
+ 74. make a promise
+ 75. make money
+ 76. make progress
+ 77. malee /mɑːˈliː/
+ 78. market /ˈmɑːkɪt/ (n.)
+ 79. mary /ˈmeəri/
+ 80. mat /mæt/ (n.)
+ 81. match /mætʃ/ (n.)
+ 82. maybe /ˈmeɪbi/ (adv.)
+ 83. meal /miːl/ (n.)
+ 84. meet up
+ 85. menu /ˈmenjuː/ (n.)
+ 86. message /ˈmesɪdʒ/ (n.)
+ 87. mine /maɪn/ (pron.)
+ 88. mobile /ˈməʊbaɪl/ (adj.)
+ 89. mobile phone
+ 90. moment /ˈməʊmənt/ (n.)
+ 91. money /ˈmʌni/ (n.)
+ 92. monkey /ˈmʌŋki/ (n.)
+ 93. mount /maʊnt/ (n.)
+ 94. mountain /ˈmaʊntən/ (n.)
+ 95. move /muːv/ (v.)
+ 96. museum /mjuˈziːəm/ (n.)
+ 97. must /mʌst; məst/
+ 98. mutton /ˈmʌtn/ (n.)
+ 99. nairobi /naɪˈrəʊbi/
+100. near /nɪə(r)/ (prep.)
+101. neck /nek/ (n.)
+102. neighbour /ˈneɪbə(r)/ (n.)
+103. net /net/ (n.)
+104. noise /nɔɪz/ (n.)
+105. north /nɔːθ/ (n.)
+106. off /ɒf/ (adv.)
+107. official /əˈfɪʃl/ (n.)
+108. on time
+109. once /wʌns/ (adv.)
+110. once upon a time

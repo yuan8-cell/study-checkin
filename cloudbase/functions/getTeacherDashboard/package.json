@@ -1,0 +1,9 @@
+{
+  "name": "getTeacherDashboard",
+  "version": "1.0.0",
+  "description": "老师获取看板数据",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.11.0"
+  }
+}

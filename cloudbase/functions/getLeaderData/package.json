@@ -1,0 +1,9 @@
+{
+  "name": "getLeaderData",
+  "version": "1.0.0",
+  "description": "组长查询组内数据",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.11.0"
+  }
+}

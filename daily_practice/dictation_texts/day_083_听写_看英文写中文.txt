@@ -1,0 +1,138 @@
+=== Day 83 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. in low spirits
+  2. in need
+  3. in return
+  4. in time
+  5. include /ɪnˈkluːd/ (v.)
+  6. india /ˈɪndiə/
+  7. indian /ˈɪndiən/ (adj.)
+  8. indonesia /ˌɪndəˈniːʒə/
+  9. informal /ɪnˈfɔːml/ (adj.)
+ 10. inga /ˈɪŋɡə/
+ 11. injury /ˈɪndʒəri/ (n.)
+ 12. ink /ɪŋk/ (n.)
+ 13. inspiration /ˌɪnspəˈreɪʃn/ (n.)
+ 14. instructor /ɪnˈstrʌktə(r)/ (n.)
+ 15. interview /ˈɪntəvjuː/ (n.)
+ 16. interviewer /ˈɪntəvjuːə(r)/ (n.)
+ 17. introduction /ˌɪntrəˈdʌkʃn/ (n.)
+ 18. italian /ɪˈtæliən/ (adj.)
+ 19. its /ɪts/ (pron.)
+ 20. james /dʒeɪmz/
+ 21. jeans /dʒiːnz/ (n.)
+ 22. jeff /dʒef/
+
+【Review (Day 68,76,79,81,82)】
+  1. redwood /ˈredwʊd/ (n.)
+  2. rehearsal /rɪˈhɜːsl/ (n.)
+  3. relationship /rɪˈleɪʃnʃɪp/ (n.)
+  4. remind /rɪˈmaɪnd/ (v.)
+  5. replace /rɪˈpleɪs/ (v.)
+  6. reply /rɪˈplaɪ/ (n.)
+  7. research /rɪˈsɜːtʃ/ (n.)
+  8. researcher /rɪˈsɜːtʃə(r)/ (n.)
+  9. resolution /ˌrezəˈluːʃn/ (n.)
+ 10. right  away
+ 11. robotics /rəʊˈbɒtɪks/ (n.)
+ 12. role /rəʊl/ (n.)
+ 13. rose /rəʊz/ (n.)
+ 14. rubbish /ˈrʌbɪʃ/ (n.)
+ 15. russia /ˈrʌʃə/
+ 16. scarf /skɑːf/ (n.)
+ 17. scenery /ˈsiːnəri/ (n.)
+ 18. scissors /ˈsɪzəz/ (n.)
+ 19. scotland /ˈskɒtlənd/
+ 20. seattle /siˈætl/
+ 21. secret /ˈsiːkrət/ (n.)
+ 22. self-improvement /ˌselfɪmˈpruːvmənt/ (n.)
+ 23. bow /baʊ/ (v.)
+ 24. brightness /ˈbraɪtnəs/ (n.)
+ 25. bruised /bruːzd/ (adj.)
+ 26. bruno /ˈbruːnəʊ/
+ 27. build-up /ˈbɪldʌp/ (n.)
+ 28. bully /ˈbʊli/ (v.)
+ 29. bump /bʌmp/ (v.)
+ 30. by the time
+ 31. cage /keɪdʒ/ (n.)
+ 32. calligraphy /kəˈlɪɡrəfi/ (n.)
+ 33. catch fire
+ 34. charity /ˈtʃærəti/ (n.)
+ 35. chat /tʃæt/ (v.)
+ 36. check /tʃek/ (v.)
+ 37. cheek /tʃiːk/ (n.)
+ 38. cheers /tʃɪəz/ (interj.)
+ 39. chopstick /ˈtʃɒpstɪk/ (n.)
+ 40. chore /tʃɔː(r)/ (n.)
+ 41. clear /klɪə(r)/ (adj.)
+ 42. clear the air
+ 43. clearly /ˈklɪəli/ (adv.)
+ 44. cliff /klɪf/ (n.)
+ 45. distance /ˈdɪstəns/ (n.)
+ 46. dive /daɪv/ (v.)
+ 47. do chores
+ 48. donate /dəʊˈneɪt/ (v.)
+ 49. donation /dəʊˈneɪʃn/ (n.)
+ 50. doubt /daʊt/ (v.)
+ 51. driver /ˈdraɪvə(r)/ (n.)
+ 52. drought /draʊt/ (n.)
+ 53. earthquake /ˈɜːθkweɪk/ (n.)
+ 54. eat out
+ 55. effect /ɪˈfekt/ (n.)
+ 56. effort /ˈefət/ (n.)
+ 57. egypt /ˈiːdʒɪpt/
+ 58. elbow /ˈelbəʊ/ (n.)
+ 59. elder /ˈeldə(r)/ (adj.)
+ 60. elderly /ˈeldəli/ (adj.)
+ 61. embarrassed /ɪmˈbærəst/ (adj.)
+ 62. emotion /ɪˈməʊʃn/ (n.)
+ 63. enemy /ˈenəmi/ (n.)
+ 64. enter /ˈentə(r)/ (v.)
+ 65. environment /ɪnˈvaɪrənmənt/ (n.)
+ 66. even though
+ 67. formal /ˈfɔːml/ (adj.)
+ 68. freshwater /ˈfreʃwɔːtə(r)/ (adj.)
+ 69. from now on
+ 70. from time to time
+ 71. froth /frɒθ/ (n.)
+ 72. fry /fraɪ/ (v.)
+ 73. gas /ɡæs/ (n.)
+ 74. gentle /ˈdʒentl/ (adj.)
+ 75. germany /ˈdʒɜːməni/
+ 76. get across
+ 77. get along
+ 78. get into
+ 79. get lost
+ 80. get over
+ 81. give it a go
+ 82. give up
+ 83. go a long way
+ 84. go on an outing
+ 85. go wrong
+ 86. guard /ɡɑːd/ (n.)
+ 87. hand out
+ 88. happily /ˈhæpɪli/ (adv.)
+ 89. harm /hɑːm/ (n.)
+ 90. harmful /ˈhɑːmfl/ (adj.)
+ 91. headache /ˈhedeɪk/ (n.)
+ 92. hear from
+ 93. hear of
+ 94. heartbeat /ˈhɑːtbiːt/ (n.)
+ 95. heatwave /ˈhiːtweɪv/ (n.)
+ 96. help out
+ 97. hero /ˈhɪərəʊ/ (n.)
+ 98. hidden /ˈhɪdn/ (adj.)
+ 99. historical /hɪˈstɒrɪkl/ (adj.)
+100. hit /hɪt/ (v.)
+101. hug /hʌɡ/ (v.)
+102. hurt /hɜːt/ (v.)
+103. hurtful /ˈhɜːtfl/ (adj.)
+104. ice-skate /ˈaɪsskeɪt/ (v.)
+105. idiom /ˈɪdiəm/ (n.)
+106. ill /ɪl/ (adj.)
+107. illness /ˈɪlnəs/ (n.)
+108. importantly /ɪmˈpɔːtntli/ (adv.)
+109. improper /ɪmˈprɒpə(r)/ (adj.)
+110. in future

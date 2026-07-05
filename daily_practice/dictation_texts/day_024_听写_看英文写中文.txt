@@ -1,0 +1,138 @@
+=== Day 24 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. sixth /sɪksθ/ (num.)
+  2. sixtieth /ˈsɪkstiəθ/ (num.)
+  3. sixty /ˈsɪksti/ (num.)
+  4. small /smɔːl/ (adj.)
+  5. smart /smɑːt/ (adj.)
+  6. smith /smɪθ/
+  7. so /səʊ/ (conj.)
+  8. sock /sɒk/ (n.)
+  9. some /sʌm; səm/ (adj.)
+ 10. something /ˈsʌmθɪŋ/ (pron.)
+ 11. sometimes /ˈsʌmtaɪmz/ (adv.)
+ 12. son /sʌn/ (n.)
+ 13. song /sɒŋ/ (n.)
+ 14. soon /suːn/ (adv.)
+ 15. sorry /ˈsɒri/ (adj.)
+ 16. sound /saʊnd/ (v.)
+ 17. speak /spiːk/ (v.)
+ 18. special /ˈspeʃl/ (adj.)
+ 19. spell /spel/ (v.)
+ 20. spend /spend/ (v.)
+ 21. sports field
+ 22. start /stɑːt/ (v.)
+
+【Review (Day 9,17,20,22,23)】
+  1. fall in love with
+  2. family /ˈfæməli/ (n.)
+  3. famous /ˈfeɪməs/ (adj.)
+  4. fast /fɑːst/ (adv.)
+  5. father /ˈfɑːðə(r)/ (n.)
+  6. favourite /ˈfeɪvərɪt/
+  7. feel /fiːl/ (v.)
+  8. feeling /ˈfiːlɪŋ/ (n.)
+  9. field /fiːld/ (n.)
+ 10. fifteen /ˌfɪfˈtiːn/ (num.)
+ 11. fifteenth /ˌfɪfˈtiːnθ/ (num.)
+ 12. fifth /fɪfθ/ (num.)
+ 13. fiftieth /ˈfɪftiəθ/ (num.)
+ 14. fifty /ˈfɪfti/ (num.)
+ 15. film /fɪlm/ (n.)
+ 16. find /faɪnd/ (v.)
+ 17. fine /faɪn/ (adj.)
+ 18. finish /ˈfɪnɪʃ/ (v.)
+ 19. finland /ˈfɪnlənd/
+ 20. finnish /ˈfɪnɪʃ/ (n.)
+ 21. first /fɜːst/ (num.)
+ 22. first name
+ 23. mark /mɑːk/ (v.)
+ 24. may /meɪ/
+ 25. me /miː; mi/ (pron.)
+ 26. mean /miːn/ (v.)
+ 27. member /ˈmembə(r)/ (n.)
+ 28. middle /ˈmɪdl/ (n.)
+ 29. mike /maɪk/
+ 30. milk /mɪlk/ (n.)
+ 31. miller /ˈmɪlə(r)/
+ 32. million /ˈmɪljən/ (num.)
+ 33. mind /maɪnd/ (n.)
+ 34. minute /ˈmɪnɪt/ (n.)
+ 35. mistake /mɪˈsteɪk/ (n.)
+ 36. modern /ˈmɒdn/ (adj.)
+ 37. month /mʌnθ/ (n.)
+ 38. more /mɔː(r)/ (adj.)
+ 39. morning /ˈmɔːnɪŋ/ (n.)
+ 40. most /məʊst/ (adj.)
+ 41. mr /ˈmɪstə(r)/
+ 42. mrs /ˈmɪsɪz/
+ 43. ms /mɪz; məz/
+ 44. much /mʌtʃ/ (adv.)
+ 45. panda /ˈpændə/ (n.)
+ 46. parent /ˈpeərənt/ (n.)
+ 47. park /pɑːk/ (n.)
+ 48. parrot /ˈpærət/ (n.)
+ 49. part /pɑːt/ (n.)
+ 50. party /ˈpɑːti/ (n.)
+ 51. past /pɑːst/ (n.)
+ 52. pauline /pɔːˈliːn/
+ 53. pencil /ˈpensl/ (n.)
+ 54. people /ˈpiːpl/ (n.)
+ 55. pet /pet/ (n.)
+ 56. peter /ˈpiːtə(r)/
+ 57. piano /piˈænəʊ/ (n.)
+ 58. picture /ˈpɪktʃə(r)/ (n.)
+ 59. pig /pɪɡ/ (n.)
+ 60. ping-pong /ˈpɪŋpɒŋ/ (n.)
+ 61. pizza /ˈpiːtsə/ (n.)
+ 62. place /pleɪs/ (n.)
+ 63. plant /plɑːnt/ (n.)
+ 64. play the guitar
+ 65. playground /ˈpleɪɡraʊnd/ (n.)
+ 66. please /pliːz/ (interj.)
+ 67. right /raɪt/ (n.)
+ 68. rise /raɪz/ (v.)
+ 69. room /ruːm/ (n.)
+ 70. routine /ruːˈtiːn/ (n.)
+ 71. ruler /ˈruːlə(r)/ (n.)
+ 72. run /rʌn/ (v.)
+ 73. sale /seɪl/ (n.)
+ 74. sally /ˈsæli/
+ 75. sam /sæm/
+ 76. same /seɪm/ (adj.)
+ 77. sarah /ˈseərə/
+ 78. say /seɪ/ (v.)
+ 79. saying /ˈseɪɪŋ/ (n.)
+ 80. schoolbag /ˈskuːlbæɡ/ (n.)
+ 81. science /ˈsaɪəns/ (n.)
+ 82. scientist /ˈsaɪəntɪst/ (n.)
+ 83. screen /skriːn/ (n.)
+ 84. seat /siːt/ (n.)
+ 85. second /ˈsekənd/ (num.)
+ 86. section /ˈsekʃn/ (n.)
+ 87. see /siː/ (v.)
+ 88. send /send/ (v.)
+ 89. seven /ˈsevn/ (num.)
+ 90. seventeen /ˌsevnˈtiːn/ (num.)
+ 91. seventeenth /ˌsevnˈtiːnθ/ (num.)
+ 92. seventh /ˈsevnθ/ (num.)
+ 93. seventieth /ˈsevntiəθ/ (num.)
+ 94. seventy /ˈsevnti/ (num.)
+ 95. share /ʃeə(r)/ (v.)
+ 96. she /ʃiː; ʃi/ (pron.)
+ 97. sheep /ʃiːp/ (n.)
+ 98. shoe /ʃuː/ (n.)
+ 99. shop /ʃɒp/ (n.)
+100. short /ʃɔːt/ (adj.)
+101. shower /ˈʃaʊə(r)/ (n.)
+102. similar to
+103. sing /sɪŋ/ (v.)
+104. singapore /ˌsɪŋəˈpɔː(r)/
+105. singer /ˈsɪŋə(r)/ (n.)
+106. sister /ˈsɪstə(r)/ (n.)
+107. sit /sɪt/ (v.)
+108. six /sɪks/ (num.)
+109. sixteen /ˌsɪkˈstiːn/ (num.)
+110. sixteenth /ˌsɪkˈstiːnθ/ (num.)

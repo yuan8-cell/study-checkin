@@ -1,0 +1,138 @@
+=== Day 29 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. white /waɪt/ (adj.)
+  2. who /ˌdʌbljuː eɪtʃ ˈəʊ/
+  3. whom /huːm/ (pron.)
+  4. why /waɪ/ (adv.)
+  5. will /wɪl/
+  6. window /ˈwɪndəʊ/ (n.)
+  7. wish /wɪʃ/ (v.)
+  8. with /wɪð; wɪθ/ (prep.)
+  9. wood /wʊd/
+ 10. work /wɜːk/ (v.)
+ 11. work out
+ 12. would /wʊd; wəd/
+ 13. write /raɪt/ (v.)
+ 14. yard /jɑːd/ (n.)
+ 15. year /jɪə(r); jɜː(r)/ (n.)
+ 16. yellow /ˈjeləʊ/ (adj.)
+ 17. yes /jes/ (interj.)
+ 18. yogurt /ˈjɒɡət/
+ 19. you /juː; ju/ (pron.)
+ 20. your /jɔː(r); jə(r)/ (pron.)
+ 21. yours /jɔːz/ (pron.)
+ 22. a few
+
+【Review (Day 14,22,25,27,28)】
+  1. idea /aɪˈdɪə/ (n.)
+  2. important /ɪmˈpɔːtnt/ (adj.)
+  3. in class
+  4. in front of
+  5. in the future
+  6. in the middle
+  7. information /ˌɪnfəˈmeɪʃn/ (n.)
+  8. insect /ˈɪnsekt/ (n.)
+  9. instrument /ˈɪnstrəmənt/ (n.)
+ 10. interested /ˈɪntrəstɪd/ (adj.)
+ 11. interesting /ˈɪntrəstɪŋ/ (adj.)
+ 12. international /ˌɪntəˈnæʃnəl/ (adj.)
+ 13. ireland /ˈaɪələnd/
+ 14. is /ɪz/ (v.)
+ 15. it /ɪt/ (pron.)
+ 16. jack /dʒæk/
+ 17. jane /dʒeɪn/
+ 18. jenny /ˈdʒeni/
+ 19. jim /dʒɪm/
+ 20. job /dʒɒb/ (n.)
+ 21. join /dʒɔɪn/ (v.)
+ 22. judy /ˈdʒuːdi/
+ 23. right /raɪt/ (n.)
+ 24. rise /raɪz/ (v.)
+ 25. room /ruːm/ (n.)
+ 26. routine /ruːˈtiːn/ (n.)
+ 27. ruler /ˈruːlə(r)/ (n.)
+ 28. run /rʌn/ (v.)
+ 29. sale /seɪl/ (n.)
+ 30. sally /ˈsæli/
+ 31. sam /sæm/
+ 32. same /seɪm/ (adj.)
+ 33. sarah /ˈseərə/
+ 34. say /seɪ/ (v.)
+ 35. saying /ˈseɪɪŋ/ (n.)
+ 36. schoolbag /ˈskuːlbæɡ/ (n.)
+ 37. science /ˈsaɪəns/ (n.)
+ 38. scientist /ˈsaɪəntɪst/ (n.)
+ 39. screen /skriːn/ (n.)
+ 40. seat /siːt/ (n.)
+ 41. second /ˈsekənd/ (num.)
+ 42. section /ˈsekʃn/ (n.)
+ 43. see /siː/ (v.)
+ 44. send /send/ (v.)
+ 45. starter /ˈstɑːtə(r)/
+ 46. stay /steɪ/ (v.)
+ 47. story /ˈstɔːri/ (n.)
+ 48. student /ˈstjuːdnt/ (n.)
+ 49. study /ˈstʌdi/ (v.)
+ 50. subject /ˈsʌbdʒɪkt/ (n.)
+ 51. sure /ʃʊə(r)/ (adv.)
+ 52. surprise /səˈpraɪz/ (n.)
+ 53. swim /swɪm/ (v.)
+ 54. sydney /ˈsɪdni/
+ 55. symbol /ˈsɪmbl/ (n.)
+ 56. table /ˈteɪbl/ (n.)
+ 57. take /teɪk/ (v.)
+ 58. take a photo
+ 59. take a shower
+ 60. take photos
+ 61. talk /tɔːk/ (v.)
+ 62. tall /tɔːl/ (adj.)
+ 63. teacher /ˈtiːtʃə(r)/ (n.)
+ 64. tell /tel/ (v.)
+ 65. ten /ten/ (num.)
+ 66. tennis /ˈtenɪs/ (n.)
+ 67. time /taɪm/ (n.)
+ 68. timo /ˈtiːməʊ/
+ 69. to /tuː; tə/
+ 70. today /təˈdeɪ/ (adv.)
+ 71. tofu /ˈtəʊfuː/ (n.)
+ 72. tom /tɒm/
+ 73. tomato /təˈmɑːtəʊ; təˈmeɪtəʊ/ (n.)
+ 74. too /tuː/ (adv.)
+ 75. travel /ˈtrævl/ (v.)
+ 76. tree /triː/ (n.)
+ 77. trousers /ˈtraʊzəz/ (n.)
+ 78. twelfth /twelfθ/ (num.)
+ 79. twelve /twelv/ (num.)
+ 80. twin /twɪn/ (n.)
+ 81. two /tuː/ (num.)
+ 82. uk /ˌjuː ˈkeɪ/
+ 83. uncle /ˈʌŋkl/ (n.)
+ 84. under /ˈʌndə(r)/ (prep.)
+ 85. unit /ˈjuːnɪt/ (n.)
+ 86. up /ʌp/ (adv.)
+ 87. us /ʌs; əs/ (pron.)
+ 88. use /juːz/ (v.)
+ 89. useful /ˈjuːsfl/ (adj.)
+ 90. usually /ˈjuːʒuəli/ (adv.)
+ 91. very /ˈveri/ (adv.)
+ 92. village /ˈvɪlɪdʒ/ (n.)
+ 93. violin /ˌvaɪəˈlɪn/ (n.)
+ 94. visit /ˈvɪzɪt/ (v.)
+ 95. vr /ˌviː ˈɑː(r)/
+ 96. wait /weɪt/ (v.)
+ 97. walk /wɔːk/ (v.)
+ 98. watch /wɒtʃ/ (v.)
+ 99. way /weɪ/ (n.)
+100. we /wiː; wi/ (pron.)
+101. wear /weə(r)/ (v.)
+102. week /wiːk/ (n.)
+103. weekend /ˌwiːkˈend/ (n.)
+104. welcome /ˈwelkəm/ (adj.)
+105. well /wel/ (interj.)
+106. what /wɒt/ (pron.)
+107. when /wen/ (adv.)
+108. where /weə(r)/ (adv.)
+109. which /wɪtʃ/ (pron.)
+110. while /waɪl/ (n.)

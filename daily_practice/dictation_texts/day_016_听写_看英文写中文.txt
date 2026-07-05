@@ -1,0 +1,138 @@
+=== Day 16 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. linda /ˈlɪndə/
+  2. lisa /ˈliːsə/
+  3. list /lɪst/ (n.)
+  4. listen /ˈlɪsn/ (v.)
+  5. listen to
+  6. little /ˈlɪtl/ (adj.)
+  7. live /lɪv/ (v.)
+  8. london /ˈlʌndən/
+  9. long /lɒŋ/ (adj.)
+ 10. look /lʊk/ (v.)
+ 11. look at
+ 12. lot /lɒt/ (pron.)
+ 13. love /lʌv/ (v.)
+ 14. lucy /ˈluːsi/
+ 15. lunch /lʌntʃ/ (n.)
+ 16. magic /ˈmædʒɪk/ (n.)
+ 17. make /meɪk/ (v.)
+ 18. make a wish
+ 19. make friends
+ 20. make use of
+ 21. many /ˈmeni/ (adj.)
+ 22. map /mæp/ (n.)
+
+【Review (Day 1,9,12,14,15)】
+  1. a /eɪ; ə/
+  2. a lot
+  3. ability /əˈbɪləti/ (n.)
+  4. about /əˈbaʊt/ (prep.)
+  5. across /əˈkrɒs/ (adv.)
+  6. across from
+  7. act /ækt/ (v.)
+  8. act out
+  9. activity /ækˈtɪvəti/ (n.)
+ 10. after /ˈɑːftə(r)/ (prep.)
+ 11. afternoon /ˌɑːftəˈnuːn/ (n.)
+ 12. age /eɪdʒ/ (n.)
+ 13. ago /əˈɡəʊ/ (adv.)
+ 14. alice /ˈælɪs/
+ 15. all /ɔːl/ (pron.)
+ 16. already /ɔːlˈredi/ (adv.)
+ 17. also /ˈɔːlsəʊ/ (adv.)
+ 18. always /ˈɔːlweɪz/ (adv.)
+ 19. am /æm; əm/ (v.)
+ 20. amazing /əˈmeɪzɪŋ/ (adj.)
+ 21. and /ænd; ənd/ (conj.)
+ 22. animal /ˈænɪml/ (n.)
+ 23. fall in love with
+ 24. family /ˈfæməli/ (n.)
+ 25. famous /ˈfeɪməs/ (adj.)
+ 26. fast /fɑːst/ (adv.)
+ 27. father /ˈfɑːðə(r)/ (n.)
+ 28. favourite /ˈfeɪvərɪt/
+ 29. feel /fiːl/ (v.)
+ 30. feeling /ˈfiːlɪŋ/ (n.)
+ 31. field /fiːld/ (n.)
+ 32. fifteen /ˌfɪfˈtiːn/ (num.)
+ 33. fifteenth /ˌfɪfˈtiːnθ/ (num.)
+ 34. fifth /fɪfθ/ (num.)
+ 35. fiftieth /ˈfɪftiəθ/ (num.)
+ 36. fifty /ˈfɪfti/ (num.)
+ 37. film /fɪlm/ (n.)
+ 38. find /faɪnd/ (v.)
+ 39. fine /faɪn/ (adj.)
+ 40. finish /ˈfɪnɪʃ/ (v.)
+ 41. finland /ˈfɪnlənd/
+ 42. finnish /ˈfɪnɪʃ/ (n.)
+ 43. first /fɜːst/ (num.)
+ 44. first name
+ 45. grade /ɡreɪd/ (n.)
+ 46. grass /ɡrɑːs/ (n.)
+ 47. great /ɡreɪt/ (adj.)
+ 48. green /ɡriːn/ (adj.)
+ 49. greet /ɡriːt/ (v.)
+ 50. grow /ɡrəʊ/ (v.)
+ 51. guitar /ɡɪˈtɑː(r)/ (n.)
+ 52. hair /heə(r)/ (n.)
+ 53. half /hɑːf/ (n.)
+ 54. hall /hɔːl/ (n.)
+ 55. halla /ˈhɑlɑ/
+ 56. handsome /ˈhænsəm/ (adj.)
+ 57. hat /hæt/ (n.)
+ 58. have /hæv; həv/ (v.)
+ 59. have fun
+ 60. he /hiː; hi/ (pron.)
+ 61. head /hed/ (n.)
+ 62. hear /hɪə(r)/ (v.)
+ 63. height /haɪt/ (n.)
+ 64. helen /ˈhelən/
+ 65. hello /həˈləʊ/ (interj.)
+ 66. help sb with
+ 67. idea /aɪˈdɪə/ (n.)
+ 68. important /ɪmˈpɔːtnt/ (adj.)
+ 69. in class
+ 70. in front of
+ 71. in the future
+ 72. in the middle
+ 73. information /ˌɪnfəˈmeɪʃn/ (n.)
+ 74. insect /ˈɪnsekt/ (n.)
+ 75. instrument /ˈɪnstrəmənt/ (n.)
+ 76. interested /ˈɪntrəstɪd/ (adj.)
+ 77. interesting /ˈɪntrəstɪŋ/ (adj.)
+ 78. international /ˌɪntəˈnæʃnəl/ (adj.)
+ 79. ireland /ˈaɪələnd/
+ 80. is /ɪz/ (v.)
+ 81. it /ɪt/ (pron.)
+ 82. jack /dʒæk/
+ 83. jane /dʒeɪn/
+ 84. jenny /ˈdʒeni/
+ 85. jim /dʒɪm/
+ 86. job /dʒɒb/ (n.)
+ 87. join /dʒɔɪn/ (v.)
+ 88. judy /ˈdʒuːdi/
+ 89. juice /dʒuːs/ (n.)
+ 90. kate /keɪt/
+ 91. keep /kiːp/ (v.)
+ 92. key /kiː/ (n.)
+ 93. kind /kaɪnd/ (n.)
+ 94. knee /niː/ (n.)
+ 95. know /nəʊ/ (v.)
+ 96. lake /leɪk/ (n.)
+ 97. language /ˈlæŋɡwɪdʒ/ (n.)
+ 98. large /lɑːdʒ/ (adj.)
+ 99. last /lɑːst/ (adj.)
+100. last name
+101. later /ˈleɪtə(r)/ (adv.)
+102. laugh /lɑːf/ (v.)
+103. learn /lɜːn/ (v.)
+104. lee /liː/
+105. left /left/ (n.)
+106. lesson /ˈlesn/ (n.)
+107. let /let/ (v.)
+108. life /laɪf/ (n.)
+109. like /laɪk/ (v.)
+110. lily /ˈlɪli/

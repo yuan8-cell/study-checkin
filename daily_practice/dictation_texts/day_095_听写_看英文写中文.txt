@@ -1,0 +1,138 @@
+=== Day 95 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. unlock /ʌnˈlɒk/ (v.)
+  2. unlucky /ʌnˈlʌki/ (adj.)
+  3. unsafe /ʌnˈseɪf/ (adj.)
+  4. upset /ʌpˈset/ (adj.)
+  5. usual /ˈjuːʒuəl/ (adj.)
+  6. value /ˈvæljuː/ (n.)
+  7. victoria /vɪkˈtɔːriə/
+  8. virus /ˈvaɪrəs/ (n.)
+  9. visitor /ˈvɪzɪtə(r)/ (n.)
+ 10. voluntary /ˈvɒləntri/ (adj.)
+ 11. volunteer /ˌvɒlənˈtɪə(r)/ (n.)
+ 12. wake up
+ 13. warmly /ˈwɔːmli/ (adv.)
+ 14. warn /wɔːn/ (v.)
+ 15. waterfall /ˈwɔːtəfɔːl/ (n.)
+ 16. wave /weɪv/ (n.)
+ 17. weak /wiːk/ (adj.)
+ 18. whether /ˈweðə(r)/ (conj.)
+ 19. wildfire /ˈwaɪldfaɪə(r)/ (n.)
+ 20. willing /ˈwɪlɪŋ/ (adj.)
+ 21. wonder /ˈwʌndə(r)/ (n.)
+ 22. worst /wɜːst/ (adj.)
+
+【Review (Day 80,88,91,93,94)】
+  1. ever since
+  2. explorer /ɪkˈsplɔːrə(r)/ (n.)
+  3. express /ɪkˈspres/ (v.)
+  4. extinguisher /ɪkˈstɪŋɡwɪʃə(r)/ (n.)
+  5. failure /ˈfeɪljə(r)/ (n.)
+  6. false /fɔːls/ (adj.)
+  7. familiar with
+  8. fantasy /ˈfæntəsi/ (n.)
+  9. fear /fɪə(r)/ (n.)
+ 10. feel blue
+ 11. fever /ˈfiːvə(r)/ (n.)
+ 12. fiction /ˈfɪkʃn/ (n.)
+ 13. firefighter /ˈfaɪəfaɪtə(r)/ (n.)
+ 14. first aid
+ 15. firstly /ˈfɜːstli/ (adv.)
+ 16. fist /fɪst/ (n.)
+ 17. flame /fleɪm/ (n.)
+ 18. flood /flʌd/ (n.)
+ 19. floodwater /ˈflʌdwɔːtə(r)/ (n.)
+ 20. flu /fluː/ (n.)
+ 21. force /fɔːs/ (v.)
+ 22. foreign /ˈfɒrən/ (adj.)
+ 23. player /ˈpleɪə(r)/ (n.)
+ 24. plenty /ˈplenti/ (pron.)
+ 25. pocket /ˈpɒkɪt/ (n.)
+ 26. pocket money
+ 27. poem /ˈpəʊɪm/ (n.)
+ 28. police /pəˈliːs/ (n.)
+ 29. pool /puːl/ (n.)
+ 30. postcard /ˈpəʊstkɑːd/ (n.)
+ 31. power /ˈpaʊə(r)/ (n.)
+ 32. practical /ˈpræktɪkl/ (adj.)
+ 33. preparation /ˌprepəˈreɪʃn/ (n.)
+ 34. present /ˈpreznt/ (n.)
+ 35. press /pres/ (v.)
+ 36. pressure /ˈpreʃə(r)/ (n.)
+ 37. primary /ˈpraɪməri/ (adj.)
+ 38. proper /ˈprɒpə(r)/ (adj.)
+ 39. proud of
+ 40. prove /pruːv/ (v.)
+ 41. provide /prəˈvaɪd/ (v.)
+ 42. pulitzer /ˈpʊlɪtsə(r)/
+ 43. pull together
+ 44. punish /ˈpʌnɪʃ/ (v.)
+ 45. serving /ˈsɜːvɪŋ/ (adj.)
+ 46. serving chopsticks
+ 47. shelter /ˈʃeltə(r)/ (n.)
+ 48. shirt /ʃɜːt/ (n.)
+ 49. shock /ʃɒk/ (n.)
+ 50. shocked /ʃɒkt/ (adj.)
+ 51. shorts /ʃɔːts/ (n.)
+ 52. shoulder /ˈʃəʊldə(r)/ (n.)
+ 53. shut /ʃʌt/ (v.)
+ 54. siberia /saɪˈbɪəriə/
+ 55. sign up
+ 56. sign-off /ˈsaɪnɒf/ (n.)
+ 57. simply /ˈsɪmpli/ (adv.)
+ 58. since /sɪns/ (prep.)
+ 59. single /ˈsɪŋɡl/ (adj.)
+ 60. sit up
+ 61. ski /skiː/ (v.)
+ 62. skirt /skɜːt/ (n.)
+ 63. snowstorm /ˈsnəʊstɔːm/ (n.)
+ 64. so far
+ 65. so that
+ 66. society /səˈsaɪəti/ (n.)
+ 67. sudden /ˈsʌdn/ (adj.)
+ 68. suffer from
+ 69. suggestion /səˈdʒestʃən/ (n.)
+ 70. supply /səˈplaɪ/ (n.)
+ 71. surface /ˈsɜːfɪs/ (n.)
+ 72. survive /səˈvaɪv/ (v.)
+ 73. table manners
+ 74. take a deep breath
+ 75. take a seat
+ 76. take back
+ 77. taklimakan /ˌtækləˈmɑːkæn/
+ 78. teamwork /ˈtiːmwɜːk/ (n.)
+ 79. temper /ˈtempə(r)/ (n.)
+ 80. terribly /ˈterəbli/ (adv.)
+ 81. thankful /ˈθæŋkfl/ (adj.)
+ 82. thankfully /ˈθæŋkfəli/ (adv.)
+ 83. the elderly
+ 84. therefore /ˈðeəfɔː(r)/ (adv.)
+ 85. thick /θɪk/ (adj.)
+ 86. thinking /ˈθɪŋkɪŋ/ (n.)
+ 87. thirdly /ˈθɜːdli/ (adv.)
+ 88. thompson /ˈtɒmpsn/
+ 89. though /ðəʊ/ (conj.)
+ 90. throat /θrəʊt/ (n.)
+ 91. thunder /ˈθʌndə(r)/ (n.)
+ 92. tight /taɪt/ (adj.)
+ 93. tilly /ˈtɪli/
+ 94. titanic /taɪˈtænɪk/
+ 95. tonight /təˈnaɪt/ (adv.)
+ 96. toothache /ˈtuːθeɪk/ (n.)
+ 97. tornado /tɔːˈneɪdəʊ/ (n.)
+ 98. toy /tɔɪ/ (n.)
+ 99. tradition /trəˈdɪʃn/ (n.)
+100. traveller /ˈtrævələ(r)/
+101. trouble /ˈtrʌbl/ (n.)
+102. truck /trʌk/ (n.)
+103. tsunami /tsuːˈnɑːmi/ (n.)
+104. turn on
+105. turtle /ˈtɜːtl/ (n.)
+106. type /taɪp/ (n.)
+107. typhoon /taɪˈfuːn/ (n.)
+108. uncommon /ʌnˈkɒmən/ (adj.)
+109. unfortunately /ʌnˈfɔːtʃənətli/ (adv.)
+110. unless /ənˈles/ (conj.)

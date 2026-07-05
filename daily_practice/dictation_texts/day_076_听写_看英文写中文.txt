@@ -1,0 +1,138 @@
+=== Day 76 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. bow /baʊ/ (v.)
+  2. brightness /ˈbraɪtnəs/ (n.)
+  3. bruised /bruːzd/ (adj.)
+  4. bruno /ˈbruːnəʊ/
+  5. build-up /ˈbɪldʌp/ (n.)
+  6. bully /ˈbʊli/ (v.)
+  7. bump /bʌmp/ (v.)
+  8. by the time
+  9. cage /keɪdʒ/ (n.)
+ 10. calligraphy /kəˈlɪɡrəfi/ (n.)
+ 11. catch fire
+ 12. charity /ˈtʃærəti/ (n.)
+ 13. chat /tʃæt/ (v.)
+ 14. check /tʃek/ (v.)
+ 15. cheek /tʃiːk/ (n.)
+ 16. cheers /tʃɪəz/ (interj.)
+ 17. chopstick /ˈtʃɒpstɪk/ (n.)
+ 18. chore /tʃɔː(r)/ (n.)
+ 19. clear /klɪə(r)/ (adj.)
+ 20. clear the air
+ 21. clearly /ˈklɪəli/ (adv.)
+ 22. cliff /klɪf/ (n.)
+
+【Review (Day 61,69,72,74,75)】
+  1. heat /hiːt/ (v.)
+  2. helpful /ˈhelpfl/ (adj.)
+  3. honest /ˈɒnɪst/ (adj.)
+  4. honey /ˈhʌni/ (n.)
+  5. honeycomb /ˈhʌnikəʊm/ (n.)
+  6. honour /ˈɒnə(r)/
+  7. host /həʊst/ (n.)
+  8. hostess /ˈhəʊstəs/ (n.)
+  9. hotel /həʊˈtel/ (n.)
+ 10. human /ˈhjuːmən/ (n.)
+ 11. humour /ˈhjuːmə(r)/
+ 12. hunt /hʌnt/ (n.)
+ 13. imagine /ɪˈmædʒɪn/ (v.)
+ 14. importance /ɪmˈpɔːtns/ (n.)
+ 15. impossible /ɪmˈpɒsəbl/ (adj.)
+ 16. in fact
+ 17. in order to
+ 18. in person
+ 19. in the sun
+ 20. industry /ˈɪndəstri/ (n.)
+ 21. influence /ˈɪnfluəns/ (v.)
+ 22. ingredient /ɪnˈɡriːdiənt/ (n.)
+ 23. sense /sens/ (n.)
+ 24. sentence /ˈsentəns/ (n.)
+ 25. serious /ˈsɪəriəs/ (adj.)
+ 26. service /ˈsɜːvɪs/ (n.)
+ 27. several /ˈsevrəl/ (pron.)
+ 28. share sth with sb
+ 29. show interest in sth
+ 30. show sb around
+ 31. shy /ʃaɪ/ (adj.)
+ 32. sick /sɪk/ (adj.)
+ 33. sign /saɪn/ (n.)
+ 34. silk /sɪlk/ (n.)
+ 35. silver /ˈsɪlvə(r)/ (adj.)
+ 36. silver lining
+ 37. similarity /ˌsɪməˈlærəti/ (n.)
+ 38. sincere /sɪnˈsɪə(r)/ (adj.)
+ 39. situation /ˌsɪtʃuˈeɪʃn/ (n.)
+ 40. slice /slaɪs/ (n.)
+ 41. slim /slɪm/ (adj.)
+ 42. slow /sləʊ/ (adj.)
+ 43. smell /smel/ (v.)
+ 44. social /ˈsəʊʃl/ (adj.)
+ 45. tool /tuːl/ (n.)
+ 46. topic /ˈtɒpɪk/ (n.)
+ 47. touch /tʌtʃ/ (v.)
+ 48. towards /təˈwɔːdz; tɔːrdz/
+ 49. tower /ˈtaʊə(r)/ (n.)
+ 50. town /taʊn/ (n.)
+ 51. traffic /ˈtræfɪk/ (n.)
+ 52. train /treɪn/ (n.)
+ 53. training /ˈtreɪnɪŋ/ (n.)
+ 54. treasure /ˈtreʒə(r)/ (n.)
+ 55. treasure hunt
+ 56. trust /trʌst/ (n.)
+ 57. turn around
+ 58. up to
+ 59. vacation /vəˈkeɪʃn/ (n.)
+ 60. victory /ˈvɪktəri/ (n.)
+ 61. video /ˈvɪdiəʊ/ (n.)
+ 62. vincent /ˈvɪnsənt/
+ 63. visible /ˈvɪzəbl/ (adj.)
+ 64. wallet /ˈwɒlɪt/ (n.)
+ 65. weigh /weɪ/ (v.)
+ 66. wherever /weərˈevə(r)/ (adv.)
+ 67. alarm /əˈlɑːm/ (n.)
+ 68. alien /ˈeɪliən/ (n.)
+ 69. alive /əˈlaɪv/ (adj.)
+ 70. all smiles
+ 71. allen /ˈælən/
+ 72. allergic /əˈlɜːdʒɪk/ (adj.)
+ 73. allow /əˈlaʊ/ (v.)
+ 74. ambition /æmˈbɪʃn/ (n.)
+ 75. american /əˈmerɪkən/ (adj.)
+ 76. angel /ˈeɪndʒl/
+ 77. anger /ˈæŋɡə(r)/ (n.)
+ 78. anybody /ˈenibɒdi/ (pron.)
+ 79. argentina /ˌɑːdʒənˈtiːnə/
+ 80. army /ˈɑːmi/ (n.)
+ 81. as a result
+ 82. as soon as
+ 83. as well
+ 84. asian /ˈeɪʒn; ˈeɪʃn/ (adj.)
+ 85. at all costs
+ 86. attack /əˈtæk/ (v.)
+ 87. attract /əˈtrækt/ (v.)
+ 88. au revoir
+ 89. audience /ˈɔːdiəns/ (n.)
+ 90. avoid /əˈvɔɪd/ (v.)
+ 91. awake /əˈweɪk/ (adj.)
+ 92. award /əˈwɔːd/ (n.)
+ 93. backache /ˈbækeɪk/ (n.)
+ 94. badal /ˈbɑːdl/
+ 95. bark /bɑːk/ (v.)
+ 96. base /beɪs/ (v.)
+ 97. base sth on sth
+ 98. basic /ˈbeɪsɪk/ (adj.)
+ 99. be about to
+100. be hard on
+101. be used to
+102. behave /bɪˈheɪv/ (v.)
+103. belgium /ˈbeldʒəm/
+104. below /bɪˈləʊ/ (prep.)
+105. ben /ben/
+106. bit /bɪt/ (n.)
+107. bit by bit
+108. blouse /blaʊz/ (n.)
+109. bone /bəʊn/ (n.)
+110. bottom /ˈbɒtəm/ (n.)

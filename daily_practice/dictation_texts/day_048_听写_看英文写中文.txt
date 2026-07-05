@@ -1,0 +1,138 @@
+=== Day 48 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. spirit /ˈspɪrɪt/ (n.)
+  2. spring /sprɪŋ/ (n.)
+  3. stand /stænd/ (v.)
+  4. stay in
+  5. step /step/ (n.)
+  6. steve /stiːv/
+  7. still /stɪl/ (adv.)
+  8. stockholm /ˈstɒkhəʊm/
+  9. stop /stɒp/ (v.)
+ 10. storm /stɔːm/ (n.)
+ 11. straight /streɪt/ (adv.)
+ 12. strawberry /ˈstrɔːbəri/ (n.)
+ 13. street /striːt/ (n.)
+ 14. strong /strɒŋ/ (adj.)
+ 15. subway /ˈsʌbweɪ/ (n.)
+ 16. succeed /səkˈsiːd/ (v.)
+ 17. succeed in doing sth
+ 18. such /sʌtʃ/ (adj.)
+ 19. suddenly /ˈsʌdənli/ (adv.)
+ 20. sugar /ˈʃʊɡə(r)/ (n.)
+ 21. summer /ˈsʌmə(r)/ (n.)
+ 22. sun /sʌn/ (n.)
+
+【Review (Day 33,41,44,46,47)】
+  1. car /kɑː(r)/ (n.)
+  2. care /keə(r)/ (n.)
+  3. carry /ˈkæri/ (v.)
+  4. cause /kɔːz/ (v.)
+  5. central /ˈsentrəl/ (adj.)
+  6. certainly /ˈsɜːtnli/ (adv.)
+  7. chip /tʃɪp/ (n.)
+  8. choice /tʃɔɪs/ (n.)
+  9. cinema /ˈsɪnəmə/ (n.)
+ 10. city /ˈsɪti/ (n.)
+ 11. close /kləʊs/ (adv.)
+ 12. clothes /kləʊðz/ (n.)
+ 13. cloud /klaʊd/ (n.)
+ 14. cloudy /ˈklaʊdi/ (adj.)
+ 15. coffee /ˈkɒfi/ (n.)
+ 16. cold /kəʊld/ (adj.)
+ 17. colourful /ˈkʌləfl/ (adj.)
+ 18. come out
+ 19. common /ˈkɒmən/ (adj.)
+ 20. cookie /ˈkʊki/ (n.)
+ 21. cool /kuːl/ (adj.)
+ 22. could /kʊd; kəd/
+ 23. lovely /ˈlʌvli/ (adj.)
+ 24. luck /lʌk/ (n.)
+ 25. lucky /ˈlʌki/ (adj.)
+ 26. lucky you
+ 27. machine /məˈʃiːn/ (n.)
+ 28. made of
+ 29. magical /ˈmædʒɪkl/ (adj.)
+ 30. make a promise
+ 31. make money
+ 32. make progress
+ 33. malee /mɑːˈliː/
+ 34. market /ˈmɑːkɪt/ (n.)
+ 35. mary /ˈmeəri/
+ 36. mat /mæt/ (n.)
+ 37. match /mætʃ/ (n.)
+ 38. maybe /ˈmeɪbi/ (adv.)
+ 39. meal /miːl/ (n.)
+ 40. meet up
+ 41. menu /ˈmenjuː/ (n.)
+ 42. message /ˈmesɪdʒ/ (n.)
+ 43. mine /maɪn/ (pron.)
+ 44. mobile /ˈməʊbaɪl/ (adj.)
+ 45. poor /pɔː(r); pʊə(r)/ (adj.)
+ 46. pork /pɔːk/ (n.)
+ 47. porridge /ˈpɒrɪdʒ/ (n.)
+ 48. pour /pɔː(r)/ (v.)
+ 49. powerful /ˈpaʊəfl/ (adj.)
+ 50. practice /ˈpræktɪs/ (n.)
+ 51. practise /ˈpræktɪs/ (v.)
+ 52. praise /preɪz/ (v.)
+ 53. pretend /prɪˈtend/ (v.)
+ 54. process /ˈprəʊses/ (n.)
+ 55. progress /ˈprəʊɡres/ (n.)
+ 56. purr /pɜː(r)/ (v.)
+ 57. put on
+ 58. queue /kjuː/ (n.)
+ 59. quickly /ˈkwɪkli/ (adv.)
+ 60. quietly /ˈkwaɪətli/ (adv.)
+ 61. quite /kwaɪt/ (adv.)
+ 62. quite a
+ 63. race /reɪs/ (n.)
+ 64. racket /ˈrækɪt/ (n.)
+ 65. rain /reɪn/ (n.)
+ 66. rain or shine
+ 67. safe /seɪf/ (adj.)
+ 68. salad /ˈsæləd/ (n.)
+ 69. salt /sɔːlt; sɒlt/ (n.)
+ 70. sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ (n.)
+ 71. save /seɪv/ (v.)
+ 72. scary /ˈskeəri/ (adj.)
+ 73. sea /siː/ (n.)
+ 74. search /sɜːtʃ/ (v.)
+ 75. search for
+ 76. season /ˈsiːzn/ (n.)
+ 77. seem /siːm/ (v.)
+ 78. seldom /ˈseldəm/ (adv.)
+ 79. serve /sɜːv/ (v.)
+ 80. set /set/ (v.)
+ 81. shark /ʃɑːk/ (n.)
+ 82. shine /ʃaɪn/ (v.)
+ 83. should /ʃʊd; ʃəd/
+ 84. shout /ʃaʊt/ (v.)
+ 85. show /ʃəʊ/ (v.)
+ 86. shuttlecock /ˈʃʌtlkɒk/ (n.)
+ 87. side /saɪd/ (n.)
+ 88. side by side
+ 89. sight /saɪt/ (n.)
+ 90. silly /ˈsɪli/ (adj.)
+ 91. sir /sɜː(r)/ (n.)
+ 92. sit-up /ˈsɪtʌp/ (n.)
+ 93. size /saɪz/ (n.)
+ 94. skate /skeɪt/ (v.)
+ 95. skateboard /ˈskeɪtbɔːd/ (n.)
+ 96. skateboarding /ˈskeɪtbɔːdɪŋ/ (n.)
+ 97. skill /skɪl/ (n.)
+ 98. sleepy /ˈsliːpi/ (adj.)
+ 99. smile /smaɪl/ (v.)
+100. snack /snæk/ (n.)
+101. snake /sneɪk/ (n.)
+102. snow /snəʊ/ (v.)
+103. soft /sɒft/ (adj.)
+104. soft drink
+105. some day
+106. somebody /ˈsʌmbədi/ (pron.)
+107. someone /ˈsʌmwʌn/ (pron.)
+108. sometime /ˈsʌmtaɪm/ (adv.)
+109. soup /suːp/ (n.)
+110. south /saʊθ/ (n.)

@@ -1,0 +1,138 @@
+=== Day 64 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. memory /ˈmeməri/ (n.)
+  2. mention /ˈmenʃn/ (v.)
+  3. mess /mes/ (n.)
+  4. metre /ˈmiːtə(r)/
+  5. metro /ˈmetrəʊ/ (n.)
+  6. might /maɪt/
+  7. mini-goal /ˈmɪniˌɡəʊl/ (n.)
+  8. mirror /ˈmɪrə(r)/ (n.)
+  9. miss /mɪs/ (v.)
+ 10. misunderstanding /ˌmɪsʌndəˈstændɪŋ/ (n.)
+ 11. mix /mɪks/ (v.)
+ 12. moss /mɒs/ (n.)
+ 13. movie /ˈmuːvi/ (n.)
+ 14. mushroom /ˈmʌʃrʊm/ (n.)
+ 15. musician /mjuˈzɪʃn/ (n.)
+ 16. nazi /ˈnɑːtsi/ (n.)
+ 17. nod /nɒd/ (v.)
+ 18. noon /nuːn/ (n.)
+ 19. note /nəʊt/ (n.)
+ 20. nothing but
+ 21. novel /ˈnɒvl/ (n.)
+ 22. ocean /ˈəʊʃn/ (n.)
+
+【Review (Day 49,57,60,62,63)】
+  1. sunbathe /ˈsʌnbeɪð/ (v.)
+  2. sunlight /ˈsʌnlaɪt/ (n.)
+  3. sunshine /ˈsʌnʃaɪn/ (n.)
+  4. supermarket /ˈsuːpəˌmɑːkɪt/ (n.)
+  5. swan /swɒn/ (n.)
+  6. sweater /ˈswetə(r)/ (n.)
+  7. sweet /swiːt/ (n.)
+  8. swimmer /ˈswɪmə(r)/ (n.)
+  9. t-shirt /ˈtiː ʃɜːt/ (n.)
+ 10. tail /teɪl/ (n.)
+ 11. take a message
+ 12. take care of
+ 13. take part in
+ 14. taste /teɪst/ (v.)
+ 15. taxi /ˈtæksi/ (n.)
+ 16. tea /tiː/ (n.)
+ 17. team /tiːm/ (n.)
+ 18. teenager /ˈtiːneɪdʒə(r)/ (n.)
+ 19. tell the truth
+ 20. temperature /ˈtemprətʃə(r)/ (n.)
+ 21. tent /tent/ (n.)
+ 22. terrible /ˈterəbl/ (adj.)
+ 23. compare /kəmˈpeə(r)/ (v.)
+ 24. concert /ˈkɒnsət/ (n.)
+ 25. confidence /ˈkɒnfɪdəns/ (n.)
+ 26. congratulation /kənˌɡrætʃəˈleɪʃn/ (n.)
+ 27. connect /kəˈnekt/ (v.)
+ 28. connection /kəˈnekʃn/ (n.)
+ 29. continue /kənˈtɪnjuː/ (v.)
+ 30. cost /kɒst/ (n.)
+ 31. countryside /ˈkʌntrisaɪd/ (n.)
+ 32. couple /ˈkʌpl/ (n.)
+ 33. cover /ˈkʌvə(r)/ (v.)
+ 34. cream /kriːm/ (n.)
+ 35. creativity /ˌkriːeɪˈtɪvəti/ (n.)
+ 36. crust /krʌst/ (n.)
+ 37. cure /kjʊə(r)/ (n.)
+ 38. date /deɪt/ (n.)
+ 39. dead /ded/ (adj.)
+ 40. decorate /ˈdekəreɪt/ (v.)
+ 41. deer /dɪə(r)/ (n.)
+ 42. depend /dɪˈpend/ (v.)
+ 43. describe /dɪˈskraɪb/ (v.)
+ 44. design /dɪˈzaɪn/ (v.)
+ 45. friendship /ˈfrendʃɪp/ (n.)
+ 46. frog /frɒɡ/ (n.)
+ 47. futurist /ˈfjuːtʃərɪst/ (n.)
+ 48. game /ɡeɪm/ (n.)
+ 49. german /ˈdʒɜːmən/ (n.)
+ 50. get together
+ 51. ginkgo /ˈɡɪŋkəʊ/ (n.)
+ 52. give sb a lift
+ 53. glue /ɡluː/ (n.)
+ 54. go boating
+ 55. go shopping
+ 56. goodness /ˈɡʊdnəs/ (n.)
+ 57. grape /ɡreɪp/ (n.)
+ 58. guest /gest/ (n.)
+ 59. guide /ɡaɪd/ (n.)
+ 60. hang up
+ 61. happiness /ˈhæpinəs/ (n.)
+ 62. hard-working /ˌhɑːd ˈwɜːkɪŋ/ (adj.)
+ 63. harry /ˈhæri/
+ 64. have sth in common
+ 65. health /helθ/ (n.)
+ 66. healthily /ˈhelθɪli/ (adv.)
+ 67. intelligence /ɪnˈtelɪdʒəns/ (n.)
+ 68. interest /ˈɪntrest/ (n.)
+ 69. invite /ɪnˈvaɪt/ (v.)
+ 70. island /ˈaɪlənd/ (n.)
+ 71. item /ˈaɪtəm/ (n.)
+ 72. jason /ˈdʒeɪsən/
+ 73. jennifer /ˈdʒenifə/
+ 74. joke /dʒəʊk/ (n.)
+ 75. jones /dʒəunz/
+ 76. journey /ˈdʒɜːni/ (n.)
+ 77. joy /dʒɔɪ/ (n.)
+ 78. julie /ˈdʒuːli/
+ 79. keep on doing sth
+ 80. kitchen /ˈkɪtʃɪn/ (n.)
+ 81. land /lænd/ (n.)
+ 82. landscape /ˈlændskeɪp/ (n.)
+ 83. law /lɔː/ (n.)
+ 84. lawyer /ˈlɔːjə(r)/ (n.)
+ 85. lazy /ˈleɪzi/ (adj.)
+ 86. least /liːst/ (adv.)
+ 87. length /leŋθ/ (n.)
+ 88. less /les/ (adj.)
+ 89. lift /lɪft/ (n.)
+ 90. line /laɪn/ (n.)
+ 91. lining /ˈlaɪnɪŋ/ (n.)
+ 92. listener /ˈlɪsənə(r)/ (n.)
+ 93. literature /ˈlɪtrətʃə(r)/ (n.)
+ 94. living room
+ 95. local /ˈləʊkl/ (adj.)
+ 96. look for
+ 97. lotus /ˈləʊtəs/ (n.)
+ 98. loud /laʊd/ (adv.)
+ 99. low /ləʊ/ (adv.)
+100. luggage /ˈlʌɡɪdʒ/ (n.)
+101. make a mistake
+102. make sure
+103. mandy /ˈmændi/
+104. mashed /mæʃt/
+105. matt /mæt/
+106. matter /ˈmætə(r)/ (v.)
+107. meaning /ˈmiːnɪŋ/ (n.)
+108. meat /miːt/ (n.)
+109. medical /ˈmedɪkl/ (adj.)
+110. meeting /ˈmiːtɪŋ/ (n.)

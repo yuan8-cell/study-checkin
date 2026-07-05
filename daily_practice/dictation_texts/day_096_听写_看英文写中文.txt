@@ -1,0 +1,120 @@
+=== Day 96 Dictation (English → Chinese) ===
+New: 4 | Review: 110
+
+【New Words】
+  1. x-ray /ˈeksreɪ/ (n.)
+  2. yangtze /ˈjæŋtsi/
+  3. yoga /ˈjəʊɡə/ (n.)
+  4. youth /juːθ/ (n.)
+
+【Review (Day 81,89,92,94,95)】
+  1. formal /ˈfɔːml/ (adj.)
+  2. freshwater /ˈfreʃwɔːtə(r)/ (adj.)
+  3. from now on
+  4. from time to time
+  5. froth /frɒθ/ (n.)
+  6. fry /fraɪ/ (v.)
+  7. gas /ɡæs/ (n.)
+  8. gentle /ˈdʒentl/ (adj.)
+  9. germany /ˈdʒɜːməni/
+ 10. get across
+ 11. get along
+ 12. get into
+ 13. get lost
+ 14. get over
+ 15. give it a go
+ 16. give up
+ 17. go a long way
+ 18. go on an outing
+ 19. go wrong
+ 20. guard /ɡɑːd/ (n.)
+ 21. hand out
+ 22. happily /ˈhæpɪli/ (adv.)
+ 23. purpose /ˈpɜːpəs/ (n.)
+ 24. push /pʊʃ/ (v.)
+ 25. quick /kwɪk/ (adj.)
+ 26. rainstorm /ˈreɪnstɔːm/ (n.)
+ 27. rather /ˈrɑːðə(r)/ (adv.)
+ 28. reader /ˈriːdə(r)/ (n.)
+ 29. receive /rɪˈsiːv/ (v.)
+ 30. recently /ˈriːsntli/ (adv.)
+ 31. recommend /ˌrekəˈmend/ (v.)
+ 32. recommendation /ˌrekəmenˈdeɪʃn/ (n.)
+ 33. reduce /rɪˈdjuːs/ (v.)
+ 34. reef /riːf/ (n.)
+ 35. referee /ˌrefəˈriː/ (n.)
+ 36. refuse /reˈfjuːz/ (v.)
+ 37. relative /ˈrelətɪv/ (n.)
+ 38. relaxed /rɪˈlækst/ (adj.)
+ 39. repeat /rɪˈpiːt/ (v.)
+ 40. report /rɪˈpɔːt/ (n.)
+ 41. rescue /ˈreskjuː/ (n.)
+ 42. return /rɪˈtɜːn/ (n.)
+ 43. review /rɪˈvjuː/ (v.)
+ 44. risk /rɪsk/ (v.)
+ 45. soldier /ˈsəʊldʒə(r)/ (n.)
+ 46. sore /sɔː(r)/ (adj.)
+ 47. soundly /ˈsaʊndli/ (adv.)
+ 48. southern /ˈsʌðən/ (adj.)
+ 49. southwestern /ˌsaʊθˈwestən/ (adj.)
+ 50. square kilometre
+ 51. stadium /ˈsteɪdiəm/ (n.)
+ 52. stage /steɪdʒ/ (n.)
+ 53. stamp /stæmp/ (n.)
+ 54. standard /ˈstændəd/ (n.)
+ 55. state /steɪt/ (n.)
+ 56. stomach /ˈstʌmək/ (n.)
+ 57. stone /stəʊn/
+ 58. stove /stəʊv/ (n.)
+ 59. stress /stres/ (n.)
+ 60. strict /strɪkt/ (adj.)
+ 61. stroke /strəʊk/ (n.)
+ 62. structure /ˈstrʌktʃə(r)/ (n.)
+ 63. submersible /səbˈmɜːsəbl/ (n.)
+ 64. success /səkˈses/ (n.)
+ 65. successful /səkˈsesfl/ (adj.)
+ 66. successfully /səkˈsesfəli/ (adv.)
+ 67. though /ðəʊ/ (conj.)
+ 68. throat /θrəʊt/ (n.)
+ 69. thunder /ˈθʌndə(r)/ (n.)
+ 70. tight /taɪt/ (adj.)
+ 71. tilly /ˈtɪli/
+ 72. titanic /taɪˈtænɪk/
+ 73. tonight /təˈnaɪt/ (adv.)
+ 74. toothache /ˈtuːθeɪk/ (n.)
+ 75. tornado /tɔːˈneɪdəʊ/ (n.)
+ 76. toy /tɔɪ/ (n.)
+ 77. tradition /trəˈdɪʃn/ (n.)
+ 78. traveller /ˈtrævələ(r)/
+ 79. trouble /ˈtrʌbl/ (n.)
+ 80. truck /trʌk/ (n.)
+ 81. tsunami /tsuːˈnɑːmi/ (n.)
+ 82. turn on
+ 83. turtle /ˈtɜːtl/ (n.)
+ 84. type /taɪp/ (n.)
+ 85. typhoon /taɪˈfuːn/ (n.)
+ 86. uncommon /ʌnˈkɒmən/ (adj.)
+ 87. unfortunately /ʌnˈfɔːtʃənətli/ (adv.)
+ 88. unless /ənˈles/ (conj.)
+ 89. unlock /ʌnˈlɒk/ (v.)
+ 90. unlucky /ʌnˈlʌki/ (adj.)
+ 91. unsafe /ʌnˈseɪf/ (adj.)
+ 92. upset /ʌpˈset/ (adj.)
+ 93. usual /ˈjuːʒuəl/ (adj.)
+ 94. value /ˈvæljuː/ (n.)
+ 95. victoria /vɪkˈtɔːriə/
+ 96. virus /ˈvaɪrəs/ (n.)
+ 97. visitor /ˈvɪzɪtə(r)/ (n.)
+ 98. voluntary /ˈvɒləntri/ (adj.)
+ 99. volunteer /ˌvɒlənˈtɪə(r)/ (n.)
+100. wake up
+101. warmly /ˈwɔːmli/ (adv.)
+102. warn /wɔːn/ (v.)
+103. waterfall /ˈwɔːtəfɔːl/ (n.)
+104. wave /weɪv/ (n.)
+105. weak /wiːk/ (adj.)
+106. whether /ˈweðə(r)/ (conj.)
+107. wildfire /ˈwaɪldfaɪə(r)/ (n.)
+108. willing /ˈwɪlɪŋ/ (adj.)
+109. wonder /ˈwʌndə(r)/ (n.)
+110. worst /wɜːst/ (adj.)

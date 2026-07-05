@@ -1,0 +1,138 @@
+=== Day 77 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. climax /ˈklaɪmæks/ (n.)
+  2. climber /ˈklaɪmə(r)/ (n.)
+  3. coach /kəʊtʃ/ (n.)
+  4. coast /kəʊst/ (n.)
+  5. coin /kɔɪn/ (n.)
+  6. colin /ˈkɒlɪn/
+  7. come along
+  8. completely /kəmˈpliːtli/ (adv.)
+  9. condition /kənˈdɪʃn/ (n.)
+ 10. confused /kənˈfjuːzd/ (adj.)
+ 11. congratulate /kənˈɡrætʃəleɪt/ (v.)
+ 12. consider /kənˈsɪdə(r)/ (v.)
+ 13. control /kənˈtrəʊl/ (v.)
+ 14. cooper /ˈkuːpə(r)/
+ 15. coral /ˈkɒrəl/ (n.)
+ 16. correct /kəˈrekt/ (adj.)
+ 17. correctly /kəˈrektli/ (adv.)
+ 18. cough /kɒf/ (n.)
+ 19. craven /ˈkreɪvn/
+ 20. cross /krɒs/ (v.)
+ 21. cubic /ˈkjuːbɪk/ (adj.)
+ 22. cubic metre
+
+【Review (Day 62,70,73,75,76)】
+  1. intelligence /ɪnˈtelɪdʒəns/ (n.)
+  2. interest /ˈɪntrest/ (n.)
+  3. invite /ɪnˈvaɪt/ (v.)
+  4. island /ˈaɪlənd/ (n.)
+  5. item /ˈaɪtəm/ (n.)
+  6. jason /ˈdʒeɪsən/
+  7. jennifer /ˈdʒenifə/
+  8. joke /dʒəʊk/ (n.)
+  9. jones /dʒəunz/
+ 10. journey /ˈdʒɜːni/ (n.)
+ 11. joy /dʒɔɪ/ (n.)
+ 12. julie /ˈdʒuːli/
+ 13. keep on doing sth
+ 14. kitchen /ˈkɪtʃɪn/ (n.)
+ 15. land /lænd/ (n.)
+ 16. landscape /ˈlændskeɪp/ (n.)
+ 17. law /lɔː/ (n.)
+ 18. lawyer /ˈlɔːjə(r)/ (n.)
+ 19. lazy /ˈleɪzi/ (adj.)
+ 20. least /liːst/ (adv.)
+ 21. length /leŋθ/ (n.)
+ 22. less /les/ (adj.)
+ 23. social media
+ 24. solve /sɒlv/ (v.)
+ 25. somewhere /ˈsʌmweə(r)/ (adv.)
+ 26. sort /sɔːt/ (v.)
+ 27. sour /ˈsaʊə(r)/ (adj.)
+ 28. spaghetti /spəˈɡeti/ (n.)
+ 29. spare /speə(r)/ (adj.)
+ 30. spare time
+ 31. speaker /ˈspiːkə(r)/ (n.)
+ 32. speech /spiːtʃ/ (n.)
+ 33. square /skweə(r)/ (n.)
+ 34. station /ˈsteɪʃn/ (n.)
+ 35. steamed /stiːmd/
+ 36. steamed f ish
+ 37. stephen /ˈstiːvən/
+ 38. stick to sth
+ 39. stir-fry /ˈstɜːfraɪ/ (v.)
+ 40. store /stɔː(r)/ (v.)
+ 41. straightforward /ˌstreɪtˈfɔːwəd/ (adj.)
+ 42. strange /streɪndʒ/ (adj.)
+ 43. strength /streŋθ/ (n.)
+ 44. surely /ˈʃʊəli/ (adv.)
+ 45. wing /wɪŋ/ (n.)
+ 46. winner /ˈwɪnə(r)/ (n.)
+ 47. wisely /ˈwaɪzli/ (adv.)
+ 48. without /wɪˈðaʊt/ (prep.)
+ 49. word /wɜːd/ (n.)
+ 50. worker /ˈwɜːkə/ (n.)
+ 51. worry /ˈwʌri/ (n.)
+ 52. worry about
+ 53. worse /wɜːs/ (adj.)
+ 54. writer /ˈraɪtə(r)/ (n.)
+ 55. yeah /jeə/ (interj.)
+ 56. yet /jet/ (adv.)
+ 57. a bit
+ 58. a good read
+ 59. above /əˈbʌv/ (prep.)
+ 60. ache /eɪk/ (n.)
+ 61. achievement /əˈtʃiːvmənt/ (n.)
+ 62. active /ˈæktɪv/ (adj.)
+ 63. adult /ˈædʌlt; əˈdʌlt/ (n.)
+ 64. adventure /ədˈventʃə(r)/ (n.)
+ 65. advise /ədˈvaɪz/ (v.)
+ 66. aid /eɪd/ (n.)
+ 67. audience /ˈɔːdiəns/ (n.)
+ 68. avoid /əˈvɔɪd/ (v.)
+ 69. awake /əˈweɪk/ (adj.)
+ 70. award /əˈwɔːd/ (n.)
+ 71. backache /ˈbækeɪk/ (n.)
+ 72. badal /ˈbɑːdl/
+ 73. bark /bɑːk/ (v.)
+ 74. base /beɪs/ (v.)
+ 75. base sth on sth
+ 76. basic /ˈbeɪsɪk/ (adj.)
+ 77. be about to
+ 78. be hard on
+ 79. be used to
+ 80. behave /bɪˈheɪv/ (v.)
+ 81. belgium /ˈbeldʒəm/
+ 82. below /bɪˈləʊ/ (prep.)
+ 83. ben /ben/
+ 84. bit /bɪt/ (n.)
+ 85. bit by bit
+ 86. blouse /blaʊz/ (n.)
+ 87. bone /bəʊn/ (n.)
+ 88. bottom /ˈbɒtəm/ (n.)
+ 89. bow /baʊ/ (v.)
+ 90. brightness /ˈbraɪtnəs/ (n.)
+ 91. bruised /bruːzd/ (adj.)
+ 92. bruno /ˈbruːnəʊ/
+ 93. build-up /ˈbɪldʌp/ (n.)
+ 94. bully /ˈbʊli/ (v.)
+ 95. bump /bʌmp/ (v.)
+ 96. by the time
+ 97. cage /keɪdʒ/ (n.)
+ 98. calligraphy /kəˈlɪɡrəfi/ (n.)
+ 99. catch fire
+100. charity /ˈtʃærəti/ (n.)
+101. chat /tʃæt/ (v.)
+102. check /tʃek/ (v.)
+103. cheek /tʃiːk/ (n.)
+104. cheers /tʃɪəz/ (interj.)
+105. chopstick /ˈtʃɒpstɪk/ (n.)
+106. chore /tʃɔː(r)/ (n.)
+107. clear /klɪə(r)/ (adj.)
+108. clear the air
+109. clearly /ˈklɪəli/ (adv.)
+110. cliff /klɪf/ (n.)

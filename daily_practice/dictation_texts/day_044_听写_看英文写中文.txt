@@ -1,0 +1,138 @@
+=== Day 44 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. poor /pɔː(r); pʊə(r)/ (adj.)
+  2. pork /pɔːk/ (n.)
+  3. porridge /ˈpɒrɪdʒ/ (n.)
+  4. pour /pɔː(r)/ (v.)
+  5. powerful /ˈpaʊəfl/ (adj.)
+  6. practice /ˈpræktɪs/ (n.)
+  7. practise /ˈpræktɪs/ (v.)
+  8. praise /preɪz/ (v.)
+  9. pretend /prɪˈtend/ (v.)
+ 10. process /ˈprəʊses/ (n.)
+ 11. progress /ˈprəʊɡres/ (n.)
+ 12. purr /pɜː(r)/ (v.)
+ 13. put on
+ 14. queue /kjuː/ (n.)
+ 15. quickly /ˈkwɪkli/ (adv.)
+ 16. quietly /ˈkwaɪətli/ (adv.)
+ 17. quite /kwaɪt/ (adv.)
+ 18. quite a
+ 19. race /reɪs/ (n.)
+ 20. racket /ˈrækɪt/ (n.)
+ 21. rain /reɪn/ (n.)
+ 22. rain or shine
+
+【Review (Day 29,37,40,42,43)】
+  1. white /waɪt/ (adj.)
+  2. who /ˌdʌbljuː eɪtʃ ˈəʊ/
+  3. whom /huːm/ (pron.)
+  4. why /waɪ/ (adv.)
+  5. will /wɪl/
+  6. window /ˈwɪndəʊ/ (n.)
+  7. wish /wɪʃ/ (v.)
+  8. with /wɪð; wɪθ/ (prep.)
+  9. wood /wʊd/
+ 10. work /wɜːk/ (v.)
+ 11. work out
+ 12. would /wʊd; wəd/
+ 13. write /raɪt/ (v.)
+ 14. yard /jɑːd/ (n.)
+ 15. year /jɪə(r); jɜː(r)/ (n.)
+ 16. yellow /ˈjeləʊ/ (adj.)
+ 17. yes /jes/ (interj.)
+ 18. yogurt /ˈjɒɡət/
+ 19. you /juː; ju/ (pron.)
+ 20. your /jɔː(r); jə(r)/ (pron.)
+ 21. yours /jɔːz/ (pron.)
+ 22. a few
+ 23. friendly /ˈfrendli/ (adj.)
+ 24. fruit /fruːt/ (n.)
+ 25. full of
+ 26. fur /fɜː(r)/ (n.)
+ 27. genie /ˈdʒiːni/ (n.)
+ 28. germ /dʒɜːm/ (n.)
+ 29. get out
+ 30. giraffe /dʒəˈrɑːf/ (n.)
+ 31. glad /ɡlæd/ (adj.)
+ 32. glove /ɡlʌv/ (n.)
+ 33. go away
+ 34. go with
+ 35. goal /ɡəʊl/ (n.)
+ 36. grain /ɡreɪn/ (n.)
+ 37. ground /ɡraʊnd/ (n.)
+ 38. group /ɡruːp/ (n.)
+ 39. guess /ɡes/ (v.)
+ 40. gun /ɡʌn/ (n.)
+ 41. habit /ˈhæbɪt/ (n.)
+ 42. hallway /ˈhɔːlweɪ/ (n.)
+ 43. hamburger /ˈhæmbɜːɡə(r)/ (n.)
+ 44. hand /hænd/ (n.)
+ 45. just /dʒʌst/ (adv.)
+ 46. kenya /ˈkenjə/
+ 47. kick /kɪk/ (v.)
+ 48. kill /kɪl/ (v.)
+ 49. king /kɪŋ/ (n.)
+ 50. kite /kaɪt/ (n.)
+ 51. late /leɪt/ (adj.)
+ 52. late for
+ 53. laugh at
+ 54. leave /liːv/ (v.)
+ 55. leave a message
+ 56. leg /leɡ/ (n.)
+ 57. lend /lend/ (v.)
+ 58. lie /laɪ/ (v.)
+ 59. light /laɪt/ (n.)
+ 60. lightning /ˈlaɪtnɪŋ/ (n.)
+ 61. lion /ˈlaɪən/ (n.)
+ 62. litter /ˈlɪtə(r)/ (v.)
+ 63. long ago
+ 64. look after
+ 65. look forward to
+ 66. lose /luːz/ (v.)
+ 67. mobile phone
+ 68. moment /ˈməʊmənt/ (n.)
+ 69. money /ˈmʌni/ (n.)
+ 70. monkey /ˈmʌŋki/ (n.)
+ 71. mount /maʊnt/ (n.)
+ 72. mountain /ˈmaʊntən/ (n.)
+ 73. move /muːv/ (v.)
+ 74. museum /mjuˈziːəm/ (n.)
+ 75. must /mʌst; məst/
+ 76. mutton /ˈmʌtn/ (n.)
+ 77. nairobi /naɪˈrəʊbi/
+ 78. near /nɪə(r)/ (prep.)
+ 79. neck /nek/ (n.)
+ 80. neighbour /ˈneɪbə(r)/ (n.)
+ 81. net /net/ (n.)
+ 82. noise /nɔɪz/ (n.)
+ 83. north /nɔːθ/ (n.)
+ 84. off /ɒf/ (adv.)
+ 85. official /əˈfɪʃl/ (n.)
+ 86. on time
+ 87. once /wʌns/ (adv.)
+ 88. once upon a time
+ 89. one another
+ 90. onion /ˈʌnjən/ (n.)
+ 91. online /ˌɒnˈlaɪn/ (adj.)
+ 92. only if
+ 93. order /ˈɔːdə(r)/ (n.)
+ 94. ours /ˈaʊəz; ɑːz/ (pron.)
+ 95. over /ˈəʊvə(r)/ (adv.)
+ 96. over there
+ 97. painting /ˈpeɪntɪŋ/ (n.)
+ 98. passenger /ˈpæsɪndʒə(r)/ (n.)
+ 99. peak /piːk/ (n.)
+100. pear /peə(r)/ (n.)
+101. pen /pen/ (n.)
+102. penguin /ˈpeŋɡwɪn/ (n.)
+103. perfect /ˈpɜːfɪkt/ (adj.)
+104. person /ˈpɜːsn/ (n.)
+105. phone /fəʊn/ (n.)
+106. pick /pɪk/ (v.)
+107. pick up
+108. piece /piːs/ (n.)
+109. playful /ˈpleɪfl/ (adj.)
+110. polite /pəˈlaɪt/ (adj.)

@@ -1,0 +1,138 @@
+=== Day 26 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. tenth /tenθ/ (num.)
+  2. term /tɜːm/ (n.)
+  3. than /ðæn; ðən/ (prep.)
+  4. thank /θæŋk/ (v.)
+  5. that /ðæt/ (pron.)
+  6. their /ðeə(r)/ (pron.)
+  7. them /ðem; ðəm/ (pron.)
+  8. then /ðen/ (adv.)
+  9. there /ðeə(r)/ (adv.)
+ 10. these /ðiːz/ (pron.)
+ 11. they /ðeɪ/ (pron.)
+ 12. thing /θɪŋ/ (n.)
+ 13. third /θɜːd/ (num.)
+ 14. thirteen /ˌθɜːˈtiːn/ (num.)
+ 15. thirteenth /ˌθɜːˈtiːnθ/ (num.)
+ 16. thirtieth /ˈθɜːtiəθ/ (num.)
+ 17. thirty /ˈθɜːti/ (num.)
+ 18. this /ðɪs/ (pron.)
+ 19. those /ðəʊz/ (pron.)
+ 20. thousand /ˈθaʊznd/ (num.)
+ 21. three /θriː/ (num.)
+ 22. tidy /ˈtaɪdi/ (adj.)
+
+【Review (Day 11,19,22,24,25)】
+  1. full /fʊl/ (adj.)
+  2. full name
+  3. fun /fʌn/ (n.)
+  4. funny /ˈfʌni/ (adj.)
+  5. future /ˈfjuːtʃə(r)/ (n.)
+  6. garden /ˈɡɑːdn/ (v.)
+  7. geography /dʒiˈɒɡrəfi/ (n.)
+  8. get /ɡet/ (v.)
+  9. get dressed
+ 10. get to know
+ 11. get up
+ 12. gift /ɡɪft/ (n.)
+ 13. girl /ɡɜːl/ (n.)
+ 14. give /ɡɪv/ (v.)
+ 15. glasses /ˈɡlɑːsɪz/ (n.)
+ 16. go /ɡəʊ/ (v.)
+ 17. go hiking
+ 18. go to bed
+ 19. good /ɡʊd/ (adj.)
+ 20. good at
+ 21. good with
+ 22. goodbye /ˌɡʊdˈbaɪ/ (interj.)
+ 23. nose /nəʊz/ (n.)
+ 24. notice /ˈnəʊtɪs/ (n.)
+ 25. now /naʊ/ (adv.)
+ 26. number /ˈnʌmbə(r)/ (n.)
+ 27. of /ɒv; əv/ (prep.)
+ 28. office /ˈɒfɪs/ (n.)
+ 29. often /ˈɒfn; ˈɒftən/ (adv.)
+ 30. oh /əʊ/ (interj.)
+ 31. ok /əʊˈkeɪ/ (interj.)
+ 32. old /əʊld/ (adj.)
+ 33. on /ɒn/ (prep.)
+ 34. on duty
+ 35. one /wʌn/ (num.)
+ 36. only /ˈəʊnli/ (adv.)
+ 37. or /ɔː(r)/ (conj.)
+ 38. oscar /ˈɒskə(r)/
+ 39. other /ˈʌðə(r)/ (pron.)
+ 40. our /ɑː(r); ˈaʊə(r)/ (pron.)
+ 41. out /aʊt/ (adv.)
+ 42. page /peɪdʒ/ (n.)
+ 43. paint /peɪnt/ (v.)
+ 44. pair /peə(r)/ (n.)
+ 45. right /raɪt/ (n.)
+ 46. rise /raɪz/ (v.)
+ 47. room /ruːm/ (n.)
+ 48. routine /ruːˈtiːn/ (n.)
+ 49. ruler /ˈruːlə(r)/ (n.)
+ 50. run /rʌn/ (v.)
+ 51. sale /seɪl/ (n.)
+ 52. sally /ˈsæli/
+ 53. sam /sæm/
+ 54. same /seɪm/ (adj.)
+ 55. sarah /ˈseərə/
+ 56. say /seɪ/ (v.)
+ 57. saying /ˈseɪɪŋ/ (n.)
+ 58. schoolbag /ˈskuːlbæɡ/ (n.)
+ 59. science /ˈsaɪəns/ (n.)
+ 60. scientist /ˈsaɪəntɪst/ (n.)
+ 61. screen /skriːn/ (n.)
+ 62. seat /siːt/ (n.)
+ 63. second /ˈsekənd/ (num.)
+ 64. section /ˈsekʃn/ (n.)
+ 65. see /siː/ (v.)
+ 66. send /send/ (v.)
+ 67. sixth /sɪksθ/ (num.)
+ 68. sixtieth /ˈsɪkstiəθ/ (num.)
+ 69. sixty /ˈsɪksti/ (num.)
+ 70. small /smɔːl/ (adj.)
+ 71. smart /smɑːt/ (adj.)
+ 72. smith /smɪθ/
+ 73. so /səʊ/ (conj.)
+ 74. sock /sɒk/ (n.)
+ 75. some /sʌm; səm/ (adj.)
+ 76. something /ˈsʌmθɪŋ/ (pron.)
+ 77. sometimes /ˈsʌmtaɪmz/ (adv.)
+ 78. son /sʌn/ (n.)
+ 79. song /sɒŋ/ (n.)
+ 80. soon /suːn/ (adv.)
+ 81. sorry /ˈsɒri/ (adj.)
+ 82. sound /saʊnd/ (v.)
+ 83. speak /spiːk/ (v.)
+ 84. special /ˈspeʃl/ (adj.)
+ 85. spell /spel/ (v.)
+ 86. spend /spend/ (v.)
+ 87. sports field
+ 88. start /stɑːt/ (v.)
+ 89. starter /ˈstɑːtə(r)/
+ 90. stay /steɪ/ (v.)
+ 91. story /ˈstɔːri/ (n.)
+ 92. student /ˈstjuːdnt/ (n.)
+ 93. study /ˈstʌdi/ (v.)
+ 94. subject /ˈsʌbdʒɪkt/ (n.)
+ 95. sure /ʃʊə(r)/ (adv.)
+ 96. surprise /səˈpraɪz/ (n.)
+ 97. swim /swɪm/ (v.)
+ 98. sydney /ˈsɪdni/
+ 99. symbol /ˈsɪmbl/ (n.)
+100. table /ˈteɪbl/ (n.)
+101. take /teɪk/ (v.)
+102. take a photo
+103. take a shower
+104. take photos
+105. talk /tɔːk/ (v.)
+106. tall /tɔːl/ (adj.)
+107. teacher /ˈtiːtʃə(r)/ (n.)
+108. tell /tel/ (v.)
+109. ten /ten/ (num.)
+110. tennis /ˈtenɪs/ (n.)

@@ -1,0 +1,138 @@
+=== Day 50 Dictation (English → Chinese) ===
+New: 22 | Review: 110
+
+【New Words】
+  1. thai /taɪ/ (adj.)
+  2. thailand /ˈtaɪlænd/
+  3. theatre /ˈθɪətə(r)/ (n.)
+  4. theirs /ðeəz/ (pron.)
+  5. think about
+  6. think of
+  7. thirsty /ˈθɜːsti/ (adj.)
+  8. thought /θɔːt/ (n.)
+  9. through /θruː/ (prep.)
+ 10. tiger /ˈtaɪɡə(r)/ (n.)
+ 11. time zone
+ 12. tired /ˈtaɪəd/ (adj.)
+ 13. tiring /ˈtaɪərɪŋ/ (adj.)
+ 14. tony /ˈtəʊni/
+ 15. too many
+ 16. too much
+ 17. top /tɒp/ (n.)
+ 18. tour /tʊə(r)/ (n.)
+ 19. tourist /ˈtʊərɪst/ (n.)
+ 20. treat /triːt/ (v.)
+ 21. trick /trɪk/ (n.)
+ 22. trip /trɪp/ (n.)
+
+【Review (Day 35,43,46,48,49)】
+  1. dry /draɪ/ (adj.)
+  2. duckling /ˈdʌklɪŋ/ (n.)
+  3. dumpling /ˈdʌmplɪŋ/ (n.)
+  4. eagle /ˈiːɡl/ (n.)
+  5. ear /ɪə(r)/ (n.)
+  6. east /iːst/ (n.)
+  7. elephant /ˈelɪfənt/ (n.)
+  8. emperor /ˈempərə(r)/ (n.)
+  9. encourage /ɪnˈkʌrɪdʒ/ (v.)
+ 10. end /end/ (n.)
+ 11. energy /ˈenədʒi/ (n.)
+ 12. enough /ɪˈnʌf/ (adj.)
+ 13. entry /ˈentri/ (n.)
+ 14. eric /ˈerɪk/
+ 15. evening /ˈiːvnɪŋ/ (n.)
+ 16. ever /ˈevə(r)/ (adv.)
+ 17. excuse /ɪkˈskjuːz/ (v.)
+ 18. excuse me
+ 19. exhibition /ˌeksɪˈbɪʃn/ (n.)
+ 20. explain /ɪkˈspleɪn/ (v.)
+ 21. explore /ɪkˈsplɔː(r)/ (v.)
+ 22. factory /ˈfæktri; ˈfæktəri/ (n.)
+ 23. one another
+ 24. onion /ˈʌnjən/ (n.)
+ 25. online /ˌɒnˈlaɪn/ (adj.)
+ 26. only if
+ 27. order /ˈɔːdə(r)/ (n.)
+ 28. ours /ˈaʊəz; ɑːz/ (pron.)
+ 29. over /ˈəʊvə(r)/ (adv.)
+ 30. over there
+ 31. painting /ˈpeɪntɪŋ/ (n.)
+ 32. passenger /ˈpæsɪndʒə(r)/ (n.)
+ 33. peak /piːk/ (n.)
+ 34. pear /peə(r)/ (n.)
+ 35. pen /pen/ (n.)
+ 36. penguin /ˈpeŋɡwɪn/ (n.)
+ 37. perfect /ˈpɜːfɪkt/ (adj.)
+ 38. person /ˈpɜːsn/ (n.)
+ 39. phone /fəʊn/ (n.)
+ 40. pick /pɪk/ (v.)
+ 41. pick up
+ 42. piece /piːs/ (n.)
+ 43. playful /ˈpleɪfl/ (adj.)
+ 44. polite /pəˈlaɪt/ (adj.)
+ 45. safe /seɪf/ (adj.)
+ 46. salad /ˈsæləd/ (n.)
+ 47. salt /sɔːlt; sɒlt/ (n.)
+ 48. sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ (n.)
+ 49. save /seɪv/ (v.)
+ 50. scary /ˈskeəri/ (adj.)
+ 51. sea /siː/ (n.)
+ 52. search /sɜːtʃ/ (v.)
+ 53. search for
+ 54. season /ˈsiːzn/ (n.)
+ 55. seem /siːm/ (v.)
+ 56. seldom /ˈseldəm/ (adv.)
+ 57. serve /sɜːv/ (v.)
+ 58. set /set/ (v.)
+ 59. shark /ʃɑːk/ (n.)
+ 60. shine /ʃaɪn/ (v.)
+ 61. should /ʃʊd; ʃəd/
+ 62. shout /ʃaʊt/ (v.)
+ 63. show /ʃəʊ/ (v.)
+ 64. shuttlecock /ˈʃʌtlkɒk/ (n.)
+ 65. side /saɪd/ (n.)
+ 66. side by side
+ 67. spirit /ˈspɪrɪt/ (n.)
+ 68. spring /sprɪŋ/ (n.)
+ 69. stand /stænd/ (v.)
+ 70. stay in
+ 71. step /step/ (n.)
+ 72. steve /stiːv/
+ 73. still /stɪl/ (adv.)
+ 74. stockholm /ˈstɒkhəʊm/
+ 75. stop /stɒp/ (v.)
+ 76. storm /stɔːm/ (n.)
+ 77. straight /streɪt/ (adv.)
+ 78. strawberry /ˈstrɔːbəri/ (n.)
+ 79. street /striːt/ (n.)
+ 80. strong /strɒŋ/ (adj.)
+ 81. subway /ˈsʌbweɪ/ (n.)
+ 82. succeed /səkˈsiːd/ (v.)
+ 83. succeed in doing sth
+ 84. such /sʌtʃ/ (adj.)
+ 85. suddenly /ˈsʌdənli/ (adv.)
+ 86. sugar /ˈʃʊɡə(r)/ (n.)
+ 87. summer /ˈsʌmə(r)/ (n.)
+ 88. sun /sʌn/ (n.)
+ 89. sunbathe /ˈsʌnbeɪð/ (v.)
+ 90. sunlight /ˈsʌnlaɪt/ (n.)
+ 91. sunshine /ˈsʌnʃaɪn/ (n.)
+ 92. supermarket /ˈsuːpəˌmɑːkɪt/ (n.)
+ 93. swan /swɒn/ (n.)
+ 94. sweater /ˈswetə(r)/ (n.)
+ 95. sweet /swiːt/ (n.)
+ 96. swimmer /ˈswɪmə(r)/ (n.)
+ 97. t-shirt /ˈtiː ʃɜːt/ (n.)
+ 98. tail /teɪl/ (n.)
+ 99. take a message
+100. take care of
+101. take part in
+102. taste /teɪst/ (v.)
+103. taxi /ˈtæksi/ (n.)
+104. tea /tiː/ (n.)
+105. team /tiːm/ (n.)
+106. teenager /ˈtiːneɪdʒə(r)/ (n.)
+107. tell the truth
+108. temperature /ˈtemprətʃə(r)/ (n.)
+109. tent /tent/ (n.)
+110. terrible /ˈterəbl/ (adj.)
