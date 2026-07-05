@@ -397,7 +397,7 @@ function saveCheckin(){
 const CLOUD_BASE = {
   submitCheckin: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/submitCheckIn',
   getLeaderData: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/getLeaderData',
-  getTeacherDashboard: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/getTeacherDashboo'
+  getTeacherDashboard: 'https://zj-edu-dev-d3grxsted961185b1-1438403729.ap-shanghai.app.tcloudbase.com/getTeacherDashboard'
 };
 function callCloudAPI(url, payload){
   return fetch(url, {
@@ -414,7 +414,6 @@ function submitCheckin(){
   saveToStorage(data);
   localStorage.setItem('groupCheckin_'+data.date+'_'+data.studentName,JSON.stringify(data));
   updateGroupIndex(data.date,data.studentName);
-  // 提交到云端
   callCloudAPI(CLOUD_BASE.submitCheckin, {
     date: currentDate,
     name: data.studentName,
