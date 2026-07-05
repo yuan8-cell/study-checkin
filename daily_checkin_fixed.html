@@ -414,6 +414,7 @@ function submitCheckin(){
   saveToStorage(data);
   localStorage.setItem('groupCheckin_'+data.date+'_'+data.studentName,JSON.stringify(data));
   updateGroupIndex(data.date,data.studentName);
+  showToast('⏳ 正在同步云端...');
   callCloudAPI(CLOUD_BASE.submitCheckin, {
     date: currentDate,
     name: data.studentName,
@@ -424,9 +425,10 @@ function submitCheckin(){
     raw: JSON.stringify(data)
   }).then(function(res){
     if(res&&res.code===0){showToast('✅ 打卡已同步到云端');}
-    else{showToast('⚠️ 本地已提交，云端同步失败');}
-  }).catch(function(){showToast('⚠️ 本地已提交，云端同步失败');});
-  showToast('✅ 打卡已提交！');
+    else{showToast('⚠️ 云端返回异常: '+JSON.stringify(res));}
+  }).catch(function(err){
+    showToast('❌ 云端连接失败: '+err.message);
+  });
   renderCheckinPage();
 }
 function unsaveCheckin(){
