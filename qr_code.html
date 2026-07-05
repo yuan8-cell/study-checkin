@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>学习打卡二维码</title>
+<style>
+  :root{--primary:#1677FF;--bg:#F5F7FA;--card:#FFF;--text:#1A1A1A;--sub:#666;--muted:#999;--border:#E8E8E8;--radius:12px;--shadow:0 2px 12px rgba(0,0,0,.06)}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px}
+  .card{background:var(--card);border-radius:var(--radius);padding:32px 28px;box-shadow:var(--shadow);text-align:center;max-width:420px;width:100%}
+  .icon{font-size:48px;margin-bottom:16px}
+  h1{font-size:20px;font-weight:700;margin-bottom:8px}
+  .subtitle{font-size:14px;color:var(--sub);margin-bottom:24px;line-height:1.6}
+  .qr-wrap{background:#FFF;border:2px solid var(--border);border-radius:16px;padding:20px;display:inline-block;margin-bottom:20px}
+  .qr-wrap img{border-radius:8px;max-width:100%;height:auto;display:block}
+  .tips{background:var(--bg);border-radius:10px;padding:14px 16px;font-size:13px;color:var(--sub);line-height:1.7;text-align:left}
+  .tips strong{color:var(--text);display:block;margin-bottom:4px}
+  .url{font-size:12px;color:var(--muted);margin-top:16px;word-break:break-all;font-family:monospace}
+  .url-edit{margin-bottom:20px;padding:14px 16px;background:#F5F7FA;border-radius:10px;text-align:left}
+  .url-label{font-size:12px;color:var(--muted);display:block;margin-bottom:6px}
+  .url-input{width:100%;padding:8px 12px;border:1px solid var(--border);border-radius:8px;font-size:13px;color:var(--text);margin-bottom:8px;background:#FFF}
+  .btn-refresh{display:block;width:100%;padding:8px 16px;background:var(--primary);color:#FFF;border:none;border-radius:8px;font-size:13px;cursor:pointer;font-weight:600}
+  .btn-refresh:hover{background:#1366D6}
+  .tips[contenteditable="true"]{outline:none;cursor:text;border:1px dashed transparent;transition:border-color .2s}
+  .tips[contenteditable="true"]:hover{border-color:#D0E0FF}
+  .tips[contenteditable="true"]:focus{border-color:var(--primary)}
+  .qr-upload-btn{position:relative;cursor:pointer;display:block;padding:4px}
+  .qr-upload-btn:hover .upload-hint{opacity:1}
+  .upload-hint{position:absolute;inset:4px;background:rgba(22,119,255,.85);color:#FFF;display:flex;align-items:center;justify-content:center;font-size:14px;border-radius:12px;opacity:0;transition:opacity .2s}
+  @media(max-width:480px){.card{padding:24px 18px}.qr-wrap{padding:14px}}
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="icon">&#128218;</div>
+    <h1>学习打卡手机填报</h1>
+    <div class="subtitle">扫描二维码，在手机上直接打开填报页面</div>
+
+    <!-- 二维码区域：支持直接上传图片 -->
+    <div class="qr-wrap" id="qrContainer">
+      <label class="qr-upload-btn" id="qrUploadLabel" title="点击上传自己的二维码图片">
+        <input type="file" id="qrUploadInput" accept="image/*" style="display:none;">
+        <img id="qrImg" alt="二维码" style="display:none;max-width:100%;border-radius:8px;">
+        <canvas id="qrCanvas" style="max-width:100%;height:auto;display:block;"></canvas>
+        <div id="qrFallback" style="color:#999;font-size:13px;">点击上传二维码图片</div>
+        <div class="upload-hint" id="uploadHint">点击此处上传</div>
+      </label>
+    </div>
+
+    <!-- 在线修改URL -->
+    <div class="url-edit">
+      <label class="url-label">填报链接（修改后二维码会自动更新）：</label>
+      <input type="text" id="urlInput" class="url-input" value="https://yuan8-cell.github.io/study-checkin/daily_checkin.html" placeholder="请输入打卡页面链接">
+      <button class="btn-refresh" onclick="refreshQR()">刷新二维码</button>
+    </div>
+
+    <!-- 使用说明：可直接点击编辑 -->
+    <div class="tips" id="tipsBox" contenteditable="true" title="点击即可在线编辑使用说明">
+      <strong>使用说明</strong>
+      1. 用钉钉/微信/浏览器扫描上方二维码<br>
+      2. 在手机浏览器中打开填报页面<br>
+      3. 填写学习进度后提交打卡<br>
+      4. 组长可在「组长汇总」中一键汇总
+    </div>
+    <div class="url" id="urlDisplay"></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
+  <script>
+    var currentUrl = 'https://yuan8-cell.github.io/study-checkin/daily_checkin.html';
+
+    function renderQR(url){
+      var container = document.getElementById('qrContainer');
+      var fallback = document.getElementById('qrFallback');
+      var canvas = document.getElementById('qrCanvas');
+      var qrImg = document.getElementById('qrImg');
+      var urlDisplay = document.getElementById('urlDisplay');
+
+      urlDisplay.textContent = url;
+      fallback.style.display = 'none';
+      qrImg.style.display = 'none';
+      canvas.style.display = 'none';
+
+      if(typeof QRCode !== 'undefined'){
+        QRCode.toCanvas(canvas, url, {
+          width: 260, margin: 1, color: { dark: '#1677FF', light: '#FFFFFF' }
+        }, function(error){
+          if(error){
+            fallback.innerHTML = '<div style="color:#999;font-size:13px;">二维码生成失败，请检查链接后重试</div>';
+            fallback.style.display = 'block';
+            return;
+          }
+          canvas.style.display = 'block';
+        });
+      } else {
+        fallback.innerHTML = '<div style="color:#999;font-size:13px;">二维码库加载失败，请检查网络后刷新</div>';
+        fallback.style.display = 'block';
+      }
+    }
+
+    function refreshQR(){
+      var input = document.getElementById('urlInput');
+      var url = input.value.trim();
+      if(!url){
+        alert('请输入有效的链接');
+        return;
+      }
+      currentUrl = url;
+      renderQR(url);
+    }
+
+    // 初始化
+    document.getElementById('urlInput').value = currentUrl;
+    renderQR(currentUrl);
+
+    // 图片上传
+    document.getElementById('qrUploadInput').addEventListener('change', function(e){
+      var file = e.target.files[0];
+      if(!file) return;
+      var reader = new FileReader();
+      reader.onload = function(ev){
+        var img = document.getElementById('qrImg');
+        var canvas = document.getElementById('qrCanvas');
+        var fallback = document.getElementById('qrFallback');
+        var hint = document.getElementById('uploadHint');
+        img.src = ev.target.result;
+        img.style.display = 'block';
+        canvas.style.display = 'none';
+        fallback.style.display = 'none';
+        hint.style.display = 'none';
+        // 保存到 localStorage
+        localStorage.setItem('qrCustomImg', ev.target.result);
+      };
+      reader.readAsDataURL(file);
+    });
+
+    // 恢复本地保存的图片
+    (function(){
+      var saved = localStorage.getItem('qrCustomImg');
+      if(saved){
+        var img = document.getElementById('qrImg');
+        var canvas = document.getElementById('qrCanvas');
+        var fallback = document.getElementById('qrFallback');
+        var hint = document.getElementById('uploadHint');
+        img.src = saved;
+        img.style.display = 'block';
+        canvas.style.display = 'none';
+        fallback.style.display = 'none';
+        hint.style.display = 'none';
+      }
+    })();
+  </script>
+</body>
+</html>
