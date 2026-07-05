@@ -194,7 +194,7 @@ html,body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",
 .modal-overlay.show{display:flex;align-items:center;justify-content:center;padding:20px}
 </style>
 <div class="header">
-<div class="header-top"><div class="header-title">📚 学习打卡</div><div class="role-switch"><button class="role-btn active" id="roleParent" onclick="switchRole('parent')">家长</button><button class="role-btn" id="roleLeader" onclick="switchRole('leader')">组长</button><button class="role-btn" id="roleTeacher" onclick="switchRole('teacher')">老师</button></div></div>
+<div class="header-top"><div class="header-title">📚 学习打卡</div><div class="role-switch"><button class="role-btn active" id="roleParent" onclick="switchRole('parent')">家长</button><button class="role-btn" id="roleLeader" onclick="switchRole('leader')">组长</button><button class="role-btn" id="roleTeacher" onclick="switchRole('teacher')">组内看板</button></div></div>
 <input type="date" class="header-date" id="datePicker" onchange="onDateChange(this.value)">
 <div class="header-tabs" id="headerTabs"><button class="header-tab active" id="tabCheckin" onclick="switchTab('checkin')">📝 打卡</button><button class="header-tab" id="tabHistory" onclick="switchTab('history')">📋 历史</button></div>
 </div>
@@ -238,7 +238,7 @@ function switchRole(role){
   }else if(role==='leader'){
     tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📥 汇总</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📊 历史汇总</button>';
   }else{
-    tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📚 全班看板</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📋 导入组长</button>';
+    tabs.innerHTML='<button class="header-tab active" id="tabCheckin" onclick="switchTab(\'checkin\')">📚 组内看板</button><button class="header-tab" id="tabHistory" onclick="switchTab(\'history\')">📋 导入组长</button>';
   }
   currentTab='checkin';
   renderCurrentPage();
@@ -756,7 +756,7 @@ function renderTeacherPage(){
   var container=document.getElementById('mainContainer');
   var html='';
   html+='<div class="card">';
-  html+='<div class="card-title">📚 全班学习看板</div>';
+  html+='<div class="card-title">📚 组内学习看板</div>';
   html+='<div class="form-group"><label class="field-label">班主任姓名（用于署名）</label>';
   html+='<input class="form-input" id="teacherNameInput" placeholder="请输入您的姓名" oninput="localStorage.setItem(\'teacherName\',this.value)"></div>';
   html+='<div class="form-group" style="margin-top:12px"><label class="field-label">选择日期查看全班打卡</label>';
@@ -828,7 +828,7 @@ function renderTeacherBoard(date){
 function renderTeacherImportPage(){
   var container=document.getElementById('mainContainer');
   var html='<div class="card">';
-  html+='<div class="card-title">📥 导入组长汇总数据</div>';
+  html+='<div class="card-title">📥 导入组长汇总</div>';
   html+='<div class="empty-state"><div class="empty-icon">📥</div>';
   html+='<div class="empty-text">点击下方按钮，选择组长导出的汇总JSON文件<br>可同时选择多个文件批量导入</div></div>';
   html+='<div class="data-actions" style="margin-top:16px"><button class="data-btn import-btn" onclick="document.getElementById(\'teacherImportInput\').click()">📥 选择汇总文件</button></div>';
